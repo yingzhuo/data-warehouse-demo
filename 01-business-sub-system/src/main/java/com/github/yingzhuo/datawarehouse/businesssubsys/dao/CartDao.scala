@@ -6,4 +6,7 @@ import org.springframework.stereotype.Repository
 
 @Repository
 trait CartDao extends JpaRepository[Cart, String] {
+
+  def findByUserId(userId: String): Cart
+
 }

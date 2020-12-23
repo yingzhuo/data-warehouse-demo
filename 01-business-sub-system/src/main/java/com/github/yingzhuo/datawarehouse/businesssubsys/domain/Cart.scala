@@ -17,26 +17,26 @@ import scala.beans.BeanProperty
 class Cart extends AnyRef with Serializable {
 
   /**
-   * ID
-   */
-  @Id
-  @Column(name = "id", length = 36)
-  @BeanProperty
-  var id: String = _
-
-  /**
    * 用户ID
    */
+  @Id
   @Column(name = "user_id", length = 36)
   @BeanProperty
   var userId: String = _
 
   /**
-   * 商品总件数
+   * 商品类型总数 (size)
    */
   @Column(name = "total_count")
   @BeanProperty
   var totalCount: Int = _
+
+  /**
+   * 商品总金额 (分)
+   */
+  @Column(name = "total_amount")
+  @BeanProperty
+  var totalAmount: Long = _
 
   /**
    * 记录创建时间

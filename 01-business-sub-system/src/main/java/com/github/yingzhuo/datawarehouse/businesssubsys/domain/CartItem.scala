@@ -25,18 +25,18 @@ class CartItem extends AnyRef with Serializable {
   var id: String = _
 
   /**
-   * 所属购物车ID
+   * 所属用户ID
    */
-  @Column(name = "cart_id", length = 36)
+  @Column(name = "user_id", length = 36)
   @BeanProperty
-  var cartId: String = _
+  var userId: String = _
 
   /**
    * 商品件数
    */
   @Column(name = "count")
   @BeanProperty
-  var count: String = _
+  var count: Int = _
 
   /**
    * 商品ID
@@ -74,7 +74,7 @@ class CartItem extends AnyRef with Serializable {
   var commodityDiscount: Int = _
 
   /**
-   * 单一商品最终价格
+   * 折后价格
    */
   @Column(name = "final_price")
   @BeanProperty
