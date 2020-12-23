@@ -92,13 +92,9 @@
                 <configuration>
                     <layers>
                         <enabled>true</enabled>
-                        <configuration>${project.basedir}/../layers.xml</configuration>
+                        <configuration>${project.basedir}/../spring-boot-layers.xml</configuration>
                     </layers>
                     <excludes>
-                        <exclude>
-                            <groupId>org.projectlombok</groupId>
-                            <artifactId>lombok</artifactId>
-                        </exclude>
                         <exclude>
                             <groupId>org.springframework.boot</groupId>
                             <artifactId>spring-boot-configuration-processor</artifactId>
