@@ -13,11 +13,24 @@
         <appender-ref ref="STDOUT"/>
     </root>
 
-    <logger name="org.springframework" additivity="true" level="info"/>
-    <logger name="org.hibernate" additivity="true" level="info"/>
-    <logger name="com.zaxxer.hikari" additivity="true" level="info"/>
-    <logger name="org.hibernate.validator" additivity="true" level="info"/>
-    <logger name="org.jboss.logging" additivity="true" level="warn"/>
+    <!-- THIS PROJECT -->
     <logger name="com.github.yingzhuo" additivity="true" level="trace"/>
+
+    <!-- spring-boot / spring -->
+    <logger name="org.springframework" additivity="true" level="info"/>
+
+    <!-- jpa -->
+    <logger name="org.hibernate" additivity="true" level="info"/>
+    <logger name="org.jboss.logging" additivity="true" level="warn"/>
+
+    <!-- hibernate-validator -->
+    <logger name="org.hibernate.validator" additivity="true" level="info"/>
+
+    <!-- datasource -->
+    <logger name="com.zaxxer.hikari" additivity="true" level="info"/>
+
+    <!-- flume -->
+    <logger name="com.github.yingzhuo.logback.flume" additivity="true" level="INFO"/>
+    <logger name="org.apache.avro" additivity="true" level="INFO"/>
 
 </configuration>

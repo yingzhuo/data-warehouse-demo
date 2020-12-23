@@ -2,6 +2,7 @@
 <included>
 
     <springProfile name="flume">
+        <!-- 登录行为 -->
         <appender name="UB_LOGIN" class="com.github.yingzhuo.logback.flume.FlumeAvroAppender">
             <flumeAgents>10.211.55.3:4141</flumeAgents>
             <flumeProperties>
@@ -25,7 +26,7 @@
         <appender name="UB_LOGIN" class="ch.qos.logback.core.helpers.NOPAppender"/>
     </springProfile>
 
-    <logger name="user.behavior.login" additivity="false" level="trace">
+    <logger name="UB_LOGIN" additivity="false" level="trace">
         <appender-ref ref="UB_LOGIN"/>
     </logger>
 

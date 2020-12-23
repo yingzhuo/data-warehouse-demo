@@ -4,8 +4,13 @@ import org.slf4j.LoggerFactory
 
 object UserBehavior {
 
-  private val LoggerLogin = LoggerFactory.getLogger("user.behavior.login")
+  private val LoggerLogin = LoggerFactory.getLogger("UB_LOGIN")
 
+  /**
+   * 登录行为
+   * @param userId 用户ID
+   * @param result "OK" | "NG"
+   */
   def login(userId: String, result: String): Unit = {
     __checkUserId(userId)
     LoggerLogin.info("{},{}", userId, result)
