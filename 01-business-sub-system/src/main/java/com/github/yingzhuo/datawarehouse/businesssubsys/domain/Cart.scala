@@ -9,12 +9,12 @@ import org.springframework.data.jpa.domain.support.AuditingEntityListener
 import scala.beans.BeanProperty
 
 /**
- * 用户
+ * 购物车
  */
 @Entity
-@Table(name = "t_user")
+@Table(name = "t_cart")
 @EntityListeners(Array(classOf[AuditingEntityListener]))
-class User extends AnyRef with Serializable {
+class Cart extends AnyRef with Serializable {
 
   /**
    * ID
@@ -25,54 +25,18 @@ class User extends AnyRef with Serializable {
   var id: String = _
 
   /**
-   * 用户名 (登录用)
+   * 用户ID
    */
-  @Column(name = "username", length = 30)
+  @Column(name = "user_id", length = 36)
   @BeanProperty
-  var username: String = _
+  var userId: String = _
 
   /**
-   * 姓名
+   * 商品总件数
    */
-  @Column(name = "name", length = 20)
+  @Column(name = "total_count")
   @BeanProperty
-  var name: String = _
-
-  /**
-   * 性别
-   */
-  @Enumerated(EnumType.STRING)
-  @Column(name = "gender", length = 8)
-  @BeanProperty
-  var gender: Gender = _
-
-  /**
-   * 电话号码
-   */
-  @Column(name = "phone_number", length = 20)
-  @BeanProperty
-  var phoneNumber: String = _
-
-  /**
-   * 电子邮件地址
-   */
-  @Column(name = "email_addr", length = 100)
-  @BeanProperty
-  var emailAddress: String = _
-
-  /**
-   * 头像地址
-   */
-  @Column(name = "avatar_url", length = 200)
-  @BeanProperty
-  var avatarUrl: String = _
-
-  /**
-   * 登录密码
-   */
-  @Column(name = "login_password", length = 32)
-  @BeanProperty
-  var loginPassword: String = _
+  var totalCount: Int = _
 
   /**
    * 记录创建时间

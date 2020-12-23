@@ -9,12 +9,12 @@ import org.springframework.data.jpa.domain.support.AuditingEntityListener
 import scala.beans.BeanProperty
 
 /**
- * 用户
+ * 购物车条目
  */
 @Entity
-@Table(name = "t_user")
+@Table(name = "t_cart_item")
 @EntityListeners(Array(classOf[AuditingEntityListener]))
-class User extends AnyRef with Serializable {
+class CartItem extends AnyRef with Serializable {
 
   /**
    * ID
@@ -25,54 +25,60 @@ class User extends AnyRef with Serializable {
   var id: String = _
 
   /**
-   * 用户名 (登录用)
+   * 所属购物车ID
    */
-  @Column(name = "username", length = 30)
+  @Column(name = "cart_id", length = 36)
   @BeanProperty
-  var username: String = _
+  var cartId: String = _
 
   /**
-   * 姓名
+   * 商品件数
    */
-  @Column(name = "name", length = 20)
+  @Column(name = "count")
   @BeanProperty
-  var name: String = _
+  var count: String = _
 
   /**
-   * 性别
+   * 商品ID
    */
-  @Enumerated(EnumType.STRING)
-  @Column(name = "gender", length = 8)
+  @Column(name = "commodity_id", length = 36)
   @BeanProperty
-  var gender: Gender = _
+  var commodityId: String = _
 
   /**
-   * 电话号码
+   * 商品名称
    */
-  @Column(name = "phone_number", length = 20)
+  @Column(name = "commodity_name", length = 100)
   @BeanProperty
-  var phoneNumber: String = _
+  var commodityName: String = _
 
   /**
-   * 电子邮件地址
+   * 商品详细说明
    */
-  @Column(name = "email_addr", length = 100)
+  @Column(name = "commodity_description", length = 2000)
   @BeanProperty
-  var emailAddress: String = _
+  var commodityDescription: String = _
 
   /**
-   * 头像地址
+   * 商品价格 (分)
    */
-  @Column(name = "avatar_url", length = 200)
+  @Column(name = "commodity_price")
   @BeanProperty
-  var avatarUrl: String = _
+  var commodityPrice: Int = _
 
   /**
-   * 登录密码
+   * 折扣
    */
-  @Column(name = "login_password", length = 32)
+  @Column(name = "commodity_discount")
   @BeanProperty
-  var loginPassword: String = _
+  var commodityDiscount: Int = _
+
+  /**
+   * 单一商品最终价格
+   */
+  @Column(name = "final_price")
+  @BeanProperty
+  var finalPrice: Int = _
 
   /**
    * 记录创建时间

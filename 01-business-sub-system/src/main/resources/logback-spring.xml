@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <configuration debug="false">
 
-    <include resource="com/github/yingzhuo/datawarehouse/businesssubsys/log/logback-flume.xml"/>
+    <include resource="com/github/yingzhuo/datawarehouse/businesssubsys/log/logback-user-behavior.xml"/>
 
     <appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
         <encoder>

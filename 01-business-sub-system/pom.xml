@@ -65,6 +65,23 @@
             <artifactId>jackson-module-scala_2.13</artifactId>
         </dependency>
 
+        <!-- carnival -->
+        <dependency>
+            <groupId>com.github.yingzhuo</groupId>
+            <artifactId>carnival-spring-boot-starter-json</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.github.yingzhuo</groupId>
+            <artifactId>carnival-spring-boot-starter-mvc</artifactId>
+        </dependency>
+
+        <!-- logback-appender-for-flume -->
+        <dependency>
+            <groupId>com.github.yingzhuo</groupId>
+            <artifactId>logback-flume-appender</artifactId>
+            <version>0.2.1</version>
+        </dependency>
+
         <!-- DB -->
         <dependency>
             <groupId>com.zaxxer</groupId>
