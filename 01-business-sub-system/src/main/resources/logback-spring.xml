@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration debug="false">
+
+    <include resource="com/github/yingzhuo/datawarehouse/businesssubsys/log/logback-flume.xml"/>
+
+    <appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder>
+            <pattern>[%d{yyyy-MM-dd HH:mm:ss.SSS}]%-5level %logger{72}[%L] - %msg%n</pattern>
+        </encoder>
+    </appender>
+
+    <root level="debug">
+        <appender-ref ref="STDOUT"/>
+    </root>
+
+    <logger name="org.springframework" additivity="true" level="info"/>
+    <logger name="org.hibernate" additivity="true" level="info"/>
+    <logger name="com.zaxxer.hikari" additivity="true" level="info"/>
+    <logger name="org.hibernate.validator" additivity="true" level="info"/>
+    <logger name="org.jboss.logging" additivity="true" level="warn"/>
+    <logger name="com.github.yingzhuo" additivity="true" level="trace"/>
+
+</configuration>
