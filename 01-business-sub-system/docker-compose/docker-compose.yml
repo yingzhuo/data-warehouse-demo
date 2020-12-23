@@ -2,7 +2,9 @@ version: "3.9"
 
 services:
   playground:
-    image: "192.168.99.115/data-warehouse/business-sub-system:latest"
+    image: "192.168.99.115/data-warehouse/business-sub-system"
     container_name: "dwd-business-sub-system"
     restart: "always"
+    command:
+      - "--spring.profiles.active=default,flume"
     network_mode: "host"

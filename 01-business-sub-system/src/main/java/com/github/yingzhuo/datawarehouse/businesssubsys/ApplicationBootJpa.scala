@@ -15,6 +15,6 @@ import org.springframework.transaction.annotation.EnableTransactionManagement
 protected class ApplicationBootJpa {
 
   @Bean
-  protected def transactionManager(entityManagerFactory: EntityManagerFactory) = new JpaTransactionManager(entityManagerFactory)
+  def transactionManager(entityManagerFactory: EntityManagerFactory) = new JpaTransactionManager(entityManagerFactory)
 
 }

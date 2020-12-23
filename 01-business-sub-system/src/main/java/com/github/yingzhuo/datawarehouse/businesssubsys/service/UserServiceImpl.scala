@@ -36,4 +36,19 @@ protected class UserServiceImpl(userDao: UserDao) extends AnyRef with UserServic
     }
   }
 
+  @Transactional(propagation = Propagation.SUPPORTS)
+  override def logout(username: String): Boolean = {
+    if (username == null || username.isEmpty) {
+      return false
+    }
+
+    val user = userDao.findByUsername(username)
+    if (user != null) {
+      UserBehavior.logout(user.id, "OK")
+      true
+    } else {
+      false
+    }
+  }
+
 }

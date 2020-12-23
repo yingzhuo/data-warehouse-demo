@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <included>
 
+    <!-- =========================== -->
+    <!--          flume 启用          -->
+    <!-- =========================== -->
     <springProfile name="flume">
         <!-- 登录行为 -->
         <appender name="UB_LOGIN" class="com.github.yingzhuo.logback.flume.FlumeAvroAppender">
@@ -20,14 +23,41 @@
                 <pattern>%message%n%ex</pattern>
             </layout>
         </appender>
+
+        <!-- 登出行为 -->
+        <appender name="UB_LOGOUT" class="com.github.yingzhuo.logback.flume.FlumeAvroAppender">
+            <flumeAgents>10.211.55.3:4141</flumeAgents>
+            <flumeProperties>
+                connect-timeout=4000;
+                request-timeout=8000
+            </flumeProperties>
+            <batchSize>100</batchSize>
+            <reportingWindow>1000</reportingWindow>
+            <headers>
+                <application>data-warehouse-demo</application>
+                <tier>business-sub-system</tier>
+                <type>logout</type>
+            </headers>
+            <layout class="ch.qos.logback.classic.PatternLayout">
+                <pattern>%message%n%ex</pattern>
+            </layout>
+        </appender>
     </springProfile>
 
+    <!-- =========================== -->
+    <!--          flume 禁用         -->
+    <!-- =========================== -->
     <springProfile name="!flume">
         <appender name="UB_LOGIN" class="ch.qos.logback.core.helpers.NOPAppender"/>
+        <appender name="UB_LOGOUT" class="ch.qos.logback.core.helpers.NOPAppender"/>
     </springProfile>
+
 
     <logger name="UB_LOGIN" additivity="false" level="trace">
         <appender-ref ref="UB_LOGIN"/>
+    </logger>
+    <logger name="UB_LOGOUT" additivity="false" level="trace">
+        <appender-ref ref="UB_LOGOUT"/>
     </logger>
 
 </included>

@@ -2,15 +2,14 @@ package com.github.yingzhuo.datawarehouse.businesssubsys.controller
 
 import com.github.yingzhuo.carnival.json.Json
 import com.github.yingzhuo.datawarehouse.businesssubsys.service.UserService
-import org.springframework.web.bind.annotation.{PostMapping, RequestMapping, RequestParam, RestController}
+import org.springframework.web.bind.annotation.{PostMapping, RequestParam, RestController}
 
 @RestController
-@RequestMapping(Array("/login"))
-protected class LoginController(
-                                 userService: UserService
-                               ) {
+protected class SecurityController(
+                                    userService: UserService
+                                  ) {
 
-  @PostMapping
+  @PostMapping(Array("/login"))
   def login(
              @RequestParam("username") username: String,
              @RequestParam("password") password: String
@@ -20,6 +19,15 @@ protected class LoginController(
 
     Json.newInstance()
       .payload("success", success)
+  }
+
+  @PostMapping(Array("/logout"))
+  def logout(
+              @RequestParam("username") username: String
+            ): Json = {
+
+    userService.logout(username)
+    Json.newInstance()
   }
 
 }

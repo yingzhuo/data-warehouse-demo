@@ -32,8 +32,6 @@ COPY --chown=root:root ./docker-entrypoint.sh /bin/docker-entrypoint.sh
 
 RUN chmod +x /bin/docker-entrypoint.sh
 
-ENV SPRING_PROFILES_ACTIVE=k8s
-
 EXPOSE 18080
 
 ENTRYPOINT ["docker-entrypoint.sh"]

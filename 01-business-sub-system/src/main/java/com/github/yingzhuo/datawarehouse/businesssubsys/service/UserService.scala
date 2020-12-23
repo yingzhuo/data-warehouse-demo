@@ -4,4 +4,6 @@ trait UserService {
 
   def login(username: String, password: String): Boolean
 
+  def logout(username: String): Boolean
+
 }
