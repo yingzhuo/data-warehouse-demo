@@ -5,11 +5,12 @@ import com.fasterxml.jackson.module.scala.DefaultScalaModule
 import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.context.annotation.Configuration
 
-//@Configuration
+@Configuration
 protected class ApplicationBootJackson {
 
   @Autowired(required = false)
-  def configObjectMapper(om: ObjectMapper): Unit =
+  def configObjectMapper(om: ObjectMapper): Unit = {
     Option(om).foreach(_.registerModule(DefaultScalaModule))
+  }
 
 }
