@@ -51,7 +51,7 @@ class Cart extends AnyRef with Serializable {
    * 记录最后更新时间
    */
   @LastModifiedDate
-  @Column(name = "last_update_date", columnDefinition = "TIMESTAMP NOT NULL DEFAULT current_timestamp ON UPDATE current_timestamp")
+  @Column(name = "last_updated_date", columnDefinition = "TIMESTAMP NOT NULL DEFAULT current_timestamp ON UPDATE current_timestamp")
   @Temporal(TemporalType.TIMESTAMP)
   @BeanProperty
   var lastUpdateDate: Date = _
