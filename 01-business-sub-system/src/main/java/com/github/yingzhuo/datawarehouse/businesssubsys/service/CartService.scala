@@ -6,6 +6,8 @@ trait CartService {
 
   def findCartByForUser(userId: String): Cart
 
+  def deleteItem(userId: String, commodityId: String): Cart
+
   def addCommodityForUser(userId: String, commodityId: String, count: Int): Cart
 
   def emptyCartForUser(userId: String): Cart

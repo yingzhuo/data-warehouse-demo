@@ -13,13 +13,16 @@ object Calculator {
     }
   }
 
-  def computeTotalAmount(cartItems: List[CartItem]): Long = {
+  def computeTotalAmount(cartItems: java.util.List[CartItem]): Long = {
+
+    import scala.jdk.CollectionConverters._
+
     if (cartItems == null || cartItems.isEmpty) {
       return 0L
     }
 
     var sum = 0L
-    for (item <- cartItems) {
+    for (item <- cartItems.asScala) {
       sum += (item.finalPrice * item.count)
     }
     sum

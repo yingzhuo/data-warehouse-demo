@@ -5,9 +5,7 @@ import com.github.yingzhuo.datawarehouse.businesssubsys.service.UserService
 import org.springframework.web.bind.annotation.{PostMapping, RequestParam, RestController}
 
 @RestController
-protected class SecurityController(
-                                    userService: UserService
-                                  ) {
+protected class SecurityController(userService: UserService) {
 
   @PostMapping(Array("/login"))
   def login(
