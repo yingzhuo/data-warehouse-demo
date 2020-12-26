@@ -32,6 +32,13 @@ class OrderItem extends AnyRef with Serializable {
   var orderId: String = _
 
   /**
+   * 数量
+   */
+  @Column(name = "count")
+  @BeanProperty
+  var count: Int = _
+
+  /**
    * 商品ID
    */
   @Column(name = "commodity_id", length = 36)

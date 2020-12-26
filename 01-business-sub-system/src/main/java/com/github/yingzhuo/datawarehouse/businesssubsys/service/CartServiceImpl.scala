@@ -17,26 +17,6 @@ protected class CartServiceImpl(
   private val log = LoggerFactory.getLogger(classOf[CartServiceImpl])
 
   @Transactional(propagation = Propagation.REQUIRED)
-  override def findCartByForUser(userId: String): Cart = createCartIfNecessary(userId)
-
-  @Transactional(propagation = Propagation.REQUIRED)
-  override def deleteItem(userId: String, commodityId: String): Cart = {
-    log.trace("删除条目")
-    val cartItem = cartItemDao.findByUserIdAndCommodityId(userId, commodityId)
-    if (cartItem != null) {
-      cartItemDao.delete(cartItem)
-    }
-
-    // 更新购物车总数量
-    val items = cartItemDao.findByUserId(userId)
-    val cart = findCartByForUser(userId)
-    cart.totalCount = items.size
-    cart.totalAmount = Calculator.computeTotalAmount(items)
-    cartDao.saveAndFlush(cart)
-    findCartByForUser(userId)
-  }
-
-  @Transactional(propagation = Propagation.REQUIRED)
   override def addCommodityForUser(userId: String, commodityId: String, count: Int): Cart = {
 
     val newCount = if (count <= 0) 0 else count;
@@ -82,24 +62,30 @@ protected class CartServiceImpl(
     // 更新购物车总数量
     val cart = findCartByForUser(userId)
     cart.totalCount = items.size
-    cart.totalAmount = Calculator.computeTotalAmount(items)
+    cart.totalAmount = Calculator.computeTotalAmountForCart(items)
     cartDao.saveAndFlush(cart)
     findCartByForUser(userId)
   }
 
   @Transactional(propagation = Propagation.REQUIRED)
-  override def emptyCartForUser(userId: String): Cart = {
-    val cart = findCartByForUser(userId)
-    cart.setTotalCount(0)
-    cart.setTotalAmount(0L)
-    cartDao.save(cart)
-
-    val items = cartItemDao.findByUserId(userId)
-    if (items != null && !items.isEmpty) {
-      cartItemDao.deleteAll(items)
+  override def deleteItem(userId: String, commodityId: String): Cart = {
+    log.trace("删除条目")
+    val cartItem = cartItemDao.findByUserIdAndCommodityId(userId, commodityId)
+    if (cartItem != null) {
+      cartItemDao.delete(cartItem)
     }
-    cart
+
+    // 更新购物车总数量
+    val items = cartItemDao.findByUserId(userId)
+    val cart = findCartByForUser(userId)
+    cart.totalCount = items.size
+    cart.totalAmount = Calculator.computeTotalAmountForCart(items)
+    cartDao.saveAndFlush(cart)
+    findCartByForUser(userId)
   }
+
+  @Transactional(propagation = Propagation.REQUIRED)
+  override def findCartByForUser(userId: String): Cart = createCartIfNecessary(userId)
 
   private def createCartIfNecessary(userId: String): Cart = {
 
@@ -118,6 +104,20 @@ protected class CartServiceImpl(
     newCart.totalAmount = 0L
     cartDao.saveAndFlush(newCart)
     newCart
+  }
+
+  @Transactional(propagation = Propagation.REQUIRED)
+  override def emptyCartForUser(userId: String): Cart = {
+    val cart = findCartByForUser(userId)
+    cart.setTotalCount(0)
+    cart.setTotalAmount(0L)
+    cartDao.save(cart)
+
+    val items = cartItemDao.findByUserId(userId)
+    if (items != null && !items.isEmpty) {
+      cartItemDao.deleteAll(items)
+    }
+    cart
   }
 
 }

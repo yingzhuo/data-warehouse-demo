@@ -1,6 +1,10 @@
 package com.github.yingzhuo.datawarehouse.businesssubsys.util
 
-import com.github.yingzhuo.datawarehouse.businesssubsys.domain.CartItem
+import java.util
+
+import com.github.yingzhuo.datawarehouse.businesssubsys.domain.{CartItem, OrderItem}
+
+import scala.jdk.CollectionConverters._
 
 object Calculator {
 
@@ -13,16 +17,25 @@ object Calculator {
     }
   }
 
-  def computeTotalAmount(cartItems: java.util.List[CartItem]): Long = {
-
-    import scala.jdk.CollectionConverters._
-
-    if (cartItems == null || cartItems.isEmpty) {
+  def computeTotalAmountForCart(items: util.List[CartItem]): Long = {
+    if (items == null || items.isEmpty) {
       return 0L
     }
 
     var sum = 0L
-    for (item <- cartItems.asScala) {
+    for (item <- items.asScala) {
+      sum += (item.finalPrice * item.count)
+    }
+    sum
+  }
+
+  def computeTotalAmountForOrder(items: util.List[OrderItem]): Long = {
+    if (items == null || items.isEmpty) {
+      return 0L
+    }
+
+    var sum = 0L
+    for (item <- items.asScala) {
       sum += (item.finalPrice * item.count)
     }
     sum
