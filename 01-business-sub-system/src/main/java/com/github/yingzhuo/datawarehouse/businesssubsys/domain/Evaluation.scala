@@ -54,7 +54,7 @@ class Evaluation extends AnyRef with Serializable {
    * 记录创建时间
    */
   @CreatedDate
-  @Column(name = "created_date", columnDefinition = "TIMESTAMP NOT NULL DEFAULT current_timestamp ON UPDATE current_timestamp")
+  @Column(name = "created_date", columnDefinition = "TIMESTAMP NOT NULL DEFAULT current_timestamp")
   @Temporal(TemporalType.TIMESTAMP)
   @BeanProperty
   var createdDate: Date = _
