@@ -8,9 +8,7 @@
         <!-- 登录行为 -->
         <appender name="UB_LOGIN" class="com.github.yingzhuo.logback.flume.FlumeAvroAppender">
             <flumeAgents>
-                192.168.99.127:4141,
-                192.168.99.128:4141,
-                192.168.99.129:4141
+                10.211.55.3:4141
             </flumeAgents>
             <flumeProperties>
                 connect-timeout=4000;
@@ -31,9 +29,7 @@
         <!-- 登出行为 -->
         <appender name="UB_LOGOUT" class="com.github.yingzhuo.logback.flume.FlumeAvroAppender">
             <flumeAgents>
-                192.168.99.127:4141,
-                192.168.99.128:4141,
-                192.168.99.129:4141
+                10.211.55.3:4141
             </flumeAgents>
             <flumeProperties>
                 connect-timeout=4000;
@@ -50,6 +46,27 @@
                 <pattern>%message%n%ex</pattern>
             </layout>
         </appender>
+
+        <!-- 评价行为 -->
+        <appender name="UB_EVALUATE" class="com.github.yingzhuo.logback.flume.FlumeAvroAppender">
+            <flumeAgents>
+                10.211.55.3:4141
+            </flumeAgents>
+            <flumeProperties>
+                connect-timeout=4000;
+                request-timeout=8000
+            </flumeProperties>
+            <batchSize>100</batchSize>
+            <reportingWindow>1000</reportingWindow>
+            <headers>
+                <application>data-warehouse-demo</application>
+                <tier>business-sub-system</tier>
+                <type>evaluate</type>
+            </headers>
+            <layout class="ch.qos.logback.classic.PatternLayout">
+                <pattern>%message%n%ex</pattern>
+            </layout>
+        </appender>
     </springProfile>
 
     <!-- =========================== -->
@@ -58,6 +75,7 @@
     <springProfile name="!flume">
         <appender name="UB_LOGIN" class="ch.qos.logback.core.helpers.NOPAppender"/>
         <appender name="UB_LOGOUT" class="ch.qos.logback.core.helpers.NOPAppender"/>
+        <appender name="UB_EVALUATE" class="ch.qos.logback.core.helpers.NOPAppender"/>
     </springProfile>
 
     <!-- =========================================================================================================== -->
@@ -66,6 +84,9 @@
     </logger>
     <logger name="UB_LOGOUT" additivity="false" level="trace">
         <appender-ref ref="UB_LOGOUT"/>
+    </logger>
+    <logger name="UB_EVALUATE" additivity="false" level="trace">
+        <appender-ref ref="UB_EVALUATE"/>
     </logger>
 
 </included>

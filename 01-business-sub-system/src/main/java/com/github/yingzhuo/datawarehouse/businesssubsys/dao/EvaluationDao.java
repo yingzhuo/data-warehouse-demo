@@ -6,4 +6,7 @@ import org.springframework.stereotype.Repository;
 
 @Repository
 public interface EvaluationDao extends JpaRepository<Evaluation, String> {
+
+    public Evaluation findByUserIdAndOrderId(String userId, String orderId);
+
 }
