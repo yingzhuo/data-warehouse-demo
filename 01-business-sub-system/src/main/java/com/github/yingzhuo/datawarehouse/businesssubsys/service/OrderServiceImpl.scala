@@ -1,6 +1,7 @@
 package com.github.yingzhuo.datawarehouse.businesssubsys.service
 
 import java.util
+import java.util.Date
 
 import com.github.yingzhuo.datawarehouse.businesssubsys.dao.{CartDao, CartItemDao, OrderDao, OrderItemDao}
 import com.github.yingzhuo.datawarehouse.businesssubsys.domain.{CartItem, Order, OrderItem, OrderStatus}
@@ -42,8 +43,14 @@ protected class OrderServiceImpl(
       orderItemDao.save(item)
     }
 
-    // TODO: 清空购物车
-    savedOrder
+    // 清空购物车
+    val cart = cartDao.findByUserId(userId)
+    cart.setTotalCount(0)
+    cart.setTotalAmount(0L)
+    cartDao.save(cart)
+    cartItemDao.deleteAll(cartItemList)
+
+    return savedOrder
   }
 
   private def transform(cartItemList: util.List[CartItem], orderId: String): util.List[OrderItem] = {
@@ -63,6 +70,50 @@ protected class OrderServiceImpl(
       list.add(orderItem)
     }
     list
+  }
+
+  @Transactional(propagation = Propagation.REQUIRED)
+  override def payOrder(userId: String, orderId: String): Order = {
+    val order = orderDao.findById(orderId).orElse(null)
+
+    if (order == null) return null
+
+    order.status = OrderStatus.已支付
+    order.payedDate = new Date()
+    orderDao.saveAndFlush(order)
+  }
+
+  @Transactional(propagation = Propagation.REQUIRED)
+  override def cancelOrder(userId: String, orderId: String): Order = {
+    val order = orderDao.findById(orderId).orElse(null)
+
+    if (order == null) return null
+
+    order.status = OrderStatus.已取消
+    order.canceledDate = new Date()
+    orderDao.saveAndFlush(order)
+  }
+
+  @Transactional(propagation = Propagation.REQUIRED)
+  override def deliverOrder(userId: String, orderId: String): Order = {
+    val order = orderDao.findById(orderId).orElse(null)
+
+    if (order == null) return null
+
+    order.status = OrderStatus.配送中
+    order.deliveredDate = new Date()
+    orderDao.saveAndFlush(order)
+  }
+
+  @Transactional(propagation = Propagation.REQUIRED)
+  override def takeOrder(userId: String, orderId: String): Order = {
+    val order = orderDao.findById(orderId).orElse(null)
+
+    if (order == null) return null
+
+    order.status = OrderStatus.待评价
+    order.takedDate = new Date()
+    orderDao.saveAndFlush(order)
   }
 
 }

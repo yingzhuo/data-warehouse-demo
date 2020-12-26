@@ -64,4 +64,44 @@ class Order extends AnyRef with Serializable {
   @BeanProperty
   var lastUpdateDate: Date = _
 
+  /**
+   * 支付时间
+   */
+  @Column(name = "payed_date")
+  @Temporal(TemporalType.TIMESTAMP)
+  @BeanProperty
+  var payedDate: Date = _
+
+  /**
+   * 取消时间
+   */
+  @Column(name = "canceled_date")
+  @Temporal(TemporalType.TIMESTAMP)
+  @BeanProperty
+  var canceledDate: Date = _
+
+  /**
+   * 开始配送时间
+   */
+  @Column(name = "delivered_date")
+  @Temporal(TemporalType.TIMESTAMP)
+  @BeanProperty
+  var deliveredDate: Date = _
+
+  /**
+   * 收货时间
+   */
+  @Column(name = "taked_date")
+  @Temporal(TemporalType.TIMESTAMP)
+  @BeanProperty
+  var takedDate: Date = _
+
+  /**
+   * 评价时间
+   */
+  @Column(name = "evaluated_date")
+  @Temporal(TemporalType.TIMESTAMP)
+  @BeanProperty
+  var evaluatedDate: Date = _
+
 }
