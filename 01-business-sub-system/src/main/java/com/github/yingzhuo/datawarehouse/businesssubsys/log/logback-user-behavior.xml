@@ -7,7 +7,11 @@
     <springProfile name="flume">
         <!-- 登录行为 -->
         <appender name="UB_LOGIN" class="com.github.yingzhuo.logback.flume.FlumeAvroAppender">
-            <flumeAgents>10.211.55.3:4141</flumeAgents>
+            <flumeAgents>
+                192.168.99.127:4141,
+                192.168.99.128:4141,
+                192.168.99.129:4141
+            </flumeAgents>
             <flumeProperties>
                 connect-timeout=4000;
                 request-timeout=8000
@@ -26,7 +30,11 @@
 
         <!-- 登出行为 -->
         <appender name="UB_LOGOUT" class="com.github.yingzhuo.logback.flume.FlumeAvroAppender">
-            <flumeAgents>10.211.55.3:4141</flumeAgents>
+            <flumeAgents>
+                192.168.99.127:4141,
+                192.168.99.128:4141,
+                192.168.99.129:4141
+            </flumeAgents>
             <flumeProperties>
                 connect-timeout=4000;
                 request-timeout=8000
@@ -52,7 +60,7 @@
         <appender name="UB_LOGOUT" class="ch.qos.logback.core.helpers.NOPAppender"/>
     </springProfile>
 
-
+    <!-- =========================================================================================================== -->
     <logger name="UB_LOGIN" additivity="false" level="trace">
         <appender-ref ref="UB_LOGIN"/>
     </logger>
