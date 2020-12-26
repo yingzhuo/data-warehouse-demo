@@ -34,7 +34,7 @@ protected class OrderServiceImpl(
     order.id = orderId
     order.userId = userId
     order.status = OrderStatus.未支付
-    order.totalAmount = Calculator.computeTotalAmountForOrder(orderItemList)
+    order.totalAmount = Calculator.computeTotalAmount(orderItemList)
 
     val savedOrder = orderDao.save(order)
 

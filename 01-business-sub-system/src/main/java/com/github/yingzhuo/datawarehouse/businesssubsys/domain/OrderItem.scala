@@ -2,6 +2,7 @@ package com.github.yingzhuo.datawarehouse.businesssubsys.domain
 
 import java.util.Date
 
+import com.github.yingzhuo.datawarehouse.businesssubsys.domain.support.Item
 import javax.persistence._
 import org.springframework.data.annotation.{CreatedDate, LastModifiedDate}
 import org.springframework.data.jpa.domain.support.AuditingEntityListener
@@ -14,7 +15,7 @@ import scala.beans.BeanProperty
 @Entity
 @Table(name = "t_order_item")
 @EntityListeners(Array(classOf[AuditingEntityListener]))
-class OrderItem extends AnyRef with Serializable {
+class OrderItem extends AnyRef with Serializable with Item {
 
   /**
    * ID

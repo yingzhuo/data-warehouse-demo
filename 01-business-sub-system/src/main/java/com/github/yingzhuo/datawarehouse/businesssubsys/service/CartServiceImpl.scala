@@ -62,7 +62,7 @@ protected class CartServiceImpl(
     // 更新购物车总数量
     val cart = findCartByForUser(userId)
     cart.totalCount = items.size
-    cart.totalAmount = Calculator.computeTotalAmountForCart(items)
+    cart.totalAmount = Calculator.computeTotalAmount(items)
     cartDao.saveAndFlush(cart)
     findCartByForUser(userId)
   }
@@ -79,7 +79,7 @@ protected class CartServiceImpl(
     val items = cartItemDao.findByUserId(userId)
     val cart = findCartByForUser(userId)
     cart.totalCount = items.size
-    cart.totalAmount = Calculator.computeTotalAmountForCart(items)
+    cart.totalAmount = Calculator.computeTotalAmount(items)
     cartDao.saveAndFlush(cart)
     findCartByForUser(userId)
   }
