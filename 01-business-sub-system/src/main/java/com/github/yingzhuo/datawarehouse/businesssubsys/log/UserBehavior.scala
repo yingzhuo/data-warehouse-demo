@@ -20,12 +20,6 @@ object UserBehavior {
     LoggerLogin.info("{},{}", userId, result)
   }
 
-  private def __checkUserId(id: String): Unit = id match {
-    case null => throw new IllegalArgumentException("用户ID非法: 不可为空")
-    case x if x.isEmpty => throw new IllegalArgumentException("用户ID非法: 不可为空")
-    case _ =>
-  }
-
   /**
    * 登出行为
    *
@@ -35,6 +29,12 @@ object UserBehavior {
   def logout(userId: String, result: String = "OK"): Unit = {
     __checkUserId(userId)
     LoggerLogout.info("{},{}", userId, result)
+  }
+
+  private def __checkUserId(id: String): Unit = id match {
+    case null => throw new IllegalArgumentException("用户ID非法: 不可为空")
+    case x if x.isEmpty => throw new IllegalArgumentException("用户ID非法: 不可为空")
+    case _ =>
   }
 
   // ------------------------------------------------------------------------------------------------------------------

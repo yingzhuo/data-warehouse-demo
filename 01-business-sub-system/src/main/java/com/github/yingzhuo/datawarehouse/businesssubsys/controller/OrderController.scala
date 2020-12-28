@@ -15,4 +15,44 @@ protected class OrderController(orderService: OrderService) {
       .payload("order", order)
   }
 
+  @PostMapping(Array("/pay"))
+  def payOrder(
+                @RequestParam("userId") userId: String,
+                @RequestParam("orderId") orderId: String
+              ): Json = {
+    val order = orderService.payOrder(userId, orderId)
+    Json.newInstance()
+      .payload("order", order)
+  }
+
+  @PostMapping(Array("/cancel"))
+  def cancelOrder(
+                   @RequestParam("userId") userId: String,
+                   @RequestParam("orderId") orderId: String
+                 ): Json = {
+    val order = orderService.cancelOrder(userId, orderId)
+    Json.newInstance()
+      .payload("order", order)
+  }
+
+  @PostMapping(Array("/deliver"))
+  def deliverOrder(
+                    @RequestParam("userId") userId: String,
+                    @RequestParam("orderId") orderId: String
+                  ): Json = {
+    val order = orderService.deliverOrder(userId, orderId)
+    Json.newInstance()
+      .payload("order", order)
+  }
+
+  @PostMapping(Array("/take"))
+  def takeOrder(
+                 @RequestParam("userId") userId: String,
+                 @RequestParam("orderId") orderId: String
+               ): Json = {
+    val order = orderService.takeOrder(userId, orderId)
+    Json.newInstance()
+      .payload("order", order)
+  }
+
 }
