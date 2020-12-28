@@ -68,6 +68,7 @@ protected class OrderServiceImpl(
       orderItem.commodityDescription = cartItem.commodityDescription
       orderItem.count = cartItem.count
       orderItem.finalPrice = cartItem.finalPrice
+      orderItem.userId = cartItem.userId
       list.add(orderItem)
     }
     list
