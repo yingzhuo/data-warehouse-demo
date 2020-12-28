@@ -3,8 +3,8 @@ package com.github.yingzhuo.datawarehouse.businesssubsys.service
 import java.util
 import java.util.Date
 
-import com.github.yingzhuo.datawarehouse.businesssubsys.dao.{CartDao, CartItemDao, OrderDao, OrderItemDao}
-import com.github.yingzhuo.datawarehouse.businesssubsys.domain.{CartItem, Order, OrderItem, OrderStatus}
+import com.github.yingzhuo.datawarehouse.businesssubsys.dao._
+import com.github.yingzhuo.datawarehouse.businesssubsys.domain._
 import com.github.yingzhuo.datawarehouse.businesssubsys.service.exception.BusinessException
 import com.github.yingzhuo.datawarehouse.businesssubsys.util.{Calculator, ID}
 import org.springframework.stereotype.Service
@@ -17,7 +17,8 @@ protected class OrderServiceImpl(
                                   cartDao: CartDao,
                                   cartItemDao: CartItemDao,
                                   orderDao: OrderDao,
-                                  orderItemDao: OrderItemDao
+                                  orderItemDao: OrderItemDao,
+                                  paymentInfoDao: PaymentInfoDao
                                 ) extends AnyRef with OrderService {
 
   @Transactional(propagation = Propagation.REQUIRED)
@@ -80,6 +81,14 @@ protected class OrderServiceImpl(
 
     order.status = OrderStatus.已支付
     order.payedDate = new Date()
+
+    val pay = new PaymentInfo()
+    pay.id = ID()
+    pay.userId = userId
+    pay.orderId = orderId
+    pay.totalAmount = order.totalAmount
+    paymentInfoDao.save(pay)
+
     orderDao.saveAndFlush(order)
   }
 

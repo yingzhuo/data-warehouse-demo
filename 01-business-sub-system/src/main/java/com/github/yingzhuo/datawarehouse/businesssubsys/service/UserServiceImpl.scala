@@ -24,6 +24,8 @@ protected class UserServiceImpl(userDao: UserDao) extends AnyRef with UserServic
 
     val user = userDao.findByUsername(username)
 
+    if (user == null) return false
+
     password match {
       case x if x == user.getLoginPassword =>
         logger.debug("登录成功: userId={}, username={}", user.id, user.username)

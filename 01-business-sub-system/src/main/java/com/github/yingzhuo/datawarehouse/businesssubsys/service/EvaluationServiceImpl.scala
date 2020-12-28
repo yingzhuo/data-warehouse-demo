@@ -27,7 +27,7 @@ protected class EvaluationServiceImpl(
     val order = orderDao.findById(orderId).orElse(null)
     if (order != null) {
       order.evaluatedDate = new Date()
-      order.status = OrderStatus.已支付
+      order.status = OrderStatus.已评价
       orderDao.save(order)
     }
 
