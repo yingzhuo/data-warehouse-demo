@@ -31,14 +31,6 @@ object UserBehavior {
     LoggerLogout.info("{},{}", userId, result)
   }
 
-  private def __checkUserId(id: String): Unit = id match {
-    case null => throw new IllegalArgumentException("用户ID非法: 不可为空")
-    case x if x.isEmpty => throw new IllegalArgumentException("用户ID非法: 不可为空")
-    case _ =>
-  }
-
-  // ------------------------------------------------------------------------------------------------------------------
-
   /**
    * 订单评价行为
    *
@@ -50,6 +42,14 @@ object UserBehavior {
   def evaluate(userId: String, orderId: String, level: EvaluationLevel, text: String): Unit = {
     __checkUserId(userId)
     LoggerEvaluate.info("{},{},{},{},{}", userId, orderId, level, text, if (text == null) 0 else text.length)
+  }
+
+  // ------------------------------------------------------------------------------------------------------------------
+
+  private def __checkUserId(id: String): Unit = id match {
+    case null => throw new IllegalArgumentException("用户ID非法: 不可为空")
+    case x if x.isEmpty => throw new IllegalArgumentException("用户ID非法: 不可为空")
+    case _ =>
   }
 
 }

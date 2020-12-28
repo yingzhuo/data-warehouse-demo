@@ -18,7 +18,8 @@ protected class OrderServiceImpl(
                                   cartItemDao: CartItemDao,
                                   orderDao: OrderDao,
                                   orderItemDao: OrderItemDao,
-                                  paymentInfoDao: PaymentInfoDao
+                                  paymentInfoDao: PaymentInfoDao,
+                                  transitionDao: OrderStatusTransitionDao
                                 ) extends AnyRef with OrderService {
 
   @Transactional(propagation = Propagation.REQUIRED)
@@ -38,7 +39,7 @@ protected class OrderServiceImpl(
     order.status = OrderStatus.未支付
     order.totalAmount = Calculator.computeTotalAmount(orderItemList)
 
-    val savedOrder = orderDao.save(order)
+    val savedOrder = orderDao.saveAndFlush(order)
 
     for (item <- orderItemList.asScala) {
       orderItemDao.save(item)
@@ -51,7 +52,10 @@ protected class OrderServiceImpl(
     cartDao.save(cart)
     cartItemDao.deleteAll(cartItemList)
 
-    return savedOrder
+    val transition = OrderStatusTransition(orderId, OrderStatus.未支付)
+    transitionDao.save(transition)
+
+    savedOrder
   }
 
   private def transform(cartItemList: util.List[CartItem], orderId: String): util.List[OrderItem] = {
@@ -90,6 +94,9 @@ protected class OrderServiceImpl(
     pay.totalAmount = order.totalAmount
     paymentInfoDao.save(pay)
 
+    val transition = OrderStatusTransition(orderId, OrderStatus.已支付)
+    transitionDao.save(transition)
+
     orderDao.saveAndFlush(order)
   }
 
@@ -98,6 +105,9 @@ protected class OrderServiceImpl(
     val order = orderDao.findById(orderId).orElse(null)
 
     if (order == null) return null
+
+    val transition = OrderStatusTransition(orderId, OrderStatus.已取消)
+    transitionDao.save(transition)
 
     order.status = OrderStatus.已取消
     order.canceledDate = new Date()
@@ -110,6 +120,9 @@ protected class OrderServiceImpl(
 
     if (order == null) return null
 
+    val transition = OrderStatusTransition(orderId, OrderStatus.配送中)
+    transitionDao.save(transition)
+
     order.status = OrderStatus.配送中
     order.deliveredDate = new Date()
     orderDao.saveAndFlush(order)
@@ -120,6 +133,9 @@ protected class OrderServiceImpl(
     val order = orderDao.findById(orderId).orElse(null)
 
     if (order == null) return null
+
+    val transition = OrderStatusTransition(orderId, OrderStatus.待评价)
+    transitionDao.save(transition)
 
     order.status = OrderStatus.待评价
     order.takedDate = new Date()
