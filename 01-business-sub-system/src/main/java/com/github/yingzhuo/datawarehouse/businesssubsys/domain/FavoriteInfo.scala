@@ -16,6 +16,7 @@ class FavoriteInfo extends AnyRef with Serializable {
    */
   @Id
   @Column(name = "id", length = 36)
+  @BeanProperty
   var id: String = _
 
   /**

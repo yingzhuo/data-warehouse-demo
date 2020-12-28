@@ -6,4 +6,7 @@ import org.springframework.stereotype.Repository
 
 @Repository
 trait FavoriteInfoDao extends JpaRepository[FavoriteInfo, String] {
+
+  def findByUserIdAndCommodityId(userId: String, commodityId: String): FavoriteInfo
+
 }

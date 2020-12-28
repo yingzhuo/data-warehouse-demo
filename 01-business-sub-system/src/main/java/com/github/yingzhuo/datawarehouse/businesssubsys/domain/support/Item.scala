@@ -1,6 +1,6 @@
 package com.github.yingzhuo.datawarehouse.businesssubsys.domain.support
 
-trait Item {
+trait Item extends Serializable {
 
   var count: Int
 
