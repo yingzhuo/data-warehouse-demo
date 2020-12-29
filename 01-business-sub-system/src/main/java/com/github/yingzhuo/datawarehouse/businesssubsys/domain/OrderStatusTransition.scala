@@ -5,6 +5,7 @@ import java.util.Date
 import com.github.yingzhuo.datawarehouse.businesssubsys.util.ID
 import javax.persistence._
 import org.springframework.data.annotation.CreatedDate
+import org.springframework.data.jpa.domain.support.AuditingEntityListener
 
 import scala.beans.BeanProperty
 
@@ -13,6 +14,7 @@ import scala.beans.BeanProperty
  */
 @Entity
 @Table(name = "t_order_status_transition")
+@EntityListeners(Array(classOf[AuditingEntityListener]))
 class OrderStatusTransition extends AnyRef with Serializable {
 
   /**

@@ -23,7 +23,7 @@ protected class OrderServiceImpl(
                                 ) extends AnyRef with OrderService {
 
   @Transactional(propagation = Propagation.REQUIRED)
-  override def createOrderFromCart(userId: String): Order = {
+  override def createOrderFromCart(userId: String, provinceId: String): Order = {
 
     val cartItemList = cartItemDao.findByUserId(userId)
     if (cartItemList == null || cartItemList.isEmpty) {
@@ -38,6 +38,7 @@ protected class OrderServiceImpl(
     order.userId = userId
     order.status = OrderStatus.未支付
     order.totalAmount = Calculator.computeTotalAmount(orderItemList)
+    order.provinceId = provinceId
 
     val savedOrder = orderDao.saveAndFlush(order)
 

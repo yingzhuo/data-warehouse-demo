@@ -9,8 +9,9 @@ import org.springframework.web.bind.annotation.{PostMapping, RequestMapping, Req
 protected class OrderController(orderService: OrderService) {
 
   @PostMapping
-  def createOrder(@RequestParam("userId") userId: String): Json = {
-    val order = orderService.createOrderFromCart(userId)
+  def createOrder(@RequestParam("userId") userId: String,
+                  @RequestParam(name = "provinceId", required = false, defaultValue = "14") provinceId: String): Json = {
+    val order = orderService.createOrderFromCart(userId, provinceId)
     Json.newInstance()
       .payload("order", order)
   }

@@ -3,15 +3,18 @@ package com.github.yingzhuo.datawarehouse.businesssubsys.domain
 import java.util.Date
 
 import javax.persistence._
-import org.springframework.data.annotation.{CreatedDate, LastModifiedDate}
+import org.springframework.data.annotation.CreatedDate
 import org.springframework.data.jpa.domain.support.AuditingEntityListener
 
 import scala.beans.BeanProperty
 
+/**
+ * 省份
+ */
 @Entity
-@Table(name = "t_payment_info")
+@Table(name = "t_province")
 @EntityListeners(Array(classOf[AuditingEntityListener]))
-class PaymentInfo extends AnyRef with Serializable {
+class Province extends AnyRef with Serializable {
 
   /**
    * ID
@@ -22,25 +25,25 @@ class PaymentInfo extends AnyRef with Serializable {
   var id: String = _
 
   /**
-   * 用户ID
+   * 名称
    */
-  @Column(name = "user_id", length = 36)
+  @Column(name = "name", length = 10)
   @BeanProperty
-  var userId: String = _
+  var name: String = _
 
   /**
-   * 订单ID
+   * 简称
    */
-  @Column(name = "order_id", length = 36)
+  @Column(name = "short_name", length = 10)
   @BeanProperty
-  var orderId: String = _
+  var shortName: String = _
 
   /**
-   * 总计金额
+   * 所属区域
    */
-  @Column(name = "total_amount")
+  @Column(name = "region", length = 10)
   @BeanProperty
-  var totalAmount: Long = _
+  var region: String = _
 
   /**
    * 记录创建时间
@@ -50,14 +53,5 @@ class PaymentInfo extends AnyRef with Serializable {
   @Temporal(TemporalType.TIMESTAMP)
   @BeanProperty
   var createdDate: Date = _
-
-  /**
-   * 记录最后更新时间
-   */
-  @LastModifiedDate
-  @Column(name = "last_updated_date", columnDefinition = "TIMESTAMP NOT NULL DEFAULT current_timestamp ON UPDATE current_timestamp")
-  @Temporal(TemporalType.TIMESTAMP)
-  @BeanProperty
-  var lastUpdateDate: Date = _
 
 }

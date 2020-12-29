@@ -161,5 +161,3 @@ case $1 in
         echo "    __print_env : 打印环境变量等"
         echo "    __all       : 导入全部表"
 esac
-
-exit 0

@@ -47,6 +47,13 @@ class Order extends AnyRef with Serializable {
   var totalAmount: Long = _
 
   /**
+   * 省份ID (买家)
+   */
+  @Column(name = "province_id", length = 36)
+  @BeanProperty
+  var provinceId: String = _
+
+  /**
    * 记录创建时间
    */
   @CreatedDate

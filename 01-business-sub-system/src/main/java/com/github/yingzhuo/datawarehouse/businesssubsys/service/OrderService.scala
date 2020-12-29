@@ -4,7 +4,7 @@ import com.github.yingzhuo.datawarehouse.businesssubsys.domain.Order
 
 trait OrderService {
 
-  def createOrderFromCart(userId: String): Order
+  def createOrderFromCart(userId: String, provinceId: String): Order
 
   def payOrder(userId: String, orderId: String): Order
 

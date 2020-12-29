@@ -4,11 +4,13 @@ import java.util.Date
 
 import javax.persistence._
 import org.springframework.data.annotation.{CreatedDate, LastModifiedDate}
+import org.springframework.data.jpa.domain.support.AuditingEntityListener
 
 import scala.beans.BeanProperty
 
 @Entity
 @Table(name = "t_favor_info")
+@EntityListeners(Array(classOf[AuditingEntityListener]))
 class FavoriteInfo extends AnyRef with Serializable {
 
   /**
