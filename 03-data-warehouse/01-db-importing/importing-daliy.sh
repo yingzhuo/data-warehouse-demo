@@ -51,7 +51,7 @@ import_table() {
         --num-mappers 1 \
         --compress \
         --compression-codec lzop \
-        --fields-terminated-by ',' \
+        --fields-terminated-by '\001' \
         --null-string '\\N' \
         --null-non-string '\\N'
 
