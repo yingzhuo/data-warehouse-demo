@@ -1,9 +1,0 @@
-# ----------------------------------------------------------------------------------------------------------------------
-# 核心配置 (include)
-# ----------------------------------------------------------------------------------------------------------------------
-spring:
-  datasource:
-    driver-class-name: com.mysql.jdbc.Driver
-    url: "jdbc:mysql://10.211.55.3:3306/data-warehouse-demo_business-sub-system?useSSL=false&autoReconnect=true&useUnicode=true&characterEncoding=UTF-8"
-    username: "root"
-    password: "root"

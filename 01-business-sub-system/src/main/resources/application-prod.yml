@@ -1,7 +1,12 @@
 # ----------------------------------------------------------------------------------------------------------------------
-# 核心配置 (include)
+# 核心配置
 # ----------------------------------------------------------------------------------------------------------------------
 spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: "jdbc:mysql://192.168.99.114:3306/data-warehouse-demo?useSSL=false&autoReconnect=true&useUnicode=true&characterEncoding=UTF-8"
+    username: "root"
+    password: "root"
   jpa:
     open-in-view: false
     show-sql: false

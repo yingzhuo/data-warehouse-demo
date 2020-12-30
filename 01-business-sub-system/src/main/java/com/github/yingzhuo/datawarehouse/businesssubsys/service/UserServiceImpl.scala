@@ -46,7 +46,6 @@ protected class UserServiceImpl(userDao: UserDao) extends AnyRef with UserServic
 
     val user = userDao.findByUsername(username)
     if (user != null) {
-      UserBehavior.logout(user.id, "OK")
       true
     } else {
       false

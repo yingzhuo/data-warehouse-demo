@@ -14,10 +14,10 @@ export HIVE_HOME=/opt/hive
 # ---
 # 变量
 # ---
-application=datasotre-demo
+application=data-warehouse-demo
 sqoop=/opt/sqoop/bin/sqoop
 hadoop=/opt/hadoop/bin/hadoop
-db=jdbc:mysql://ubuntu:3306/data-warehouse-demo_business-sub-system
+db=jdbc:mysql://ubuntu:3306/data-warehouse-demo
 dbusername=root
 dbpassword=root
 _self="${0##*/}"
@@ -156,7 +156,7 @@ case $1 in
         ;;
     *)
         echo "Usage:"
-        echo "$_self <选项> <时间>"
+        echo "$_self <选项> <时间: 默认值为前一天>"
         echo "  特殊选项:"
         echo "    __print_env : 打印环境变量等"
         echo "    __all       : 导入全部表"

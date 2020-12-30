@@ -5,10 +5,10 @@ spring:
   application:
     name: "data-warehouse-system"
   profiles:
-    active: default
+    active:
+      - prod
     include:
-      - datasource
-      - jpa
+      - default
   aop:
     auto: true
   main:

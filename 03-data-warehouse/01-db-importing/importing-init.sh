@@ -14,10 +14,10 @@ export HIVE_HOME=/opt/hive
 # ---
 # 变量
 # ---
-application=datasotre-demo
+application=data-warehouse-demo
 sqoop=/opt/sqoop/bin/sqoop
 hadoop=/opt/hadoop/bin/hadoop
-db=jdbc:mysql://ubuntu:3306/data-warehouse-demo_business-sub-system
+db=jdbc:mysql://ubuntu:3306/data-warehouse-demo
 dbusername=root
 dbpassword=root
 

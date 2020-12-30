@@ -4,7 +4,6 @@ import java.util.Date
 
 import com.github.yingzhuo.datawarehouse.businesssubsys.dao.{EvaluationDao, OrderDao, OrderStatusTransitionDao}
 import com.github.yingzhuo.datawarehouse.businesssubsys.domain.{Evaluation, EvaluationLevel, OrderStatus, OrderStatusTransition}
-import com.github.yingzhuo.datawarehouse.businesssubsys.log.UserBehavior
 import com.github.yingzhuo.datawarehouse.businesssubsys.util.ID
 import org.springframework.stereotype.Service
 import org.springframework.transaction.annotation.{Propagation, Transactional}
@@ -22,8 +21,6 @@ protected class EvaluationServiceImpl(evaluationDao: EvaluationDao,
     if (exists != null) {
       return exists
     }
-
-    UserBehavior.evaluate(userId, orderId, level, text)
 
     val order = orderDao.findById(orderId).orElse(null)
     if (order != null) {
