@@ -33,6 +33,7 @@
         <maven.test.skip>true</maven.test.skip>
         <maven.install.skip>true</maven.install.skip>
         <maven.deploy.skip>true</maven.deploy.skip>
+        <placed.project.version>x</placed.project.version>
     </properties>
 
     <dependencyManagement>
@@ -332,13 +333,6 @@
                 <version>2.8.6</version>
             </dependency>
 
-            <!-- logstash -->
-            <dependency>
-                <groupId>net.logstash.logback</groupId>
-                <artifactId>logstash-logback-encoder</artifactId>
-                <version>6.5</version>
-            </dependency>
-
             <!-- prometheus -->
             <dependency>
                 <groupId>io.micrometer</groupId>
@@ -355,12 +349,12 @@
             <dependency>
                 <groupId>net.bytebuddy</groupId>
                 <artifactId>byte-buddy</artifactId>
-                <version>1.10.18</version>
+                <version>1.10.19</version>
             </dependency>
             <dependency>
                 <groupId>net.bytebuddy</groupId>
                 <artifactId>byte-buddy-agent</artifactId>
-                <version>1.10.18</version>
+                <version>1.10.19</version>
             </dependency>
 
             <!-- snakeyaml -->
@@ -444,7 +438,7 @@
     </dependencyManagement>
 
     <build>
-        <finalName>${project.artifactId}-${version}</finalName>
+        <finalName>${project.artifactId}-${placed.project.version}</finalName>
 
         <resources>
             <resource>
@@ -522,7 +516,7 @@
                     <archive>
                         <manifestEntries>
                             <manifestFile>${project.build.outputDirectory}/META-INF/MANIFEST.MF</manifestFile>
-                            <Implementation-Version>${version}</Implementation-Version>
+                            <Implementation-Version>${placed.project.version}</Implementation-Version>
                         </manifestEntries>
                     </archive>
                 </configuration>

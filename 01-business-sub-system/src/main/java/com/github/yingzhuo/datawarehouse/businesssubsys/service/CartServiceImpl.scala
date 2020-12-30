@@ -1,3 +1,14 @@
+/*
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+ *  ____        _         __        __             _                            ____
+ * |  _ \  __ _| |_ __ _  \ \      / /_ _ _ __ ___| |__   ___  _   _ ___  ___  |  _ \  ___ _ __ ___   ___
+ * | | | |/ _` | __/ _` |  \ \ /\ / / _` | '__/ _ \ '_ \ / _ \| | | / __|/ _ \ | | | |/ _ \ '_ ` _ \ / _ \
+ * | |_| | (_| | || (_| |   \ V  V / (_| | | |  __/ | | | (_) | |_| \__ \  __/ | |_| |  __/ | | | | | (_) |
+ * |____/ \__,_|\__\__,_|    \_/\_/ \__,_|_|  \___|_| |_|\___/ \__,_|___/\___| |____/ \___|_| |_| |_|\___/
+ *
+ * https://github.com/yingzhuo/data-warehouse-demo
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+ */
 package com.github.yingzhuo.datawarehouse.businesssubsys.service
 
 import com.github.yingzhuo.datawarehouse.businesssubsys.dao.{CartDao, CartItemDao, CommodityDao}
@@ -8,10 +19,9 @@ import org.springframework.stereotype.Service
 import org.springframework.transaction.annotation.{Propagation, Transactional}
 
 @Service
-protected class CartServiceImpl(
-                                 cartDao: CartDao,
-                                 cartItemDao: CartItemDao,
-                                 commodityDao: CommodityDao
+protected class CartServiceImpl(cartDao: CartDao,
+                                cartItemDao: CartItemDao,
+                                commodityDao: CommodityDao
                                ) extends AnyRef with CartService {
 
   private val log = LoggerFactory.getLogger(classOf[CartServiceImpl])
@@ -85,6 +95,20 @@ protected class CartServiceImpl(
   }
 
   @Transactional(propagation = Propagation.REQUIRED)
+  override def emptyCartForUser(userId: String): Cart = {
+    val cart = findCartByForUser(userId)
+    cart.setTotalCount(0)
+    cart.setTotalAmount(0L)
+    cartDao.save(cart)
+
+    val items = cartItemDao.findByUserId(userId)
+    if (items != null && !items.isEmpty) {
+      cartItemDao.deleteAll(items)
+    }
+    cart
+  }
+
+  @Transactional(propagation = Propagation.REQUIRED)
   override def findCartByForUser(userId: String): Cart = createCartIfNecessary(userId)
 
   private def createCartIfNecessary(userId: String): Cart = {
@@ -104,20 +128,6 @@ protected class CartServiceImpl(
     newCart.totalAmount = 0L
     cartDao.saveAndFlush(newCart)
     newCart
-  }
-
-  @Transactional(propagation = Propagation.REQUIRED)
-  override def emptyCartForUser(userId: String): Cart = {
-    val cart = findCartByForUser(userId)
-    cart.setTotalCount(0)
-    cart.setTotalAmount(0L)
-    cartDao.save(cart)
-
-    val items = cartItemDao.findByUserId(userId)
-    if (items != null && !items.isEmpty) {
-      cartItemDao.deleteAll(items)
-    }
-    cart
   }
 
 }

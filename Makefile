@@ -1,4 +1,4 @@
-version := 0.0.1-$(shell /bin/date '+%Y%m%d%H%M%S')
+version := 1.0.0-$(shell /bin/date '+%Y%m%d%H%M%S')
 
 usage:
 	@echo "========================================================================================================"
@@ -13,7 +13,7 @@ usage:
 	@echo "========================================================================================================"
 
 build-jar:
-	@mvn -f $(CURDIR)/pom.xml clean package -D version=$(version)
+	@mvn -f $(CURDIR)/pom.xml clean package -D"placed.project.version=$(version)"
 
 build-image: build-jar
 	@docker image build --tag 192.168.99.115/data-warehouse/business-sub-system:$(version) $(CURDIR)/01-business-sub-system/target/docker-context/
