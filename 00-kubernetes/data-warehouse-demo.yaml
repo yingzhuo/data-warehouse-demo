@@ -1,0 +1,97 @@
+# ----------------------------------------------------------------------------------------------------------------------
+# data-warehouse-demo
+# ----------------------------------------------------------------------------------------------------------------------
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: data-warehouse-demo
+---
+
+apiVersion: v1
+kind: Secret
+metadata:
+  name: local-harbor
+  namespace: data-warehouse-demo
+type: kubernetes.io/dockerconfigjson
+data:
+  .dockerconfigjson: "eyJhdXRocyI6eyIxOTIuMTY4Ljk5LjExNSI6eyJ1c2VybmFtZSI6ImFkbWluIiwicGFzc3dvcmQiOiJQYXNzd29yZDAxISIsImVtYWlsIjoieWluZ3podW9AdnZoY2MuY29tIiwiYXV0aCI6IllXUnRhVzQ2VUdGemMzZHZjbVF3TVNFPSJ9fX0="
+---
+
+apiVersion: v1
+kind: ServiceAccount
+imagePullSecrets:
+  - name: local-harbor
+metadata:
+  namespace: data-warehouse-demo
+  name: default
+---
+
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: businsess-sub-system
+  namespace: data-warehouse-demo
+spec:
+  replicas: 4
+  selector:
+    matchLabels:
+      app: business-sub-system
+      tier: standalone
+  paused: false
+  minReadySeconds: 20
+  strategy:
+    type: RollingUpdate
+    rollingUpdate:
+      maxSurge: 1
+      maxUnavailable: 1
+  template:
+    metadata:
+      labels:
+        app: business-sub-system
+        tier: standalone
+    spec:
+      serviceAccountName: default
+      volumes:
+        - name: log
+          emptyDir: {}
+      restartPolicy: Always
+      containers:
+        - name: core
+          image: "192.168.99.115/data-warehouse/business-sub-system:latest"
+          imagePullPolicy: Always
+          readinessProbe:
+            initialDelaySeconds: 8
+            timeoutSeconds: 5
+            periodSeconds: 10
+            httpGet:
+              scheme: HTTP
+              path: "/actuator/health"
+              port: 8080
+          command:
+            - "docker-entrypoint.sh"
+            - ""
+          ports:
+            - name: http
+              containerPort: 8080
+          volumeMounts:
+            - name: log
+              mountPath: "/var/log/"
+              readOnly: false
+---
+
+apiVersion: v1
+kind: Service
+metadata:
+  namespace: data-warehouse-demo
+  name: business-sub-system
+spec:
+  selector:
+    app: business-sub-system
+    tier: standalone
+  type: NodePort
+  ports:
+    - name: http
+      targetPort: 8080
+      port: 8080
+      nodePort: 18081
+---

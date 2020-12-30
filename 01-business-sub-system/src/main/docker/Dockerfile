@@ -32,6 +32,6 @@ COPY --chown=root:root ./docker-entrypoint.sh /bin/docker-entrypoint.sh
 
 RUN chmod +x /bin/docker-entrypoint.sh
 
-EXPOSE 18080
+EXPOSE 8080
 
 ENTRYPOINT ["docker-entrypoint.sh"]

@@ -6,5 +6,5 @@ services:
     container_name: "dwd-business-sub-system"
     restart: "always"
     command:
-      - "--spring.profiles.active=default,flume"
+      - "--spring.profiles.active=prod"
     network_mode: "host"
