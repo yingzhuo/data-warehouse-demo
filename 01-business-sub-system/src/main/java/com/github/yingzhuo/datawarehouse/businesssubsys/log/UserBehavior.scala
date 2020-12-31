@@ -15,6 +15,7 @@ import org.slf4j.LoggerFactory
 
 object UserBehavior {
 
+  private val Delimiter: Char = '\u0001' // hive delimiter
   private val LoggerLogin = LoggerFactory.getLogger("UB_LOGIN")
 
   /**
@@ -24,14 +25,7 @@ object UserBehavior {
    * @param result "OK" | "NG"
    */
   def login(userId: String, result: String): Unit = {
-    __checkUserId(userId)
-    LoggerLogin.info("{},{}", userId, result)
-  }
-
-  private def __checkUserId(id: String): Unit = id match {
-    case null => throw new IllegalArgumentException("用户ID非法: 不可为空")
-    case x if x.isEmpty => throw new IllegalArgumentException("用户ID非法: 不可为空")
-    case _ =>
+    LoggerLogin.info(s"{}$Delimiter{}", userId, result)
   }
 
 }
