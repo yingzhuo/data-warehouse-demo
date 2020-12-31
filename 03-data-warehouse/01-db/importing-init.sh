@@ -15,21 +15,18 @@ export HIVE_HOME=/opt/hive
 # 变量
 # ---
 application="data-warehouse-demo"
-sqoop="/opt/sqoop/bin/sqoop"
-hadoop="/opt/hadoop/bin/hadoop"
-db="jdbc:mysql://ubuntu:3306/data-warehouse-demo?useSSL=false"
+db="jdbc:mysql://192.168.99.114:3306/data-warehouse-demo?useSSL=false"
 dbusername="root"
 dbpassword="root"
-
-date='1970-01-01'
+dt='1970-01-01'
 
 import_table() {
     # 导入数据
-    $sqoop import \
+    $SQOOP_HOME/bin/sqoop import \
         --connect $db \
         --username $dbusername \
         --password $dbpassword \
-        --target-dir /$application/db/$1/$date \
+        --target-dir /$application/db/$1/$dt \
         --delete-target-dir \
         --query "$2 and \$CONDITIONS" \
         --num-mappers 1 \
@@ -40,13 +37,21 @@ import_table() {
         --null-non-string '\\N'
 
     # 生成lzo索引文件
-    $hadoop jar \
+    $HADOOP_HOME/bin/hadoop jar \
         $HADOOP_HOME/share/hadoop/common/hadoop-lzo-0.4.20.jar \
         com.hadoop.compression.lzo.DistributedLzoIndexer \
-        /$application/db/$1/$date
+        /$application/db/$1/$dt
     
     # 删除垃圾文件
     rm -f ./*.java
+}
+
+load_into_hive() {
+  hiveSql="
+  use data_warehouse_demo;
+  load data inpath '/$application/db/$1/$dt' overwrite into table $2 partition(dt='$dt');
+  "
+  $HIVE_HOME/bin/hive -e "$hiveSql"
 }
 
 import_t_province() {
@@ -57,7 +62,8 @@ import_t_province() {
       id,
       name,
       short_name,
-      region
+      region,
+      created_date
     FROM
       t_province
     WHERE
@@ -265,13 +271,15 @@ import_t_order_item() {
 }
 
 import_t_province
-import_t_user
-import_t_favor_info
-import_t_commodity
-import_t_payment_info
-import_t_order_status_transition
-import_t_evaluation
-import_t_cart
-import_t_cart_item
-import_t_order
-import_t_order_item
+#import_t_user
+#import_t_favor_info
+#import_t_commodity
+#import_t_payment_info
+#import_t_order_status_transition
+#import_t_evaluation
+#import_t_cart
+#import_t_cart_item
+#import_t_order
+#import_t_order_item
+
+load_into_hive "t_province" "ods_province_db"

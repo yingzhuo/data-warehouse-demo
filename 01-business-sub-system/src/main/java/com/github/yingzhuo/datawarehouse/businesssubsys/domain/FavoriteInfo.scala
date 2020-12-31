@@ -19,6 +19,9 @@ import org.springframework.data.jpa.domain.support.AuditingEntityListener
 
 import scala.beans.BeanProperty
 
+/**
+ * 收藏
+ */
 @Entity
 @Table(name = "t_favor_info")
 @EntityListeners(Array(classOf[AuditingEntityListener]))
