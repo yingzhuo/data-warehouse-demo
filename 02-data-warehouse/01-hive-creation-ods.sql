@@ -1,5 +1,6 @@
 --======================================================================================================================
 -- 数据仓库ODS层
+-- DB type      : hive 3.1.2
 -- DB           : data_warehouse_demo
 -- author       : 应卓
 --======================================================================================================================
@@ -33,14 +34,12 @@ drop table if exists ods_province_db;
 
 create external table ods_province_db
 (
-    `id`             string comment 'ID',
-    `name`           string comment '名称',
-    `short_name`     string comment '简称',
-    `region`         string comment '所属地区',
-    `created_date`   string comment '记录创建时间'
+    `id`         string comment 'ID',
+    `name`       string comment '名称',
+    `short_name` string comment '简称',
+    `region`     string comment '所属地区'
 )
     comment '省份信息'
-    partitioned by (`dt` string comment '日期分区')
     row format delimited
         fields terminated by '\001'
     stored as

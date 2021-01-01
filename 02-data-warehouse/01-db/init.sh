@@ -9,6 +9,7 @@
 export JAVA_HOME=/var/lib/java8
 export SQOOP_HOME=/opt/sqoop
 export HADOOP_HOME=/opt/hadoop
+export HADOOP_MAPRED_HOME=/opt/hadoop
 export HIVE_HOME=/opt/hive
 
 # ---
@@ -23,6 +24,7 @@ dt='1970-01-01'
 # $1: 关系型数据库表名
 # $2: 关系型数据库选择SQL
 # $3: Hive表名
+# $4: 有值时表示非分区表, 不传值时按分区表处理
 import_table() {
     # 导入数据
     $SQOOP_HOME/bin/sqoop import \
@@ -49,7 +51,23 @@ import_table() {
         /$application/db/$1/$dt
 
     # 导入到hive
+    if [[ "x$4" == "x" ]]
+    then
       hiveQl="
+        set mapreduce.job.queuename=hive;
+        use data_warehouse_demo;
+        load data inpath '/$application/db/$1/$dt' overwrite into table $3 partition(dt='$dt');
+      "
+    else
+      hiveQl="
+        set mapreduce.job.queuename=hive;
+        use data_warehouse_demo;
+        load data inpath '/$application/db/$1/$dt' overwrite into table $3;
+      "
+    fi
+
+    hiveQl="
+      set mapreduce.job.queuename=hive;
       use data_warehouse_demo;
       load data inpath '/$application/db/$1/$dt' overwrite into table $3 partition(dt='$dt');
     "
@@ -67,14 +85,14 @@ import_t_province() {
       id,
       name,
       short_name,
-      region,
-      created_date
+      region
     FROM
       t_province
     WHERE
       1 = 1
     " \
-    "ods_province_db"
+    "ods_province_db" \
+    "not-partition-table"
 }
 
 import_t_user() {
