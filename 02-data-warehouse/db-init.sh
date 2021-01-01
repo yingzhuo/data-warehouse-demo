@@ -2,78 +2,14 @@
 #------------------------------------------------------------------------------------------------------------
 # 作者: 应卓
 #------------------------------------------------------------------------------------------------------------
+export CUR_DATE="1970-01-01"
+export NOT_PARTITION_TABLE="not-partition-table"
 
-# ---
-# 环境变量
-# ---
-export JAVA_HOME=/var/lib/java8
-export SQOOP_HOME=/opt/sqoop
-export HADOOP_HOME=/opt/hadoop
-export HADOOP_MAPRED_HOME=/opt/hadoop
-export HIVE_HOME=/opt/hive
+pwd=$(dirname "$0")
+source "$pwd"/common/include.sh
 
-# ---
-# 变量
-# ---
-application="data-warehouse-demo"
-db="jdbc:mysql://192.168.99.114:3306/data-warehouse-demo?useSSL=false"
-dbusername="root"
-dbpassword="root"
-dt='1970-01-01'
-
-# $1: 关系型数据库表名
-# $2: 关系型数据库选择SQL
-# $3: Hive表名
-# $4: 有值时表示非分区表, 不传值时按分区表处理
-import_table() {
-    # 导入数据
-    $SQOOP_HOME/bin/sqoop import \
-        --connect $db \
-        --username $dbusername \
-        --password $dbpassword \
-        --target-dir /$application/db/$1/$dt \
-        --delete-target-dir \
-        --query "$2 and \$CONDITIONS" \
-        --num-mappers 1 \
-        --compress \
-        --compression-codec lzop \
-        --fields-terminated-by '\001' \
-        --null-string '\\N' \
-        --null-non-string '\\N'
-
-    # 删除HDFS上无用的文件
-    $HADOOP_HOME/bin/hadoop fs -rm /$application/db/$1/$dt/_SUCCESS
-
-    # 生成lzo索引文件
-    $HADOOP_HOME/bin/hadoop jar \
-        $HADOOP_HOME/share/hadoop/common/hadoop-lzo-0.4.20.jar \
-        com.hadoop.compression.lzo.DistributedLzoIndexer \
-        /$application/db/$1/$dt
-
-    # 导入到hive
-    if [[ "x$4" == "x" ]]
-    then
-      hiveQl="
-        set mapreduce.job.queuename=hive;
-        use data_warehouse_demo;
-        load data inpath '/$application/db/$1/$dt' overwrite into table $3 partition(dt='$dt');
-      "
-    else
-      hiveQl="
-        set mapreduce.job.queuename=hive;
-        use data_warehouse_demo;
-        load data inpath '/$application/db/$1/$dt' overwrite into table $3;
-      "
-    fi
-
-    $HIVE_HOME/bin/hive -e "$hiveQl"
-
-    # 删除本地垃圾文件
-    rm -f ./*.java
-}
-
-import_t_province() {
-  import_table \
+import_t_province_to_ods() {
+  import_db_table_to_ods \
     "t_province" \
     "
     SELECT
@@ -87,7 +23,7 @@ import_t_province() {
       1 = 1
     " \
     "ods_province_db" \
-    "not-partition-table"
+    "$NOT_PARTITION_TABLE"
 }
 
 import_t_user() {
@@ -299,17 +235,17 @@ import_t_order_item() {
     "ods_order_item_db"
 }
 
-import_t_province
-import_t_user
-import_t_favor_info
-import_t_commodity
-import_t_payment_info
-import_t_order_status_transition
-import_t_evaluation
-import_t_cart
-import_t_cart_item
-import_t_order
-import_t_order_item
+import_t_province_to_ods
+#import_t_user
+#import_t_favor_info
+#import_t_commodity
+#import_t_payment_info
+#import_t_order_status_transition
+#import_t_evaluation
+#import_t_cart
+#import_t_cart_item
+#import_t_order
+#import_t_order_item
 
 # =======================================================================================================================
 # ODS -> DWD
