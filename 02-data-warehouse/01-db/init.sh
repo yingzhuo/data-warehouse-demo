@@ -20,6 +20,9 @@ dbusername="root"
 dbpassword="root"
 dt='1970-01-01'
 
+# $1: 关系型数据库表名
+# $2: 关系型数据库选择SQL
+# $3: Hive表名
 import_table() {
     # 导入数据
     $SQOOP_HOME/bin/sqoop import \
@@ -36,22 +39,24 @@ import_table() {
         --null-string '\\N' \
         --null-non-string '\\N'
 
+    # 删除HDFS上无用的文件
+    $HADOOP_HOME/bin/hadoop fs -rm /$application/db/$1/$dt/_SUCCESS
+
     # 生成lzo索引文件
     $HADOOP_HOME/bin/hadoop jar \
         $HADOOP_HOME/share/hadoop/common/hadoop-lzo-0.4.20.jar \
         com.hadoop.compression.lzo.DistributedLzoIndexer \
         /$application/db/$1/$dt
-    
-    # 删除垃圾文件
-    rm -f ./*.java
-}
 
-load_into_hive() {
-  hiveSql="
-  use data_warehouse_demo;
-  load data inpath '/$application/db/$1/$dt' overwrite into table $2 partition(dt='$dt');
-  "
-  $HIVE_HOME/bin/hive -e "$hiveSql"
+    # 导入到hive
+      hiveQl="
+      use data_warehouse_demo;
+      load data inpath '/$application/db/$1/$dt' overwrite into table $3 partition(dt='$dt');
+    "
+    $HIVE_HOME/bin/hive -e "$hiveQl"
+
+    # 删除本地垃圾文件
+    rm -f ./*.java
 }
 
 import_t_province() {
@@ -68,7 +73,8 @@ import_t_province() {
       t_province
     WHERE
       1 = 1
-    "
+    " \
+    "ods_province_db"
 }
 
 import_t_user() {
@@ -90,7 +96,8 @@ import_t_user() {
           t_user
       WHERE
           1 = 1
-      "
+      " \
+      "ods_user_db"
 }
 
 import_t_favor_info() {
@@ -107,7 +114,8 @@ import_t_favor_info() {
       t_favor_info
     WHERE
       1 = 1
-    "
+    " \
+    "ods_favor_info_db"
 }
 
 import_t_commodity() {
@@ -126,7 +134,8 @@ import_t_commodity() {
       t_commodity
     WHERE
       1 = 1
-    "
+    " \
+    "ods_commodity_db"
 }
 
 import_t_payment_info() {
@@ -144,7 +153,8 @@ import_t_payment_info() {
       t_payment_info
     WHERE
       1 = 1
-    "
+    " \
+    "ods_payment_info_db"
 }
 
 import_t_order_status_transition() {
@@ -160,7 +170,8 @@ import_t_order_status_transition() {
       t_order_status_transition
     WHERE
       1 = 1
-    "
+    " \
+    "ods_order_status_transition_db"
 }
 
 import_t_evaluation() {
@@ -179,7 +190,8 @@ import_t_evaluation() {
       t_evaluation
     WHERE
       1 = 1
-    "
+    " \
+    "ods_evaluation_db"
 }
 
 import_t_cart() {
@@ -196,7 +208,8 @@ import_t_cart() {
       t_cart
     WHERE
       1 = 1
-    "
+    " \
+    "ods_cart_db"
 }
 
 import_t_cart_item() {
@@ -219,7 +232,8 @@ import_t_cart_item() {
       t_cart_item
     WHERE
       1 = 1
-    "
+    " \
+    "ods_cart_item_db"
 }
 
 import_t_order() {
@@ -243,7 +257,8 @@ import_t_order() {
       t_order
     WHERE
       1 = 1
-    "
+    " \
+    "ods_order_db"
 }
 
 import_t_order_item() {
@@ -267,19 +282,18 @@ import_t_order_item() {
       t_order_item
     WHERE
       1 = 1
-    "
+    " \
+    "ods_order_item_db"
 }
 
 import_t_province
-#import_t_user
-#import_t_favor_info
-#import_t_commodity
-#import_t_payment_info
-#import_t_order_status_transition
-#import_t_evaluation
-#import_t_cart
-#import_t_cart_item
-#import_t_order
-#import_t_order_item
-
-load_into_hive "t_province" "ods_province_db"
+import_t_user
+import_t_favor_info
+import_t_commodity
+import_t_payment_info
+import_t_order_status_transition
+import_t_evaluation
+import_t_cart
+import_t_cart_item
+import_t_order
+import_t_order_item
