@@ -66,11 +66,6 @@ import_table() {
       "
     fi
 
-    hiveQl="
-      set mapreduce.job.queuename=hive;
-      use data_warehouse_demo;
-      load data inpath '/$application/db/$1/$dt' overwrite into table $3 partition(dt='$dt');
-    "
     $HIVE_HOME/bin/hive -e "$hiveQl"
 
     # 删除本地垃圾文件
