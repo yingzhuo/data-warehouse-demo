@@ -28,17 +28,6 @@ else
     date=`date -d '-1 day' +%F`
 fi
 
-print_env() {
-    echo "--------------------------------------------------------------------------------------------"
-    echo "DATE        : $date"
-    echo "SQOOP       : $sqoop"
-    echo "HADOOP      : $hadoop"
-    echo "DB          : $db"
-    echo "DB-username : $dbusername"
-    echo "DB-password : $dbpassword"
-    echo "--------------------------------------------------------------------------------------------"
-}
-
 import_table() {
     # 导入数据
     $sqoop import \
