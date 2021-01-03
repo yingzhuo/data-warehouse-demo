@@ -11,7 +11,7 @@ private[robot] class LoginRobot(em: EntityManager) extends AbstractRobot(em) {
 
   private val log = LoggerFactory.getLogger(classOf[LoginRobot])
 
-  @Scheduled(fixedRate = 3000L)
+  @Scheduled(fixedRate = 360000L)
   def execute(): Unit = {
     val user = pickupUser()
     log.debug("pickup user| id={}, username={}", user.id, user.username)
