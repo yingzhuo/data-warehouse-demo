@@ -6,7 +6,7 @@ import org.slf4j.LoggerFactory
 import org.springframework.scheduling.annotation.Scheduled
 import org.springframework.stereotype.Component
 
-//@Component
+@Component
 private[robot] class LoginRobot(em: EntityManager) extends AbstractRobot(em) {
 
   private val log = LoggerFactory.getLogger(classOf[LoginRobot])
