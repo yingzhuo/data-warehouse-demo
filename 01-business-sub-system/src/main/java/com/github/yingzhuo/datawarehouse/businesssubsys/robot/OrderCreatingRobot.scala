@@ -13,7 +13,8 @@ private[robot] class OrderCreatingRobot(em: EntityManager,
                                         orderService: OrderService
                                        ) extends AbstractRobot(em) {
 
-  @Scheduled(fixedRate = 30000L)
+  // 每25分钟产生一个新订单
+  @Scheduled(fixedRate = 1500000L)
   def create(): Unit = {
     val user = super.pickupUser();
     val commodity = super.pickupCommodity()

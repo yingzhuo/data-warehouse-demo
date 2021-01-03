@@ -11,7 +11,8 @@ private[robot] class OrderUpdatingRobot(em: EntityManager,
                                         orderService: OrderService,
                                         evaluationService: EvaluationService) extends AbstractRobot(em) {
 
-  @Scheduled(fixedRate = 15000L)
+  // 每13分钟变更一个订单的状态
+  @Scheduled(fixedRate = 780000L)
   def update(): Unit = {
 
     val order = super.pickupOrder()

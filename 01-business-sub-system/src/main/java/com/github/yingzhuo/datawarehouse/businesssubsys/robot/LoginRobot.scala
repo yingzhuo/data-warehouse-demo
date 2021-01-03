@@ -11,6 +11,7 @@ private[robot] class LoginRobot(em: EntityManager) extends AbstractRobot(em) {
 
   private val log = LoggerFactory.getLogger(classOf[LoginRobot])
 
+  // 每6分钟生成一条登录日志
   @Scheduled(fixedRate = 360000L)
   def execute(): Unit = {
     val user = pickupUser()
