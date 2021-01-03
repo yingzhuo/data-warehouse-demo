@@ -190,7 +190,7 @@ create external table ods_evaluation_db
 ---
 -- 购物车
 ---
-drop database if exists ods_cart_db;
+drop table if exists ods_cart_db;
 
 create external table ods_cart_db
 (
@@ -212,7 +212,7 @@ create external table ods_cart_db
 ---
 -- 购物车详情
 ---
-drop database if exists ods_cart_item_db;
+drop table if exists ods_cart_item_db;
 
 create external table ods_cart_item_db
 (
@@ -240,7 +240,7 @@ create external table ods_cart_item_db
 ---
 -- 订单
 ---
-drop database if exists ods_order_db;
+drop table if exists ods_order_db;
 
 create external table ods_order_db
 (
@@ -269,7 +269,7 @@ create external table ods_order_db
 ---
 -- 订单详情
 ---
-drop database if exists ods_order_item_db;
+drop table if exists ods_order_item_db;
 
 create external table ods_order_item_db
 (

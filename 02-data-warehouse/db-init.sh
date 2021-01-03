@@ -8,7 +8,7 @@ export NOT_PARTITION_TABLE="not-partition-table"
 pwd=$(dirname "$0")
 source "$pwd"/common/include.sh
 
-import_t_province_to_ods() {
+function import_t_province_to_ods() {
   import_db_table_to_ods \
     "t_province" \
     "
@@ -26,8 +26,8 @@ import_t_province_to_ods() {
     "$NOT_PARTITION_TABLE"
 }
 
-import_t_user() {
-  import_table \
+function import_t_user_to_ods() {
+  import_db_table_to_ods \
       "t_user" \
       "
       SELECT
@@ -49,8 +49,8 @@ import_t_user() {
       "ods_user_db"
 }
 
-import_t_favor_info() {
-  import_table \
+function import_t_favor_info_to_ods() {
+  import_db_table_to_ods \
     "t_favor_info" \
     "
     SELECT
@@ -67,8 +67,8 @@ import_t_favor_info() {
     "ods_favor_info_db"
 }
 
-import_t_commodity() {
-  import_table \
+function import_t_commodity_to_ods() {
+  import_db_table_to_ods \
     "t_commodity" \
     "
     SELECT
@@ -87,8 +87,8 @@ import_t_commodity() {
     "ods_commodity_db"
 }
 
-import_t_payment_info() {
-  import_table \
+function import_t_payment_info_to_ods() {
+  import_db_table_to_ods \
     "t_payment_info" \
     "
     SELECT
@@ -106,8 +106,8 @@ import_t_payment_info() {
     "ods_payment_info_db"
 }
 
-import_t_order_status_transition() {
-  import_table \
+function import_t_order_status_transition_to_ods() {
+  import_db_table_to_ods \
     "t_order_status_transition" \
     "
     SELECT
@@ -123,8 +123,8 @@ import_t_order_status_transition() {
     "ods_order_status_transition_db"
 }
 
-import_t_evaluation() {
-  import_table \
+function import_t_evaluation_to_ods() {
+  import_db_table_to_ods \
     "t_evaluation" \
     "
     SELECT
@@ -143,8 +143,8 @@ import_t_evaluation() {
     "ods_evaluation_db"
 }
 
-import_t_cart() {
-  import_table \
+function import_t_cart_to_ods() {
+  import_db_table_to_ods \
     "t_cart" \
     "
     SELECT
@@ -161,8 +161,8 @@ import_t_cart() {
     "ods_cart_db"
 }
 
-import_t_cart_item() {
-  import_table \
+function import_t_cart_item_to_ods() {
+  import_db_table_to_ods \
     "t_cart_item" \
     "
     SELECT
@@ -185,8 +185,8 @@ import_t_cart_item() {
     "ods_cart_item_db"
 }
 
-import_t_order() {
-  import_table \
+function import_t_order_to_ods() {
+  import_db_table_to_ods \
     "t_order" \
     "
     SELECT
@@ -210,8 +210,8 @@ import_t_order() {
     "ods_order_db"
 }
 
-import_t_order_item() {
-  import_table \
+function import_t_order_item_ods() {
+  import_db_table_to_ods \
     "t_order_item" \
     "
     SELECT
@@ -236,16 +236,16 @@ import_t_order_item() {
 }
 
 import_t_province_to_ods
-#import_t_user
-#import_t_favor_info
-#import_t_commodity
-#import_t_payment_info
-#import_t_order_status_transition
-#import_t_evaluation
-#import_t_cart
-#import_t_cart_item
-#import_t_order
-#import_t_order_item
+import_t_user_to_ods
+import_t_favor_info_to_ods
+import_t_commodity_to_ods
+import_t_payment_info_to_ods
+import_t_order_status_transition_to_ods
+import_t_evaluation_to_ods
+import_t_cart_to_ods
+import_t_cart_item_to_ods
+import_t_order_to_ods
+import_t_order_item_ods
 
 # =======================================================================================================================
 # ODS -> DWD
