@@ -1,22 +1,21 @@
 package com.github.yingzhuo.datawarehouse.businesssubsys.robot
 
-import com.github.yingzhuo.datawarehouse.businesssubsys.dao.UserDao
 import com.github.yingzhuo.datawarehouse.businesssubsys.log.UserBehavior
-import org.springframework.context.annotation.Profile
+import javax.persistence.EntityManager
+import org.slf4j.LoggerFactory
 import org.springframework.scheduling.annotation.Scheduled
 import org.springframework.stereotype.Component
 
-import scala.util.Random
+//@Component
+private[robot] class LoginRobot(em: EntityManager) extends AbstractRobot(em) {
 
-@Component
-@Profile(Array("!norobot"))
-private[robot] class LoginRobot(userDao: UserDao) {
+  private val log = LoggerFactory.getLogger(classOf[LoginRobot])
 
-  @Scheduled(fixedRate = 1000L)
+  @Scheduled(fixedRate = 3000L)
   def execute(): Unit = {
-    val ids = userDao.findAllIds()
-    val id = ids.get(Random.nextInt(10000) % ids.size())
-    UserBehavior.login(id, "OK")
+    val user = pickupUser()
+    log.debug("pickup user| id={}, username={}", user.id, user.username)
+    UserBehavior.login(user.id, "OK")
   }
 
 }

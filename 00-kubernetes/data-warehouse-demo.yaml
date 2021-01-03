@@ -34,7 +34,7 @@ metadata:
   name: businsess-sub-system
   namespace: data-warehouse-demo
 spec:
-  replicas: 4
+  replicas: 1
   selector:
     matchLabels:
       app: business-sub-system
