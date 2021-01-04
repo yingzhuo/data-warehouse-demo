@@ -24,7 +24,7 @@ private[robot] class OrderUpdatingRobot(em: EntityManager,
 
   // 每13分钟变更一个订单的状态
   @Scheduled(fixedRate = 780000L)
-  def update(): Unit = {
+  def execute(): Unit = {
 
     val order = super.pickupOrder()
 
