@@ -18,7 +18,7 @@ export HIVE_HOME=/opt/hive
 if [ "x$1" != "x" ]; then
     dt=$1
 else
-    dt=`date -d '-1 day' +%F`
+    dt=$(date -d '-1 day' +%F)
 fi
 
 #------------------------------------------------------------------------------------------------------------
@@ -26,8 +26,8 @@ fi
 #------------------------------------------------------------------------------------------------------------
 
 hiveSql="
-set mapreduce.job.queuename=hive;
 use data_warehouse_demo;
+set mapreduce.job.queuename=hive;
 load data inpath '/data-warehouse-demo/log/login/$dt' overwrite into table ods_login_log partition(dt='$dt');
 "
 
@@ -45,6 +45,10 @@ $HADOOP_HOME/bin/hadoop \
 #------------------------------------------------------------------------------------------------------------
 
 hiveSql="
+use data_warehouse_demo;
+set mapreduce.job.queuename=hive;
+set hive.input.format=org.apache.hadoop.hive.ql.io.HiveInputFormat;
+
 insert overwrite table dwd_login_log partition (dt='$dt')
 select user_id, result from ods_login_log where result = 'OK' and dt = '$dt';
 "
