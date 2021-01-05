@@ -77,6 +77,8 @@ function import_t_commodity_to_ods() {
       price,
       discount,
       description,
+      trade_marker_id,
+      category_3_id,
       created_date,
       last_updated_date
     FROM
@@ -85,6 +87,78 @@ function import_t_commodity_to_ods() {
       1 = 1
     " \
     "ods_commodity_db"
+}
+
+function import_t_trade_marker_to_ods() {
+    import_db_table_to_ods \
+    "t_trade_marker" \
+    "
+    SELECT
+      id,
+      name,
+      home_page,
+      description,
+      created_date,
+      last_updated_date
+    FROM
+      t_trade_marker
+    WHERE
+      1 = 1
+    " \
+    "ods_trade_marker_db"
+}
+
+function import_t_category_1_to_ods() {
+    import_db_table_to_ods \
+    "t_category_1" \
+    "
+    SELECT
+      id,
+      name,
+      created_date,
+      last_updated_date
+    FROM
+      t_category_1
+    WHERE
+      1 = 1
+    " \
+    "ods_category_1_db"
+}
+
+function import_t_category_2_to_ods() {
+  import_db_table_to_ods \
+    "t_category_2" \
+    "
+    SELECT
+      id,
+      name,
+      parent_id,
+      created_date,
+      last_updated_date
+    FROM
+      t_category_2
+    WHERE
+      1 = 1
+    " \
+    "ods_category_2_db"
+}
+
+function import_t_category_3_to_ods() {
+  import_db_table_to_ods \
+    "t_category_3" \
+    "
+    SELECT
+      id,
+      name,
+      parent_id,
+      created_date,
+      last_updated_date
+    FROM
+      t_category_3
+    WHERE
+      1 = 1
+    " \
+    "ods_category_3_db"
 }
 
 function import_t_payment_info_to_ods() {
@@ -237,8 +311,12 @@ function import_t_order_item_ods() {
 
 import_t_province_to_ods
 import_t_user_to_ods
-import_t_favor_info_to_ods
 import_t_commodity_to_ods
+import_t_trade_marker_to_ods
+import_t_category_1_to_ods
+import_t_category_2_to_ods
+import_t_category_3_to_ods
+import_t_favor_info_to_ods
 import_t_payment_info_to_ods
 import_t_order_status_transition_to_ods
 import_t_evaluation_to_ods

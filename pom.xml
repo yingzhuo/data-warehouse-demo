@@ -13,9 +13,6 @@
     <packaging>pom</packaging>
 
     <properties>
-        <!-- version -->
-        <version>unknown</version>
-
         <!-- encoding -->
         <encoding>UTF-8</encoding>
 

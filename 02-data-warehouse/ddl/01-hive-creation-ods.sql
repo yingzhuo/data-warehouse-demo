@@ -108,6 +108,8 @@ create external table ods_commodity_db
     `price`             int comment '价格(分)',
     `discount`          int comment '折扣',
     `description`       string comment '描述',
+    `trade_marker_id`   string comment '品牌ID',
+    `category_3_id`     string comment '商品三级分类ID',
     `created_date`      string comment '记录创建时间',
     `last_updated_date` string comment '记录最后更新时间'
 )
@@ -119,6 +121,94 @@ create external table ods_commodity_db
         inputformat 'com.hadoop.mapred.DeprecatedLzoTextInputFormat'
         outputformat 'org.apache.hadoop.hive.ql.io.HiveIgnoreKeyTextOutputFormat'
     location '/hive/data-warehouse-demo/ods/ods_commodity_db';
+
+---
+-- 品牌
+---
+drop table if exists ods_trade_marker_db;
+
+create external table ods_trade_marker_db
+(
+    `id`                string comment 'ID',
+    `name`              string comment '名称',
+    `home_page`         string comment '主页',
+    `description`       string comment "描述信息",
+    `created_date`      string comment '记录创建时间',
+    `last_updated_date` string comment '记录最后更新时间'
+)
+    comment '品牌信息'
+    partitioned by (`dt` string comment '日期分区')
+    row format delimited
+        fields terminated by '\001'
+    stored as
+        inputformat 'com.hadoop.mapred.DeprecatedLzoTextInputFormat'
+        outputformat 'org.apache.hadoop.hive.ql.io.HiveIgnoreKeyTextOutputFormat'
+    location '/hive/data-warehouse-demo/ods/ods_trade_marker_db';
+
+---
+-- 商品一级分类
+---
+drop table if exists ods_category_1_db;
+
+create external table ods_category_1_db
+(
+    `id`                string comment 'ID',
+    `name`              string comment '名称',
+    `created_date`      string comment '记录创建时间',
+    `last_updated_date` string comment '记录最后更新时间'
+)
+    comment '商品一级分类'
+    partitioned by (`dt` string comment '日期分区')
+    row format delimited
+        fields terminated by '\001'
+    stored as
+        inputformat 'com.hadoop.mapred.DeprecatedLzoTextInputFormat'
+        outputformat 'org.apache.hadoop.hive.ql.io.HiveIgnoreKeyTextOutputFormat'
+    location '/hive/data-warehouse-demo/ods/ods_category_1_db';
+
+---
+-- 商品二级分类
+---
+drop table if exists ods_category_2_db;
+
+create external table ods_category_2_db
+(
+    `id`                string comment 'ID',
+    `name`              string comment '名称',
+    `parent_id`         string comment '父分类',
+    `created_date`      string comment '记录创建时间',
+    `last_updated_date` string comment '记录最后更新时间'
+)
+    comment '商品二级分类'
+    partitioned by (`dt` string comment '日期分区')
+    row format delimited
+        fields terminated by '\001'
+    stored as
+        inputformat 'com.hadoop.mapred.DeprecatedLzoTextInputFormat'
+        outputformat 'org.apache.hadoop.hive.ql.io.HiveIgnoreKeyTextOutputFormat'
+    location '/hive/data-warehouse-demo/ods/ods_category_2_db';
+
+---
+-- 商品三级分类
+---
+drop table if exists ods_category_3_db;
+
+create external table ods_category_3_db
+(
+    `id`                string comment 'ID',
+    `name`              string comment '名称',
+    `parent_id`         string comment '父分类',
+    `created_date`      string comment '记录创建时间',
+    `last_updated_date` string comment '记录最后更新时间'
+)
+    comment '商品三级分类'
+    partitioned by (`dt` string comment '日期分区')
+    row format delimited
+        fields terminated by '\001'
+    stored as
+        inputformat 'com.hadoop.mapred.DeprecatedLzoTextInputFormat'
+        outputformat 'org.apache.hadoop.hive.ql.io.HiveIgnoreKeyTextOutputFormat'
+    location '/hive/data-warehouse-demo/ods/ods_category_3_db';
 
 ---
 -- 支付信息
