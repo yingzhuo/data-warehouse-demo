@@ -20,12 +20,12 @@ import org.springframework.data.jpa.domain.support.AuditingEntityListener
 import scala.beans.BeanProperty
 
 /**
- * 商品
+ * 品牌
  */
 @Entity
-@Table(name = "t_commodity")
+@Table(name = "t_trade_marker")
 @EntityListeners(Array(classOf[AuditingEntityListener]))
-class Commodity extends AnyRef with Serializable {
+class TradeMarker extends AnyRef with Serializable {
 
   /**
    * ID
@@ -36,46 +36,25 @@ class Commodity extends AnyRef with Serializable {
   var id: String = _
 
   /**
-   * 名称
+   * 品牌名称
    */
-  @Column(name = "name", length = 100)
+  @Column(name = "name", length = 20)
   @BeanProperty
   var name: String = _
 
   /**
-   * 详细说明
+   * 说明
    */
-  @Column(name = "description", length = 2000)
+  @Column(name = "description", length = 200)
   @BeanProperty
   var description: String = _
 
   /**
-   * 价格 (分)
+   * 官方主页
    */
-  @Column(name = "price")
+  @Column(name = "home_page", length = 200)
   @BeanProperty
-  var price: Int = _
-
-  /**
-   * 折扣
-   */
-  @Column(name = "discount")
-  @BeanProperty
-  var discount: Int = 100
-
-  /**
-   * 品牌ID
-   */
-  @Column(name = "trade_marker_id", length = 36)
-  @BeanProperty
-  var tradeMarkerId: String = _
-
-  /**
-   * 三级分类ID
-   */
-  @Column(name = "category_3_id", length = 36)
-  @BeanProperty
-  var category3Id: String = _
+  var homePage: String = _
 
   /**
    * 记录创建时间
