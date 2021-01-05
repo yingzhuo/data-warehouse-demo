@@ -53,4 +53,7 @@ insert overwrite table dwd_login_log partition (dt='$dt')
 select user_id, result from ods_login_log where result = 'OK' and dt = '$dt';
 "
 
+insert overwrite table dwd_login_log partition (dt='2020-01-04')
+select user_id, result from ods_login_log where result = 'OK' and dt = '2021-01-04';
+
 $HIVE_HOME/bin/hive -e "$hiveSql"
