@@ -9,6 +9,7 @@
     <version>0.0.1</version>
     <modules>
         <module>01-business-sub-system</module>
+        <module>99-tools</module>
     </modules>
     <packaging>pom</packaging>
 
