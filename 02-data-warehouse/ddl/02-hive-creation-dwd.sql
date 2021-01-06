@@ -52,7 +52,7 @@ create external table dwd_dim_date_db
     tblproperties ('parquet.compression' = 'lzo');
 
 ---
--- 加载
+-- 加载时间维度数据 / 删除时间维度临时表
 ---
 set hive.input.format=org.apache.hadoop.hive.ql.io.HiveInputFormat;
 
@@ -107,4 +107,89 @@ create external table dwd_dim_commodity_db
         fields terminated by '\001'
     stored as parquet
     location '/hive/data-warehouse-demo/dwd/dwd_dim_commodity_db'
+    tblproperties ('parquet.compression' = 'lzo');
+
+---
+-- 省份维度表
+---
+drop table if exists dwd_dim_province_db;
+create external table dwd_dim_province_db
+(
+    `id`         string comment 'ID',
+    `name`       string comment '名称',
+    `short_name` string comment '简称',
+    `region`     string comment '所属地区'
+)
+    comment '省份维度表'
+    row format delimited
+        fields terminated by '\001'
+    stored as parquet
+    location '/hive/data-warehouse-demo/dwd/dwd_dim_province_db'
+    tblproperties ('parquet.compression' = 'lzo');
+
+---
+-- 支付信息事实表
+---
+drop table if exists dwd_fact_payment_info_db;
+create external table dwd_fact_payment_info_db
+(
+    `id`                string comment 'ID',
+    `user_id`           string comment '用户ID',
+    `order_id`          string comment '订单ID',
+    `total_amount`      bigint comment '总计金额',
+    `province_id`       string comment '省份ID',
+    `created_date`      string comment '记录创建时间',
+    `last_updated_date` string comment '记录最后更新时间'
+)
+    comment '支付信息事实表'
+    partitioned by (`dt` string comment '日期分区')
+    row format delimited
+        fields terminated by '\001'
+    stored as parquet
+    location '/hive/data-warehouse-demo/dwd/dwd_fact_payment_info_db'
+    tblproperties ('parquet.compression' = 'lzo');
+
+---
+-- 评价信息事实表
+---
+drop table if exists dwd_fact_evaluation_db;
+create external table dwd_fact_evaluation_db
+(
+    `id`           string comment 'ID',
+    `user_id`      string comment '用户ID',
+    `order_id`     string comment '订单ID',
+    `level`        string comment '评价级别',
+    `text`         string comment '评价信息',
+    `text_len`     string comment '评价信息长度',
+    `province_id`  string comment '省份ID',
+    `created_date` string comment '记录创建时间'
+)
+    comment '评价信息事实表'
+    partitioned by (`dt` string comment '日期分区')
+    row format delimited
+        fields terminated by '\001'
+    stored as parquet
+    location '/hive/data-warehouse-demo/dwd/dwd_fact_evaluation_db'
+    tblproperties ('parquet.compression' = 'lzo');
+
+---
+-- 加购事实表
+---
+drop table if exists dwd_fact_cart_item_db;
+create external table dwd_fact_cart_item_db
+(
+    `id`                    string comment 'id',
+    `commodity_id`          string comment '商品ID',
+    `count`                 int comment '数量',
+    `final_price`           int comment '折后价格',
+    `user_id`               string comment '用户ID',
+    `created_date`          string comment '记录创建时间',
+    `last_updated_date`     string comment '记录最后更新时间'
+)
+    comment '加购事实表'
+    partitioned by (`dt` string comment '日期分区')
+    row format delimited
+        fields terminated by '\001'
+    stored as parquet
+    location '/hive/data-warehouse-demo/dwd/dwd_fact_cart_item_db'
     tblproperties ('parquet.compression' = 'lzo');
