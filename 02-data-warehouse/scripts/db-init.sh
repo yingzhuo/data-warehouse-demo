@@ -7,6 +7,7 @@ export NOT_PARTITION_TABLE="not-partition-table"
 
 pwd=$(dirname "$0")
 source "$pwd"/common/include.sh
+source "$pwd"/common/db_ods_to_dwd.sh
 
 function import_province_to_ods() {
   import_db_to_hdfs \
@@ -105,8 +106,7 @@ function import_trade_marker_to_ods() {
     WHERE
       1 = 1
     " \
-    "ods_trade_marker_db" \
-    "$NOT_PARTITION_TABLE"
+    "ods_trade_marker_db"
 }
 
 function import_category_1_to_ods() {
@@ -298,10 +298,10 @@ function import_order_item_ods() {
 #import_province_to_ods
 #import_user_to_ods
 #import_commodity_to_ods
-import_trade_marker_to_ods
-import_category_1_to_ods
-import_category_2_to_ods
-import_category_3_to_ods
+#import_trade_marker_to_ods
+#import_category_1_to_ods
+#import_category_2_to_ods
+#import_category_3_to_ods
 #import_favor_info_to_ods
 #import_payment_info_to_ods
 #import_order_status_transition_to_ods
@@ -309,3 +309,5 @@ import_category_3_to_ods
 #import_cart_item_to_ods
 #import_order_to_ods
 #import_order_item_ods
+
+ods_to_dwd_dim_commodity_db

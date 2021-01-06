@@ -36,7 +36,7 @@ github:
 	@git push
 
 sync:
-	@ssh ccae@192.168.99.130 'rm -rf /home/ccae/project/data_warehouse_demo && mkdir -p /home/ccae/project/data_warehouse_demo'
+	@ssh ccae@192.168.99.130 'rm -rf /home/ccae/project/data_warehouse_demo/* && mkdir -p /home/ccae/project/data_warehouse_demo'
 	@scp -r $(CURDIR)/02-data-warehouse/* ccae@192.168.99.130:/home/ccae/project/data_warehouse_demo/
 
 .PHONY: usage build-jar build-image push-image clean github sync

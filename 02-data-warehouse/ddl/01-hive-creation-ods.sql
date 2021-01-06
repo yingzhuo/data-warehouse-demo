@@ -130,6 +130,7 @@ create external table ods_trade_marker_db
     `last_updated_date` string comment '记录最后更新时间'
 )
     comment '品牌信息'
+    partitioned by (`dt` string comment '日期分区')
     row format delimited
         fields terminated by '\001'
     stored as
