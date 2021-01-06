@@ -13,6 +13,7 @@ package com.github.yingzhuo.datawarehouse.businesssubsys.domain
 
 import java.util.Date
 
+import com.github.yingzhuo.datawarehouse.businesssubsys.datawarehouse.{DataWarehouse, Policy}
 import javax.persistence._
 import org.springframework.data.annotation.{CreatedDate, LastModifiedDate}
 import org.springframework.data.jpa.domain.support.AuditingEntityListener
@@ -22,6 +23,7 @@ import scala.beans.BeanProperty
 @Entity
 @Table(name = "t_payment_info")
 @EntityListeners(Array(classOf[AuditingEntityListener]))
+@DataWarehouse(policy = Policy.NEW)
 class PaymentInfo extends AnyRef with Serializable {
 
   /**

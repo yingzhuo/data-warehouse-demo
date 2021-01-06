@@ -11,20 +11,9 @@
  */
 package com.github.yingzhuo.datawarehouse.businesssubsys.datawarehouse;
 
-import java.lang.annotation.*;
-
 /**
- * (仅当帮助思考用)
+ * 同步到数据仓库ODS层的策略
  */
-@Documented
-@Inherited
-@Retention(RetentionPolicy.SOURCE)
-@Target(ElementType.TYPE)
-public @interface DataWarehouse {
-
-    /**
-     * 同步到数据仓库ODS层策略
-     */
-    public Policy policy();
-
+public enum Policy {
+    NEVER, ONCE, ALL, NEW, NEW_UPDATED;
 }

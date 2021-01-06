@@ -57,7 +57,7 @@ function create_lzo_index() {
 # 返回值:
 #    无
 ########################################################################################################################
-function import_db_table_to_ods() {
+function import_db_to_hdfs() {
 
     db_table_name=$1
     db_sql=$2

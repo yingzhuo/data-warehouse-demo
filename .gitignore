@@ -38,7 +38,7 @@ hs_err_pid*
 *.backup
 *.pid
 ~*
-./dim_date
+02-data-warehouse/tmp/dim_date
 
 # --------------------------------------
 # maven

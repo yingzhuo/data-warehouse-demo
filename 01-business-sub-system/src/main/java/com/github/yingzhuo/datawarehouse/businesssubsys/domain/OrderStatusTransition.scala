@@ -13,6 +13,7 @@ package com.github.yingzhuo.datawarehouse.businesssubsys.domain
 
 import java.util.Date
 
+import com.github.yingzhuo.datawarehouse.businesssubsys.datawarehouse.{DataWarehouse, Policy}
 import com.github.yingzhuo.datawarehouse.businesssubsys.util.ID
 import javax.persistence._
 import org.springframework.data.annotation.CreatedDate
@@ -26,6 +27,7 @@ import scala.beans.BeanProperty
 @Entity
 @Table(name = "t_order_status_transition")
 @EntityListeners(Array(classOf[AuditingEntityListener]))
+@DataWarehouse(policy = Policy.NEW)
 class OrderStatusTransition extends AnyRef with Serializable {
 
   /**

@@ -5,14 +5,12 @@
 -- author       : 应卓
 --======================================================================================================================
 set mapreduce.job.queuename=hive;
-
 use data_warehouse_demo;
 
 ---
 -- 用户登录行为日志
 ---
 drop table if exists ods_login_log;
-
 create external table ods_login_log
 (
     `user_id` string comment '用户ID',
@@ -31,7 +29,6 @@ create external table ods_login_log
 -- 省份
 ---
 drop table if exists ods_province_db;
-
 create external table ods_province_db
 (
     `id`         string comment 'ID',
@@ -51,7 +48,6 @@ create external table ods_province_db
 -- 用户表
 ---
 drop table if exists ods_user_db;
-
 create external table ods_user_db
 (
     `id`                string comment 'ID',
@@ -78,7 +74,6 @@ create external table ods_user_db
 -- 收藏信息
 ---
 drop table if exists ods_favor_info_db;
-
 create external table ods_favor_info_db
 (
     `id`                string comment 'ID',
@@ -100,7 +95,6 @@ create external table ods_favor_info_db
 -- 商品信息
 ---
 drop table if exists ods_commodity_db;
-
 create external table ods_commodity_db
 (
     `id`                string comment 'ID',
@@ -126,7 +120,6 @@ create external table ods_commodity_db
 -- 品牌
 ---
 drop table if exists ods_trade_marker_db;
-
 create external table ods_trade_marker_db
 (
     `id`                string comment 'ID',
@@ -137,7 +130,6 @@ create external table ods_trade_marker_db
     `last_updated_date` string comment '记录最后更新时间'
 )
     comment '品牌信息'
-    partitioned by (`dt` string comment '日期分区')
     row format delimited
         fields terminated by '\001'
     stored as
@@ -149,7 +141,6 @@ create external table ods_trade_marker_db
 -- 商品一级分类
 ---
 drop table if exists ods_category_1_db;
-
 create external table ods_category_1_db
 (
     `id`                string comment 'ID',
@@ -158,7 +149,6 @@ create external table ods_category_1_db
     `last_updated_date` string comment '记录最后更新时间'
 )
     comment '商品一级分类'
-    partitioned by (`dt` string comment '日期分区')
     row format delimited
         fields terminated by '\001'
     stored as
@@ -170,7 +160,6 @@ create external table ods_category_1_db
 -- 商品二级分类
 ---
 drop table if exists ods_category_2_db;
-
 create external table ods_category_2_db
 (
     `id`                string comment 'ID',
@@ -180,7 +169,6 @@ create external table ods_category_2_db
     `last_updated_date` string comment '记录最后更新时间'
 )
     comment '商品二级分类'
-    partitioned by (`dt` string comment '日期分区')
     row format delimited
         fields terminated by '\001'
     stored as
@@ -192,7 +180,6 @@ create external table ods_category_2_db
 -- 商品三级分类
 ---
 drop table if exists ods_category_3_db;
-
 create external table ods_category_3_db
 (
     `id`                string comment 'ID',
@@ -202,7 +189,6 @@ create external table ods_category_3_db
     `last_updated_date` string comment '记录最后更新时间'
 )
     comment '商品三级分类'
-    partitioned by (`dt` string comment '日期分区')
     row format delimited
         fields terminated by '\001'
     stored as
@@ -214,7 +200,6 @@ create external table ods_category_3_db
 -- 支付信息
 ---
 drop table if exists ods_payment_info_db;
-
 create external table ods_payment_info_db
 (
     `id`                string comment 'ID',
@@ -237,7 +222,6 @@ create external table ods_payment_info_db
 -- 订单状态变迁
 ---
 drop table if exists ods_order_status_transition_db;
-
 create external table ods_order_status_transition_db
 (
     `id`           string comment 'ID',
@@ -258,7 +242,6 @@ create external table ods_order_status_transition_db
 -- 评价
 ---
 drop table if exists ods_evaluation_db;
-
 create external table ods_evaluation_db
 (
     `id`           string comment 'ID',
@@ -278,32 +261,9 @@ create external table ods_evaluation_db
     location '/hive/data-warehouse-demo/ods/ods_evaluation_db';
 
 ---
--- 购物车
----
-drop table if exists ods_cart_db;
-
-create external table ods_cart_db
-(
-    `user_id`           string comment '用户ID',
-    `total_amount`      bigint comment '订单ID',
-    `total_count`       int comment '数量',
-    `created_date`      string comment '记录创建时间',
-    `last_updated_date` string comment '记录最后更新时间'
-)
-    comment '购物车信息'
-    partitioned by (`dt` string comment '日期分区')
-    row format delimited
-        fields terminated by '\001'
-    stored as
-        inputformat 'com.hadoop.mapred.DeprecatedLzoTextInputFormat'
-        outputformat 'org.apache.hadoop.hive.ql.io.HiveIgnoreKeyTextOutputFormat'
-    location '/hive/data-warehouse-demo/ods/ods_cart_db';
-
----
 -- 购物车详情
 ---
 drop table if exists ods_cart_item_db;
-
 create external table ods_cart_item_db
 (
     `id`                    string comment 'id',
@@ -331,7 +291,6 @@ create external table ods_cart_item_db
 -- 订单
 ---
 drop table if exists ods_order_db;
-
 create external table ods_order_db
 (
     `id`                string comment 'id',
