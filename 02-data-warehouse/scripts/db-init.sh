@@ -310,7 +310,9 @@ function import_order_item_ods() {
 #import_order_to_ods
 #import_order_item_ods
 
-ods_to_dwd_dim_commodity_db
-ods_to_dwd_province_db
-ods_to_dwd_evaluation_db
-ods_to_dwd_cart_item_db
+#ods_to_dwd_dim_commodity_db
+#ods_to_dwd_province_db
+#ods_to_dwd_evaluation_db
+#ods_to_dwd_cart_item_db
+#ods_to_dwd_order_db
+#ods_to_dwd_order_item_db

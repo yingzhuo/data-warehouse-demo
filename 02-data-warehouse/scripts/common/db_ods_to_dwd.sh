@@ -136,3 +136,90 @@ where dt = '$CUR_DATE';
 
   $HIVE_HOME/bin/hive -e "$hiveQl"
 }
+
+function ods_to_dwd_order_db() {
+  hiveQl="
+use data_warehouse_demo;
+set mapreduce.job.queuename=hive;
+set hive.input.format=org.apache.hadoop.hive.ql.io.HiveInputFormat;
+
+insert overwrite table dwd_fact_order_db partition (dt)
+select if(new.id is not null, new.id, old.id),
+       if(new.user_id is not null, new.user_id, old.user_id),
+       if(new.status is not null, new.status, old.status),
+       if(new.total_amount is not null, new.total_amount, old.total_amount),
+       if(new.province_id is not null, new.province_id, old.province_id),
+       if(new.canceled_date is not null, new.canceled_date, old.canceled_date),
+       if(new.delivered_date is not null, new.delivered_date, old.delivered_date),
+       if(new.evaluated_date is not null, new.evaluated_date, old.evaluated_date),
+       if(new.payed_date is not null, new.payed_date, old.payed_date),
+       if(new.taked_date is not null, new.taked_date, old.taked_date),
+       if(new.created_date is not null, new.created_date, old.created_date),
+       if(new.last_updated_date is not null, new.last_updated_date, old.last_updated_date),
+       date_format(if(new.created_date is not null, new.created_date, old.created_date), "yyyy-MM-dd") as dt
+from (
+         select id,
+                user_id,
+                status,
+                total_amount,
+                province_id,
+                canceled_date,
+                delivered_date,
+                evaluated_date,
+                payed_date,
+                taked_date,
+                created_date,
+                last_updated_date
+         from ods_order_db
+         where dt in (
+             select date_format(created_date, 'yyyy-MM-dd') as d
+             from ods_order_db
+             where dt = '$CUR_DATE'
+               and date_format(created_date, 'yyyy-MM-dd') is not null
+             group by date_format(created_date, 'yyyy-MM-dd')
+         )
+     ) as old
+         full outer join
+     (
+         select id,
+                user_id,
+                status,
+                total_amount,
+                province_id,
+                canceled_date,
+                delivered_date,
+                evaluated_date,
+                payed_date,
+                taked_date,
+                created_date,
+                last_updated_date
+         from ods_order_db
+         where dt = '$CUR_DATE'
+     ) as new
+     on new.id = old.id;
+  "
+
+  $HIVE_HOME/bin/hive -e "$hiveQl"
+}
+
+function ods_to_dwd_order_item_db() {
+    hiveQl="
+use data_warehouse_demo;
+set mapreduce.job.queuename=hive;
+set hive.input.format=org.apache.hadoop.hive.ql.io.HiveInputFormat;
+
+insert overwrite table dwd_fact_order_item_db partition (dt = '$CUR_DATE')
+select id,
+       order_id,
+       user_id,
+       commodity_id,
+       count,
+       final_price,
+       created_date,
+       last_updated_date
+from ods_order_item_db
+where dt = '$CUR_DATE';
+    "
+
+  "$HIVE_HOME"/bin/hive -e "$hiveQl"
+}

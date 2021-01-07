@@ -178,13 +178,13 @@ create external table dwd_fact_evaluation_db
 drop table if exists dwd_fact_cart_item_db;
 create external table dwd_fact_cart_item_db
 (
-    `id`                    string comment 'id',
-    `commodity_id`          string comment '商品ID',
-    `count`                 int comment '数量',
-    `final_price`           int comment '折后价格',
-    `user_id`               string comment '用户ID',
-    `created_date`          string comment '记录创建时间',
-    `last_updated_date`     string comment '记录最后更新时间'
+    `id`                string comment 'id',
+    `commodity_id`      string comment '商品ID',
+    `count`             int comment '数量',
+    `final_price`       int comment '折后价格',
+    `user_id`           string comment '用户ID',
+    `created_date`      string comment '记录创建时间',
+    `last_updated_date` string comment '记录最后更新时间'
 )
     comment '加购事实表'
     partitioned by (`dt` string comment '日期分区')
@@ -192,4 +192,54 @@ create external table dwd_fact_cart_item_db
         fields terminated by '\001'
     stored as parquet
     location '/hive/data-warehouse-demo/dwd/dwd_fact_cart_item_db'
+    tblproperties ('parquet.compression' = 'lzo');
+
+---
+-- 订单事实表
+---
+drop table if exists dwd_fact_order_db;
+create external table dwd_fact_order_db
+(
+    `id`                string comment 'id',
+    `user_id`           string comment '用户ID',
+    `status`            string comment '订单状态',
+    `total_amount`      bigint comment '订单总价格',
+    `province_id`       string comment '身份ID',
+    `canceled_date`     string comment '订单取消时间',
+    `delivered_date`    string comment '订单发货时间',
+    `evaluated_date`    string comment '订单评价时间',
+    `payed_date`        string comment '订单支付时间',
+    `taked_date`        string comment '订单收货时间',
+    `created_date`      string comment '记录创建时间',
+    `last_updated_date` string comment '记录最后更新时间'
+)
+    comment '订单事实表'
+    partitioned by (`dt` string comment '日期分区')
+    row format delimited
+        fields terminated by '\001'
+    stored as parquet
+    location '/hive/data-warehouse-demo/dwd/dwd_fact_order_db'
+    tblproperties ('parquet.compression' = 'lzo');
+
+---
+-- 订单详情事实表
+---
+drop table if exists dwd_fact_order_item_db;
+create external table dwd_fact_order_item_db
+(
+    `id`                    string comment 'id',
+    `order_id`              string comment '所属订单ID',
+    `user_id`               string comment '用户ID',
+    `commodity_id`          string comment '商品ID',
+    `count`                 int comment '数量',
+    `final_price`           int comment '折后价格',
+    `created_date`          string comment '记录创建时间',
+    `last_updated_date`     string comment '记录最后更新时间'
+)
+    comment '订单详情事实表'
+    partitioned by (`dt` string comment '日期分区')
+    row format delimited
+        fields terminated by '\001'
+    stored as parquet
+    location '/hive/data-warehouse-demo/dwd/dwd_fact_order_item_db'
     tblproperties ('parquet.compression' = 'lzo');
