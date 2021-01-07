@@ -11,29 +11,40 @@
  */
 package com.github.yingzhuo.datawarehouse.businesssubsys.robot
 
-import com.github.yingzhuo.datawarehouse.businesssubsys.service.{CartService, OrderService}
+import com.github.yingzhuo.datawarehouse.businesssubsys.service.UserService
 import javax.persistence.EntityManager
 import org.springframework.scheduling.annotation.Scheduled
 import org.springframework.stereotype.Component
 
+import scala.collection.mutable.ListBuffer
 import scala.util.Random
 
 @Component
-private[robot] class OrderCreatingRobot(em: EntityManager,
-                                        cartService: CartService,
-                                        orderService: OrderService
-                                       ) extends AbstractRobot(em) {
+private[robot] class UserLoginPasswordChangingRobot(em: EntityManager, userService: UserService) extends AbstractRobot(em) {
 
-  // 每25分钟产生一个新订单
-  @Scheduled(fixedRate = 1500000L)
+  private val passwordPool: List[String] = {
+    val pool = new ListBuffer[String]()
+    pool += "000000"
+    pool += "111111"
+    pool += "222222"
+    pool += "333333"
+    pool += "444444"
+    pool += "555555"
+    pool += "666666"
+    pool += "777777"
+    pool += "888888"
+    pool += "999999"
+    pool.toList
+  }
+
+  // 每16小时一个随机用户修改一次密码
+  @Scheduled(fixedRate = 57600000)
   def execute(): Unit = {
     val user = super.pickupUser()
-    val commodity = super.pickupCommodity()
-    val province = super.pickupProvince()
-
-    cartService.emptyCartForUser(user.id)
-    cartService.addCommodityForUser(user.id, commodity.id, Random.between(1, 4))
-    orderService.createOrderFromCart(user.id, province.id)
+    val username = user.username
+    val oldPwd = user.loginPassword
+    val newPwd = passwordPool(Random.between(0, passwordPool.size))
+    userService.changePwd(username, oldPwd, newPwd)
   }
 
 }

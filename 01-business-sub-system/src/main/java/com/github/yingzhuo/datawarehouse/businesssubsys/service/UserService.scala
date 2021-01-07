@@ -17,4 +17,6 @@ trait UserService {
 
   def logout(username: String): Boolean
 
+  def changePwd(username: String, oldPassword: String, newPassword: String): Boolean
+
 }

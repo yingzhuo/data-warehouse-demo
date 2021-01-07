@@ -63,4 +63,20 @@ protected class UserServiceImpl(userDao: UserDao) extends AnyRef with UserServic
     }
   }
 
+  @Transactional(propagation = Propagation.SUPPORTS)
+  override def changePwd(username: String, oldPassword: String, newPassword: String): Boolean = {
+    if (username == null || username.isEmpty) {
+      return false
+    }
+
+    val user = userDao.findByUsername(username)
+    if (user == null) return false
+
+    if (user.loginPassword != oldPassword) return false
+
+    user.loginPassword = newPassword
+    userDao.saveAndFlush(user)
+    true
+  }
+
 }
