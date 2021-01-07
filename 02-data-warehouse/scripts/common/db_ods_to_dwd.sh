@@ -3,7 +3,7 @@
 # 作者: 应卓
 #------------------------------------------------------------------------------------------------------------
 
-function ods_to_dwd_dim_commodity_db() {
+function ods_to_dwd_commodity_db() {
   hiveQl="
 use data_warehouse_demo;
 set mapreduce.job.queuename=hive;
@@ -45,7 +45,7 @@ from ods_commodity_db c
 where c.dt = '$CUR_DATE';
   "
 
-  $HIVE_HOME/bin/hive -e "$hiveQl"
+  "$HIVE_HOME"/bin/hive -e "$hiveQl"
 }
 
 function ods_to_dwd_province_db() {
@@ -62,7 +62,7 @@ select id,
 from ods_province_db;
   "
 
-  $HIVE_HOME/bin/hive -e "$hiveQl"
+  "$HIVE_HOME"/bin/hive -e "$hiveQl"
 }
 
 function ods_to_dwd_payment_info_db() {
@@ -86,7 +86,7 @@ from ods_payment_info_db as p
 where p.dt = '$CUR_DATE';
   "
 
-  $HIVE_HOME/bin/hive -e "$hiveQl"
+  "$HIVE_HOME"/bin/hive -e "$hiveQl"
 }
 
 function ods_to_dwd_evaluation_db() {
@@ -113,7 +113,7 @@ where
     ev.dt = '$CUR_DATE';
   "
 
-  $HIVE_HOME/bin/hive -e "$hiveQl"
+  "$HIVE_HOME"/bin/hive -e "$hiveQl"
 }
 
 function ods_to_dwd_cart_item_db() {
@@ -134,7 +134,7 @@ from ods_cart_item_db
 where dt = '$CUR_DATE';
   "
 
-  $HIVE_HOME/bin/hive -e "$hiveQl"
+  "$HIVE_HOME"/bin/hive -e "$hiveQl"
 }
 
 function ods_to_dwd_order_db() {
@@ -156,7 +156,7 @@ select if(new.id is not null, new.id, old.id),
        if(new.taked_date is not null, new.taked_date, old.taked_date),
        if(new.created_date is not null, new.created_date, old.created_date),
        if(new.last_updated_date is not null, new.last_updated_date, old.last_updated_date),
-       date_format(if(new.created_date is not null, new.created_date, old.created_date), "yyyy-MM-dd") as dt
+       date_format(if(new.created_date is not null, new.created_date, old.created_date), 'yyyy-MM-dd') as dt
 from (
          select id,
                 user_id,
@@ -199,7 +199,7 @@ from (
      on new.id = old.id;
   "
 
-  $HIVE_HOME/bin/hive -e "$hiveQl"
+  "$HIVE_HOME"/bin/hive -e "$hiveQl"
 }
 
 function ods_to_dwd_order_item_db() {
@@ -220,6 +220,51 @@ select id,
 from ods_order_item_db
 where dt = '$CUR_DATE';
     "
+
+  "$HIVE_HOME"/bin/hive -e "$hiveQl"
+}
+
+function ods_to_dwd_user_db() {
+  hiveQl="
+use data_warehouse_demo;
+set mapreduce.job.queuename=hive;
+set hive.input.format=org.apache.hadoop.hive.ql.io.HiveInputFormat;
+
+insert overwrite table dwd_dim_user_db
+select id,
+       name,
+       username,
+       phone_number,
+       avatar_url,
+       email_addr,
+       gender,
+       'x', -- 密码脱敏
+       created_date,
+       last_updated_date,
+       '$CUR_DATE',
+       '9999-99-99'
+from ods_user_db
+where dt = '$CUR_DATE'
+union all
+select his.id,
+       his.name,
+       his.username,
+       his.phone_number,
+       his.avatar_url,
+       his.email_addr,
+       his.gender,
+       'x', -- 密码脱敏
+       his.created_date,
+       his.last_updated_date,
+       his.zip_start,
+       if(u.id is not null and his.zip_end = '9999-99-99', date_add(u.dt, -1), his.zip_end)
+from dwd_dim_user_db as his
+         left join
+     (select id, dt
+      from ods_user_db
+      where dt = '$CUR_DATE') as u
+     on u.id = his.id;
+  "
 
   "$HIVE_HOME"/bin/hive -e "$hiveQl"
 }

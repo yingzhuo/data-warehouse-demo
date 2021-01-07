@@ -320,7 +320,6 @@ create external table ods_order_db
 -- 订单详情
 ---
 drop table if exists ods_order_item_db;
-
 create external table ods_order_item_db
 (
     `id`                    string comment 'id',

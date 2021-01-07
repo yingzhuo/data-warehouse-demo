@@ -227,14 +227,14 @@ create external table dwd_fact_order_db
 drop table if exists dwd_fact_order_item_db;
 create external table dwd_fact_order_item_db
 (
-    `id`                    string comment 'id',
-    `order_id`              string comment '所属订单ID',
-    `user_id`               string comment '用户ID',
-    `commodity_id`          string comment '商品ID',
-    `count`                 int comment '数量',
-    `final_price`           int comment '折后价格',
-    `created_date`          string comment '记录创建时间',
-    `last_updated_date`     string comment '记录最后更新时间'
+    `id`                string comment 'id',
+    `order_id`          string comment '所属订单ID',
+    `user_id`           string comment '用户ID',
+    `commodity_id`      string comment '商品ID',
+    `count`             int comment '数量',
+    `final_price`       int comment '折后价格',
+    `created_date`      string comment '记录创建时间',
+    `last_updated_date` string comment '记录最后更新时间'
 )
     comment '订单详情事实表'
     partitioned by (`dt` string comment '日期分区')
@@ -242,4 +242,30 @@ create external table dwd_fact_order_item_db
         fields terminated by '\001'
     stored as parquet
     location '/hive/data-warehouse-demo/dwd/dwd_fact_order_item_db'
+    tblproperties ('parquet.compression' = 'lzo');
+
+---
+-- 用户维度表 (拉链表 | 非分区)
+---
+drop table if exists dwd_dim_user_db;
+create external table dwd_dim_user_db
+(
+    `id`                string comment 'ID',
+    `name`              string comment '姓名',
+    `username`          string comment '用户名',
+    `phone_number`      string comment '电话号码',
+    `avatar_url`        string comment '头像地址',
+    `email_addr`        string comment '电子邮件地址',
+    `gender`            string comment '性别',
+    `login_password`    string comment '登录密码',
+    `created_date`      string comment '记录创建时间',
+    `last_updated_date` string comment '记录最后更新时间',
+    `zip_start`         string comment '拉链日期 - 结束',
+    `zip_end`           string comment '拉链日期 - 结束'
+)
+    comment '用户维度表'
+    row format delimited
+        fields terminated by '\001'
+    stored as parquet
+    location '/hive/data-warehouse-demo/dwd/dwd_dim_user_db'
     tblproperties ('parquet.compression' = 'lzo');
