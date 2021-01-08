@@ -40,6 +40,8 @@ function import_user_to_ods() {
           email_addr,
           gender,
           login_password,
+          level,
+          dob,
           created_date,
           last_updated_date
       FROM

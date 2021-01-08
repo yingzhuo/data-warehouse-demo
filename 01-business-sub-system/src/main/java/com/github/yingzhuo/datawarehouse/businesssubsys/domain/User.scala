@@ -88,6 +88,21 @@ class User extends AnyRef with Serializable {
   var loginPassword: String = _
 
   /**
+   * 会员级别
+   */
+  @Column(name = "level", length = 10)
+  @Enumerated(EnumType.STRING)
+  @BeanProperty
+  var level: UserLevel = _
+
+  /**
+   * 出生日期
+   */
+  @Column(name = "dob", length = 10)
+  @BeanProperty
+  var dob: String = _
+
+  /**
    * 记录创建时间
    */
   @CreatedDate

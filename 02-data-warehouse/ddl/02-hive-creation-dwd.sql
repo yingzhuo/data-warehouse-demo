@@ -258,6 +258,8 @@ create external table dwd_dim_user_db
     `email_addr`        string comment '电子邮件地址',
     `gender`            string comment '性别',
     `login_password`    string comment '登录密码',
+    `level`             string comment '用户级别',
+    `dob`               string comment '出生日期',
     `created_date`      string comment '记录创建时间',
     `last_updated_date` string comment '记录最后更新时间',
     `zip_start`         string comment '拉链日期 - 结束',
