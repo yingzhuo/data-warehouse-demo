@@ -278,7 +278,7 @@ set hive.input.format=org.apache.hadoop.hive.ql.io.HiveInputFormat;
 insert overwrite table dwd_pwd_changed_db partition (dt = '$CUR_DATE')
 select id,
        user_id,
-       'x', -- 脱敏
+       'x',
        created_date
 from ods_pwd_changed_db
 where dt = '$CUR_DATE';
