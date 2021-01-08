@@ -343,3 +343,23 @@ create external table ods_order_item_db
         inputformat 'com.hadoop.mapred.DeprecatedLzoTextInputFormat'
         outputformat 'org.apache.hadoop.hive.ql.io.HiveIgnoreKeyTextOutputFormat'
     location '/hive/data-warehouse-demo/ods/ods_order_item_db';
+
+---
+-- 密码更新日志
+---
+drop table if exists ods_pwd_changed_db;
+create external table ods_pwd_changed_db
+(
+    `id`           string comment 'id',
+    `user_id`      string comment '用户ID',
+    `new_password` string comment '更新后的密码',
+    `created_date` string comment '记录创建时间'
+)
+    comment '密码更新日志'
+    partitioned by (`dt` string comment '日期分区')
+    row format delimited
+        fields terminated by '\001'
+    stored as
+        inputformat 'com.hadoop.mapred.DeprecatedLzoTextInputFormat'
+        outputformat 'org.apache.hadoop.hive.ql.io.HiveIgnoreKeyTextOutputFormat'
+    location '/hive/data-warehouse-demo/ods/ods_pwd_changed_db';

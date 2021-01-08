@@ -268,3 +268,21 @@ from dwd_dim_user_db as his
 
   "$HIVE_HOME"/bin/hive -e "$hiveQl"
 }
+
+function ods_to_dwd_pwd_changed() {
+  hiveQl="
+use data_warehouse_demo;
+set mapreduce.job.queuename=hive;
+set hive.input.format=org.apache.hadoop.hive.ql.io.HiveInputFormat;
+
+insert overwrite table dwd_pwd_changed_db partition (dt = '$CUR_DATE')
+select id,
+       user_id,
+       'x', -- 脱敏
+       created_date
+from ods_pwd_changed_db
+where dt = '$CUR_DATE';
+  "
+
+  "$HIVE_HOME"/bin/hive -e "$hiveQl"
+}

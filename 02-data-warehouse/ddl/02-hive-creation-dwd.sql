@@ -269,3 +269,22 @@ create external table dwd_dim_user_db
     stored as parquet
     location '/hive/data-warehouse-demo/dwd/dwd_dim_user_db'
     tblproperties ('parquet.compression' = 'lzo');
+
+---
+-- 密码更新日志
+---
+drop table if exists dwd_pwd_changed_db;
+create external table dwd_pwd_changed_db
+(
+    `id`           string comment 'id',
+    `user_id`      string comment '用户ID',
+    `new_password` string comment '更新后的密码',
+    `created_date` string comment '记录创建时间'
+)
+    comment '密码更新日志'
+    partitioned by (`dt` string comment '日期分区')
+    row format delimited
+        fields terminated by '\001'
+    stored as parquet
+    location '/hive/data-warehouse-demo/dwd/dwd_pwd_changed_db'
+    tblproperties ('parquet.compression' = 'lzo');

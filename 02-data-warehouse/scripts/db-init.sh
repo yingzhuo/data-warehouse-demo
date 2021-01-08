@@ -295,6 +295,23 @@ function import_order_item_ods() {
     "ods_order_item_db"
 }
 
+function import_pwd_changed_ods() {
+    import_db_to_hdfs \
+    "t_pwd_changed" \
+    "
+    SELECT
+      id,
+      user_id,
+      new_pwd,
+      created_date
+    FROM
+      t_pwd_changed
+    WHERE
+      1 = 1
+    " \
+    "ods_pwd_changed_db"
+}
+
 #import_province_to_ods
 #import_user_to_ods
 #import_commodity_to_ods
@@ -309,6 +326,7 @@ function import_order_item_ods() {
 #import_cart_item_to_ods
 #import_order_to_ods
 #import_order_item_ods
+#import_pwd_changed_ods
 
 #ods_to_dwd_commodity_db
 #ods_to_dwd_province_db
@@ -317,3 +335,4 @@ function import_order_item_ods() {
 #ods_to_dwd_order_db
 #ods_to_dwd_order_item_db
 #ods_to_dwd_user_db
+#ods_to_dwd_pwd_changed
