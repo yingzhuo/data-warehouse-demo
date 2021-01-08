@@ -98,3 +98,6 @@ class Commodity extends AnyRef with Serializable {
   var lastUpdateDate: Date = _
 
 }
+
+object Commodity {
+}

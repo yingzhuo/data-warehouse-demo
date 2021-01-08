@@ -113,3 +113,6 @@ class CartItem extends AnyRef with Serializable with Item {
   var lastUpdateDate: Date = _
 
 }
+
+object CartItem {
+}

@@ -120,3 +120,6 @@ class OrderItem extends AnyRef with Serializable with Item {
   var lastUpdateDate: Date = _
 
 }
+
+object OrderItem {
+}

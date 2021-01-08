@@ -68,3 +68,6 @@ class Province extends AnyRef with Serializable {
   var createdDate: Date = _
 
 }
+
+object Province {
+}

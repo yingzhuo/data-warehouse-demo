@@ -70,3 +70,6 @@ class FavoriteInfo extends AnyRef with Serializable {
   var lastUpdateDate: Date = _
 
 }
+
+object FavoriteInfo {
+}

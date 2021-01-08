@@ -106,3 +106,6 @@ class User extends AnyRef with Serializable {
   var lastUpdateDate: Date = _
 
 }
+
+object User {
+}

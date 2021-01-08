@@ -125,3 +125,6 @@ class Order extends AnyRef with Serializable {
   var evaluatedDate: Date = _
 
 }
+
+object Order {
+}

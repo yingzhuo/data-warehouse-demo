@@ -74,3 +74,6 @@ class PaymentInfo extends AnyRef with Serializable {
   var lastUpdateDate: Date = _
 
 }
+
+object PaymentInfo {
+}

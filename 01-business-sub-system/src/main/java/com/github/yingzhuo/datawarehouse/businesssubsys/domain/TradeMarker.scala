@@ -77,3 +77,6 @@ class TradeMarker extends AnyRef with Serializable {
   var lastUpdateDate: Date = _
 
 }
+
+object TradeMarker {
+}

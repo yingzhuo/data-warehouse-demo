@@ -33,4 +33,5 @@ from dwd_dim_user_db as his
       where dt = '1970-01-01') as u
      on u.id = his.id;
 
-select * from dwd_dim_user_db;
+select *
+from dwd_dim_user_db;

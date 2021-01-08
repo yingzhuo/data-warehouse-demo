@@ -63,3 +63,6 @@ class Category1 extends AnyRef with Serializable {
   var lastUpdateDate: Date = _
 
 }
+
+object Category1 {
+}

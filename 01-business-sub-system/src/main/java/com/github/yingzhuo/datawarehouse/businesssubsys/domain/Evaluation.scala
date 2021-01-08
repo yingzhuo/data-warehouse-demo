@@ -82,3 +82,6 @@ class Evaluation extends AnyRef with Serializable {
   var lastUpdateDate: Date = _
 
 }
+
+object Evaluation {
+}

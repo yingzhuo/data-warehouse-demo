@@ -11,14 +11,15 @@
  */
 package com.github.yingzhuo.datawarehouse.businesssubsys.service
 
-import com.github.yingzhuo.datawarehouse.businesssubsys.dao.UserDao
+import com.github.yingzhuo.datawarehouse.businesssubsys.dao.{PwdChangedDao, UserDao}
+import com.github.yingzhuo.datawarehouse.businesssubsys.domain.PwdChanged
 import com.github.yingzhuo.datawarehouse.businesssubsys.log.UserBehavior
 import org.slf4j.LoggerFactory
 import org.springframework.stereotype.Service
 import org.springframework.transaction.annotation.{Propagation, Transactional}
 
 @Service
-protected class UserServiceImpl(userDao: UserDao) extends AnyRef with UserService {
+protected class UserServiceImpl(userDao: UserDao, pwdChangedDao: PwdChangedDao) extends AnyRef with UserService {
 
   private val logger = LoggerFactory.getLogger(getClass)
 
@@ -76,6 +77,8 @@ protected class UserServiceImpl(userDao: UserDao) extends AnyRef with UserServic
 
     user.loginPassword = newPassword
     userDao.saveAndFlush(user)
+
+    pwdChangedDao.save(PwdChanged(user.id, newPassword))
     true
   }
 
