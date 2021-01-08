@@ -6,7 +6,7 @@
     <!-- =========================== -->
     <springProfile name="default">
         <!-- 登录行为 -->
-        <appender name="UB_LOGIN" class="com.github.yingzhuo.logback.flume.FlumeAvroAppender">
+        <appender name="DEVICE_STARTUP" class="com.github.yingzhuo.logback.flume.FlumeAvroAppender">
             <flumeAgents>
                 10.211.55.3:4141
             </flumeAgents>
@@ -19,11 +19,9 @@
             <headers>
                 <application>data-warehouse-demo</application>
                 <tier>business-sub-system</tier>
-                <type>login</type>
+                <type>device-startup</type>
             </headers>
-            <layout class="ch.qos.logback.classic.PatternLayout">
-                <pattern>%message%n</pattern>
-            </layout>
+            <layout class="com.github.yingzhuo.datawarehouse.businesssubsys.log.HiveLayout"/>
         </appender>
     </springProfile>
 
@@ -32,7 +30,7 @@
     <!-- =========================== -->
     <springProfile name="prod">
         <!-- 登录行为 -->
-        <appender name="UB_LOGIN" class="com.github.yingzhuo.logback.flume.FlumeAvroAppender">
+        <appender name="DEVICE_STARTUP" class="com.github.yingzhuo.logback.flume.FlumeAvroAppender">
             <flumeAgents>
                 192.168.99.127:4141,
                 192.168.99.128:4141,
@@ -47,17 +45,15 @@
             <headers>
                 <application>data-warehouse-demo</application>
                 <tier>business-sub-system</tier>
-                <type>login</type>
+                <type>device-startup</type>
             </headers>
-            <layout class="ch.qos.logback.classic.PatternLayout">
-                <pattern>%message%n</pattern>
-            </layout>
+            <layout class="com.github.yingzhuo.datawarehouse.businesssubsys.log.HiveLayout"/>
         </appender>
     </springProfile>
 
     <!-- =========================================================================================================== -->
-    <logger name="UB_LOGIN" additivity="false" level="trace">
-        <appender-ref ref="UB_LOGIN"/>
+    <logger name="DEVICE_STARTUP" additivity="true" level="info">
+        <appender-ref ref="DEVICE_STARTUP"/>
     </logger>
 
 </included>

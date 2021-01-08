@@ -13,7 +13,6 @@ package com.github.yingzhuo.datawarehouse.businesssubsys.service
 
 import com.github.yingzhuo.datawarehouse.businesssubsys.dao.{PwdChangedDao, UserDao}
 import com.github.yingzhuo.datawarehouse.businesssubsys.domain.PwdChanged
-import com.github.yingzhuo.datawarehouse.businesssubsys.log.UserBehavior
 import org.slf4j.LoggerFactory
 import org.springframework.stereotype.Service
 import org.springframework.transaction.annotation.{Propagation, Transactional}
@@ -41,11 +40,9 @@ protected class UserServiceImpl(userDao: UserDao, pwdChangedDao: PwdChangedDao) 
     password match {
       case x if x == user.getLoginPassword =>
         logger.debug("登录成功: userId={}, username={}", user.id, user.username)
-        UserBehavior.login(user.id, "OK")
         true
       case _ =>
         logger.debug("登录失败: userId={}, username={} | 密码错误", user.id, user.username)
-        UserBehavior.login(user.id, "NG")
         false
     }
   }

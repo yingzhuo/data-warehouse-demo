@@ -9,25 +9,25 @@
  * https://github.com/yingzhuo/data-warehouse-demo
  * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
  */
-package com.github.yingzhuo.datawarehouse.businesssubsys.robot
+package com.github.yingzhuo.datawarehouse.businesssubsys.log
 
-import com.github.yingzhuo.datawarehouse.businesssubsys.log.UserBehavior
-import javax.persistence.EntityManager
 import org.slf4j.LoggerFactory
-import org.springframework.scheduling.annotation.Scheduled
-import org.springframework.stereotype.Component
 
-@Component
-private[robot] class LoginRobot(em: EntityManager) extends AbstractRobot(em) {
+object LoggerWrapper {
 
-  private val log = LoggerFactory.getLogger(classOf[LoginRobot])
+  private val Delimiter: Char = '\u0001' // hive default delimiter
+  private val LoggerDeviceStartup = LoggerFactory.getLogger("DEVICE_STARTUP")
 
-  // 每6分钟生成一条登录日志
-  @Scheduled(fixedRate = 360000L)
-  def execute(): Unit = {
-    val user = pickupUser()
-    log.debug("pickup user| id={}, username={}", user.id, user.username)
-    UserBehavior.login(user.id, "OK")
+  def deviceStartup(deviceId: String, osType: String, brand: String, phoneModel: String): Unit = {
+    val template =
+      s"""
+         |{}$Delimiter
+         |{}$Delimiter
+         |{}$Delimiter
+         |{}$Delimiter
+         |""".stripMargin
+
+    LoggerDeviceStartup.info(template.replaceAll("\n", ""), deviceId, osType, brand, phoneModel)
   }
 
 }

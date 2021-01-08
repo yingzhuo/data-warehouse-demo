@@ -1,0 +1,3000 @@
+cadee2eb-23bc-465d-9220-209281059bf1,Android,Xiaomi,Xiaomi 5
+43f72294-f81c-4daf-aae8-93b9f1bd43ef,Android,Xiaomi,Xiaomi 4
+f1357038-1a04-4e59-84b8-cf5d070de1a4,Android,Xiaomi,Xiaomi 4
+cfe4beee-e3f2-454c-a3a4-801a5c8f22c9,Android,Xiaomi,Xiaomi 5
+c7d4ccd0-bfb8-4406-a428-7a90c38f5f0e,IOS,iphone,iphone 12
+2231aea3-3700-429c-8f5f-33e3281b8e20,IOS,iphone,iphone x
+aab99fa1-f831-4d20-8285-9b9c1dadeecc,Android,Huawei,Huawei Meta 40
+95709a4d-b096-4b57-87fb-8854a78c2662,Android,Xiaomi,Xiaomi 5
+6f51d59e-8260-444e-bf3d-53cec0a8094b,Android,Huawei,Huawei Meta 20
+56bb6ade-8c94-4b8a-928a-eaba5bfe24a8,Android,Xiaomi,Xiaomi 5
+8051a365-f68b-4958-a6e4-9a967bce6ce3,Android,Huawei,Huawei Meta 20
+e639077e-afff-4b7e-99ab-8e16379b5253,Android,Huawei,Huawei Meta 30
+d024dd6d-5627-4ffa-92bc-aa5a8ea9a0ff,WindowsPhone,Lumia,Lumia 1+
+bb74b45e-fc0b-4147-b3d0-04f864728193,Android,Xiaomi,Xiaomi 6 Pro
+c2740b8b-b4d5-46cc-b6d0-68893e8e8f8c,Android,Huawei,Huawei Meta 40
+464dc118-d902-4ef6-a21f-ca884ae504d0,Android,Huawei,Huawei Meta 40 5G
+8edbf4cd-563c-46fc-a9ee-fd2829dfe32f,Android,荣耀,荣耀 10
+fa14f3f1-4946-42a2-b239-c0c72e11ebde,Android,Huawei,Huawei Meta 40 5G
+92e09577-556c-4c4a-b693-4d593440b037,Android,Huawei,Huawei Meta 40 5G
+2f5274a2-d8fe-43a0-bb0c-72b893fbfdd1,Android,Huawei,Huawei Meta 20
+207dd2ef-eb2b-4443-9a8c-86472430f9b4,WindowsPhone,Lumia,Lumia 2
+ffbdbef7-b417-400c-849a-f3944c7812b9,Android,Xiaomi,Xiaomi 3
+6b140d77-6547-48ca-817e-f70db412557e,WindowsPhone,Lumia,Lumia 1+
+68af3851-40d8-4444-8af5-ba1d8c294367,Android,Xiaomi,Xiaomi 4
+8c934dec-3fae-4b11-821c-5be210d8d29c,WindowsPhone,Lumia,Lumia 2
+0f73705e-e5b0-4044-977a-c8aefcac9ef4,Android,Huawei,Huawei Meta 40
+fbb27442-b61a-42b7-af88-8f38aee19c05,Android,Huawei,Huawei Meta 20
+ebba7415-49b4-46e9-981a-9c62eb5da56b,WindowsPhone,Lumia,Lumia 1+
+5d06ae30-8a53-42a2-a6ef-1f5d7fc181e3,WindowsPhone,Lumia,Lumia 1+
+54098110-b2a3-4953-902a-cfb15d0278c9,WindowsPhone,Lumia,Lumia 2
+da4089aa-9515-4a9e-b527-a471ff2563df,Android,Xiaomi,Xiaomi 6 Pro
+644e033f-cc6c-4ea2-a17d-7b8c4fadafc2,Android,Xiaomi,Xiaomi 6 Pro
+69ec2234-429f-4cd0-a689-d13dbea56fe4,Android,Xiaomi,Xiaomi 3
+5be93428-62ff-4c10-b2fb-8d2ca32c16ca,Android,Huawei,Huawei Meta 40 5G
+4665ec5d-55a8-4a48-9785-180f5f6fc86a,WindowsPhone,Lumia,Lumia 2
+9d114938-fa3a-41af-a0bd-8d05efef3f81,Android,Xiaomi,Xiaomi 6 Pro
+64891eb3-2652-4f0f-ab9a-761c40d12b0b,Android,Huawei,Huawei Meta 20
+39277ef8-8f0d-4e72-9d44-7ff8a108f439,Android,Xiaomi,Xiaomi 6 Pro
+c42add6f-24da-4793-a045-b097c4270258,Android,Xiaomi,Xiaomi 6 Pro
+f3fbf19f-f20a-4682-90d5-1ebf9ad44514,Android,Huawei,Huawei Meta 40
+c1075706-a95f-4c74-87db-b89c336d329a,Android,Xiaomi,Xiaomi 6 Pro
+0e7f051a-242f-47f5-beb7-23d23f0a1124,Android,Huawei,Huawei Meta 40 5G
+049fd6cb-e2e3-44dc-80d2-37d9d18a58b6,WindowsPhone,Lumia,Lumia 1+
+0651e7cf-d973-43f7-a961-469f0fb247bd,Android,Xiaomi,Xiaomi 4
+ba54afab-52c6-4532-8fed-e23defe96b0f,Android,Xiaomi,Xiaomi 5
+3e64c40c-94ee-415a-896f-d19d1ff87772,Android,Xiaomi,Xiaomi 3
+ee0467e6-5c96-42ff-a588-15fdd5ec2135,Android,Xiaomi,Xiaomi 6 Pro
+c93bee7a-a270-48d9-a965-428b6ad43c7d,Android,Xiaomi,Xiaomi 6 Pro
+8eecde9c-ca6a-4197-a2bb-9b08dfd82dc1,WindowsPhone,Lumia,Lumia 1+
+e73ac38d-af05-4aa7-995e-91d9086b2cba,Android,荣耀,荣耀 10
+975f8068-ed9a-4eed-b4e5-2ef49d9a8d7e,Android,Huawei,Huawei Meta 40
+336f42fa-8f82-431d-a523-443182a2500a,Android,Huawei,Huawei Meta 40
+374f7f69-b30f-420e-98c5-a5e34d4958b9,Android,Xiaomi,Xiaomi 5
+97aa5ed6-0b48-46f8-b605-b2d57120d731,Android,Xiaomi,Xiaomi 5
+b7ab511c-bd02-4ad5-9e12-3af66fe13af8,WindowsPhone,Lumia,Lumia 1+
+cfaed4cf-b7d2-4470-9fa5-245698014b25,Android,Xiaomi,Xiaomi 5
+039828b7-925d-4101-8df9-9b459889b557,Android,荣耀,荣耀 10
+badb5539-d291-4351-9c12-a577d42c9861,Android,荣耀,荣耀 10
+cad60438-1309-421b-b812-342cd936fd4b,WindowsPhone,Lumia,Lumia 1+
+27818764-19ee-4edb-a08c-f83cebac0899,Android,Huawei,Huawei Meta 20
+7cb34346-4fb3-4549-90c6-f653a9d164b2,WindowsPhone,Lumia,Lumia 2
+3a073506-c0bd-4a39-b4b5-88e3dcb93be0,IOS,iphone,iphone 9
+14fea606-3c06-45a1-a566-6a4ac0b8e443,Android,Xiaomi,Xiaomi 6 Pro
+4059526b-cd67-48c9-a3aa-bf2acf2d6388,WindowsPhone,Lumia,Lumia 1+
+d8ab55ff-6086-471b-a157-5c15266484c0,Android,Huawei,Huawei Meta 40 5G
+8baa037c-4e26-44e9-8ecb-2e4a1d55167b,Android,Huawei,Huawei Meta 40 5G
+7df0bc45-dd85-4239-a90b-147f9c5a6c18,WindowsPhone,Lumia,Lumia 1+
+db8b4e51-1906-4a11-be3c-574a08b6297e,WindowsPhone,Lumia,Lumia 2
+234ab66e-2a88-4404-89f0-4b0a7f01e4de,WindowsPhone,Lumia,Lumia 2
+f1c549fd-2b68-45e1-86fc-aa35de1703b0,Android,荣耀,荣耀 10
+656e815d-3f7e-4687-8961-f670a016aaa2,WindowsPhone,Lumia,Lumia 1+
+bfcf7f9d-9964-4d17-a73c-c87f361314c5,WindowsPhone,Lumia,Lumia 2
+032b3043-abe0-41f4-8068-36fe8457a26d,Android,Huawei,Huawei Meta 20
+ddfaff9b-1818-47d1-9f7c-f2ddeeff87a5,Android,Xiaomi,Xiaomi 4
+91aee944-6da9-4fee-9e8c-33ef6ca3f343,WindowsPhone,Lumia,Lumia 1+
+76fb476b-1870-4c0a-ad1a-fc99a97f94eb,Android,Huawei,Huawei Meta 40 5G
+3875d6b6-4e4e-422f-871c-88ceb41e1972,IOS,iphone,iphone 12
+c306faab-42c4-4536-b5d1-2f850e2a6bfe,Android,Huawei,Huawei Meta 40 5G
+94fe9672-3fe1-467b-8da2-27573028ebac,Android,Xiaomi,Xiaomi 4
+eb42d18d-196a-4221-8258-d3e46dedd0d9,Android,Huawei,Huawei Meta 40
+bea7712f-2f0c-4974-ad58-927658eeaa26,Android,Huawei,Huawei Meta 20
+1f498d33-fb38-4292-8450-fd9c173fe777,Android,Huawei,Huawei Meta 30
+af2e82cc-0623-4869-ad5c-f4fbeb1d14fb,Android,Xiaomi,Xiaomi 6 Pro
+9b8b4804-9894-4225-86e4-1d5888dbb920,Android,Xiaomi,Xiaomi 5
+eda8b686-22c5-44e3-a114-739b91227e81,Android,Xiaomi,Xiaomi 5
+532acf43-5f17-4060-8b6a-bf8ed7f52f2f,Android,Huawei,Huawei Meta 30
+520fcc88-224a-4f34-baec-3c1309ba9622,Android,Xiaomi,Xiaomi 3
+3d61d300-013e-45b4-8f52-80a0ded5f95d,Android,Xiaomi,Xiaomi 4
+2a6d8fcf-1de6-429e-93b1-8a2a0d39feac,Android,Huawei,Huawei Meta 40 5G
+a32bf895-8970-4cc6-845e-40c6cb37b216,Android,Xiaomi,Xiaomi 6 Pro
+afab0f59-3d20-40cb-b093-943ac4fef7f9,WindowsPhone,Lumia,Lumia 1+
+e4413201-fbb1-48b8-9d3c-d913faf3bb6c,WindowsPhone,Lumia,Lumia 2
+04cb8dd6-4c46-4544-bd01-18baadbb5bcb,Android,Xiaomi,Xiaomi 3
+5c5fa58c-79c3-47af-8c41-76c149a435bc,Android,Huawei,Huawei Meta 40
+5c88853c-19ab-45a5-b09d-db502d2a13c8,Android,荣耀,荣耀 10
+2eb6f4e2-8b0c-4d83-8f30-69b9a2fcbae2,Android,荣耀,荣耀 10
+94cc5027-aa78-41d6-9976-dd8cbd7b3665,Android,Huawei,Huawei Meta 30
+0efad386-2445-4b57-9ba3-dfd009dbe6dc,Android,Xiaomi,Xiaomi 6 Pro
+82ca8892-08b0-4ae6-8d46-5e9f9136b92a,WindowsPhone,Lumia,Lumia 2
+a6ff4514-b55f-4a3a-b9b1-551abf9cc268,Android,Huawei,Huawei Meta 40
+a0281ec2-9682-4181-8c39-80ce6ad866da,Android,Xiaomi,Xiaomi 3
+8381cc89-dc8c-435a-a47b-a85cc86b5157,Android,Xiaomi,Xiaomi 3
+e2671374-e560-4c8b-b106-c76234f07441,Android,Xiaomi,Xiaomi 3
+ce542d3c-92ab-4a08-9905-f39d045f2a7a,Android,Xiaomi,Xiaomi 4
+1d588f43-18f1-4418-908f-03dec482539d,Android,Xiaomi,Xiaomi 5
+b701e1be-dbd9-41f8-8179-6761b91c0d66,Android,Huawei,Huawei Meta 30
+3bfeb350-0ceb-4722-83f4-06179277bcd7,Android,Huawei,Huawei Meta 20
+06a74932-a728-4977-bc63-32cf6d99fa47,Android,Xiaomi,Xiaomi 5
+a2db4987-c34e-43e5-ba6c-e17e87c8b2ae,WindowsPhone,Lumia,Lumia 2
+661339ce-a79a-4e12-b923-3afa1301d9a0,Android,Xiaomi,Xiaomi 5
+d64e28d0-34cc-4a87-9b3e-7dc0c303dd96,Android,Huawei,Huawei Meta 40 5G
+f1811086-8445-43ea-92a8-b2ae21ec02cd,IOS,iphone,iphone 5
+1d4f38df-9ecc-451b-a72b-031c8ea8e74c,WindowsPhone,Lumia,Lumia 2
+a15ac07f-6c38-46bd-a2fd-8919460f7e47,Android,Xiaomi,Xiaomi 5
+05d88211-3b26-413d-bd96-036177293b9d,Android,Huawei,Huawei Meta 40 5G
+8e37e824-d27c-48cc-96ec-bf8b366374b7,Android,Huawei,Huawei Meta 30
+52f4c598-01fc-44b5-9361-64e2dce0a970,IOS,iphone,iphone 12
+7729b953-f732-4d70-8e2d-e06ccfe20bc8,Android,荣耀,荣耀 10
+9a4dbe59-066d-43a1-80ad-6c5f1c2f85c2,Android,Xiaomi,Xiaomi 3
+788c548d-b3a3-4fa3-ad9e-a9564e898946,IOS,iphone,iphone 4s
+a3677950-b9a9-4e74-b37a-00365c8981bc,WindowsPhone,Lumia,Lumia 2
+f829ec55-a042-4144-8a54-071a62ba0575,WindowsPhone,Lumia,Lumia 2
+0f7fb627-4d8b-4921-9b33-27dd50023491,Android,Xiaomi,Xiaomi 6 Pro
+710b1714-abf4-43e0-a6e4-cba9dd887763,Android,Huawei,Huawei Meta 20
+7995d236-6313-4343-88ff-0ee45d2099d7,Android,Xiaomi,Xiaomi 3
+1b09c522-7d02-4b64-abb8-c2cb4c2a8723,Android,Huawei,Huawei Meta 40 5G
+5ecd4c22-7e7c-445c-8b4f-aa4e3587095c,Android,Xiaomi,Xiaomi 6 Pro
+53697b54-e6fa-4f66-b38d-dbc2c1e612ef,Android,Huawei,Huawei Meta 20
+32657814-0d16-49fa-b978-9b8768663053,Android,Huawei,Huawei Meta 40 5G
+106b710e-3217-4cef-86db-075085cdeccc,Android,Huawei,Huawei Meta 20
+9cb36043-6482-4784-b5c9-105c5331426f,WindowsPhone,Lumia,Lumia 1+
+e38f9f81-236b-4165-b883-df501b13d9a3,Android,Huawei,Huawei Meta 40
+b74c77eb-4f53-499f-bdf4-d2c8e231be1d,WindowsPhone,Lumia,Lumia 2
+72fada87-73ce-465a-9ffe-c4dcdd60138c,WindowsPhone,Lumia,Lumia 2
+f2056ae4-3737-4303-9c2a-7d824b3490f1,IOS,iphone,iphone 7
+0d680e76-559f-48f9-b30e-4a9bd4c31ff8,Android,荣耀,荣耀 10
+72b703c7-7f60-4cd2-96c0-c7c69c97cccc,Android,Xiaomi,Xiaomi 4
+d7994da1-8aa1-43e4-9108-d62e5f404f26,WindowsPhone,Lumia,Lumia 1+
+6ef8880a-0987-4bfe-b56f-8be26bbee6b2,Android,Huawei,Huawei Meta 20
+32346ae8-aac2-4f22-872f-c8df7846159a,Android,Xiaomi,Xiaomi 5
+de5a808a-c016-461d-b237-55def4becf18,Android,荣耀,荣耀 10
+ebb336bd-d8f5-474a-a6d0-a9fc02083369,WindowsPhone,Lumia,Lumia 1+
+e3a57d90-43b1-4d58-b11b-d6f493d504fe,Android,Huawei,Huawei Meta 40 5G
+255ec3a3-156c-4269-8e82-34b152cf13fb,Android,Huawei,Huawei Meta 40 5G
+1e63bc61-c978-4632-a14e-eca608c2c48b,WindowsPhone,Lumia,Lumia 2
+d005e29a-ed23-4b5e-802c-00395e8c94df,Android,Huawei,Huawei Meta 40 5G
+be9ee67b-738b-4187-931e-bcbc018f7c05,Android,Xiaomi,Xiaomi 5
+48880055-1398-4222-98ca-91a605540761,Android,Huawei,Huawei Meta 40
+d4d46b4d-09cb-422e-9710-2c5efbc9d1b6,WindowsPhone,Lumia,Lumia 2
+7f4f7cef-a08e-49bb-af93-5d146bcf5aa6,Android,Huawei,Huawei Meta 40 5G
+3c34f036-fc88-4e2b-bbf1-aa5412ef3397,WindowsPhone,Lumia,Lumia 2
+7b82f722-d25c-4d96-8a1e-5e2071c4aa05,IOS,iphone,iphone 4s
+e545ce5c-3850-4cb5-ab4a-e0ef66523775,Android,Huawei,Huawei Meta 20
+4ccf4567-4509-4a38-8a5c-144c33842e97,Android,Huawei,Huawei Meta 20
+e2b508a3-3e9a-40cf-85c8-a9708247fd71,Android,Xiaomi,Xiaomi 6 Pro
+d617305d-bacf-4f4a-80e5-927c33444e45,Android,Huawei,Huawei Meta 40
+f0bfdca7-b491-4451-81cf-5bed8354e8ea,Android,Huawei,Huawei Meta 20
+8750af7b-80ac-4404-8c90-36697fc48267,Android,Huawei,Huawei Meta 30
+10c29947-9797-4649-9f45-f5ea74d62607,WindowsPhone,Lumia,Lumia 1+
+a9f1e9b9-bfcb-4ee0-b7d9-e2b97d42c9fd,Android,Xiaomi,Xiaomi 3
+64dc7484-baf6-4968-b15b-0c0b0ecd8b77,Android,Xiaomi,Xiaomi 5
+5c839a19-195f-4066-ad84-04b63ef145cb,Android,荣耀,荣耀 10
+313d5b04-d28b-4aed-8997-09fbbfa3994b,Android,Huawei,Huawei Meta 40
+cac5a63d-14b0-429e-ae0b-d8f837e74fa2,Android,Xiaomi,Xiaomi 5
+e5434018-bbdd-4e1e-baff-4c63aa1a7ee3,IOS,iphone,iphone 8
+49ee6a71-979d-4ca6-abc1-232447fd94a7,Android,Huawei,Huawei Meta 40 5G
+d8a77241-0cd7-4d37-8946-4927ad370c5b,Android,荣耀,荣耀 10
+08b1fd94-12f8-46ee-8ab1-c6e07e10d0fb,IOS,iphone,iphone 7
+01fe456d-9156-4e67-9e80-609dc5628d10,Android,Huawei,Huawei Meta 30
+15b59dff-65d3-4bc0-995c-6ea56c327237,WindowsPhone,Lumia,Lumia 2
+9179f8d1-02f2-4c16-b333-4a3caf21dd86,WindowsPhone,Lumia,Lumia 2
+e4b31d52-dfd3-44c8-8c29-8e78e7fb00dc,Android,Huawei,Huawei Meta 30
+bc2c6821-cff6-4e0d-ab04-f6f784f7559f,Android,Huawei,Huawei Meta 40 5G
+546bf4d8-7900-4736-a048-70e07cdcaf26,WindowsPhone,Lumia,Lumia 1+
+e6c941ee-0fc6-43e5-af5b-8f1cd6635e36,Android,Huawei,Huawei Meta 40 5G
+12da92eb-3e30-46e9-b79f-ed2b3bfa085a,WindowsPhone,Lumia,Lumia 2
+f6b60964-4a86-4822-af4e-5ac2eb2cd780,Android,Xiaomi,Xiaomi 4
+efe08412-2a03-46c5-8a1b-6ab2ea491c84,WindowsPhone,Lumia,Lumia 2
+7e8a15a4-26b5-419d-9983-9656012ea548,Android,Xiaomi,Xiaomi 3
+17646acb-22d4-4473-a8c1-1f0ab7bd012e,Android,Xiaomi,Xiaomi 5
+74c49520-cdc2-4bdc-b556-47086d047685,Android,Huawei,Huawei Meta 40 5G
+9ed92b2e-70bf-4a82-ab6f-80679a442f4c,Android,Xiaomi,Xiaomi 6 Pro
+44089a02-899e-462f-bf79-56dccb583a0a,WindowsPhone,Lumia,Lumia 1+
+34fcd5c0-75e3-47bf-a14b-faaccfda3e56,WindowsPhone,Lumia,Lumia 1+
+3a3db107-b65e-47d6-b368-e34cb7cd4503,Android,Huawei,Huawei Meta 20
+d94cce75-f711-4cc8-8338-14db3079d397,Android,Huawei,Huawei Meta 40
+7de2f135-5d82-42cd-908b-965fc1747ca1,WindowsPhone,Lumia,Lumia 1+
+9836dfd8-45e6-4d5e-9078-669d65b4ed19,WindowsPhone,Lumia,Lumia 1+
+82bf34c5-cb86-4b32-96d9-a5147c0b6fb9,Android,Xiaomi,Xiaomi 5
+424fc9b3-8f10-442f-a1e8-78bcda5ff254,Android,Xiaomi,Xiaomi 3
+e6bf01fb-3346-4052-940b-1a05856f6b39,IOS,iphone,iphone 6
+c736dd10-9641-4749-9229-de1d7f463318,Android,Huawei,Huawei Meta 40
+b6cd00a2-ab29-4c04-a867-1d5e7d27782c,Android,Xiaomi,Xiaomi 3
+cbf787b3-b271-4a6f-bcd2-36e70defd7ee,Android,Huawei,Huawei Meta 30
+3e7a270b-01c4-4f97-ad47-ae57a916f3d4,Android,Huawei,Huawei Meta 30
+1f5b33bc-eec6-451b-bfd0-e4a4406e6916,Android,Xiaomi,Xiaomi 4
+59358971-9154-4896-9769-58c9678627cd,Android,Xiaomi,Xiaomi 5
+d27f01e3-145c-481c-b38e-f31d32b363dd,WindowsPhone,Lumia,Lumia 2
+b100360b-4021-499a-80bd-b1f0624353e6,Android,Huawei,Huawei Meta 20
+60579330-7740-4b13-8273-5037addd2e8c,WindowsPhone,Lumia,Lumia 1+
+a334c598-7117-432c-8626-f88629555cc7,Android,Xiaomi,Xiaomi 4
+3a36c906-2247-41d1-85bb-0b47d9e14f11,Android,Xiaomi,Xiaomi 3
+1d663c56-ec51-45f1-bd70-56206cc86711,Android,Xiaomi,Xiaomi 5
+9067f174-83a5-401c-8bfc-d9a3d213c2f3,Android,Xiaomi,Xiaomi 3
+178dd2c8-85d8-4805-820f-42611d591503,Android,Huawei,Huawei Meta 40
+0e6971af-bcda-43f1-b827-983253599304,Android,Huawei,Huawei Meta 40 5G
+81c972db-6d3d-4476-bdb7-dd9ed0db37c6,Android,Xiaomi,Xiaomi 5
+c3f20c7c-e23f-4b6f-8283-cab5a371d6e1,Android,Huawei,Huawei Meta 40 5G
+69bc2213-0233-4ab4-9acd-325cc818293b,Android,Huawei,Huawei Meta 30
+6fae9ccf-7098-48e3-a591-7f8c5f7af176,Android,Xiaomi,Xiaomi 6 Pro
+04086cba-9128-435e-9004-e01528c5fee5,Android,Xiaomi,Xiaomi 5
+d8252a82-2691-42a3-8e44-0e94ad569d0d,Android,Huawei,Huawei Meta 30
+6c984760-a26b-4b12-89a1-ba235e59cff4,Android,Xiaomi,Xiaomi 4
+3a7ff033-9ecc-4f7c-b01a-27a963d639de,Android,Huawei,Huawei Meta 30
+a48c6360-00ac-4871-820b-6e6062c57b18,WindowsPhone,Lumia,Lumia 1+
+fe649503-675d-4ae1-877e-a0bdc79bf14b,Android,Huawei,Huawei Meta 20
+a93cbedc-59a9-4da0-a84d-4ea8216165be,Android,Huawei,Huawei Meta 30
+a7b90bb7-a570-4367-9f43-7eeb055daa9e,WindowsPhone,Lumia,Lumia 2
+4b753bdc-e3b7-4972-b3ae-5cfb973bf9fa,WindowsPhone,Lumia,Lumia 2
+87ed19a8-e892-44a5-9519-8e78e797d12b,WindowsPhone,Lumia,Lumia 1+
+e6b10609-fdb9-496b-8e0a-dfedbc0eaed8,Android,荣耀,荣耀 10
+96010d0f-169a-48ee-b250-4b6b3d3f7a4b,Android,Huawei,Huawei Meta 30
+013f9ca5-ea94-423f-838f-44cc624905e4,Android,Huawei,Huawei Meta 30
+27e101f4-f9a9-473a-b12e-0767dcb6e471,WindowsPhone,Lumia,Lumia 1+
+2524858a-e154-45eb-9b6f-8a52ecd3cfdc,WindowsPhone,Lumia,Lumia 1+
+f9834da1-efe2-4a9f-a550-3c91864f785e,IOS,iphone,iphone 5
+e1c47742-c0d5-4f35-9c0a-514ca022c434,Android,Xiaomi,Xiaomi 5
+b5a7e42e-6874-4c9b-9399-0801026141d4,WindowsPhone,Lumia,Lumia 1+
+dc6cba96-48c6-48a3-a732-3af53f7d7d30,WindowsPhone,Lumia,Lumia 2
+dbad228e-fbb2-43a3-9b38-0e415e8ff605,Android,荣耀,荣耀 10
+90d9696f-502f-4ef5-94c7-e2ca479dd44e,Android,Xiaomi,Xiaomi 6 Pro
+0d264a12-48f7-4bcd-a96c-a6308d4a229c,Android,Huawei,Huawei Meta 30
+6b08baff-6629-46fe-bc92-7909146ba031,WindowsPhone,Lumia,Lumia 2
+45712711-c73b-4d5c-a9b0-84771daf61ef,Android,Xiaomi,Xiaomi 4
+53ec2523-d75d-4634-a605-bf3045b1351a,Android,Xiaomi,Xiaomi 6 Pro
+23d3143d-7a31-45c2-b108-70109e0358bd,Android,荣耀,荣耀 10
+85e348e2-46b6-4e15-b675-c39e6079fdff,IOS,iphone,iphone 4s
+32af3c7f-0b0d-4440-8cdf-ba6b76baf81b,Android,Xiaomi,Xiaomi 6 Pro
+2eedfd76-2027-41fa-9e6c-7ef23d6f4606,WindowsPhone,Lumia,Lumia 2
+72a936a0-435f-40b9-bb8b-f67b59a33b7d,Android,Xiaomi,Xiaomi 5
+1c5e8fcd-b4e5-4b3d-9812-47c33dbc7ffd,Android,Xiaomi,Xiaomi 5
+2663ff17-46eb-4883-96f1-d23e980d05bb,Android,Xiaomi,Xiaomi 4
+9da528ef-b3fa-4780-b95d-53c5c886246c,WindowsPhone,Lumia,Lumia 2
+f9391c9e-07a8-4353-a6c6-484117fc8967,IOS,iphone,iphone 4s
+311ab634-5d08-4c04-a5df-1b5f6c9d8a28,Android,Xiaomi,Xiaomi 5
+c422ee90-9304-41c1-8c76-540867ddceb6,WindowsPhone,Lumia,Lumia 2
+0179245b-c829-45f4-ac76-23d085182328,Android,Huawei,Huawei Meta 20
+7c870cef-61f0-4cc4-bfe3-61c32954276d,IOS,iphone,iphone 5
+cc46e45d-d60e-446b-beeb-15db60e90260,Android,Huawei,Huawei Meta 30
+79582121-eb1b-4de3-9cdc-9469cb7b31d5,Android,Huawei,Huawei Meta 20
+8ecd296f-2200-4290-9f15-7e4785fdf870,WindowsPhone,Lumia,Lumia 2
+0cd2dc1d-8436-41a5-9e0a-ba5b0ffb72b2,WindowsPhone,Lumia,Lumia 2
+24afbf67-2aad-4daa-bc33-ee03ede43a0e,IOS,iphone,iphone 11
+f6caad05-28b3-413b-be7f-5264157b73af,Android,Huawei,Huawei Meta 40 5G
+ec11e95b-657f-407a-93df-b44d5de2690a,WindowsPhone,Lumia,Lumia 1+
+b9a7bdc7-3647-47b2-bf44-5b69c09f3ede,Android,荣耀,荣耀 10
+4acc9127-606e-48c2-9b4c-30ff85b39179,Android,Huawei,Huawei Meta 30
+fcac0373-6edc-4b19-a33f-73b6e53bdf31,WindowsPhone,Lumia,Lumia 1+
+ad3541ad-175a-408b-91ff-fee2846d375b,Android,Huawei,Huawei Meta 30
+4c56f9a5-34e4-417c-af86-a1582d123e9e,Android,Huawei,Huawei Meta 20
+22132309-5a06-4c1c-9eae-17b05d037f6d,IOS,iphone,iphone 8
+8f4f16f6-b27b-4140-87f2-5d353899fd65,WindowsPhone,Lumia,Lumia 2
+867d272b-8cd8-45be-a8b8-5c774cbf7dd5,Android,Xiaomi,Xiaomi 4
+9e8ff1b0-08fb-4aea-882f-d7a2e523ab22,Android,Xiaomi,Xiaomi 6 Pro
+e40a2bd0-4015-425b-a974-248de2d4eda7,Android,Xiaomi,Xiaomi 4
+7631c2c7-db2b-42c2-975a-27f3dc529565,Android,Huawei,Huawei Meta 30
+bd742650-2739-4c8e-b3a8-84a48efe0e13,Android,Xiaomi,Xiaomi 3
+89ea0d52-a81e-4ec4-8b1c-4646afde1552,Android,Xiaomi,Xiaomi 6 Pro
+74df86d2-6bef-481d-9c34-491fe6a1414f,Android,Huawei,Huawei Meta 40 5G
+91a94ac8-c2a0-43cb-b346-f113b86f38c3,Android,Huawei,Huawei Meta 40 5G
+2094422b-8718-4725-8b09-154e0233def3,Android,Xiaomi,Xiaomi 4
+9f11d2fc-99b4-409f-ade5-2d881a34a502,Android,Xiaomi,Xiaomi 6 Pro
+3a252e49-1a4c-4e38-a305-48423622b93f,WindowsPhone,Lumia,Lumia 2
+ebb35804-21c6-45fb-b618-9677ce1bbe66,Android,Huawei,Huawei Meta 40
+99eb9abd-9bf8-44c7-a857-361e0dd40625,Android,Xiaomi,Xiaomi 3
+fe473a33-f2f3-4354-855c-25fde483f2e5,Android,荣耀,荣耀 10
+7df8d119-d6a6-4f33-930f-0be1783dde0d,Android,Huawei,Huawei Meta 20
+1bfe8c89-bae9-4bac-9c76-497b11bacc79,WindowsPhone,Lumia,Lumia 2
+b96b6ca4-085a-4d48-85ba-d7bbb59ee994,Android,Xiaomi,Xiaomi 5
+bb7446af-ac26-4da4-b2c9-d237c329f498,Android,Xiaomi,Xiaomi 4
+8223b120-f911-48ad-ab0a-2d83245994a7,Android,荣耀,荣耀 10
+c62f4757-f89c-450f-976c-b195e5f70239,Android,Xiaomi,Xiaomi 5
+ca5c0cd4-ccfb-41a4-860d-ed596c710683,IOS,iphone,iphone 4s
+cca27eb5-b0ad-46fb-8485-1c15af1178d9,Android,Huawei,Huawei Meta 30
+01907818-9e16-41c9-b8ac-fc30a172c606,Android,Xiaomi,Xiaomi 5
+ab8a0964-4ffd-4a14-ba4f-e639f4b11463,Android,Huawei,Huawei Meta 40 5G
+65989111-6f0a-42ba-aa7f-c90daefa0e5f,Android,Huawei,Huawei Meta 40 5G
+1fa6583a-4039-4fc3-9dfd-5d5bf56ab915,Android,Xiaomi,Xiaomi 5
+ca333cf8-c6a4-488f-a83e-adcd6d8049b1,Android,Xiaomi,Xiaomi 6 Pro
+862b49e8-2be8-4bf4-b273-d091c965efc3,WindowsPhone,Lumia,Lumia 2
+4fc0f802-7bde-4371-aaa6-0af59a3825a2,WindowsPhone,Lumia,Lumia 2
+5c96fb2a-56c7-4081-9e57-56112cb11f27,WindowsPhone,Lumia,Lumia 1+
+9f118db8-ebed-48a6-b850-e5a5378b9a3e,WindowsPhone,Lumia,Lumia 1+
+e23cb0eb-28cd-4c35-a529-dfd17cd11ef1,WindowsPhone,Lumia,Lumia 2
+5274083f-d8ac-439d-bf29-853fc0f818b0,Android,Xiaomi,Xiaomi 3
+4e7b4dfc-4ffc-4bbf-94b6-44be02edbc31,Android,Xiaomi,Xiaomi 3
+63a938b7-578a-4040-8f43-c02b0d18f28b,Android,Xiaomi,Xiaomi 4
+4400b34c-92f4-4389-862c-6fd7fbbf8b67,WindowsPhone,Lumia,Lumia 2
+56db5a15-791d-43d7-b469-14d6e39706d8,IOS,iphone,iphone 12
+36b8604d-6779-45ed-81eb-3005251c4a9a,Android,Xiaomi,Xiaomi 3
+8b76604c-c98c-4eab-bcb7-a8549b7174ca,Android,荣耀,荣耀 10
+c0abda43-6124-4f77-b423-4754c30e8246,Android,Xiaomi,Xiaomi 5
+2b0d3daf-1d54-4e64-9005-736fb8c7cb38,Android,Huawei,Huawei Meta 40
+e712c8ab-b2f8-458e-9dc6-6e63e06b6f09,WindowsPhone,Lumia,Lumia 1+
+f80d3cbb-bf11-415d-baf7-0fbb0ef79e7a,WindowsPhone,Lumia,Lumia 2
+6b0bb06e-d562-4126-bd2e-ba9cfc818191,IOS,iphone,iphone 5
+c2033646-0d8c-4474-b8fc-5e1f9a914887,Android,Xiaomi,Xiaomi 3
+70de8ba0-ea47-4b01-a759-2a3af24e5fa7,Android,Huawei,Huawei Meta 40 5G
+599fa5dc-3553-4886-b3e4-e63a8ce08340,Android,Xiaomi,Xiaomi 5
+6662bd61-4596-41c3-97b7-0547a44992aa,Android,Xiaomi,Xiaomi 5
+9a549e17-237a-41ae-a02c-eca1a53e3db2,Android,Huawei,Huawei Meta 20
+8d2182c7-23b8-4b87-bdbc-1dd744d688c0,Android,Huawei,Huawei Meta 40 5G
+0c7ffa32-3731-4477-a577-57d32d9ca42f,Android,Huawei,Huawei Meta 30
+44eba6b6-7f00-43a3-bf6f-3064e6307e99,WindowsPhone,Lumia,Lumia 1+
+9034fa64-f7c7-4b73-8bb6-dcf5f2d52d1c,Android,Xiaomi,Xiaomi 6 Pro
+9b73169f-9842-4fd4-9c35-2c886481a7b9,Android,Huawei,Huawei Meta 40 5G
+aacb94d8-6195-4fd8-b22c-65e6e193b697,Android,Huawei,Huawei Meta 40
+1686efda-afd1-4147-b070-9dd5a9a9723b,WindowsPhone,Lumia,Lumia 1+
+cd624bbc-33e2-42de-a3d2-746ce0b2b001,WindowsPhone,Lumia,Lumia 2
+e6fbabfb-8846-4bbe-9c5f-9cb32a430b3f,Android,Huawei,Huawei Meta 40 5G
+1207d751-aea1-432f-9a12-ef97bcc998f0,Android,Huawei,Huawei Meta 40
+f22e6eb7-50da-4265-ad05-4a6d9dfa3969,Android,Xiaomi,Xiaomi 4
+21338f76-51ac-4ffa-b2fc-52c7a8ba55c2,WindowsPhone,Lumia,Lumia 2
+c0e45a05-487e-48fa-85c3-77f6d90c9268,WindowsPhone,Lumia,Lumia 2
+10985b5f-fcf5-41e0-a89c-9c370890fabc,Android,荣耀,荣耀 10
+d3ec96fb-779e-4f16-8e69-86a94e56c98d,Android,荣耀,荣耀 10
+1d638054-298f-49d2-a533-53e553b0325c,Android,Xiaomi,Xiaomi 3
+9dfaec19-db8d-407a-a979-6f79612e392e,Android,Xiaomi,Xiaomi 4
+ca906ecb-f8eb-49df-a615-f9e0df35dea7,Android,Huawei,Huawei Meta 40
+dfa3603e-c3bd-451a-8e7b-5444d2d448f3,WindowsPhone,Lumia,Lumia 2
+2c7188df-7996-42e1-b737-1827d7a45b55,WindowsPhone,Lumia,Lumia 2
+94db861a-7407-45b6-8c2c-de7be8afa35b,Android,Huawei,Huawei Meta 40 5G
+f56c8987-6c2c-4e08-85c9-63926168fc25,Android,Huawei,Huawei Meta 40
+fc241f9e-bd8a-4c33-bd47-ab85193e6c22,Android,Huawei,Huawei Meta 20
+e9a6c19c-2574-4d19-81c7-0d03263c73bc,Android,Xiaomi,Xiaomi 6 Pro
+b8d4349d-154a-4869-b325-11b083ace681,WindowsPhone,Lumia,Lumia 2
+70450612-2122-4b57-8d32-66a2f6cdeebc,Android,Huawei,Huawei Meta 40
+17bffb30-e7c2-4771-8bd6-d25b812b7a4a,Android,Huawei,Huawei Meta 30
+267f7b9a-73f2-4ccb-af88-c706eed54af4,Android,Huawei,Huawei Meta 40 5G
+f5432e06-62a2-40cf-ac7a-459439be06d8,IOS,iphone,iphone 4s
+1dfb4b89-b1ab-4041-9100-61f03f8ad815,Android,Xiaomi,Xiaomi 6 Pro
+e5006db8-7787-4242-8d29-b0efa66a6269,WindowsPhone,Lumia,Lumia 2
+644d8e0b-03a2-45ca-95e7-faee27df6acf,Android,Huawei,Huawei Meta 20
+ebaba4fe-aa44-4033-bd9d-8252fb17574c,Android,Huawei,Huawei Meta 40
+48cf04f5-78b8-4723-91d1-1acfc726ea0f,Android,Huawei,Huawei Meta 40 5G
+c2b1289d-eba1-4b36-a3b5-d538413e9907,Android,Huawei,Huawei Meta 20
+70088ef1-516b-4056-aa4a-c0a6e55793ef,Android,Xiaomi,Xiaomi 4
+b46af138-d041-4bb3-9f9d-3101fd92f0b3,Android,荣耀,荣耀 10
+459fce05-2f7f-4efa-b014-157c9d3562ae,Android,Xiaomi,Xiaomi 6 Pro
+0451a2ed-5d1a-4c82-a691-aa521519e6bc,Android,Xiaomi,Xiaomi 6 Pro
+44442602-55cc-4905-811d-a5c1bdb30fc5,Android,Huawei,Huawei Meta 40 5G
+25f59200-d3ea-42f2-9dc6-2f705e59f6e0,WindowsPhone,Lumia,Lumia 1+
+52bc97a5-e2df-44f2-bf69-972247af9783,WindowsPhone,Lumia,Lumia 1+
+aa260e7f-7070-407d-95cd-b9e9f7e63009,WindowsPhone,Lumia,Lumia 1+
+7369dffa-410d-4396-8916-7cd7d6fc4bc9,Android,Huawei,Huawei Meta 20
+3c56f64d-56b4-468f-a976-0b73f7c2a0bf,WindowsPhone,Lumia,Lumia 2
+0286be5d-fb48-4438-b70a-09e21e00f54b,Android,Xiaomi,Xiaomi 6 Pro
+107746bc-cc4e-4027-a1e7-3990707a0708,Android,Huawei,Huawei Meta 30
+1d13a442-3a52-4f19-b75b-219cc8c0f46f,Android,荣耀,荣耀 10
+58398b55-1cfd-490f-a640-b8cc758c1468,Android,Xiaomi,Xiaomi 3
+d1b0b500-869e-4aa4-853a-f8e01c0e309e,Android,荣耀,荣耀 10
+f9fddb4e-8851-42db-9588-9ee1d8e3ba3d,Android,Huawei,Huawei Meta 40 5G
+3575bdc5-1ae5-4973-84d1-f03cc6963f92,Android,荣耀,荣耀 10
+78515b29-d6aa-457e-888c-0de9394de517,Android,Huawei,Huawei Meta 30
+69d0095c-ba3b-403e-a2bd-421067e1baed,IOS,iphone,iphone 11
+b78b58e5-bf4d-471f-bf95-bc14c784876f,Android,Xiaomi,Xiaomi 3
+0c11e680-6086-4266-a939-2c9ffaae15a1,Android,荣耀,荣耀 10
+4c8d18c9-aa41-4c2a-b991-ad0638d74924,Android,荣耀,荣耀 10
+37d69987-fb74-4831-aa80-8953df4257ba,WindowsPhone,Lumia,Lumia 2
+752d38b1-46fe-4b7b-b1cc-d57d56283338,Android,Huawei,Huawei Meta 40 5G
+b85e299c-0cc4-46ab-b470-d09314e901ba,WindowsPhone,Lumia,Lumia 2
+33aec1b3-7e49-4e10-a3fe-00008c9a816c,Android,Huawei,Huawei Meta 40 5G
+e8d7cf64-2ef7-459b-9f7b-93cb67f90467,IOS,iphone,iphone 6
+ef418e7e-a6f9-41bc-9646-e34fb8c8693b,Android,Xiaomi,Xiaomi 4
+527b560f-fe7b-4684-a306-48cd645a8d62,IOS,iphone,iphone 9
+338433e6-2d5b-44a6-b85c-2e93f6f2e4d6,Android,Huawei,Huawei Meta 40 5G
+e12cb018-7266-4478-ab49-2da8d39f47b0,Android,Xiaomi,Xiaomi 6 Pro
+97e43710-a45f-49d3-b5a9-8501af40cc43,Android,Huawei,Huawei Meta 30
+ef87edd0-5aef-4d0c-9cc5-785ddf8282ca,Android,Xiaomi,Xiaomi 5
+67d5f504-6e8e-4ca7-acc7-1e6af27fbff7,Android,Xiaomi,Xiaomi 6 Pro
+64e8a86b-e0a4-4ba5-bce2-12a410932b38,Android,Xiaomi,Xiaomi 5
+ee3959b7-a41c-4f0c-b7df-bdb2b2a07bda,WindowsPhone,Lumia,Lumia 1+
+6842801c-f677-40c9-98f3-9d8a908e7046,Android,Huawei,Huawei Meta 20
+d5a7a31d-5aec-48ac-b703-03f8a2eef2f8,IOS,iphone,iphone 7
+8abe65fc-8e4a-41a2-b9a9-4e6494333b6e,WindowsPhone,Lumia,Lumia 2
+b2ce63d8-573e-438a-8078-879bd4c8d95a,Android,Xiaomi,Xiaomi 6 Pro
+8bd4160d-1ed0-432a-a0e2-e23f60da6c45,WindowsPhone,Lumia,Lumia 1+
+0a8e1e91-5c0a-4e98-8433-247f10c16cd5,Android,Huawei,Huawei Meta 40
+d44ecb8a-88b4-474c-b4db-6c4cf7add64b,Android,Huawei,Huawei Meta 30
+85dc3030-fa87-42fd-a77c-2e186260a4fd,WindowsPhone,Lumia,Lumia 1+
+613ed4a2-3001-4ae5-87d4-da7ba80cbbe1,Android,Xiaomi,Xiaomi 3
+bc82aa83-4eb9-44df-b40d-4d3c382f2f3b,Android,Huawei,Huawei Meta 40 5G
+ca2366e1-fb6d-41fa-9a5f-0ab6a339ed8c,Android,Xiaomi,Xiaomi 5
+37b727d9-fe0a-4d05-918a-fd0c654515c7,Android,Huawei,Huawei Meta 20
+0f77e3fe-4046-4674-ab40-bcfb786cfc31,IOS,iphone,iphone 11
+6118f3ac-0130-44ec-9a92-65d016edb88c,Android,Huawei,Huawei Meta 40
+4032fb92-3fa9-47b5-9bc2-2745a2338948,Android,Huawei,Huawei Meta 20
+9310a633-109f-4bdb-a234-00349ed3c3d0,Android,Huawei,Huawei Meta 40
+7bb08050-892f-4b47-a7d8-84ca44e61f2d,Android,Xiaomi,Xiaomi 3
+3cc94e75-ffad-40c4-9ee8-a3cdc68331db,Android,Xiaomi,Xiaomi 6 Pro
+6223a6b6-ab38-4c3e-abce-4527f2ee8581,Android,Huawei,Huawei Meta 40 5G
+4e86db5a-e538-4d17-bfac-72fbc41dc7e3,WindowsPhone,Lumia,Lumia 1+
+2a037658-1646-41f8-8491-9e316eb0752a,WindowsPhone,Lumia,Lumia 1+
+22505902-cde5-4326-bd84-6ef0c51c4331,WindowsPhone,Lumia,Lumia 2
+daddd78a-40a8-4693-addd-60a9cc572f2d,Android,Xiaomi,Xiaomi 6 Pro
+e539f47f-3627-457a-8f87-8333d3b89ab5,WindowsPhone,Lumia,Lumia 1+
+a0cc2ae8-5282-442a-8e3c-4f2a7976f1f3,Android,Huawei,Huawei Meta 30
+ce334e89-767b-4373-873c-8056fdbaecfd,Android,Xiaomi,Xiaomi 4
+c604bad2-6621-4c8f-aeb8-1fb1965428cd,IOS,iphone,iphone 9
+0af8f428-8e16-40cb-bc6a-552bc21cee5f,Android,Xiaomi,Xiaomi 6 Pro
+a8c65930-ddda-4c40-ac76-8390e9737989,Android,Xiaomi,Xiaomi 4
+02c25e25-1d9c-4d84-9b6c-6444f3ff46c9,Android,Huawei,Huawei Meta 40 5G
+e8b36a22-549e-480d-9eec-4ca57900ab73,Android,Huawei,Huawei Meta 40 5G
+e6e49aa3-7c81-44f8-b16d-bb3165d7e13a,Android,荣耀,荣耀 10
+9e55fd69-e492-4304-bea6-4cba64cbcc9c,Android,Huawei,Huawei Meta 40 5G
+48b8948d-de6d-416a-9825-ca45053a7cd4,Android,Huawei,Huawei Meta 40
+76bed7a9-0377-465b-9985-193cfce46421,Android,Huawei,Huawei Meta 20
+845964dc-3046-46fc-b575-0e696f713898,Android,Xiaomi,Xiaomi 4
+22ea0dc1-5322-4c38-ae62-ade9588cf0f8,Android,Huawei,Huawei Meta 20
+e61ac18e-9815-4b1a-9c7d-2dce46f92cbc,Android,Xiaomi,Xiaomi 3
+04c85ec0-5792-40e7-a7b7-54f84af65f29,Android,Xiaomi,Xiaomi 3
+a47c110a-ef68-48b2-a070-1077a6480446,Android,Huawei,Huawei Meta 40 5G
+bd16e4fc-92fb-48e1-9087-3c52c6fbd915,Android,Huawei,Huawei Meta 20
+523260b5-3500-4a70-bfaf-351189c319de,Android,Huawei,Huawei Meta 40 5G
+15a36d65-e31f-4402-971c-36ff1860b966,IOS,iphone,iphone 12
+f56179aa-909e-46b5-8524-830399168887,Android,Huawei,Huawei Meta 30
+26e15a11-e2ba-40ff-af0d-6aa6dfb37607,Android,Huawei,Huawei Meta 20
+7de641b6-7066-4665-823e-24ff2f382db6,WindowsPhone,Lumia,Lumia 1+
+cb1b69df-9b93-4414-84f0-bfba270e06fd,Android,Xiaomi,Xiaomi 6 Pro
+f933dee2-22e9-4759-b905-13fd078caee2,Android,Huawei,Huawei Meta 40 5G
+cf53faef-ab4c-412b-a10d-2b9d1ff123ad,Android,Huawei,Huawei Meta 30
+1cfcfd7c-69a2-462e-9017-0376816a9d86,WindowsPhone,Lumia,Lumia 2
+a9413a42-3ccf-43d8-81f0-ee7cbe19a524,Android,Xiaomi,Xiaomi 3
+6afc4227-8802-4d33-8aa9-419def38c863,Android,Xiaomi,Xiaomi 3
+db082892-3ad1-43da-9ac1-099a0b6b2700,Android,Huawei,Huawei Meta 40 5G
+fb4df3e4-6d7b-415f-a5ed-d9fc3208521b,Android,Xiaomi,Xiaomi 4
+670cc67d-4adb-4035-8c4b-0d20889e97bd,Android,Xiaomi,Xiaomi 4
+4b60a4a7-2121-493c-97e6-821f6a9923e0,WindowsPhone,Lumia,Lumia 1+
+223feaac-3df3-4bfd-ac1e-1eb0e9831b37,Android,Huawei,Huawei Meta 20
+dc681207-13ab-47fb-97f4-c7fb7fcaed40,Android,Huawei,Huawei Meta 30
+f8619ad4-c5f9-45e1-bc43-7af00768209b,Android,Huawei,Huawei Meta 20
+cda02a72-2066-4d91-a64b-8f965b9f5922,Android,Xiaomi,Xiaomi 4
+5bea631e-f6f3-47c2-8605-5923f13ca6d8,Android,Huawei,Huawei Meta 40 5G
+4df88714-1683-40ab-815f-12ec91aa1d4d,Android,Huawei,Huawei Meta 20
+e462eeea-46be-4187-9888-a9a4c826957f,Android,Xiaomi,Xiaomi 6 Pro
+4e066abc-2808-4c70-a182-46c9ae1a8003,Android,Xiaomi,Xiaomi 6 Pro
+ffdcec07-5067-4dff-90b7-8e2958900676,Android,Huawei,Huawei Meta 20
+341f15e9-7e90-4734-bd52-67d2e70349a1,Android,Xiaomi,Xiaomi 4
+86f1ab22-e9f4-4f8b-9b67-a25da9cdf7f3,Android,荣耀,荣耀 10
+58cad2f1-6fcc-4ae7-a99e-5f15577f312d,WindowsPhone,Lumia,Lumia 2
+75b60915-2201-4df8-8230-8a9013b783f4,Android,Huawei,Huawei Meta 40
+e241c70c-7e10-4af3-b6f5-2f13a23f3939,Android,荣耀,荣耀 10
+477705d5-1057-448c-9873-c996932372bb,Android,Xiaomi,Xiaomi 6 Pro
+54355690-4150-4c66-920f-d6f28392ebe4,Android,Huawei,Huawei Meta 30
+7eaa46ee-a611-4488-8d35-15d0cb770c4f,IOS,iphone,iphone x
+a9eed110-6048-45d8-b1a8-dc4af9ae0f97,WindowsPhone,Lumia,Lumia 1+
+bc39aacb-85ff-4197-ab64-7eaea2ab42bc,Android,Huawei,Huawei Meta 20
+3afd79cf-7ab8-4a28-8251-26c5428025a7,IOS,iphone,iphone 4s
+be0041c2-9c5a-43e0-93be-cf8fe1c989ab,WindowsPhone,Lumia,Lumia 1+
+2b04abd7-9826-452c-876d-51d05d519269,Android,Huawei,Huawei Meta 40 5G
+4e56b57a-559b-49ee-bd7a-58470ceafa6c,Android,Huawei,Huawei Meta 20
+04b52df3-a0e5-48d5-a114-25d48bf32596,Android,Xiaomi,Xiaomi 6 Pro
+c328ee01-f322-423f-83a6-209f037b0833,Android,Huawei,Huawei Meta 20
+adabf69d-05df-43b2-a0f9-d03c8f630e41,Android,Xiaomi,Xiaomi 3
+c70e8e33-6e80-4dd9-a024-95a383b18fe0,Android,Huawei,Huawei Meta 40
+a8c5c0f0-b375-4a49-b271-8d8e685c1f70,WindowsPhone,Lumia,Lumia 2
+caf46075-c610-4c78-bd60-3a3b48ae4379,WindowsPhone,Lumia,Lumia 2
+fc751feb-dfe8-4996-a353-d00ff8f2e4eb,Android,Huawei,Huawei Meta 40 5G
+8b109e28-afb3-49a5-a91e-18606566501a,Android,Xiaomi,Xiaomi 4
+60db2c6d-b684-44cf-a80c-b9b3392e4886,Android,Huawei,Huawei Meta 40 5G
+62fdf35e-ae5b-4696-a9b7-4925359946e1,Android,Xiaomi,Xiaomi 5
+4d4e2282-b539-4f0a-bb40-b0df6cf8c4e7,Android,Xiaomi,Xiaomi 5
+d70cb52d-b328-4bfb-b80c-b9e1669b0f6a,Android,Huawei,Huawei Meta 40 5G
+c65a0a22-3bf2-4f15-8461-08b0fb8af1e6,Android,Huawei,Huawei Meta 40
+c19cf46a-b59e-426b-855d-f4ce82cf7aa4,Android,Huawei,Huawei Meta 40
+ffefd1a4-40a5-4f1c-9299-786f9f25d55c,Android,荣耀,荣耀 10
+4caf9222-3c4f-4c68-8eac-60a44d620e9e,Android,Huawei,Huawei Meta 40 5G
+30aa558a-f2bc-4665-94cd-2ab4a1b4ab79,Android,荣耀,荣耀 10
+6a149b7d-a53b-4696-828b-ae2acedbcad5,IOS,iphone,iphone 12
+0cd9b0a4-afd9-4083-b9af-094d4ef59cdb,Android,Xiaomi,Xiaomi 3
+f78fc3a1-7584-47d3-8813-ca2635b3899e,Android,Xiaomi,Xiaomi 4
+c94bd0f5-eeea-44ff-ab98-d441d98dfcdc,WindowsPhone,Lumia,Lumia 2
+23c8aade-5445-4aae-b14d-7df2ce0c7b74,Android,Xiaomi,Xiaomi 5
+5fc54798-5fb3-47bf-a572-28cdf61d5740,IOS,iphone,iphone x
+314ca367-698b-4a3f-b56e-1ee3132df1b8,Android,Xiaomi,Xiaomi 6 Pro
+d749fabb-86c1-4bc7-94c2-cf9905ffeb29,WindowsPhone,Lumia,Lumia 2
+618f5d7b-de9f-4317-bb1c-0348007212b6,Android,荣耀,荣耀 10
+00aa23b6-ee55-4aea-82aa-48366d52a86e,Android,Xiaomi,Xiaomi 3
+1293c940-33fd-4dbc-b3e2-12738e3a391e,WindowsPhone,Lumia,Lumia 1+
+9a54953c-1036-4837-bd84-80bac5055d3d,Android,Xiaomi,Xiaomi 6 Pro
+75a9ac41-f2be-45e5-b343-48a820febcea,Android,Huawei,Huawei Meta 40
+02e9c8fd-f67b-4991-9577-f10bcc0d4081,Android,Xiaomi,Xiaomi 4
+b59f0bae-069a-47b4-8629-52cc9df0dd51,Android,荣耀,荣耀 10
+f7cd644b-97c1-452f-823b-896500f421aa,WindowsPhone,Lumia,Lumia 2
+a40a7ff8-9a12-4af2-af50-671abfebc712,WindowsPhone,Lumia,Lumia 2
+383ea8b0-ccfb-400f-9af7-319a5fb69e02,IOS,iphone,iphone 6
+d0edf386-9ffc-401a-975c-b6f11e391e99,Android,Xiaomi,Xiaomi 4
+a3727db0-b71f-4fbd-88c4-b1ef9c42fc29,Android,Xiaomi,Xiaomi 4
+65f0eba5-e651-4669-b4d0-f035bcf3d5d0,Android,荣耀,荣耀 10
+265f6421-e69f-4133-b3f0-03d51b29a39e,WindowsPhone,Lumia,Lumia 2
+01e793a3-fb7e-4826-9343-e38f1863e441,Android,Huawei,Huawei Meta 40 5G
+7c19d63c-6a76-48ea-b8ba-52571fef141e,Android,Huawei,Huawei Meta 30
+ba14dd50-d973-44a3-8b24-5915599fd414,Android,Xiaomi,Xiaomi 6 Pro
+65e28040-4522-4558-abd1-dbae27128cb8,Android,Xiaomi,Xiaomi 5
+3f53b2f1-9acf-462e-84b2-67e735da4240,IOS,iphone,iphone 8
+9c13c4d8-0861-46e0-a79e-8e5c6974c709,Android,Xiaomi,Xiaomi 3
+def93ae9-1142-4733-bb73-2533559de1f2,Android,Xiaomi,Xiaomi 5
+2de0ae28-4eae-4017-9493-6e6d82653448,Android,Xiaomi,Xiaomi 3
+84bf1b04-3893-4d3d-9b2b-bf9c638c41cc,Android,Xiaomi,Xiaomi 5
+16eb002a-3065-4f71-b065-10b33440c2c5,Android,Huawei,Huawei Meta 40
+c0569cf0-04cd-4415-8c07-a2640e8b5361,WindowsPhone,Lumia,Lumia 2
+80f02cde-5ea1-48f9-b64a-072b73c9af86,Android,Huawei,Huawei Meta 40
+a27a9891-122d-44e0-8193-329496c0fece,Android,Huawei,Huawei Meta 40 5G
+cef73205-5adb-434b-ae69-b31e3a90f456,WindowsPhone,Lumia,Lumia 2
+f0906088-8011-431e-aa49-6c17d59b7379,Android,Huawei,Huawei Meta 30
+afdaffdf-6a71-408e-a8d3-ab96fb005890,Android,Xiaomi,Xiaomi 4
+ad90d8cd-9798-4b22-944f-5ce31998747c,Android,Huawei,Huawei Meta 40 5G
+cd4e5f13-3e4b-470b-98df-123fd9dca677,Android,Huawei,Huawei Meta 40 5G
+05dbb70c-8b8b-4481-bd3e-fed333ace142,IOS,iphone,iphone 4s
+4b8b2fce-5c2d-48e9-9371-6047c41aa6f0,IOS,iphone,iphone 6
+ae503d41-a059-42a9-8ff5-b7fd81b2859a,Android,Huawei,Huawei Meta 40 5G
+fc7505d7-9f5e-4f8f-8ae4-341fb9a894ab,Android,Huawei,Huawei Meta 40 5G
+db77d137-cd01-404f-91cc-aedca5c1eed0,Android,Xiaomi,Xiaomi 3
+f50c1ca9-0454-443c-9c5f-417376f49553,Android,Huawei,Huawei Meta 40 5G
+0f702e9d-b334-465e-80db-e234d613fefa,Android,Xiaomi,Xiaomi 3
+4bcc7513-b862-4ea3-b496-24689039cadf,Android,Huawei,Huawei Meta 20
+fca538a9-4e77-4dbc-b908-c319b1669716,WindowsPhone,Lumia,Lumia 1+
+c367a6a9-7799-400c-9ce2-96915ec50bc4,Android,Huawei,Huawei Meta 30
+4c257ce7-5afc-4924-8a9a-37d35e2b5da3,IOS,iphone,iphone 8
+7d514117-e985-48c1-b053-a4a82875eb4f,Android,荣耀,荣耀 10
+9d5f1e33-e7d2-41e5-a7ef-bcc49966ca39,Android,Huawei,Huawei Meta 30
+5be755d2-c877-4839-93e9-74c3f43795e4,WindowsPhone,Lumia,Lumia 1+
+b3c18a6d-7187-47e6-90ff-0da771ba64b8,WindowsPhone,Lumia,Lumia 2
+373af0d1-ff6c-4c2d-bc96-6aace773ee60,Android,荣耀,荣耀 10
+b3bf2f9f-0b8b-4c13-9658-8c1e5c62ce9c,WindowsPhone,Lumia,Lumia 2
+5ecf1250-14ab-4436-95d3-29ad06b08f98,WindowsPhone,Lumia,Lumia 2
+857555e4-e4c1-46e7-acc7-4f77fd7e7f93,Android,Xiaomi,Xiaomi 4
+faf8e647-104f-4767-922c-ff68b6e7f9f6,Android,Huawei,Huawei Meta 40 5G
+8eb26bd8-8c3b-4bdf-90a9-ce758d28e31c,Android,Huawei,Huawei Meta 40 5G
+99ebcd60-4b75-405a-98da-35d4d20c8dac,Android,Xiaomi,Xiaomi 5
+286e117f-47a5-4470-8460-dee48700e4e3,Android,Xiaomi,Xiaomi 3
+bc127237-150f-4356-a871-f4ec299932e4,WindowsPhone,Lumia,Lumia 1+
+9c7760eb-f4cf-4457-9c64-84b4db25bb77,WindowsPhone,Lumia,Lumia 1+
+5b435bf2-7b4d-4f71-b551-36425e6a1bf8,Android,Xiaomi,Xiaomi 4
+a46cc58c-b45d-452a-9b1b-84414800a7ad,Android,Xiaomi,Xiaomi 6 Pro
+6bc38cd5-85fd-4745-924e-9a6b4a8ef122,Android,Xiaomi,Xiaomi 4
+941ea851-a68d-4926-b6e3-5f131f40936e,Android,荣耀,荣耀 10
+961a4cf2-1779-4212-993c-746b9276ddc7,Android,荣耀,荣耀 10
+cc6c18f6-e284-41bd-a7e8-edd14c3caabc,Android,Xiaomi,Xiaomi 5
+5ec0ea36-ccfa-41a5-abb5-54a7a92bdf86,Android,Xiaomi,Xiaomi 3
+4f2a1ec4-bdb4-47dd-ad69-be7fddb7d966,Android,荣耀,荣耀 10
+bb336e7a-d782-4ba0-afbf-685708b761cb,Android,Xiaomi,Xiaomi 6 Pro
+ca9d0c17-a908-4ae4-a744-b52bee802f45,WindowsPhone,Lumia,Lumia 1+
+d60c07de-67b4-4b31-86ea-e73006b59615,WindowsPhone,Lumia,Lumia 2
+240107e0-fa01-441b-be3d-0e77ee128ed3,Android,Xiaomi,Xiaomi 3
+335391eb-82eb-4c7e-8edc-0dddec9ba326,Android,Huawei,Huawei Meta 20
+55d6239f-b82f-4391-be47-88313559b701,Android,荣耀,荣耀 10
+8c670f9b-a582-42a8-8750-4ee7de784d07,Android,荣耀,荣耀 10
+c69646f9-85c6-44f8-a8bc-bf49ce248b12,Android,Xiaomi,Xiaomi 4
+3e9a892a-bacf-4440-8468-4f57e7c99c1f,Android,荣耀,荣耀 10
+8d6f42e7-1152-4394-b83c-bad75af15563,WindowsPhone,Lumia,Lumia 1+
+eb60dfd3-eadd-4894-9263-6586cd3b3883,WindowsPhone,Lumia,Lumia 2
+ca382168-6982-4b74-ad74-868983b5974c,Android,Huawei,Huawei Meta 20
+873f5f3f-63f4-42c9-9055-9f610adbbda2,WindowsPhone,Lumia,Lumia 2
+67be457e-e418-4ff9-8d7a-70d790fa7548,Android,荣耀,荣耀 10
+837bd087-6e82-4590-a3e6-337539702f25,WindowsPhone,Lumia,Lumia 1+
+f371dbf3-115b-4428-bdc5-dc030d38b20a,Android,Xiaomi,Xiaomi 4
+779a50f0-dfaa-493a-9c95-32ecc840a65f,Android,Xiaomi,Xiaomi 6 Pro
+255348e0-20bd-4dd7-8a58-195a6923a904,WindowsPhone,Lumia,Lumia 2
+22ad51f9-1e03-412c-b7da-aeac6908731a,Android,Huawei,Huawei Meta 30
+c0c56f94-43a3-4beb-be5c-716fc30bea9f,Android,Xiaomi,Xiaomi 4
+2dac48af-4233-409a-8a8e-21fb1137da2c,Android,Xiaomi,Xiaomi 4
+16e5958d-877c-4d71-b602-3fe8e1d293c0,Android,Xiaomi,Xiaomi 4
+12238d82-462c-4dde-ba17-1eff39c195cb,Android,荣耀,荣耀 10
+6d56a734-f40e-4417-8969-3897253b7c70,Android,Xiaomi,Xiaomi 6 Pro
+1c3eeadc-9252-4d78-8f84-8411e4d4e26e,Android,Huawei,Huawei Meta 30
+7e1952d3-5227-439e-8d85-9a21cae55314,Android,荣耀,荣耀 10
+81e2fabc-3466-4ca1-a7b5-b0d7601ccaec,Android,Huawei,Huawei Meta 30
+1fc69746-4af5-4148-849b-f3ed6d43c8dc,Android,荣耀,荣耀 10
+93afe383-7815-46ce-87d9-5f6bce59832f,Android,Huawei,Huawei Meta 40 5G
+deec681c-1dce-4a1d-90c2-2d0a5fec12c9,Android,Xiaomi,Xiaomi 4
+77ab620b-3a58-4f22-9435-23aee6c4f04d,Android,Xiaomi,Xiaomi 3
+eb7de274-9ef6-4cee-bcca-64856f747bf8,Android,Xiaomi,Xiaomi 4
+dee2011b-5fc3-4d5d-8ad7-4909d92c4753,Android,Huawei,Huawei Meta 40
+e5cfb4c0-1646-425a-b1e1-5221537387bd,Android,Xiaomi,Xiaomi 4
+28050e08-c697-4094-bf04-2484f17cc285,Android,Xiaomi,Xiaomi 6 Pro
+3d8ffe5e-c237-4ae7-b417-53ef76b73d6d,Android,Xiaomi,Xiaomi 6 Pro
+22c228a2-83a5-4710-94de-2bcf7d8c2993,Android,荣耀,荣耀 10
+7522fbe0-e897-4253-97e6-b9e4ee0c4ad2,Android,Xiaomi,Xiaomi 5
+c9d8dcc0-5c81-454a-9221-2ebab4b9f96a,WindowsPhone,Lumia,Lumia 1+
+3b7d3390-3708-4e0b-8e8d-64ed5e49593c,Android,Huawei,Huawei Meta 20
+964f4119-12d4-49ba-b977-7ce626e331c0,Android,Xiaomi,Xiaomi 3
+6f7e23c1-6887-416c-b5ce-7f5cd17bd2d9,WindowsPhone,Lumia,Lumia 1+
+8679d0d2-6205-4b9f-9641-48ad6eae042a,WindowsPhone,Lumia,Lumia 2
+f099421a-aca2-401b-a3d9-b7249f005a97,Android,Huawei,Huawei Meta 30
+3e6d3328-8608-4578-9222-885321cdf406,Android,荣耀,荣耀 10
+7adc175c-4a6b-4487-bad4-cb47ddc28a2c,Android,Xiaomi,Xiaomi 6 Pro
+33a3a26d-0db6-475c-9604-1b1d68eeae0c,Android,Xiaomi,Xiaomi 5
+feb1dfab-9260-4e7d-ad52-aa28640745d9,Android,Huawei,Huawei Meta 40 5G
+a07a064c-cfc5-44cf-adb2-e8a39577a8b7,Android,荣耀,荣耀 10
+69956e60-7e16-4efa-a818-7a033704d826,Android,Huawei,Huawei Meta 40
+9c70ea29-c2ea-4036-a06c-9eb0d5704e0c,Android,Xiaomi,Xiaomi 3
+2049fda3-8a0e-4928-8648-5ab04ca4ab24,Android,Huawei,Huawei Meta 30
+e5158150-1d30-4159-b563-056d5f1f7559,Android,荣耀,荣耀 10
+2b76752b-46a8-4ba8-9537-521f79ee9800,Android,Xiaomi,Xiaomi 3
+2d02f46f-6281-4490-9521-bb2538b5d665,Android,Huawei,Huawei Meta 40 5G
+fe945c9d-c137-4049-8888-36db8fe6b7c6,Android,Huawei,Huawei Meta 30
+cb62b9c2-af5d-4fd3-b4db-3d27efa9227c,Android,荣耀,荣耀 10
+fb0f8570-3356-4f6a-ba93-7ba4e5c3318d,WindowsPhone,Lumia,Lumia 2
+9ebee5ba-e77e-4ed1-945c-5a8ab30e16f7,Android,Huawei,Huawei Meta 40
+2ef3521b-d83f-4984-921a-e2c6ce6201a1,WindowsPhone,Lumia,Lumia 1+
+d1b541ad-6043-46fa-8c81-9e94fedad121,Android,荣耀,荣耀 10
+d05b5ffe-be90-409a-85f2-7bd86fdb86db,Android,Huawei,Huawei Meta 30
+bc6016fc-6073-4dcc-887d-b8d2efd8f927,Android,荣耀,荣耀 10
+1ef059fc-a63e-423d-9b01-f62d318ae82b,Android,荣耀,荣耀 10
+faa88fa6-4697-4368-8554-5638181e6538,WindowsPhone,Lumia,Lumia 1+
+2d52c7ae-2775-4739-ac45-ca5379e545e4,Android,荣耀,荣耀 10
+1140aa92-5a2d-4905-b415-c0d2bca95322,Android,Huawei,Huawei Meta 40
+e560e021-2707-4604-9d58-320c9f23c7db,WindowsPhone,Lumia,Lumia 2
+2b058d58-f1da-4519-a124-972226948aec,WindowsPhone,Lumia,Lumia 1+
+e20e4c86-9a89-44fc-8de8-9d3fa3fee547,Android,Xiaomi,Xiaomi 5
+c4c646e9-0316-44ec-bd5c-962ef2155bc6,WindowsPhone,Lumia,Lumia 1+
+22f108d1-9ab4-45b3-9d98-a21827b13c5d,Android,Xiaomi,Xiaomi 5
+c1b99880-5998-42ca-85b0-f098c8908a78,Android,荣耀,荣耀 10
+63aaadcd-0bb3-4764-abc4-b8b2a8cbd056,Android,Huawei,Huawei Meta 40
+809fb1da-5e3a-489b-bf6a-d26ef83b9eb7,Android,Huawei,Huawei Meta 40
+1f00518e-3719-46e8-ab05-a736c1eb5e77,WindowsPhone,Lumia,Lumia 2
+dd9279ab-193a-404e-9eeb-cd467cb9cac1,Android,Huawei,Huawei Meta 40
+c6d604c1-00dc-4c71-b962-0b36008ef482,Android,Xiaomi,Xiaomi 3
+308a2dbc-0bb9-47dc-93da-2d32de34385f,Android,Huawei,Huawei Meta 40 5G
+c45f7669-d601-4be5-a350-8f24a6c78c18,Android,Xiaomi,Xiaomi 6 Pro
+d1cd1169-9ffb-4134-bf57-3319ccb0f47d,WindowsPhone,Lumia,Lumia 1+
+d3de91cf-552b-4e80-a65b-53fb3aca4287,WindowsPhone,Lumia,Lumia 1+
+675886b8-dc36-4a67-8076-c574405a4022,Android,Xiaomi,Xiaomi 3
+0f515ea8-caba-4854-bf9d-13afc9a5eb95,Android,Huawei,Huawei Meta 40
+fbcb87d5-c67e-452a-8dcf-090ab480a6f3,WindowsPhone,Lumia,Lumia 2
+9e98e905-b9bf-44ad-841e-0f8f0fb94c07,Android,荣耀,荣耀 10
+912f8698-776b-4dea-9085-7b0fbccfd247,Android,Huawei,Huawei Meta 30
+5109ac7d-3654-42b9-8923-ef6e058b3d6f,Android,Huawei,Huawei Meta 30
+0a689c33-bbfa-4f4e-9bfb-0c86e03efb79,WindowsPhone,Lumia,Lumia 2
+82ecd26a-ee68-4a08-b62b-127ace8c529c,WindowsPhone,Lumia,Lumia 2
+d6488a70-9e62-492c-a58d-d4c41e27f7db,Android,Xiaomi,Xiaomi 6 Pro
+8a98e4df-6b9c-4a0b-ad7a-c2f05dfab7d1,Android,Huawei,Huawei Meta 20
+45db7e77-993c-40ee-b6fb-4de9283c98c4,Android,Xiaomi,Xiaomi 3
+e96d6bdb-6d3d-4cea-9a13-8a64acbce593,Android,荣耀,荣耀 10
+c7fb3567-a4bc-462b-a5fd-aa72bfdf7a81,IOS,iphone,iphone 7
+365dab3f-6efc-4a2c-bc79-ad3d1476c3e5,Android,荣耀,荣耀 10
+24f01cf9-788a-41f8-9384-d73855d54634,Android,Huawei,Huawei Meta 30
+79b19134-fddf-430b-aaca-caacfe51fa7b,IOS,iphone,iphone 5
+b65301af-8b24-43fb-a93c-3f55a63a0b46,Android,Xiaomi,Xiaomi 3
+43f578e3-38b3-444f-b90d-3968b5a3123b,IOS,iphone,iphone x
+91b4a8c2-e82b-455e-af6f-302b1694bb77,Android,Huawei,Huawei Meta 30
+6e16b5ab-f501-487b-a913-1aa86dd20c5d,WindowsPhone,Lumia,Lumia 2
+9b6edd9f-b3d0-4bbc-ae9b-cb3c09ccacea,Android,荣耀,荣耀 10
+8438e234-c167-4ded-a1e6-2223f3db68fd,Android,Huawei,Huawei Meta 20
+a001e004-adc3-418d-b5fb-8dcd856726e9,Android,Xiaomi,Xiaomi 5
+55964313-f408-452e-af4a-a693a8985a28,Android,Huawei,Huawei Meta 40
+a9929816-5203-419d-8cc1-0df9bfe0b81a,Android,荣耀,荣耀 10
+6f237d68-ebae-4d94-a294-982461de6745,Android,Xiaomi,Xiaomi 4
+c81fbd57-8b06-4004-ae3c-8475fd78b7d0,Android,荣耀,荣耀 10
+89015938-5f70-4d5f-99be-9904646538c3,Android,Huawei,Huawei Meta 30
+1c4b8fe8-ee76-4820-a550-54b8c4e95b15,Android,Huawei,Huawei Meta 20
+736dfa44-701a-4490-854b-2d5766c89b93,Android,Xiaomi,Xiaomi 5
+e8bee625-91f5-4b8b-ba7d-64daf8e610da,Android,Xiaomi,Xiaomi 6 Pro
+a84c0cdd-1a29-4033-84b7-b2584845c941,WindowsPhone,Lumia,Lumia 2
+e8c64252-c138-422c-b33b-44df2bc55d0a,Android,Huawei,Huawei Meta 40
+5211fb15-2392-4d73-87fc-da5b10671d43,Android,Huawei,Huawei Meta 40 5G
+8bf43fa5-e32e-4ef7-abfd-e4e7f22bead4,WindowsPhone,Lumia,Lumia 2
+a395f944-e53e-4eca-9e6d-85d1deda6ccc,Android,荣耀,荣耀 10
+da65d71d-9667-4c40-9445-7243158c9b9a,Android,Huawei,Huawei Meta 20
+93d32959-48b1-423d-aab4-3a3602bbcd04,Android,Xiaomi,Xiaomi 6 Pro
+c55cb4ba-b650-4f67-9fc9-df686f519957,Android,Xiaomi,Xiaomi 3
+3bbf3614-64b4-466d-a05d-1c288087a699,Android,Xiaomi,Xiaomi 4
+1c0724c1-5d49-487c-a7b0-da4a9ca1d0d2,Android,Huawei,Huawei Meta 40 5G
+42ca4945-cde9-4563-b183-06878f1277fe,Android,Huawei,Huawei Meta 40 5G
+10cbc90e-16c7-4495-8edd-65ac78078643,Android,Xiaomi,Xiaomi 6 Pro
+23eb1dd4-8412-49d4-aa7c-ccb67c978bf4,WindowsPhone,Lumia,Lumia 1+
+b529338b-3b29-4ac7-ba29-df0624ed2834,Android,Huawei,Huawei Meta 40
+6becd52e-d087-4591-9e61-7e02bfaf1282,WindowsPhone,Lumia,Lumia 2
+43ea5b22-33d6-47d8-90d5-feaa78165ef1,Android,Huawei,Huawei Meta 40
+17c1d4b8-59a9-4f90-b7d2-0bb81afa5c80,WindowsPhone,Lumia,Lumia 2
+916d20cc-196a-46ec-a5e0-4b132ba3d436,WindowsPhone,Lumia,Lumia 2
+c34ca3db-59a1-4dcc-829a-b50e00250171,Android,Xiaomi,Xiaomi 6 Pro
+bb44c4b1-6e89-4546-8414-b6c14ba6b4eb,Android,Huawei,Huawei Meta 40
+556dce6c-689f-4d2f-ad7c-adf93618cacd,Android,Huawei,Huawei Meta 40 5G
+8aac2af4-2e75-45c5-87b4-99afdbfd0b5c,Android,Huawei,Huawei Meta 30
+cbd277f4-d6fd-4867-9aac-8ba595334f95,Android,Xiaomi,Xiaomi 4
+09dcfed6-beab-4709-b550-4feb9042db68,Android,Huawei,Huawei Meta 40
+ec62516c-8962-47c9-b1b6-522e1e6075e9,Android,Huawei,Huawei Meta 40
+3aa96412-d046-4d9e-8e26-0853f5e63fb2,Android,Huawei,Huawei Meta 40
+3f9a2623-0432-469e-9580-69337d3849d3,Android,Xiaomi,Xiaomi 3
+34714808-0811-4740-b1fa-1b71471b16f3,Android,Huawei,Huawei Meta 40
+ecc7f1dd-2593-4ab8-8057-74a6f345cba9,Android,Xiaomi,Xiaomi 5
+38971e2d-b91b-4e96-b856-474a11585ee2,Android,Huawei,Huawei Meta 20
+f64c9562-495c-442c-8cde-16c44b783753,Android,Huawei,Huawei Meta 20
+12bc3c25-c2fc-4ba2-9f63-beac3e084226,Android,Xiaomi,Xiaomi 6 Pro
+f514fb0f-9f14-4c04-b06a-debc0e357b66,Android,Huawei,Huawei Meta 30
+14115845-886c-4cb6-a07f-0952abd97ea8,Android,Xiaomi,Xiaomi 6 Pro
+bccc0aea-5bb9-4288-ab9b-598c4ddde67d,Android,Huawei,Huawei Meta 30
+31eaddac-a37a-4893-a40f-aae5b1aa03ab,Android,Xiaomi,Xiaomi 3
+369b54df-dce1-48ee-98bd-119a0c44fcd9,Android,Xiaomi,Xiaomi 4
+65eb412d-5c9b-48fa-833f-c4c89eba6615,Android,Huawei,Huawei Meta 40 5G
+2f20660c-33e6-4214-b371-4d08ffcd572b,IOS,iphone,iphone x
+e6897e64-b864-4153-896a-0d51cebd864e,Android,Huawei,Huawei Meta 20
+f81541ad-2a96-474c-92fc-820f4ff0949e,Android,Xiaomi,Xiaomi 4
+bddf5921-f24e-4e0d-9ec8-895ddc55392f,Android,Huawei,Huawei Meta 40 5G
+10cf5c91-9f4c-4550-9ee1-a45af16abf6a,WindowsPhone,Lumia,Lumia 1+
+53e9120b-1d3d-4f85-a361-0010e20d12d9,Android,Xiaomi,Xiaomi 4
+a098a0f5-fd1d-41f5-b89a-63bc0b260c1a,Android,Xiaomi,Xiaomi 3
+1a3a2248-13ee-405f-8b5e-c2004b03cffb,Android,Huawei,Huawei Meta 30
+3dd3dbee-b02d-4074-b0e6-18e74fd048ed,WindowsPhone,Lumia,Lumia 1+
+33018e20-0f35-4cb3-a416-faa354758eb8,Android,Huawei,Huawei Meta 40
+f1e0abbb-c629-4b12-9b82-c1ead7ee2d5e,WindowsPhone,Lumia,Lumia 2
+a997fede-6a2c-4a39-bf27-a672bc849727,Android,Xiaomi,Xiaomi 4
+730a1a5b-41cd-43e7-83d0-59dc19439470,Android,Huawei,Huawei Meta 20
+c35db625-5f10-4136-b035-1eb73f145cc4,Android,荣耀,荣耀 10
+0000f04b-7f1d-4697-8978-67437787066b,IOS,iphone,iphone 9
+7204cadb-3f00-4b5e-9584-2c7f20e8c016,Android,Huawei,Huawei Meta 40 5G
+9fedba72-ebdb-4d5e-a89b-e890a62e3b05,Android,Huawei,Huawei Meta 20
+a3d92f0a-76d6-43b4-8d06-c780cccf38cd,WindowsPhone,Lumia,Lumia 1+
+4f6318f5-1dc5-4b28-8409-fd1010c8449d,Android,Xiaomi,Xiaomi 4
+d2d6b0d3-f0b5-445a-96b8-0c9f76ef5d3b,Android,Xiaomi,Xiaomi 4
+2333b527-8f06-460f-9b91-5127a9ea12f3,Android,Xiaomi,Xiaomi 4
+98c6d868-64d1-4d2d-b05f-d44addbe8c0d,Android,Huawei,Huawei Meta 20
+eadd247a-e63c-41f2-a6e8-3a79d12a927b,Android,Xiaomi,Xiaomi 5
+0bac822a-38e9-4966-8c6d-b52e9bdc520a,Android,荣耀,荣耀 10
+cc20a234-3bff-4965-b121-2ea17168dd02,Android,Huawei,Huawei Meta 20
+50f75788-f2b6-4ff0-a612-e6db0a7bd901,Android,Xiaomi,Xiaomi 4
+ad84c9f0-0978-4429-9802-300ad3dc2b95,Android,Huawei,Huawei Meta 40
+a87de6ee-a314-4741-b18b-18fe1ab86c55,Android,荣耀,荣耀 10
+8bfebfed-674a-4878-9e71-859e340ce91b,Android,Xiaomi,Xiaomi 4
+d8ad80d3-169f-4ba7-a191-df141a4b90b7,Android,Huawei,Huawei Meta 30
+78247c70-df0a-433b-aa44-e3bb04fa7cef,Android,Huawei,Huawei Meta 40
+c1a52987-ab06-4d26-a451-3c0dbd03f577,Android,Huawei,Huawei Meta 30
+7537471a-c1e3-4c11-bec4-ad476f653718,WindowsPhone,Lumia,Lumia 1+
+a2c514fe-a0bd-49de-aaed-f5856404db3a,Android,Huawei,Huawei Meta 30
+d5ef3104-b6fc-40a7-a269-da2f96cf52f2,Android,Huawei,Huawei Meta 20
+8355e144-32d8-467d-983d-6afee3088054,Android,Xiaomi,Xiaomi 5
+ee0e9bd0-e1a5-44c4-8c81-8136052a71cf,Android,Huawei,Huawei Meta 40 5G
+265c5f03-a082-4335-b925-eafdb55c86af,WindowsPhone,Lumia,Lumia 2
+830ce396-a6cf-4000-95da-a864591d8a8e,Android,Xiaomi,Xiaomi 3
+0e14d2a4-1c86-4f5e-863c-07d0f88b5851,Android,Xiaomi,Xiaomi 6 Pro
+f7a9a9b3-3c7f-4a6d-b430-f65355f19fb3,Android,Xiaomi,Xiaomi 3
+a878fc7b-1c29-46af-ae8e-8ea0b6701256,WindowsPhone,Lumia,Lumia 1+
+53ef3f8a-50c5-40d4-a75d-6b03af2b0b64,Android,Huawei,Huawei Meta 40 5G
+218151be-6758-4bd4-8fca-420a30fcd4df,Android,荣耀,荣耀 10
+0186f495-361f-4bbe-ade8-40fe6bf4a934,Android,Huawei,Huawei Meta 40
+e7c74a10-a193-44b3-8a25-f5c6da10b0a0,Android,Huawei,Huawei Meta 20
+d0e8379f-83f6-4e5d-8a56-8757c2b1983a,Android,Xiaomi,Xiaomi 4
+603969d7-85d1-4c6c-8b71-38e094b54ff2,Android,Huawei,Huawei Meta 30
+65711659-d8a4-4fb1-adc2-e7dfd367f91b,Android,Huawei,Huawei Meta 40
+05618ec8-9cf6-4e7c-95b5-78c34b633be0,Android,Huawei,Huawei Meta 40 5G
+8334eb0a-3df8-466d-baa5-dd2e08df6a46,Android,Xiaomi,Xiaomi 3
+9c0bf666-7ed8-4e7c-a546-16eb4c9e218e,Android,Huawei,Huawei Meta 20
+68057534-0142-4ca6-bac1-fdd8ee8a241b,Android,Huawei,Huawei Meta 40 5G
+02cf0ecf-2e64-4de8-a5b1-1d84df75d4de,Android,Xiaomi,Xiaomi 6 Pro
+c1c06d49-68cb-4a24-9377-ccfe58f5aa32,Android,Xiaomi,Xiaomi 6 Pro
+765797c3-264d-427b-83ec-7618dbe134c1,Android,Huawei,Huawei Meta 30
+96e820f1-5912-4e86-a150-bca5984ab679,Android,Xiaomi,Xiaomi 3
+5b571c24-9263-4cca-a828-a19f1eef5fdf,Android,荣耀,荣耀 10
+7aa4a237-2c57-4bba-b917-acc72e040449,WindowsPhone,Lumia,Lumia 1+
+ea79dc2c-974f-42f6-a43a-0df68f875659,Android,Xiaomi,Xiaomi 6 Pro
+c4ac0038-8f96-4358-90ef-28b7af4a59ce,Android,Huawei,Huawei Meta 30
+59b9f590-703c-45dc-a6cb-024a943a613b,Android,Xiaomi,Xiaomi 4
+70158f88-2c6f-436e-b84d-972bc8e75130,Android,Huawei,Huawei Meta 40
+a1367c6d-11ed-48f8-8456-167f8fafef46,Android,荣耀,荣耀 10
+f3f34a94-9494-4705-bc06-16bd6afa519a,Android,Huawei,Huawei Meta 30
+11626fb9-d35a-4b24-81b6-8f62402ff02f,Android,荣耀,荣耀 10
+675901ce-37ac-420e-8e4d-6a4600f0dffb,Android,Huawei,Huawei Meta 30
+5795f2ea-da26-4246-8db0-456cc64d92e7,Android,Huawei,Huawei Meta 40
+8720a529-f36d-45be-bf10-bcb15d20a65a,WindowsPhone,Lumia,Lumia 1+
+814eb01c-c649-4a1c-acfd-f43a6b831d03,Android,Huawei,Huawei Meta 30
+bf09e357-cb17-42d2-bc59-c0b613484d8a,Android,Huawei,Huawei Meta 20
+b380320d-ed5a-4155-8fa1-46c8cbed9a90,Android,Huawei,Huawei Meta 30
+066b7dfe-5026-4e8e-af90-68182eff6159,Android,Xiaomi,Xiaomi 3
+e88aaea3-c64d-4d9e-9dc6-959d3895b48b,WindowsPhone,Lumia,Lumia 1+
+685be4f5-55ee-48bf-8a2e-cfb0bea3daa6,WindowsPhone,Lumia,Lumia 1+
+b369d16e-731c-4ab1-b297-cf4aa783cdd2,Android,Xiaomi,Xiaomi 4
+e6e0fb06-ae08-4dcb-8094-deb0e237a11c,Android,Huawei,Huawei Meta 20
+cf7cce09-7d95-42d2-8ea8-2d2daf7f1647,WindowsPhone,Lumia,Lumia 1+
+df85c7ae-1973-44dd-9380-187252bcba09,Android,Huawei,Huawei Meta 40
+400aa2fc-06bb-49e8-a224-1e437f9d1cfb,WindowsPhone,Lumia,Lumia 2
+223b8a29-c3c0-4a9f-9ec2-0151548a9370,WindowsPhone,Lumia,Lumia 1+
+c57d5a50-aab4-4c08-99cf-6f5362d53dec,Android,Huawei,Huawei Meta 40 5G
+fe06d493-330e-420c-ae35-63d19c27cca4,Android,Xiaomi,Xiaomi 4
+f04f6d39-69ad-4449-a11e-54e81621f5ab,Android,Xiaomi,Xiaomi 5
+b08cae7f-fdab-4816-ba38-a0e081ad4454,WindowsPhone,Lumia,Lumia 2
+0d82960e-f5d1-44c6-a237-eac97f938152,Android,Huawei,Huawei Meta 30
+c8b09f4f-78fd-479a-9ecc-3c7183833f37,Android,Huawei,Huawei Meta 30
+9acc74d5-5c25-4158-8d57-d5295ac3b96c,WindowsPhone,Lumia,Lumia 1+
+997ba1e5-8cb0-48ae-b17d-86e5b656bd96,Android,Xiaomi,Xiaomi 4
+04acb974-d074-493d-b741-ea00953d7e19,Android,Xiaomi,Xiaomi 6 Pro
+ad944a0f-eae5-4457-a512-9b8850272879,Android,Xiaomi,Xiaomi 4
+285512a6-77de-4a0d-9e5a-52dd53a0a060,Android,Xiaomi,Xiaomi 4
+256ca003-fc41-4bb0-b6c0-086d79c202b0,Android,Xiaomi,Xiaomi 5
+f5dbe28a-ce16-4e2d-b3e0-a0d065dd9ae9,Android,Xiaomi,Xiaomi 5
+ec798f26-f7bf-4e03-85cb-eee9f2cec9f1,Android,Xiaomi,Xiaomi 4
+6554f19f-c391-4fdb-abad-e52e09de6fef,Android,Huawei,Huawei Meta 20
+18417ecc-030b-44d9-b2f4-4bb62d596d1c,IOS,iphone,iphone 9
+fd26229e-04fd-42e1-a53f-dbada12c1eb4,Android,Xiaomi,Xiaomi 6 Pro
+5434d723-03fe-431d-a3e3-46467827201f,Android,Huawei,Huawei Meta 40 5G
+cefd3750-5a1e-41b1-a4bc-b52d6857302c,Android,Xiaomi,Xiaomi 4
+fd4c461a-5991-4cfc-ae7f-5ece4f13bc2b,WindowsPhone,Lumia,Lumia 2
+7bce67f9-98c9-4506-82a2-beac1600fea0,Android,Huawei,Huawei Meta 30
+2d806d0c-3827-4131-b651-162e6edeff70,Android,Huawei,Huawei Meta 40 5G
+5b2eb45a-4318-4da3-8f6f-ee9409c097d0,Android,Xiaomi,Xiaomi 6 Pro
+7ea259be-cf17-4931-9330-dc6aba59b850,WindowsPhone,Lumia,Lumia 1+
+2efc05cd-66e8-4003-942d-064afcccf492,Android,Huawei,Huawei Meta 40
+154a746a-58bb-45b8-b5c7-677c1640518c,WindowsPhone,Lumia,Lumia 2
+71e5594d-f958-418d-b78a-f0208d005999,Android,Huawei,Huawei Meta 30
+a3bc3ad3-7b24-4085-9f5b-f9849494ede1,Android,Xiaomi,Xiaomi 4
+a76e7581-2723-4eb4-ba72-6d93f68c2f7c,Android,Xiaomi,Xiaomi 5
+a08bd887-c997-402a-b48a-422fd0f07b41,Android,Huawei,Huawei Meta 40
+2668c0c0-6451-4d7b-8315-573bd298f82a,Android,Huawei,Huawei Meta 40 5G
+ddd82b4e-7392-467d-937a-bd3ddb79df40,Android,Xiaomi,Xiaomi 6 Pro
+a7eaee9d-6ab5-45d7-86d9-f4c63e8a0c7b,WindowsPhone,Lumia,Lumia 1+
+354e3bad-d39e-463a-a263-3549eb0f5a5d,Android,Xiaomi,Xiaomi 5
+33a5a89c-515a-465a-8df5-29af245fbf56,Android,荣耀,荣耀 10
+e19294cb-982c-4a53-b195-eb9936453ce8,Android,Huawei,Huawei Meta 30
+fd85642f-fe8d-447e-9a3c-bf7e33645f45,WindowsPhone,Lumia,Lumia 2
+f674f596-db72-460b-aa78-fe001b5e5c82,Android,Huawei,Huawei Meta 30
+1ebd1799-70c3-4f51-9024-42f3d878205e,IOS,iphone,iphone 7
+16725a7a-df44-4932-ae11-16da529d10a3,Android,Huawei,Huawei Meta 30
+9ce0e3fa-de9c-4cb9-a43d-032a66dfb83a,Android,Huawei,Huawei Meta 40 5G
+bb460dd5-e0a1-48eb-8a57-5290d590fc30,Android,Xiaomi,Xiaomi 3
+f452167a-9556-4693-ae72-ec159271647c,Android,Xiaomi,Xiaomi 3
+2238971d-922c-42ed-b99e-f7776f54b60c,WindowsPhone,Lumia,Lumia 1+
+bd2846ea-0061-4d8f-bb76-65cff8f384dd,WindowsPhone,Lumia,Lumia 2
+d9ef2411-88be-4d98-8cd0-27cdf2dd3f34,WindowsPhone,Lumia,Lumia 2
+4df1d842-3c72-4d3f-9865-f3b02e606f1c,Android,Xiaomi,Xiaomi 6 Pro
+804249c8-d7e6-4d74-94b8-b68e15eef501,WindowsPhone,Lumia,Lumia 2
+749f006f-540a-46e1-b3a9-1ce5b6d4bc5f,WindowsPhone,Lumia,Lumia 1+
+f3cecf46-c241-45f9-9951-f970f2d24142,WindowsPhone,Lumia,Lumia 2
+0d55fd1a-2f03-4ef1-af6d-887146972444,Android,Huawei,Huawei Meta 40 5G
+1b69e637-c4ff-4598-9f09-93447e24aff2,Android,Huawei,Huawei Meta 40 5G
+ebaca6a6-2ca0-40a6-82e0-92430f9adf4e,Android,Xiaomi,Xiaomi 4
+7f6ceac8-d58e-4efc-b8d1-39063b0fdd09,WindowsPhone,Lumia,Lumia 1+
+9cdd6c6a-19c4-4134-812c-f76c0c60d1bf,Android,Huawei,Huawei Meta 20
+3f134335-2e84-43be-b263-31a4e595ef8e,WindowsPhone,Lumia,Lumia 2
+b24329ae-304d-4eb7-a646-88d12bd7d21d,Android,荣耀,荣耀 10
+17fde29e-3e0b-4153-bf1b-cf8e7176cc3e,Android,Xiaomi,Xiaomi 5
+29fa77b1-c311-429c-ad7b-f404a57d25aa,Android,Xiaomi,Xiaomi 6 Pro
+76e2ee2b-674b-4115-b33c-ba9c8946d282,Android,荣耀,荣耀 10
+4cfd9075-b19f-467f-8009-66393e839686,Android,Xiaomi,Xiaomi 5
+03962b47-92c1-4907-ab3a-ce1960c196ee,Android,Xiaomi,Xiaomi 6 Pro
+e54c2ab3-3084-4faf-ae8e-b1e2ea806c53,Android,荣耀,荣耀 10
+6d9e4105-a046-4d65-8c21-95db4699fa6a,Android,Huawei,Huawei Meta 30
+7c8ab089-743b-46e2-aafe-e1d4f69de022,WindowsPhone,Lumia,Lumia 2
+85c7dcb9-7b3b-4103-9913-c9f65f836f4f,Android,Huawei,Huawei Meta 40
+09a01f8b-5807-4f14-b8b5-593b7340a650,Android,荣耀,荣耀 10
+c52add35-a709-47ab-9279-332600e03acf,Android,Xiaomi,Xiaomi 3
+9411b6ae-d31d-4200-8c25-372f7ebdf73b,WindowsPhone,Lumia,Lumia 2
+df5035c4-9413-4a01-9b7c-ad4317a2e81a,Android,Huawei,Huawei Meta 40 5G
+a660143e-7f36-4d17-9a5d-57318829d215,IOS,iphone,iphone x
+99ac5175-d187-4736-9be5-3f4d7c7471d4,Android,Xiaomi,Xiaomi 3
+f51eebcc-9c1e-4234-b791-3d54c9cabd76,Android,Huawei,Huawei Meta 40 5G
+6cebb10d-c592-4f1c-ad2a-a9d9c06c81c2,Android,Xiaomi,Xiaomi 5
+89af7f34-1be1-44a4-bf09-feec53044d13,Android,Xiaomi,Xiaomi 4
+111c925e-2059-4a58-849c-5c29196f607e,Android,Huawei,Huawei Meta 40 5G
+3b1cb18a-b2f2-4172-81ef-5d1c24a038a8,WindowsPhone,Lumia,Lumia 2
+b075366c-bd1f-4558-ae83-c3c830b382e6,Android,Huawei,Huawei Meta 20
+26b4d31a-22ec-4c13-9933-2e00eb601d17,Android,Huawei,Huawei Meta 20
+1faf2e92-3a92-43d0-b3d2-d9aabc2ec693,Android,Huawei,Huawei Meta 40
+342f9c80-2ad1-484d-ab26-fef04ff78ade,Android,Huawei,Huawei Meta 40
+7295662e-e1ed-4b2a-9217-e03c5dc56a95,Android,Huawei,Huawei Meta 30
+0e5b0404-3220-4620-80fd-2f6f7279b6c2,Android,Xiaomi,Xiaomi 5
+4c5e2483-0532-4693-b7a3-bc34dbe48e91,WindowsPhone,Lumia,Lumia 2
+0c6c0848-9364-48b8-9265-1471896fa04b,Android,Xiaomi,Xiaomi 4
+aa889907-3676-4638-9c1e-dc9ffca7c0f7,Android,荣耀,荣耀 10
+154c1b34-01ad-41ea-a283-535ae90b4812,Android,Xiaomi,Xiaomi 4
+ff554b04-31c4-40a2-a000-1d21b670c624,WindowsPhone,Lumia,Lumia 1+
+65a2a961-5b1c-44b8-835a-4cd0c84d62ae,Android,Xiaomi,Xiaomi 5
+c68b340c-2dac-4f27-a404-42923d60559a,Android,Xiaomi,Xiaomi 4
+b3cb5eb6-f6d0-4101-9120-e087ca749c74,Android,Huawei,Huawei Meta 40
+46093815-7251-4889-a116-79a00715c643,Android,Xiaomi,Xiaomi 6 Pro
+12808611-a73d-4888-9bdf-db9e3dc0bdc7,Android,Huawei,Huawei Meta 30
+430f13eb-6733-457b-b482-1ec07316ae12,Android,荣耀,荣耀 10
+6e4a9d80-d46c-486b-b98b-3f87543b55a2,WindowsPhone,Lumia,Lumia 1+
+6f948bea-44a0-44c2-85d4-d8825e8b6d90,Android,Huawei,Huawei Meta 40
+6ec7c989-c0f4-45b1-a1d9-03143dcb52bf,WindowsPhone,Lumia,Lumia 2
+7590f820-dfa9-4da2-ac6c-fa123a45f1c1,Android,Huawei,Huawei Meta 20
+295d92de-0d16-4f3f-9bb7-53deb36a0bc0,Android,Huawei,Huawei Meta 30
+81e4a1af-4037-4411-af9f-ef37e1c63e2b,WindowsPhone,Lumia,Lumia 2
+c176788d-3763-4ddd-ad74-be9bc68e5bef,Android,Huawei,Huawei Meta 40
+cec1c3d7-234d-43a6-bc3e-52376d746df8,Android,Huawei,Huawei Meta 30
+a769116c-5dd3-4d67-ab38-d26eff29af8b,IOS,iphone,iphone 12
+e1e3804a-627e-498b-9085-359f1040b39d,Android,荣耀,荣耀 10
+ea45221d-afdd-4d76-8d61-e4d40a16b63e,IOS,iphone,iphone 6
+a8e96fe3-addb-4ea4-9aae-da25a106b481,WindowsPhone,Lumia,Lumia 1+
+c7f18e07-05bc-471c-b065-8ca12605af53,Android,Huawei,Huawei Meta 30
+d15c1145-ff2e-49e5-adc0-3329e9b903d3,Android,Huawei,Huawei Meta 40
+cef247eb-aec0-48e6-a1b1-6d620b5e7ec0,Android,荣耀,荣耀 10
+8bf9f4cf-b0d8-48bf-9ff8-71a038f72b5d,Android,Xiaomi,Xiaomi 3
+332b1f1b-a987-42e5-b8d6-1cee2a92f8fa,WindowsPhone,Lumia,Lumia 2
+085bd024-a8e8-40f7-a8f4-69f2bda3a5c9,Android,Xiaomi,Xiaomi 3
+401a4360-1f77-4d5b-bf42-1ff329f0e7b7,Android,Xiaomi,Xiaomi 5
+5eafecbf-19d4-4880-a12d-7f2136a920d3,WindowsPhone,Lumia,Lumia 2
+90e18dee-93a3-473e-9d2d-38ed22fc991b,Android,Huawei,Huawei Meta 30
+76245848-6ae5-4967-bfdd-fc72a8eb57da,Android,Xiaomi,Xiaomi 6 Pro
+a71ea8f3-6b58-4436-85ca-91e2a099cc75,Android,Huawei,Huawei Meta 30
+fb66c183-d6f7-4ad9-88e2-68ffa1d815f8,Android,Xiaomi,Xiaomi 6 Pro
+cc115102-0762-469a-a955-f0dbb0577c5b,Android,Xiaomi,Xiaomi 3
+74dd1b9e-f04d-4968-a858-a9b9e50fbed8,WindowsPhone,Lumia,Lumia 1+
+23a83ebe-e267-41dd-a6b2-cd3b7394e397,IOS,iphone,iphone 12
+36af4d05-104d-454a-8384-7c33814d5481,WindowsPhone,Lumia,Lumia 1+
+6795820f-a0ec-4e6b-be86-c12e11f6e50c,Android,Xiaomi,Xiaomi 4
+939c2487-07b8-4a0b-a932-a7836860fbe1,IOS,iphone,iphone 5
+3dd43efa-9141-413b-9466-f39be2a94655,Android,Xiaomi,Xiaomi 6 Pro
+d057ad26-3a2e-4f13-9baa-310960913128,Android,Huawei,Huawei Meta 30
+529507a5-f669-4e90-a7e4-fe348fbc79d0,Android,Xiaomi,Xiaomi 4
+36032757-a8e5-4f5a-ab1b-e1417fb28b40,Android,荣耀,荣耀 10
+b8fb35be-0a36-4273-af58-6d5fad1abd2b,Android,Xiaomi,Xiaomi 6 Pro
+54de641d-8eac-437c-8b4f-cf08233747c0,Android,Huawei,Huawei Meta 30
+bae7ae0f-998e-43a9-9742-b6a73026adde,WindowsPhone,Lumia,Lumia 1+
+a203256b-0553-4d11-b270-17bb72d58cd1,Android,Huawei,Huawei Meta 40 5G
+b154171c-fc62-4c91-9ee7-52d3e6ffcf05,Android,Xiaomi,Xiaomi 5
+ad9f2070-9c69-411a-a284-63e62423d2ea,Android,Huawei,Huawei Meta 40 5G
+52d5673b-dd20-4527-858b-7238e105ab13,WindowsPhone,Lumia,Lumia 2
+2c5dfa40-b911-4096-bfa5-2d401e4722ce,Android,Huawei,Huawei Meta 30
+17cbebcc-d55d-4795-b056-edad0ea83c54,Android,荣耀,荣耀 10
+3b233c9a-ae26-45e9-9aef-fd9bc88db55e,Android,荣耀,荣耀 10
+693a7a41-e9a8-4ef1-afd8-cccebb795faf,Android,Xiaomi,Xiaomi 4
+40d56973-51fb-4c3f-a41c-45336cb10431,Android,Huawei,Huawei Meta 40
+a9db8610-b5c9-4b74-b277-4c13b2cfa194,WindowsPhone,Lumia,Lumia 1+
+1a449a84-2345-471f-be2f-c5005315b257,WindowsPhone,Lumia,Lumia 2
+403b8c68-0e52-4fba-b6ee-68773f5b34fb,Android,Xiaomi,Xiaomi 3
+da305462-6c72-42ad-a90a-c94ac8490541,Android,Huawei,Huawei Meta 30
+3f48fc81-d40c-419e-a724-37dcc7e9ac2b,WindowsPhone,Lumia,Lumia 2
+3302e38f-7f6b-4e44-ba4a-522fe9124d82,Android,Xiaomi,Xiaomi 3
+3cba3740-c072-4413-ba34-3e4d3f988f2f,Android,Huawei,Huawei Meta 40
+147c3b02-03f5-47ee-87c1-7a5b0acfd822,Android,Xiaomi,Xiaomi 6 Pro
+1ab72df3-5893-40b7-8b4c-a16af499e4de,WindowsPhone,Lumia,Lumia 1+
+e6320f24-8e02-49e7-a966-5100c27fef88,Android,荣耀,荣耀 10
+f45a499c-4e60-45d8-84ae-51999007f6ad,Android,Xiaomi,Xiaomi 5
+dd144de6-baf2-40a3-ad8c-ee7d2fc3347f,Android,Huawei,Huawei Meta 40 5G
+d6436097-32d2-47fa-b245-b4a2e52e9a52,Android,Huawei,Huawei Meta 20
+2873361f-c0d2-4fad-937e-72014300e126,Android,Huawei,Huawei Meta 40
+5d69f8ec-f860-42e6-b95b-9bd32bb47d0d,Android,Xiaomi,Xiaomi 5
+c9812118-b0bc-44f6-ab67-209da579c48c,Android,Xiaomi,Xiaomi 6 Pro
+08a947cd-b52c-4824-92dd-4410955b9700,Android,Huawei,Huawei Meta 20
+ec5eff3f-2488-4ce3-9c6b-290b5a69450c,WindowsPhone,Lumia,Lumia 1+
+77e5c565-2043-4076-9590-39e7f1c081e3,WindowsPhone,Lumia,Lumia 1+
+acc9f36e-a680-4b68-9a75-4a7598174f78,Android,Xiaomi,Xiaomi 4
+f418dd97-3611-4de8-8489-b109f6770e6d,Android,Huawei,Huawei Meta 40 5G
+d208febf-0a2c-4091-b42b-fd1cc63be743,Android,Huawei,Huawei Meta 40
+39caf400-4123-4bf5-949c-0d2a559cffd1,Android,荣耀,荣耀 10
+b9ff46af-a12e-4813-a4fc-d539e06051d0,Android,Huawei,Huawei Meta 40 5G
+9557294f-24e1-41bc-a48e-6a7633b29dd3,Android,荣耀,荣耀 10
+c3beb2e3-5c1f-4b20-a0d1-2b1d4ac0b4fc,IOS,iphone,iphone x
+85d01a2b-b11c-4754-85c0-c16a2f47ce1b,WindowsPhone,Lumia,Lumia 2
+bb536fb1-7dd4-4607-a5f9-b8d24d570c37,Android,Huawei,Huawei Meta 20
+3eb82f3a-cdef-422f-9e27-3068154084ab,Android,Huawei,Huawei Meta 40 5G
+6e163f4b-5b0f-4935-aac2-ce96e62c01f8,WindowsPhone,Lumia,Lumia 1+
+a89d1d55-b2b6-4903-a40b-e9661babd1aa,Android,Huawei,Huawei Meta 40
+1e3bb467-58e6-4320-a576-7290354dddc9,WindowsPhone,Lumia,Lumia 2
+30746fa8-3d5c-47e5-a6a7-d07d8265cd74,Android,Huawei,Huawei Meta 20
+0792f915-f241-4b09-b912-c347d0e0f5a4,Android,Xiaomi,Xiaomi 4
+715258ae-bb1b-4ceb-9c14-7b0a5e77847d,Android,Huawei,Huawei Meta 30
+699a223b-acfe-4f79-814a-219620f37c58,Android,Xiaomi,Xiaomi 3
+23d6647d-e0c0-4feb-8eb2-01298475fa66,WindowsPhone,Lumia,Lumia 1+
+21828ef2-777e-4d2d-bf8d-555e678e5bc8,Android,荣耀,荣耀 10
+32dd9fe6-3518-46b6-9039-2811197bac48,Android,Huawei,Huawei Meta 20
+26385b02-3912-464a-bbec-3b3c638940d9,Android,Huawei,Huawei Meta 20
+034fafaf-3f6f-4440-b724-2cdbe4e5855c,Android,荣耀,荣耀 10
+9b5683ce-eaf7-4482-a370-46bec3270b74,WindowsPhone,Lumia,Lumia 2
+2dac517e-3c42-4922-bdac-d7fa33e43af4,Android,Xiaomi,Xiaomi 5
+426711f5-04b5-4d89-855f-6f223fb917d6,Android,Xiaomi,Xiaomi 6 Pro
+aa243e2d-444d-4874-9cf3-94aff6203a37,Android,Xiaomi,Xiaomi 6 Pro
+18011842-193d-495b-a72a-942c75d35350,WindowsPhone,Lumia,Lumia 1+
+9b2cc2c5-aa0e-431e-98bd-103530b49315,Android,Huawei,Huawei Meta 40
+abc78791-9c65-4d7e-af96-dd6b500c3636,Android,荣耀,荣耀 10
+165e4c58-2d99-4701-aeb6-176343ea2d3c,Android,荣耀,荣耀 10
+d3a3dd48-e443-4769-903a-9e5ddd21ecef,WindowsPhone,Lumia,Lumia 2
+97a0d8ca-674f-4201-aa8e-e3baed1861e4,Android,Huawei,Huawei Meta 40
+fd0f5e81-cf43-472a-9f12-78316ced4478,Android,Huawei,Huawei Meta 20
+f59fb10e-f979-4b6f-8bd7-a5541029df57,WindowsPhone,Lumia,Lumia 1+
+e6ab3481-30cd-4080-bff4-ffafe8f74735,Android,Xiaomi,Xiaomi 4
+8a10b5ff-c3c7-4f94-b2de-5c45660eaa9f,Android,Huawei,Huawei Meta 30
+93851ad5-0674-4494-a90f-ea34cdb9dfcd,IOS,iphone,iphone 8
+e41aadc9-11f7-4b90-8bd5-1daa51896ab5,WindowsPhone,Lumia,Lumia 1+
+30095edd-aa78-4d2f-b880-b48d30a3f1f3,Android,Xiaomi,Xiaomi 5
+79cfd8f2-33b3-4671-a2fd-e68c58935f99,Android,Huawei,Huawei Meta 30
+bb437008-2c53-4f7c-a926-7a784f468f4b,WindowsPhone,Lumia,Lumia 2
+8547bdfb-4560-4d5d-925c-d7df7c27403f,WindowsPhone,Lumia,Lumia 2
+90c295be-6149-4c31-ae97-80026fe49752,Android,Xiaomi,Xiaomi 6 Pro
+e6420550-3ef8-433a-a054-6850ddd58954,Android,Xiaomi,Xiaomi 6 Pro
+c853c4bb-100b-4c08-8a5d-98315babfdcd,Android,Xiaomi,Xiaomi 6 Pro
+4d47c9bf-874e-4c11-a1fd-7338556f8998,Android,Huawei,Huawei Meta 20
+c9d854e2-d67e-4fdb-9564-505cd420ccfa,IOS,iphone,iphone 11
+626a38c0-27ee-4057-8ff7-088717c07902,Android,荣耀,荣耀 10
+3f0fb5a4-8c22-46b3-8b79-a45cefcc4213,Android,Huawei,Huawei Meta 40
+463eeaa7-3a7e-41a9-a3b3-f417165914d2,WindowsPhone,Lumia,Lumia 2
+24d9418d-683f-441c-b3a9-841d3c2ced5f,Android,Xiaomi,Xiaomi 3
+0c50681d-159e-4eea-b190-31ad7083c489,Android,Huawei,Huawei Meta 20
+4013695e-cd4a-450c-a897-0830e6413220,Android,Huawei,Huawei Meta 40
+396907f9-f8b2-444e-a86b-b973200a9f68,Android,Huawei,Huawei Meta 30
+9d01e322-c539-42b0-8cd9-b8b5875909a3,Android,Huawei,Huawei Meta 40 5G
+eb74f866-b63c-4605-96c5-52541e664242,WindowsPhone,Lumia,Lumia 1+
+7be602a4-cd9a-4e9b-b33f-772194e11c5a,Android,Huawei,Huawei Meta 30
+b60d015c-36dd-43cf-bf97-9acbfa08a0d1,Android,Huawei,Huawei Meta 30
+eda6d8bb-b851-4eb9-8462-45b4889d9695,WindowsPhone,Lumia,Lumia 2
+cf46db43-6800-4b6f-9c86-7a46322d2189,Android,Xiaomi,Xiaomi 3
+f7138568-7e94-4376-9c85-68461df796a2,Android,Xiaomi,Xiaomi 6 Pro
+5023967e-9bd1-4c94-b583-acbaf7b467df,Android,Xiaomi,Xiaomi 6 Pro
+4e3cd8bf-2510-4957-afb3-064e6cd88f55,Android,Xiaomi,Xiaomi 6 Pro
+448bf5b1-530b-490c-a304-9c96bd95e844,Android,Huawei,Huawei Meta 40 5G
+cda08490-e430-43ce-81f1-730832b89b7d,WindowsPhone,Lumia,Lumia 1+
+9c5ea240-d4db-4cf1-801a-393ed77ad72b,WindowsPhone,Lumia,Lumia 2
+c5361c12-fa97-44ee-948a-b7a02f29cd9f,Android,Xiaomi,Xiaomi 4
+040fd5d2-d4a0-425d-b62b-fe5cc1334c3c,Android,Xiaomi,Xiaomi 3
+9c6f4cca-f492-4878-bae9-582de92cd3d7,Android,荣耀,荣耀 10
+db6cc134-8fe8-44a6-ac03-9961f10bae89,Android,荣耀,荣耀 10
+705e77e4-fdca-41b0-a887-195143a31fcb,WindowsPhone,Lumia,Lumia 2
+7e783fae-6ef0-4d61-a3bc-ed1ddde6e9e7,Android,Huawei,Huawei Meta 40 5G
+9b5a0805-5226-41bf-bf69-d5ffd464b0fe,Android,Xiaomi,Xiaomi 3
+035063f4-6c38-4321-bbde-e9c81f847713,Android,Xiaomi,Xiaomi 5
+08afc444-f6f3-4bb4-911e-52cb8597ce71,Android,Huawei,Huawei Meta 40
+1dd14eb0-c829-43e2-a96c-8c51fb2e264c,Android,荣耀,荣耀 10
+47920ca2-a8d9-4310-a812-5a526ab0e630,Android,Huawei,Huawei Meta 40 5G
+673eef3f-a1ea-46d8-bf43-d3198b9b447f,WindowsPhone,Lumia,Lumia 1+
+1c3870cf-e733-401a-bb37-124d2ddd6081,Android,Xiaomi,Xiaomi 4
+e3f3c14e-0c43-4e85-b8a2-669839b1c066,WindowsPhone,Lumia,Lumia 2
+1d61261f-4722-4b13-8b3e-2e48e5e3a9c7,Android,Xiaomi,Xiaomi 3
+f089fcd3-69d1-44b0-a064-972d1a54a198,Android,Xiaomi,Xiaomi 5
+8d387cae-2099-4fbb-a556-509aae2f5111,Android,Huawei,Huawei Meta 40
+16ccb573-c45a-4378-9336-4301cd23cdc0,Android,Xiaomi,Xiaomi 6 Pro
+a4186f50-6a3d-44ce-9e7b-b79167f13455,Android,Xiaomi,Xiaomi 6 Pro
+71c5f53e-14a5-4207-b897-5b7c1e22f8ed,Android,荣耀,荣耀 10
+b2c6dfa0-c758-4926-8609-9fd713c39ef9,Android,Xiaomi,Xiaomi 4
+5e95857d-faea-4cd7-aefe-0acc63ac50d4,Android,Huawei,Huawei Meta 40 5G
+6f8c09ff-f86e-4ed6-9fea-d2efa16b3a09,Android,Huawei,Huawei Meta 30
+8d1662ee-4a0a-4ac2-9860-ce1f25dd75fd,WindowsPhone,Lumia,Lumia 2
+3400b3b8-8401-4129-8563-4f66d6c62760,Android,Huawei,Huawei Meta 30
+efaf6dc8-f6fd-40b3-a6fc-84f25abf5bdd,Android,荣耀,荣耀 10
+e62341f6-5150-427b-a9aa-814edd620349,Android,Xiaomi,Xiaomi 3
+3ec2557a-af6f-4013-a622-033a1fbaf246,Android,Xiaomi,Xiaomi 6 Pro
+92b80f62-e326-41d5-8b19-d18b913b04d3,Android,荣耀,荣耀 10
+1acde91b-27ef-4e60-b027-e7dc692b528b,Android,Huawei,Huawei Meta 30
+a60fcbef-c383-4cc7-b8b7-32b974bffa66,Android,Xiaomi,Xiaomi 4
+4e22e9e5-1c87-4a5b-8887-34daeff8185a,Android,Huawei,Huawei Meta 40
+6a6ad66d-d2bc-4a35-9e83-33fc1ed94844,Android,Xiaomi,Xiaomi 6 Pro
+b9e1815b-dea7-4100-ab5e-f6869ed1a9b4,Android,Huawei,Huawei Meta 40
+5b8b6656-1cd8-4174-9e6b-13e30069690a,Android,Xiaomi,Xiaomi 6 Pro
+034f9459-3772-40d6-ba6b-62f73b0dd9df,Android,荣耀,荣耀 10
+46ef3515-01ea-435f-a0d1-07c7b70815f8,IOS,iphone,iphone 5
+b01af2af-dcf3-4d5a-a496-325ecffd2b08,Android,Huawei,Huawei Meta 20
+973e0897-022c-4db6-886d-fcd73744b4fa,Android,荣耀,荣耀 10
+4b7833b1-daa2-4dba-a876-0c8d9f481ca5,WindowsPhone,Lumia,Lumia 2
+89bb4f1d-7e17-4112-a741-786a44f0db0e,Android,Xiaomi,Xiaomi 5
+d5085573-2b8e-410b-9c68-c4f3dc4fc57e,Android,Huawei,Huawei Meta 40 5G
+43fc504b-dc26-4729-8d4d-f831ee628cf6,Android,荣耀,荣耀 10
+257a411d-83f3-437d-93e8-1d63a74871f3,Android,荣耀,荣耀 10
+fe0f4baa-0f2e-403e-b67b-57acb01b027d,WindowsPhone,Lumia,Lumia 2
+6eb45684-e701-4d23-b3d2-627d3f25ecd2,Android,Xiaomi,Xiaomi 4
+58d5b85f-229e-457f-87d9-721e5f8c1e53,WindowsPhone,Lumia,Lumia 2
+2d1edb29-0624-481e-baf4-f0120795882c,WindowsPhone,Lumia,Lumia 2
+d648fc98-bd23-45d2-b03a-f8fa6b5788e0,Android,Huawei,Huawei Meta 40
+cffd0436-80f7-4dfd-86cb-7777c0a55fe9,Android,Huawei,Huawei Meta 20
+19272162-50e6-44c9-83c1-697c2601bdbc,Android,荣耀,荣耀 10
+1e239d31-951a-4158-adfd-815aba4ec645,WindowsPhone,Lumia,Lumia 2
+29510610-9f83-4bbe-b197-28302b780518,Android,Xiaomi,Xiaomi 6 Pro
+094a7bae-3a77-492d-a40d-0f48bc28e9ff,Android,Xiaomi,Xiaomi 6 Pro
+1f9606b0-8ed1-4f06-9277-d8faca8dbc76,WindowsPhone,Lumia,Lumia 2
+4d6153d5-3ca4-4f89-9849-e18fcdcf2ab2,WindowsPhone,Lumia,Lumia 2
+b0cdb10b-9b18-479b-bb5c-b7c7ef51ab05,Android,Xiaomi,Xiaomi 3
+e7a2ab49-7e69-4da3-bc2b-cc7140a5ae54,Android,Xiaomi,Xiaomi 4
+916df643-8969-451d-b843-c9ea365870c2,WindowsPhone,Lumia,Lumia 1+
+8eb8e63d-5fe5-4a60-9e87-baf66f02b216,Android,Huawei,Huawei Meta 40
+a24995bf-c318-4045-bdf7-056ab38c38ab,WindowsPhone,Lumia,Lumia 1+
+140ae25c-1d7b-4006-8978-26cc3cb9e317,Android,荣耀,荣耀 10
+e1e999fc-b893-4a84-a1cd-4be99cdcae2e,Android,Xiaomi,Xiaomi 3
+64e71afd-baf7-4134-a145-d844a46ebeab,Android,Huawei,Huawei Meta 40 5G
+8fc9e7da-47cb-4bb1-a1cc-bd630887747d,WindowsPhone,Lumia,Lumia 1+
+192060fd-ba5c-4c2e-957f-784076c35133,Android,Xiaomi,Xiaomi 4
+0dae3b49-298a-4521-919f-5cb764850122,Android,Xiaomi,Xiaomi 5
+1abbdbe3-035e-4929-be54-4d694a174e2f,Android,Huawei,Huawei Meta 40
+82598cda-82ee-48c5-a73c-54cc14d32932,Android,Xiaomi,Xiaomi 4
+7566e5ef-287e-46ad-b33d-8cdc003a85cf,WindowsPhone,Lumia,Lumia 2
+d88b2d95-9eb9-4c85-8607-2d6af75c73b5,Android,Huawei,Huawei Meta 40
+362f81d7-a4cd-4303-844e-85bf7f73e63b,WindowsPhone,Lumia,Lumia 1+
+9f3d4f6b-8775-467d-bed7-fc0775c4eb0c,IOS,iphone,iphone 9
+69c831b7-51ca-4f84-b362-1e807802ab65,Android,Huawei,Huawei Meta 20
+99934eb6-03b8-43bd-b956-31c9fc6fd6dd,Android,Huawei,Huawei Meta 40 5G
+30569f49-6042-4d01-b79d-0334044e7579,Android,Huawei,Huawei Meta 20
+45beea6d-2c47-47f4-af06-d21c990b1575,Android,Xiaomi,Xiaomi 3
+675fd990-c598-4845-826d-baab6205986f,Android,Xiaomi,Xiaomi 4
+75e53e45-a444-434a-b7b8-2a6147fe1503,Android,Huawei,Huawei Meta 30
+50cad3e2-7a9c-4fd2-90b3-7a9e7a88e824,Android,Xiaomi,Xiaomi 6 Pro
+30f4367c-aee6-4f18-8632-bc433597ad55,Android,Huawei,Huawei Meta 30
+d49b5f82-7dad-4493-973b-1b8ade38d77b,Android,Xiaomi,Xiaomi 6 Pro
+a05db612-7139-4ecd-894a-4520f048badf,Android,Xiaomi,Xiaomi 3
+e35a6e8d-c962-4dcb-bd3c-6d25c10163d4,Android,Xiaomi,Xiaomi 5
+46ad5c2a-d9c5-4485-8e37-820e1620d7f7,Android,Xiaomi,Xiaomi 5
+9d0c0236-6d77-4248-ad3a-ecf11ae9732b,Android,Xiaomi,Xiaomi 5
+ebc107f3-e8aa-488c-9855-19aecff20b03,Android,Huawei,Huawei Meta 30
+84913ffc-e51a-4c74-aa17-d8295f1711c2,Android,Huawei,Huawei Meta 30
+cd111767-1be2-4260-bb6a-da239711fec3,Android,Huawei,Huawei Meta 40 5G
+a7f69600-ec4e-4095-b598-005f1c5a028f,Android,Huawei,Huawei Meta 30
+ae014ee6-3020-4414-bddf-7d01f121651d,Android,Xiaomi,Xiaomi 3
+ca2312a7-3929-4313-b2f6-80fa798c3394,Android,Xiaomi,Xiaomi 4
+cfe53ee6-1ea5-4a4c-850a-4f4c7a71106c,Android,Huawei,Huawei Meta 30
+7579f571-a490-4d24-a8aa-bd8988229fc0,Android,荣耀,荣耀 10
+d0f4f29c-967b-4903-a1d0-180343012677,Android,Xiaomi,Xiaomi 6 Pro
+7334876e-fd26-4e9f-962b-fd815ef5f2d1,Android,Xiaomi,Xiaomi 6 Pro
+d937ccd3-d330-464d-a2f2-ab85e8e209fd,WindowsPhone,Lumia,Lumia 1+
+b9350465-bc6c-49e4-a47a-23ba86285668,Android,Xiaomi,Xiaomi 6 Pro
+cd8cffdf-5aa6-4976-83dc-27981c3a57fa,Android,Huawei,Huawei Meta 30
+7ba7e900-c4ea-46a7-8370-3c21bf4fa420,WindowsPhone,Lumia,Lumia 1+
+d6b8b7fd-f8ad-4e2a-bbb1-d6be08802885,Android,Xiaomi,Xiaomi 6 Pro
+d6dad839-7bfc-4c23-aae4-d8c7f51cc05e,Android,Xiaomi,Xiaomi 5
+83c45e61-bd85-4dc6-b855-cf64b68e9557,Android,Xiaomi,Xiaomi 5
+f26ea722-3299-4eee-988c-5a728f429477,Android,Xiaomi,Xiaomi 3
+2dd4f1d5-349e-41af-94cb-b2e43e0adc2f,WindowsPhone,Lumia,Lumia 2
+e399508a-1e31-41f6-b2c6-211b7655cb55,Android,Xiaomi,Xiaomi 6 Pro
+e40f04a4-f8aa-4ca9-a7dd-0362a391859c,IOS,iphone,iphone 9
+f05a1a80-7b07-4c26-9547-9f978255fcf4,Android,Huawei,Huawei Meta 40 5G
+71cba523-e991-468e-93cb-5d660edf7a20,Android,Huawei,Huawei Meta 40
+38a73490-6ccd-490f-93b1-77be76201867,WindowsPhone,Lumia,Lumia 2
+732abae5-80a2-49c0-9eb4-230827164b21,Android,Huawei,Huawei Meta 40
+de15fc0d-1079-460b-895e-f790aacf2d12,WindowsPhone,Lumia,Lumia 2
+2d823d61-c28c-4c68-b2f1-4b10c4cb0c92,Android,Huawei,Huawei Meta 40
+e516fa7d-9bfa-4301-999a-15e79e1d596f,WindowsPhone,Lumia,Lumia 1+
+5d23a8bf-b3b4-4b9e-819f-880f0d7a4258,WindowsPhone,Lumia,Lumia 2
+a2dc7afe-2406-4662-b8f2-2984d46c9576,Android,Xiaomi,Xiaomi 4
+cec94664-6487-46bb-895b-79431d25e0bd,Android,Xiaomi,Xiaomi 4
+9a492175-b465-445f-b59e-823e72fd267b,Android,Huawei,Huawei Meta 40
+9b88ac0a-2dbb-4c26-89ba-1be82d0f643d,Android,Huawei,Huawei Meta 40
+6c5c5fe7-8b8d-4c10-90e1-7571a09931a7,Android,Huawei,Huawei Meta 30
+2e200f05-58a2-4812-a261-60291fb857b3,Android,Xiaomi,Xiaomi 5
+f642540c-6365-413d-8ab2-4c740331e8c5,IOS,iphone,iphone 12
+62b5ec69-e2c1-44f4-b820-c1d840273965,WindowsPhone,Lumia,Lumia 1+
+87a65207-cad5-4043-aec7-07659d1c8337,Android,Xiaomi,Xiaomi 6 Pro
+2c768c50-89f7-40fb-8056-918a1c0d7e53,Android,Huawei,Huawei Meta 40 5G
+43b92556-1f90-4474-bd23-518e349729cf,IOS,iphone,iphone 11
+a0745bd8-84e7-48ad-8baa-ecee8b9e3b48,WindowsPhone,Lumia,Lumia 1+
+521db8ff-3231-4e75-bd92-0a29660da4b3,Android,Huawei,Huawei Meta 40 5G
+a03dace8-2f41-4b30-bd08-cf3209cced5c,Android,Huawei,Huawei Meta 30
+31e22ba5-2c0d-4462-b0de-037960d2f578,Android,Xiaomi,Xiaomi 5
+8ef0410a-075e-4659-8db3-48bde3a49343,WindowsPhone,Lumia,Lumia 2
+f3f0fc30-3d77-43e6-9166-ae352cebb4a5,Android,Huawei,Huawei Meta 30
+c8b38836-3bd1-450b-b871-edf0a16061ad,IOS,iphone,iphone x
+6e61c9c8-0c62-4faa-bd12-a2b961870a96,Android,Xiaomi,Xiaomi 6 Pro
+94adb9fa-7fb2-44b1-a4a3-66182df87f6f,Android,Xiaomi,Xiaomi 5
+17c41847-6717-4ab9-9a9a-da330ed92ec9,Android,Xiaomi,Xiaomi 5
+b749a766-28fe-425a-9846-9a4733532a7e,Android,Huawei,Huawei Meta 20
+de3f01ca-d337-4226-815c-628c160cc40a,IOS,iphone,iphone 4s
+14fd32de-96da-498d-abbd-27417f207d3d,Android,荣耀,荣耀 10
+fe1bbd1c-b09d-47c2-b595-3d5a6001ab9b,Android,Xiaomi,Xiaomi 6 Pro
+19288cc4-ce85-4706-b44b-ff1c6c5f0b16,IOS,iphone,iphone x
+b48eff7b-0eb1-478a-b25f-da0c26ff93ab,WindowsPhone,Lumia,Lumia 1+
+4c53a39d-96d4-42f4-977c-111dc5bdd275,Android,荣耀,荣耀 10
+fc6dae4f-9547-49a9-9d34-f254b7906ee8,Android,荣耀,荣耀 10
+c6f7c2b5-18fd-4dc6-b266-07549ebc9562,Android,Xiaomi,Xiaomi 6 Pro
+a0ed15cd-94af-490c-86b3-f33aa8e7b9be,WindowsPhone,Lumia,Lumia 1+
+c726ca30-8a8d-461d-84ca-5ac69efe1201,Android,Xiaomi,Xiaomi 4
+b1ba327c-304a-4e88-bbc4-55f0826b7d68,Android,Xiaomi,Xiaomi 6 Pro
+9d4d5827-3970-488c-966d-e1a6cba6e06e,WindowsPhone,Lumia,Lumia 1+
+161699ee-a7a2-4552-bd27-41c592f0d0cf,WindowsPhone,Lumia,Lumia 2
+365c8b46-c5d1-49d7-bddd-4d538a2c870b,WindowsPhone,Lumia,Lumia 2
+0c20489b-f5ef-4799-a27b-c03c32339c0f,Android,Huawei,Huawei Meta 40
+795759a7-081e-45d6-9c16-4e4671db0abe,WindowsPhone,Lumia,Lumia 1+
+9bb097ac-e289-4871-a1dd-75a7bf24f958,Android,Xiaomi,Xiaomi 6 Pro
+1b81ad9e-ed00-421e-8de9-7afeed1ebde7,WindowsPhone,Lumia,Lumia 2
+7ef829d5-7a88-46ba-9f9b-1014f651455b,Android,Huawei,Huawei Meta 40 5G
+02308d8d-6bf1-46c3-8b1a-394002243358,Android,Huawei,Huawei Meta 40
+8c107b12-cac6-46f2-a610-05338ab8fa0f,Android,Huawei,Huawei Meta 40
+aac62538-3f24-4b92-9493-8c8eb6638808,Android,Huawei,Huawei Meta 40 5G
+67ab782e-1dd3-488d-a2ed-9328859bac50,Android,Huawei,Huawei Meta 20
+02f20a82-dc58-4142-bb63-d0e0e9b2456b,Android,Huawei,Huawei Meta 40
+f09fd665-615c-4326-b3b4-9b1a0ed0b559,WindowsPhone,Lumia,Lumia 1+
+1c435cca-8938-4802-b918-78631ec9db7e,Android,Huawei,Huawei Meta 20
+f371caaf-7966-446c-abb1-d8d267b44223,Android,Huawei,Huawei Meta 20
+70574f33-942f-4e0d-9641-da820cd31478,WindowsPhone,Lumia,Lumia 2
+d272d3ea-22c2-49a3-8b1b-272df401a897,Android,荣耀,荣耀 10
+df3e2818-00ba-43f4-a247-5ce6237153f0,Android,Huawei,Huawei Meta 30
+79aa9c3c-e196-42c4-9f97-834d4c9857db,Android,Huawei,Huawei Meta 40
+fdce0bf2-bde3-4b2e-a69d-b62343386198,Android,荣耀,荣耀 10
+c7793b8e-337d-4b13-a726-d20f8a135500,Android,Huawei,Huawei Meta 30
+02d7e65c-db67-4bcd-a6d1-05023d7b6616,WindowsPhone,Lumia,Lumia 2
+6a177a22-356a-41b9-90fa-2d4f6616ba9b,IOS,iphone,iphone 4s
+d83276fa-8064-4778-94e4-b16c97d45326,Android,Huawei,Huawei Meta 40 5G
+5349ec68-2031-4d24-b0db-ee8f562ea3ab,Android,Huawei,Huawei Meta 40
+48636ead-7432-497a-b648-cafad2afcf29,Android,Huawei,Huawei Meta 20
+eca93fb8-6837-41d9-9c86-312f6080a50f,Android,Huawei,Huawei Meta 20
+3700af1f-0b30-40c8-be0e-c8c9e14ed607,Android,荣耀,荣耀 10
+8ba91014-49e8-4058-a963-f771f4569747,WindowsPhone,Lumia,Lumia 2
+a60c0676-a6d5-447b-8ac9-12aafc1cacca,IOS,iphone,iphone 5
+f82a6bfa-8d58-4441-8f7c-05001da34c41,Android,Huawei,Huawei Meta 40
+57836cdc-7e4e-4b41-b525-da9b5beba352,WindowsPhone,Lumia,Lumia 1+
+34e97c45-16bc-49fb-912e-5649f626c160,Android,Xiaomi,Xiaomi 5
+70664a17-ca1e-4e1e-b9e1-8d35e7285aad,Android,荣耀,荣耀 10
+60ce5a4e-15bb-4c91-a60b-c35c8eee4467,Android,Huawei,Huawei Meta 40
+7c6a8cd8-d2a1-4ceb-ad8f-f045ce1ce77c,Android,荣耀,荣耀 10
+3e3f1eb2-6b48-4167-95b3-8be6e9845c3a,Android,Xiaomi,Xiaomi 4
+8dea6ba9-1a17-4c69-8716-e389c9e197dc,Android,Huawei,Huawei Meta 30
+68009a8c-5fcf-45a0-b7c1-5db2da7a6bca,Android,Xiaomi,Xiaomi 3
+805aa64c-776d-4a1a-81d8-34331ff63d75,Android,Huawei,Huawei Meta 40
+119685f0-e6e8-4a29-a631-950a097cec58,WindowsPhone,Lumia,Lumia 1+
+731355ca-a812-459c-b9ef-3c1bf8b5de90,Android,Xiaomi,Xiaomi 6 Pro
+03b31e6d-cb2e-41f8-b809-f123a014c35e,Android,Huawei,Huawei Meta 40 5G
+f53c5f7b-0a76-4959-b7b5-52d161b80a79,Android,Huawei,Huawei Meta 40 5G
+029ee8a1-5497-4026-9a67-4bbc5d0d580e,Android,Xiaomi,Xiaomi 4
+b8440392-f3c5-49c4-a337-a6bce9256ee2,Android,荣耀,荣耀 10
+b71cde12-5869-4a4a-9116-b279e2aed531,Android,Huawei,Huawei Meta 30
+9279b82c-c428-456d-99b9-2483bf8cd4cc,WindowsPhone,Lumia,Lumia 2
+8d1e8609-78e3-4eeb-937f-00da69374a0c,WindowsPhone,Lumia,Lumia 1+
+ea57e35b-c4fa-482a-860d-3680f1e0aec3,WindowsPhone,Lumia,Lumia 1+
+de12d858-0173-4a1c-b034-5c3b7a9802d7,Android,Xiaomi,Xiaomi 4
+65053131-c9c9-4077-b9dc-54075fcbb091,Android,Xiaomi,Xiaomi 5
+6a07d7c7-418c-41d6-a5c4-d3f14f6d025e,Android,Xiaomi,Xiaomi 5
+4e523236-100a-457c-8f36-4c16295df874,Android,Huawei,Huawei Meta 40
+21d3b45b-bc21-4ef4-8d31-d38b9d6dcbc5,Android,Huawei,Huawei Meta 30
+da7f199d-92a1-4b13-a484-a8b2a9fd8464,Android,荣耀,荣耀 10
+db173e4e-d5ca-4bd0-9df8-5ceb18690f25,Android,Huawei,Huawei Meta 40 5G
+95c81ff0-b60d-4573-89f2-23775d7382e6,Android,Xiaomi,Xiaomi 4
+6e61734b-8841-476b-ab80-c142d65595c7,WindowsPhone,Lumia,Lumia 2
+2d836e60-00fe-48b2-bc01-a4d0475ac4a0,Android,Huawei,Huawei Meta 20
+6271f1e3-ecdc-4da4-9550-94c4eadaa7da,WindowsPhone,Lumia,Lumia 2
+31081c6e-d513-4a08-8942-4d9554f8fef9,Android,Huawei,Huawei Meta 30
+bf260a34-0b44-4d95-9754-e6a3655b1e08,Android,Xiaomi,Xiaomi 3
+84b13634-5684-4fe2-a1e1-0148f8824c8f,WindowsPhone,Lumia,Lumia 2
+2e04b112-9fba-4526-925c-7eb9fc4a70ce,WindowsPhone,Lumia,Lumia 2
+05adf354-b421-42c1-bfde-6ec0b3578257,WindowsPhone,Lumia,Lumia 1+
+c60f8dee-ec8e-4008-b7b0-4c0dd59b2a06,Android,荣耀,荣耀 10
+82cbf5f8-21d0-45d4-a90a-84977c214a6a,WindowsPhone,Lumia,Lumia 2
+a4867372-ef34-40d7-9a76-fc1538ec7133,Android,荣耀,荣耀 10
+8905dac4-4b32-4c2d-8de1-23442a6c6abd,WindowsPhone,Lumia,Lumia 2
+a4797198-c0f3-4bd6-9bc7-ccc678b9ae33,Android,Xiaomi,Xiaomi 6 Pro
+b0a38fbc-50bc-4da3-9317-7097fda7fde5,WindowsPhone,Lumia,Lumia 1+
+c3bfec4b-1180-4ae1-ba4a-39e6b77ebb76,Android,Huawei,Huawei Meta 20
+a7a2763c-dae4-4e55-b435-ddcc2327bae7,Android,Xiaomi,Xiaomi 4
+49097065-9b66-44fe-aa79-d63750654956,Android,Huawei,Huawei Meta 20
+3a1853a0-12c9-4f4f-b551-5db42420263b,Android,荣耀,荣耀 10
+89157f54-5f9b-4dfa-969f-2065cdfbbf3e,Android,Huawei,Huawei Meta 40 5G
+2758b70f-6d3e-4f60-9ab1-37fda6203db7,Android,Xiaomi,Xiaomi 6 Pro
+6893cbd9-ec13-437a-93d0-bc5b5b2ae22d,Android,Huawei,Huawei Meta 20
+f4e29e1d-446f-4e74-8aa9-76d453c46e1c,Android,荣耀,荣耀 10
+da2ce71e-8179-4277-9476-40015c983ec1,Android,Huawei,Huawei Meta 30
+7d37d043-2995-4e29-a0c8-fd658c5c498d,WindowsPhone,Lumia,Lumia 1+
+d42f42c0-c53e-474e-a6e5-95abe0c1ae71,Android,Huawei,Huawei Meta 30
+9213c818-4ab1-45c6-9085-1b0006b3cdc9,Android,Xiaomi,Xiaomi 4
+c41344e7-24a1-4bec-8d76-c9f24f38db30,Android,Huawei,Huawei Meta 30
+43631552-1bdd-46cc-a826-d6cbca0d9212,Android,Xiaomi,Xiaomi 3
+1438f834-7280-460a-8e7e-f98e4b5facdb,Android,Huawei,Huawei Meta 20
+76598dcc-2626-46e0-9e11-f82ebc57558b,Android,Xiaomi,Xiaomi 4
+27431e28-3904-47ab-b90e-b03269dbc416,Android,荣耀,荣耀 10
+bed35b17-9954-4afe-881f-ad3b14090241,WindowsPhone,Lumia,Lumia 1+
+9daff3cc-4487-4e8b-a31c-3a2b195bf3eb,WindowsPhone,Lumia,Lumia 2
+5fc06d0c-3253-42bb-b04b-8a3767f33bc7,WindowsPhone,Lumia,Lumia 2
+df778bf3-aa31-451d-8639-fb81bc9ece12,Android,Huawei,Huawei Meta 30
+7b2299e3-7a9e-406b-9a2f-115461fa2c2a,WindowsPhone,Lumia,Lumia 2
+37ee6fea-8035-47c5-bf24-74d27d050750,Android,Huawei,Huawei Meta 30
+37c2b714-2a35-4e05-8bb0-7f2719be0838,Android,Xiaomi,Xiaomi 3
+5de7fcd0-6f50-49eb-8ae3-159371daf0f4,Android,Xiaomi,Xiaomi 6 Pro
+baa4b4e6-ca48-49aa-9861-09052474d127,Android,Xiaomi,Xiaomi 5
+cc6fe63f-2043-4593-8a15-941bdce18af2,WindowsPhone,Lumia,Lumia 2
+8fd5b16d-3638-44cb-b82b-3b8c78e43047,Android,Xiaomi,Xiaomi 6 Pro
+ecc16f26-9c88-4023-949d-3044b9748b58,WindowsPhone,Lumia,Lumia 2
+f22d6cb7-7979-4eae-8b4c-1ba04d534139,Android,Huawei,Huawei Meta 20
+0372460c-6435-4235-b0d2-754916f55689,Android,Huawei,Huawei Meta 40 5G
+c0e9bcec-bc75-4d1b-a43d-cd7167767999,Android,Xiaomi,Xiaomi 6 Pro
+9d2cae00-e8e0-43f5-9afc-f0c79c83a0c1,Android,Xiaomi,Xiaomi 4
+46b282fb-a560-4699-8b2f-cd4460f982b7,Android,Huawei,Huawei Meta 40
+d00158de-99af-4188-9f77-5ec589eb1ec4,Android,Xiaomi,Xiaomi 3
+8731fba5-a563-4460-8ecd-d45a8b8c9e3a,Android,Xiaomi,Xiaomi 5
+83631851-85ae-47ca-840d-94f1ca8ee8b2,WindowsPhone,Lumia,Lumia 1+
+3f4de568-eace-4555-8964-591c5df6f14a,WindowsPhone,Lumia,Lumia 2
+f06932a6-97d6-4abb-86ea-1e447a27b79f,Android,Xiaomi,Xiaomi 6 Pro
+e14312e4-e496-4481-874e-294f85c19346,Android,Xiaomi,Xiaomi 4
+c773e692-e685-4b12-900c-29bdd1174666,Android,Huawei,Huawei Meta 40
+b8ff8ff0-0036-45ee-9fb7-61537512207f,WindowsPhone,Lumia,Lumia 1+
+ed229119-cefd-47fd-8449-93e6f5fd1ecc,WindowsPhone,Lumia,Lumia 2
+1549e7b3-833a-4d98-a200-616ed2e9019e,WindowsPhone,Lumia,Lumia 1+
+9a4bab66-7710-4398-ba4e-9aba3f505bae,Android,Xiaomi,Xiaomi 6 Pro
+19ef715b-87b8-47f5-a1a6-7e16635fa74f,WindowsPhone,Lumia,Lumia 2
+2a9b9847-96c2-44b3-a2aa-6a22c1b34d2f,Android,Huawei,Huawei Meta 40
+50f6fa64-6af4-42ad-9e50-6ddec305604c,WindowsPhone,Lumia,Lumia 2
+0041ac03-dc4a-40cc-9155-db9674ebeb7d,Android,Huawei,Huawei Meta 20
+2d8fbfba-8de7-4020-991a-9548f927dbd4,WindowsPhone,Lumia,Lumia 2
+538fe8b0-01d1-4edc-bc4d-ecf4d331d165,Android,Xiaomi,Xiaomi 5
+c7cd43c0-9fbd-403d-bb17-713e717cd105,WindowsPhone,Lumia,Lumia 1+
+455e3006-c6c7-44ad-b934-f14b5789c4b1,Android,Xiaomi,Xiaomi 3
+5a004b66-4b30-42d9-b365-50a858a3a15b,Android,Huawei,Huawei Meta 40
+c8166f59-3c67-4d8d-81be-af050702efc3,Android,Huawei,Huawei Meta 20
+63a8c65d-aff9-491e-beb0-64c079dde0ec,Android,荣耀,荣耀 10
+d8aa9161-4c8c-4357-834c-53c0f2aabd23,Android,Xiaomi,Xiaomi 5
+38b82e7f-5bcd-42e4-bedd-ac4d86a336ff,Android,荣耀,荣耀 10
+7c585390-bea7-426c-be2b-79e7f68de7bc,WindowsPhone,Lumia,Lumia 1+
+dfb66170-b32d-4ef3-ada3-db75aef6c3ca,Android,Xiaomi,Xiaomi 4
+b040b865-6e79-46ae-90d1-26776d095b7c,Android,Huawei,Huawei Meta 40 5G
+b9cbb977-8f25-4116-8ba3-73864064d774,Android,Xiaomi,Xiaomi 3
+c6035d7f-b306-4f0d-b166-9ce7b283012f,Android,Huawei,Huawei Meta 30
+36f8602f-6187-44a0-a9d2-53a8cd7e6a86,WindowsPhone,Lumia,Lumia 2
+76c84e62-f454-46ee-a8dd-c5ff8acb4c3f,Android,Xiaomi,Xiaomi 4
+87ad24c3-512c-4cc0-8b3f-fcd5ed3b3a4d,Android,Xiaomi,Xiaomi 6 Pro
+4c1a2f71-df3c-408a-82ab-61da2fca0d7d,Android,Huawei,Huawei Meta 40 5G
+7d387eb1-f561-4707-b7ba-ab7c7a87e418,Android,Huawei,Huawei Meta 20
+0ebd8780-9f4e-4c5b-b09d-cc542f6e2906,WindowsPhone,Lumia,Lumia 2
+15482824-7d46-4f93-800f-9bf80b433349,Android,Huawei,Huawei Meta 40 5G
+71156a8b-9188-4de3-9495-57602d617d8e,Android,Xiaomi,Xiaomi 4
+fd9c7b8d-de2e-4cfa-9bdd-474c62d0e0d1,WindowsPhone,Lumia,Lumia 1+
+1a116fb1-9a53-456a-b3fa-5e899b60667f,Android,Huawei,Huawei Meta 40 5G
+e773602a-885f-4023-9a0e-23550306d42d,Android,Xiaomi,Xiaomi 3
+282f563c-d1b3-40df-90d3-52af7b7a3a1e,WindowsPhone,Lumia,Lumia 1+
+30def81b-86c8-4ddc-b5e6-8936b01b63b5,WindowsPhone,Lumia,Lumia 2
+75672b2f-0318-4380-a4ba-dcbf9d441b3d,WindowsPhone,Lumia,Lumia 1+
+957793e1-790d-4c3f-b8de-6447d00b2200,IOS,iphone,iphone x
+52716d0b-0ee5-4223-ba26-59081ea08498,Android,Xiaomi,Xiaomi 3
+e5639c61-7a15-454c-b7ba-dc8b630a0e09,WindowsPhone,Lumia,Lumia 1+
+df84a4ee-6cd5-4feb-8b48-7ba0d2a8a7a1,Android,Huawei,Huawei Meta 40 5G
+7d724a6d-8bab-492e-856c-f96f3a727f4d,IOS,iphone,iphone 9
+e78caf5b-6726-42cc-b546-7bee3df01abf,Android,Xiaomi,Xiaomi 3
+c186f26e-5995-4dc7-ac0c-109146c7d60c,Android,荣耀,荣耀 10
+808dc6aa-405c-4a9c-bb44-75f88e1d165f,Android,Huawei,Huawei Meta 40
+e39708e4-fc14-49f2-8c8d-7cb53c66f470,Android,荣耀,荣耀 10
+9cfcfa5b-cc94-4ddf-98c1-e60e38b1432a,IOS,iphone,iphone 4s
+0e45d65a-5be3-4f07-a62d-069424ce5d38,Android,Xiaomi,Xiaomi 4
+4aff6bd4-6ea4-4df2-bcac-5e2d82fb0f86,WindowsPhone,Lumia,Lumia 1+
+fd013527-1014-4dc6-952d-72feba606ff2,WindowsPhone,Lumia,Lumia 1+
+8a7c26f5-d4a1-4b94-af8b-a889305b7d51,Android,Huawei,Huawei Meta 30
+6af055ec-bbb6-4404-b94a-af42ffb29c28,Android,Huawei,Huawei Meta 40
+42a61939-4551-442a-992d-89985a4a7373,IOS,iphone,iphone x
+4a580d93-007b-4482-aaa7-e66f285c67b9,Android,Huawei,Huawei Meta 40 5G
+107be544-ff18-499c-81f0-e4254ee2fb47,IOS,iphone,iphone 4s
+a99cfe7e-1b94-4c3e-ab07-955228382eae,Android,Xiaomi,Xiaomi 4
+5905d3bd-a946-4ede-90b9-b4d93b62debb,Android,Xiaomi,Xiaomi 3
+c2d59384-a7fa-4828-b85e-75c56142fc29,Android,Xiaomi,Xiaomi 3
+91aa11ba-2fa8-4e76-91b1-957db13f6472,WindowsPhone,Lumia,Lumia 1+
+328120c8-68e7-4a92-b901-9ce33467b3e4,WindowsPhone,Lumia,Lumia 1+
+8e6e3bca-8849-4303-857e-c9d59a73257d,Android,Xiaomi,Xiaomi 3
+ea903fdf-c7a9-428a-97f0-be9dd6b30cc5,Android,Xiaomi,Xiaomi 4
+700bd980-e8e6-439a-9d77-429e681c1b78,Android,Huawei,Huawei Meta 40 5G
+6737a2ad-ff34-4107-adc5-f1965003d86c,Android,Xiaomi,Xiaomi 6 Pro
+cddfdcf1-1bf5-445b-8e53-2d065e97a3cc,Android,Huawei,Huawei Meta 30
+a78545bd-32fd-481f-8999-dbc1806d0e36,Android,Huawei,Huawei Meta 40
+31422a01-acab-4021-a662-00972c4e97d1,Android,Huawei,Huawei Meta 40 5G
+5f4b47b1-247f-4b76-9494-3a2ea44a18bf,IOS,iphone,iphone 4s
+5928f6a6-be7a-49a9-a9c9-c9e8b5d66076,Android,Xiaomi,Xiaomi 4
+35a6bac0-7eb1-48ca-bbc0-72f75d953bab,Android,Huawei,Huawei Meta 30
+2802a7c6-cb46-4383-a058-9742dec0d622,Android,Huawei,Huawei Meta 40
+f24131dc-a1de-41d5-9f49-7b1e2dec6dec,WindowsPhone,Lumia,Lumia 2
+90fbf4f2-7d04-40c0-abc1-711b714c2cb9,Android,Huawei,Huawei Meta 40 5G
+24b45a33-a225-4f54-ae82-8e55ba1c09fe,Android,荣耀,荣耀 10
+dde9c8ea-dae0-4200-92ab-002913b7eb96,Android,Xiaomi,Xiaomi 3
+d18c7851-8aa2-450e-b72b-f63f659e14d7,Android,Huawei,Huawei Meta 40 5G
+e2bbdf3d-5504-4062-aa84-e5a105cadaba,Android,Xiaomi,Xiaomi 6 Pro
+b4638312-166e-4863-8dd5-9bd10bfc666b,Android,Huawei,Huawei Meta 20
+488f3db0-1503-4997-ab17-24ba4e0c9ac1,Android,Xiaomi,Xiaomi 6 Pro
+fd240a17-5b63-4c9a-a96b-9c634e5ba826,Android,荣耀,荣耀 10
+54aa1ec9-383c-4737-b11b-7da87a473de5,Android,Xiaomi,Xiaomi 4
+32c0c401-d3ea-4bd3-aa5f-9d81b290667e,IOS,iphone,iphone 9
+f57680b0-c808-41d4-8b7f-f4e42010ed64,Android,Huawei,Huawei Meta 40
+6455a0ce-e5c8-40a1-8154-63a17877979d,WindowsPhone,Lumia,Lumia 1+
+9e84694b-c09d-4347-a028-959522ae2da5,Android,荣耀,荣耀 10
+2a560ca7-666f-467c-b856-91276ddbe7d0,WindowsPhone,Lumia,Lumia 2
+6a225f7c-d68c-4902-b116-2ef811869f6a,Android,Huawei,Huawei Meta 20
+b7ecf1eb-10ad-48a9-9bf3-68b2581e2bf9,Android,Huawei,Huawei Meta 40
+87a99dfc-a481-4961-a646-52826d392aad,WindowsPhone,Lumia,Lumia 1+
+60b51990-63b5-4207-9b5f-7b5ba091ea0a,WindowsPhone,Lumia,Lumia 1+
+f3598b6f-7c95-4118-901c-ed25d6fca93f,IOS,iphone,iphone 11
+319478f7-fc39-47ea-8980-ab53898bb238,Android,Huawei,Huawei Meta 40
+abe99222-295e-4f8b-b088-dbef12262e08,Android,Huawei,Huawei Meta 40
+e03b040c-3a47-4598-818c-857b5832d888,Android,Xiaomi,Xiaomi 5
+02702a52-306d-4e16-8c5e-92c2f2f47e87,Android,Xiaomi,Xiaomi 4
+7aa4b8d4-8ac4-4420-b488-8157f7d41a88,Android,Huawei,Huawei Meta 30
+1c6a7afc-20b2-43a4-b08a-d52495f5788a,Android,荣耀,荣耀 10
+a1c3c4cb-7a59-429f-b0b2-6a6ef1abacad,Android,Huawei,Huawei Meta 20
+4a4f99f9-a945-493a-87cd-001c0cf9c6d3,WindowsPhone,Lumia,Lumia 1+
+c6c1ea6b-01b0-4085-bac4-fffd75b2b8b2,Android,荣耀,荣耀 10
+dc38951b-b525-4614-b338-79686244276c,Android,Xiaomi,Xiaomi 6 Pro
+5d0d56f2-5c3f-44a9-8486-eca8d386cce8,WindowsPhone,Lumia,Lumia 2
+cbee24a3-d5d6-474d-a30c-a8d409fac7f7,Android,Xiaomi,Xiaomi 5
+bc9ee0f1-0524-495c-adfb-f3e74c93b9c4,WindowsPhone,Lumia,Lumia 1+
+2ab25109-6bd4-4f1b-a8a8-8f5a712f649b,Android,Xiaomi,Xiaomi 4
+4277f6e5-0049-4d20-be2d-0ae26f05114d,Android,荣耀,荣耀 10
+cb3f77b7-517a-48c9-be24-25d3e2fa5f8b,WindowsPhone,Lumia,Lumia 1+
+82de3610-cd26-4bd0-915c-303625049709,WindowsPhone,Lumia,Lumia 1+
+bce7ba12-9855-4116-bd37-14159d7c7835,Android,Huawei,Huawei Meta 40
+0984a5f0-c81e-4e99-8025-8b2f9c8647f8,Android,Huawei,Huawei Meta 30
+f6829ce3-f3b7-4e7d-8389-d4e28ea4bb96,WindowsPhone,Lumia,Lumia 1+
+181017d4-4f48-41ed-aab5-3487b9e5ebd7,Android,Huawei,Huawei Meta 30
+564efb27-6cbf-44f5-9bf2-b4ba93e99782,WindowsPhone,Lumia,Lumia 2
+e92adc40-f2a9-4ab4-b46f-15de39a3c618,Android,Xiaomi,Xiaomi 6 Pro
+c031ab6d-9d99-4578-80ad-d0110d52a33d,WindowsPhone,Lumia,Lumia 2
+56252318-959c-4878-9e5a-68bbb8b47762,Android,Xiaomi,Xiaomi 3
+a0a8c900-c7b7-4c29-8dcd-5c650f7c928f,Android,Xiaomi,Xiaomi 6 Pro
+61d77ead-ecd4-4924-9c95-a68de7160beb,Android,荣耀,荣耀 10
+c19a0e35-9e8e-48c4-94a7-a4bdc846e99b,Android,Xiaomi,Xiaomi 5
+4c1de8b9-7c5e-440e-8dbc-a13f3238bb79,Android,Huawei,Huawei Meta 30
+6dac729a-dea5-4c02-8f6c-5a9590c4ddc4,Android,Huawei,Huawei Meta 30
+a7676348-6186-4b1e-aa8f-3145879f1399,WindowsPhone,Lumia,Lumia 2
+d773c493-41f0-44a0-bdc0-5d0c095da88b,Android,Xiaomi,Xiaomi 6 Pro
+e8ac1325-6edc-46ca-8018-b88a8f817927,Android,Huawei,Huawei Meta 30
+73bcaf7f-34dd-4562-95dd-06e21bfb1996,Android,Xiaomi,Xiaomi 3
+e1daab3b-85be-4532-b37e-3ebe691eed0b,Android,Xiaomi,Xiaomi 3
+f214f084-fc7c-4574-ac29-289e64d44bff,Android,Xiaomi,Xiaomi 5
+23ddf0c5-1d23-40f6-936c-67524560e8f1,Android,荣耀,荣耀 10
+9d67a363-781e-410f-bb41-a807c69147fa,WindowsPhone,Lumia,Lumia 1+
+827a5b54-7037-471f-8905-d62c693aa080,Android,Xiaomi,Xiaomi 6 Pro
+16e7c239-cc1a-49d6-af54-e0ba78a6f3fa,Android,Huawei,Huawei Meta 30
+27750432-17b9-4177-87ce-9e77c0e336e3,WindowsPhone,Lumia,Lumia 2
+09325a99-6cd8-4b3b-bc27-525f4c6536de,WindowsPhone,Lumia,Lumia 1+
+b8cafe1a-fee8-4d05-a621-29a42c1ce854,Android,Xiaomi,Xiaomi 5
+a7243587-bcfe-4e98-adfe-d8121d87ccbc,WindowsPhone,Lumia,Lumia 2
+178259fa-56d0-43dc-b581-f2cabc43eeab,Android,Xiaomi,Xiaomi 5
+af18f899-5de5-4797-988f-7e23fd94b3b8,WindowsPhone,Lumia,Lumia 2
+2e00763d-8a92-4c06-971b-d052a59ff24a,WindowsPhone,Lumia,Lumia 2
+ac5d8b35-59dc-4bd3-a4b2-28c87c2983f6,WindowsPhone,Lumia,Lumia 2
+fc51c6e0-7685-4502-aec8-a86938b958e5,Android,Huawei,Huawei Meta 40
+6a3acdf1-f2be-44f0-8611-c00c2e7f3025,Android,Xiaomi,Xiaomi 6 Pro
+d2937c47-c447-45a1-aaa2-9153e8e13d36,Android,Huawei,Huawei Meta 30
+75b0048c-740f-46d8-bf39-a166b6490d23,Android,荣耀,荣耀 10
+2cf57750-6b47-43fb-affe-a5c86c64d4ac,Android,Xiaomi,Xiaomi 4
+7081d26e-02ce-460a-8148-af8f28213f5b,Android,Xiaomi,Xiaomi 4
+e1c67b10-e003-41a9-be2f-b28847419e24,Android,Xiaomi,Xiaomi 4
+dc34ce75-db70-46d7-9ab7-0a530b371d04,Android,Xiaomi,Xiaomi 6 Pro
+a0bdd9a4-d039-4d84-aaf3-63e8e4468b7e,WindowsPhone,Lumia,Lumia 2
+6c3d235b-9426-45fb-a8b9-14afa949a131,Android,Huawei,Huawei Meta 30
+e7e7f093-41b4-4243-879e-15284b7dd905,Android,Huawei,Huawei Meta 20
+9efcc23d-d680-45a8-acdb-0bf25c942e9a,Android,Xiaomi,Xiaomi 3
+5bbdd338-b9ab-4e6d-b6d8-3071f7d325e0,Android,Xiaomi,Xiaomi 5
+0067f69b-52cf-4128-b64a-c0f3f0f605dd,Android,Huawei,Huawei Meta 20
+56cb61bc-38c6-48c5-8c33-feaf806d14d8,IOS,iphone,iphone 8
+ea16a3ad-573c-480c-8adf-042b8c9277f1,Android,Xiaomi,Xiaomi 4
+6084814c-356f-402f-81bb-711812daceb0,Android,Xiaomi,Xiaomi 5
+7ab688fd-2977-4654-9086-21a40efdfd29,WindowsPhone,Lumia,Lumia 2
+497b715c-2c47-4d72-933c-007c72e45bd5,Android,Xiaomi,Xiaomi 4
+e809075e-c3af-4711-8e2a-8f582a4169a8,Android,Huawei,Huawei Meta 30
+0e10f577-31f9-4cdc-9d5e-2da7106f5912,IOS,iphone,iphone 12
+fc924351-0c63-4976-815f-95410c024552,Android,Xiaomi,Xiaomi 5
+f03bf125-23ff-4a15-8549-5806ceabdadc,WindowsPhone,Lumia,Lumia 2
+5c7857e9-9c17-45b1-a08f-87d81986a0e7,Android,Huawei,Huawei Meta 30
+779881e8-afc2-4d04-9b75-d333a0ad1a4f,Android,Huawei,Huawei Meta 20
+c90e6c91-43a6-49a5-ab39-2e600e64a26c,Android,Huawei,Huawei Meta 40
+692b4897-87bc-44fd-85b2-e65bcaab9cce,Android,荣耀,荣耀 10
+41d5c788-b344-4401-a564-bad328616b8d,Android,Xiaomi,Xiaomi 5
+b21d425d-db1e-4334-aec8-28f07c466420,Android,Xiaomi,Xiaomi 5
+d8142b76-898e-4864-a490-14da2e5df3b7,Android,Xiaomi,Xiaomi 6 Pro
+9bf357b8-4376-4bf8-922b-7264b27e7541,Android,荣耀,荣耀 10
+30368ac4-f7fb-49fe-ae92-1d3b35c40abe,Android,Huawei,Huawei Meta 40
+c7b8649a-17c4-441d-b482-891fa8b6ba10,Android,Huawei,Huawei Meta 40 5G
+3e7820dc-3f70-4caa-876c-910cd090e867,Android,Xiaomi,Xiaomi 4
+053f344d-1704-4531-9d8b-54105b5d2a71,WindowsPhone,Lumia,Lumia 2
+74495a8b-1664-4eeb-8107-786d90f47d09,Android,Xiaomi,Xiaomi 6 Pro
+8ee38507-2634-4e7b-ae0a-8888673b39c7,WindowsPhone,Lumia,Lumia 1+
+83399f31-aab4-4efe-828e-90ded05bdf8f,Android,Xiaomi,Xiaomi 6 Pro
+75a89677-ea24-4915-8802-e6ebf843105c,Android,荣耀,荣耀 10
+e9cc7f2c-288d-4432-a147-ff10aec93801,Android,Huawei,Huawei Meta 40
+f3b7ddcc-d465-4e01-ac55-1cdb8be870fc,Android,Huawei,Huawei Meta 30
+425b6c6f-0c32-48e5-8f0f-6560df38fb84,WindowsPhone,Lumia,Lumia 2
+21f0100c-d334-412a-afaa-05ea1460f4b7,WindowsPhone,Lumia,Lumia 2
+b048936e-8803-4f40-91bb-2456e1faab3b,Android,荣耀,荣耀 10
+2c1324c1-fd10-4602-b46f-89cd5bd3223e,Android,Xiaomi,Xiaomi 4
+0a6d7bf9-ae7a-4aa4-bd0e-f2be10b1370c,WindowsPhone,Lumia,Lumia 2
+268dd1af-b301-40b8-881d-5980e93ef0db,Android,Huawei,Huawei Meta 40 5G
+94e66d98-cb83-49f9-9a56-1ce4cbdf2b10,Android,Huawei,Huawei Meta 20
+c3d3c31d-3470-4d24-8179-d89cc7f2495e,Android,荣耀,荣耀 10
+ddf4a9bd-a77a-4dfb-b847-9636c91ede0f,Android,Huawei,Huawei Meta 40 5G
+2f5a5de3-56b4-4b9c-b235-f47b6dcaeaaa,Android,Huawei,Huawei Meta 20
+79c6404b-cf00-4ef0-ac82-165168fde870,Android,Huawei,Huawei Meta 20
+bd01c413-601a-4539-970f-b2546aac7cf6,Android,Huawei,Huawei Meta 40
+1f185857-ecf7-4d20-801a-df768a037ff5,Android,Huawei,Huawei Meta 40
+05e6a32d-bdfb-4b16-8ec8-5467f30595b8,Android,Xiaomi,Xiaomi 4
+7b0bf1f7-e223-4da0-a750-6f27fbd18401,Android,Huawei,Huawei Meta 20
+d3001aa4-098a-41c0-ab44-2e3b0d43dbf1,WindowsPhone,Lumia,Lumia 2
+9f0935cd-8ea5-479c-a761-8237f054e3a8,Android,Huawei,Huawei Meta 20
+5cdd45c3-5f03-444f-8d8b-f934fb448b28,Android,荣耀,荣耀 10
+e3acfddd-625b-453a-8812-6f87c51c2845,WindowsPhone,Lumia,Lumia 1+
+990288a2-d53f-4934-b1d2-311620aab16a,Android,Xiaomi,Xiaomi 6 Pro
+bcbb5ee7-4734-4e3a-8033-3e6ade4cc04d,Android,Huawei,Huawei Meta 30
+1fe02ca5-4c85-4f0f-9f92-1b130e3e85be,Android,Xiaomi,Xiaomi 5
+ee0c9449-6024-4993-a675-ff0092ad58ee,WindowsPhone,Lumia,Lumia 1+
+36e5b3ba-d6c8-430d-91df-66b26984bd39,Android,Huawei,Huawei Meta 30
+f2707625-166e-46f4-a46e-58e68af47e63,Android,荣耀,荣耀 10
+86fc741e-e65d-4ee9-81b7-97a82c18c32b,Android,Huawei,Huawei Meta 40
+bfd5e190-448a-4838-b4b0-a777c20672a4,WindowsPhone,Lumia,Lumia 2
+cf7a07da-9762-421d-b549-ef0a6ae74401,WindowsPhone,Lumia,Lumia 2
+393c3ccf-c17d-4a28-9f97-96a421aaf954,WindowsPhone,Lumia,Lumia 2
+c62a0712-5d30-4c83-bd81-4115f0768504,Android,荣耀,荣耀 10
+af9e5523-f629-4f28-99f1-b8ff1adced3b,IOS,iphone,iphone 9
+6a6a2bdd-309a-42c1-a077-ffa287a1dee8,Android,Huawei,Huawei Meta 40 5G
+ca88e087-1f52-4ad1-b975-7b3b7b34c541,Android,Xiaomi,Xiaomi 4
+68a0d7f7-6408-46d3-be37-532c346ac00c,Android,Huawei,Huawei Meta 20
+302425c3-1267-4b1c-94c8-6420f887ee29,Android,Xiaomi,Xiaomi 6 Pro
+7e3960e0-d7b1-42b4-a1af-5a01fee4dd05,Android,Xiaomi,Xiaomi 4
+ebe528ad-4684-4ec7-a120-a9246ee8623b,Android,Xiaomi,Xiaomi 6 Pro
+018de622-8e31-42c3-b3c2-71f970cd1dae,WindowsPhone,Lumia,Lumia 2
+e64479f0-aa41-4b76-9023-fab90a57b9ea,Android,Huawei,Huawei Meta 40 5G
+cc11f927-f5ca-4a3d-99bb-3dde4e4c929b,Android,Xiaomi,Xiaomi 4
+f3d8f52b-1eda-4700-8690-56bd9c3f1c31,Android,Huawei,Huawei Meta 20
+4cd6a52c-1330-4e34-99b8-0aff5f7d9076,Android,Huawei,Huawei Meta 40
+67d2ee6e-81fd-4a04-95d3-9014983c714e,IOS,iphone,iphone 9
+b4a31b7a-1db0-4d36-a645-47e8998e0d76,Android,Xiaomi,Xiaomi 4
+65e3e4c2-96a5-4761-8e42-f0a9ec28197f,Android,Huawei,Huawei Meta 40
+014a52cd-8dc1-48e2-8719-1ab5a3d8af6d,Android,Xiaomi,Xiaomi 6 Pro
+0db2d644-6a87-40e6-89e3-331969dd311b,Android,荣耀,荣耀 10
+8df241b6-f1d2-4b7f-9b4c-b916e9ee3a3d,Android,Huawei,Huawei Meta 40
+085d186c-0c2f-4558-b010-61d7c8e4a125,Android,Xiaomi,Xiaomi 4
+21de1f8a-d505-4033-b5d3-20a4315e06ae,Android,荣耀,荣耀 10
+1e9b560c-c11a-4476-8829-51558da9313e,Android,Xiaomi,Xiaomi 5
+5ad2afe7-a97f-4407-b90b-f508fec68ea0,Android,Huawei,Huawei Meta 40
+77e75798-fc58-435c-b66e-1b6ba750e278,Android,Huawei,Huawei Meta 30
+293152f5-0e75-43be-b456-c2881f8f8830,Android,Xiaomi,Xiaomi 5
+5f09d81c-f6cf-4781-8b1a-ab196b8a773d,Android,Huawei,Huawei Meta 30
+151dee75-4e18-48c0-8bbf-caf7d4a25be3,Android,Xiaomi,Xiaomi 5
+f547e28c-ab8d-447e-8bbf-d9271ca14d56,Android,Xiaomi,Xiaomi 5
+5cb4f994-9fd5-4cea-a947-d0bc27adead5,WindowsPhone,Lumia,Lumia 2
+88bec920-4507-417f-b278-53b968628b56,Android,Xiaomi,Xiaomi 4
+a1f8ba05-dd80-4f7d-a4fe-f32dff993598,Android,Huawei,Huawei Meta 20
+6014a20e-2218-4d4a-b9c7-84a56f3bff86,Android,Xiaomi,Xiaomi 3
+ef0f8fcf-a62a-4bfa-9a31-b7381b07f840,Android,Huawei,Huawei Meta 30
+5417f263-89a1-4f8d-adaf-07d25e438ebf,Android,荣耀,荣耀 10
+c1a51120-ed73-4a91-b292-33854cd798b9,Android,Xiaomi,Xiaomi 5
+0e0ffbea-033a-41b9-ab51-44aa836cf989,WindowsPhone,Lumia,Lumia 2
+9e72ea04-11da-4bde-bbf1-03120112eb13,Android,荣耀,荣耀 10
+338399a4-dca1-4a89-bb50-0b1f937d570f,Android,Xiaomi,Xiaomi 5
+821f6ff5-3dfd-4167-b23d-9d85a2fb4b8a,Android,Xiaomi,Xiaomi 3
+d8450833-0fd5-4f8f-b3c6-d1549bdc2d5a,Android,Huawei,Huawei Meta 20
+41014167-2831-4222-b3ce-fe9fe4703add,Android,Xiaomi,Xiaomi 4
+16fb40b4-c63e-4532-873e-3417b6d7b78a,Android,Xiaomi,Xiaomi 6 Pro
+166b7014-2e21-4028-b5b2-535331d07679,Android,Huawei,Huawei Meta 40
+b3622b3b-98c2-4c91-a082-30f26b5cf15b,Android,Xiaomi,Xiaomi 3
+97d7c0f0-3ae4-45d8-a3f7-04b8e0cbfab3,IOS,iphone,iphone x
+bbaccb57-d5ca-4e50-b394-d8cd35c6710b,Android,Xiaomi,Xiaomi 3
+4b3bd0f5-1324-40be-8bbc-fe2108f8b70f,WindowsPhone,Lumia,Lumia 1+
+18d16b7e-30dc-4305-ac28-f9c53d383c06,Android,Xiaomi,Xiaomi 3
+78c659ae-9c7d-4690-81eb-ab5c5af37d44,Android,Huawei,Huawei Meta 40
+7785c93b-9de3-476c-88e6-c8b2b8a14b10,Android,荣耀,荣耀 10
+9fde8667-5a89-4e3c-b0f7-d5ec9efed563,Android,Xiaomi,Xiaomi 6 Pro
+885ed6f7-32ee-4fe3-97be-796fcb173756,Android,Xiaomi,Xiaomi 6 Pro
+6d8b0d1b-7e8a-459d-8927-9227d6f88417,Android,Xiaomi,Xiaomi 5
+dd614a15-e093-4a69-9d33-5ec874abb33f,Android,Xiaomi,Xiaomi 4
+33822f8e-291a-4e43-9f05-288402e92800,Android,Xiaomi,Xiaomi 3
+6969cdb1-3631-41ac-ac80-ad4091c28231,Android,Xiaomi,Xiaomi 4
+2bfd4b5c-d30c-49dc-bbf0-2d4d11d7242b,Android,Huawei,Huawei Meta 40 5G
+7209d278-2b0e-4d6d-9cb3-e84afd71f54e,Android,Huawei,Huawei Meta 30
+167f3706-f0f1-4e9d-b871-c2fd76b43a14,WindowsPhone,Lumia,Lumia 1+
+9cbce631-e517-4163-a83f-0fa721cd3eca,Android,荣耀,荣耀 10
+50c459ca-fdee-4882-8a09-b714bfb312a9,Android,Huawei,Huawei Meta 30
+fd660ce3-8d84-485c-83ed-d02fcfd1452b,IOS,iphone,iphone 8
+817e93ba-ee55-4e7a-8d7f-73c40e233b31,Android,Huawei,Huawei Meta 40 5G
+c70dc340-1b63-4f24-8e4b-96fe1b5e2e33,IOS,iphone,iphone x
+d8115a61-c447-4099-8085-c2860fd12768,Android,Huawei,Huawei Meta 30
+1025626c-e0a2-4cc9-904f-90727a2ff585,Android,Huawei,Huawei Meta 20
+095d90f1-9ad5-4cbb-9931-9131d502a568,IOS,iphone,iphone 12
+4705fe53-a9e3-4fae-a77d-e5127bf9d190,Android,Huawei,Huawei Meta 40 5G
+eb4e3d22-41b7-443a-ae40-79f23b99452d,Android,Xiaomi,Xiaomi 5
+1a1791a2-305a-4775-bf7c-b3ff450ffce5,Android,Xiaomi,Xiaomi 5
+f2a8c366-34d3-4030-b880-22d6b077dceb,Android,Huawei,Huawei Meta 30
+d58aec03-128d-4f6c-a8d6-30ad84ea97c2,Android,Huawei,Huawei Meta 40 5G
+d61bad19-aa78-492d-80a1-88aa83045fcd,Android,Xiaomi,Xiaomi 6 Pro
+fdeb7aeb-d53e-4abc-9312-a50f8cb82d9d,IOS,iphone,iphone 5
+c84e23e5-7207-4413-af57-a8a4e2c24018,Android,Xiaomi,Xiaomi 3
+94f364d0-cc73-4c48-a233-07c074145de4,IOS,iphone,iphone 8
+5535991c-1152-4649-a32f-c581100c357a,Android,Huawei,Huawei Meta 40 5G
+bc796b79-024a-4fe9-9e17-6d345554be8c,WindowsPhone,Lumia,Lumia 1+
+41b2d806-dd49-48ce-a43c-5bc0ae570c4e,WindowsPhone,Lumia,Lumia 2
+520659c2-6003-4f08-9446-d37b46d3ec56,Android,Xiaomi,Xiaomi 4
+31ce0b21-2f4c-40c2-9c98-697e64e6c875,Android,荣耀,荣耀 10
+c600e70a-2693-4048-9456-c323529f6446,Android,Xiaomi,Xiaomi 4
+ebd8a741-c21b-4445-8278-85f98c2e3a4c,Android,Xiaomi,Xiaomi 3
+54a9aa89-5942-4d94-984f-db93a4094061,Android,Huawei,Huawei Meta 40
+16b03dce-424e-4204-b222-a355951ca86f,Android,Huawei,Huawei Meta 20
+dbb50b3a-3d96-4dc5-b4a9-6f63afb702e4,Android,Huawei,Huawei Meta 30
+89a6dd47-bdcb-4a86-9a48-3fc3e615a4d5,Android,Xiaomi,Xiaomi 6 Pro
+1e03b337-53cf-4cdf-bfef-af8e1ef2901b,Android,Xiaomi,Xiaomi 5
+0e4e3cb5-9e85-4f41-b0f0-270f6cf9576f,Android,Xiaomi,Xiaomi 3
+e6fd60c8-cc2f-4137-9eaa-581df3e7bba2,Android,Xiaomi,Xiaomi 5
+9f60f342-143d-4ee3-b94b-df20fca31e86,Android,荣耀,荣耀 10
+d89ab8f3-6b65-4830-8e44-6557ceb05cbe,Android,Huawei,Huawei Meta 40 5G
+89eb60b2-391f-4102-91d8-d9993ff2dba8,Android,Huawei,Huawei Meta 20
+6206cf23-5335-47d3-a790-077c7e17bdeb,Android,Huawei,Huawei Meta 40
+de3d4e7c-834a-4a41-a39d-6854837028e2,Android,Huawei,Huawei Meta 40
+fa296f32-db12-4adc-b552-020056e3d2c7,Android,Xiaomi,Xiaomi 4
+aa133b36-3f6c-40c8-a09f-fedb39b16c95,Android,Xiaomi,Xiaomi 6 Pro
+ee318d66-50ef-452c-ad15-795bc0f2da0e,WindowsPhone,Lumia,Lumia 1+
+e67a73c7-0ca7-4f11-bb7a-728c96664458,Android,Xiaomi,Xiaomi 5
+87619f73-f438-4fa2-9945-2a173cf5734f,Android,Huawei,Huawei Meta 30
+e958b908-5804-431d-a222-0ca6bad8792d,Android,Xiaomi,Xiaomi 5
+6e4b48a6-5d81-42bc-8600-4426b420f122,Android,荣耀,荣耀 10
+cdb819f4-bcdd-4261-9e36-1f30349adba9,Android,Huawei,Huawei Meta 30
+0ea83eb8-c64d-4c01-a1b5-a647c2911ec2,Android,Xiaomi,Xiaomi 3
+3aa79d82-d26e-411b-8961-cad50e90b6b9,Android,Huawei,Huawei Meta 40
+43065bcd-6f18-41ff-8676-83a310ee88ca,WindowsPhone,Lumia,Lumia 2
+b442b76f-c8bb-4610-852a-37ebb5f1b4ff,Android,Xiaomi,Xiaomi 4
+363095f2-1d2d-46ad-a0c6-524fb706e72c,Android,Huawei,Huawei Meta 20
+7c7d5fc0-4360-4e5e-9791-71b656cdcffb,WindowsPhone,Lumia,Lumia 2
+c68ec3cb-3070-4dbb-8797-f80ea06ef147,Android,Huawei,Huawei Meta 40
+974c1bba-b44a-425a-a21c-290d59ba0de8,Android,Huawei,Huawei Meta 40
+1eaf7942-76b8-4f67-bb3f-e4bbab13ff2f,Android,Xiaomi,Xiaomi 5
+e8e3f696-9119-4dcd-b546-c39525c0b45c,Android,Xiaomi,Xiaomi 4
+b1bfe674-5242-42b6-9183-6984fabdf387,Android,Xiaomi,Xiaomi 4
+2575c4cc-cb96-4d16-b605-5d65878082b9,Android,Huawei,Huawei Meta 40
+8dca36da-6bcc-4a9d-bb48-39fe246ca851,WindowsPhone,Lumia,Lumia 2
+02478f68-3dc4-4e95-baec-abb964bd0eb8,Android,Xiaomi,Xiaomi 3
+0dfa8781-1084-4210-948c-4801787350e9,WindowsPhone,Lumia,Lumia 1+
+18074ba3-0b33-4b11-a02e-eef4a4b212de,WindowsPhone,Lumia,Lumia 1+
+b04bbf58-5801-4a3b-aa7d-e06e959cf926,Android,荣耀,荣耀 10
+0e2702b5-62e6-4308-8eb5-a83f79e60f4c,WindowsPhone,Lumia,Lumia 1+
+29806d4d-1f89-45be-ba31-02bd0dbc7d28,Android,Xiaomi,Xiaomi 5
+e87f8f52-1d1e-4ff2-8358-1fbc0adc2ef8,IOS,iphone,iphone 7
+10772377-6388-400f-9801-211e81842728,Android,Huawei,Huawei Meta 40
+65ca881c-d1cb-4660-8513-411eb8fcee0a,Android,Xiaomi,Xiaomi 4
+3f19b6fd-c0eb-40fd-9751-ac17b13098cb,Android,Xiaomi,Xiaomi 3
+299f0b1d-dad4-46b8-877b-86a5fbe71a3a,Android,Xiaomi,Xiaomi 6 Pro
+6287c733-2feb-4e3e-8ca4-ccd5c0040c10,Android,Xiaomi,Xiaomi 6 Pro
+dd3ec99d-377c-4d9b-b86b-faa9f1cf0c75,Android,Xiaomi,Xiaomi 3
+04a97e2c-09c9-4dc6-8e13-39f8a3cef334,Android,Huawei,Huawei Meta 40 5G
+f42db07e-3335-4d09-822b-8bf20601c312,Android,荣耀,荣耀 10
+612b6e4f-a735-47b7-a516-d1159c09471c,Android,Xiaomi,Xiaomi 4
+dc5704d1-7cc5-4afa-a268-bc01ffd786df,Android,Huawei,Huawei Meta 30
+3c53eb15-a17b-456f-bd6d-144b0d4eb873,Android,Xiaomi,Xiaomi 3
+2fc55e5d-3119-413c-961a-06a1cb6559b7,Android,Huawei,Huawei Meta 30
+a1f7942e-53c4-4c67-9e74-812fac494026,Android,Xiaomi,Xiaomi 3
+3c04178e-69eb-4b97-b473-b9d2b40a350b,Android,Huawei,Huawei Meta 40
+68cb9f4d-8964-492d-b20b-385a17c81ce7,WindowsPhone,Lumia,Lumia 2
+98f7e6e6-b18d-4cf2-a273-83fce29fa28f,Android,Huawei,Huawei Meta 40
+f2cf5628-cd3e-4867-a48a-508dec317e4f,WindowsPhone,Lumia,Lumia 2
+3ac59a83-6e0c-4abb-ab61-45a9382242a2,Android,Huawei,Huawei Meta 40
+a856231e-c30c-4aa4-ac92-a644bcf9594a,WindowsPhone,Lumia,Lumia 2
+b886248e-b38d-4ad8-b086-465d28f47723,Android,Huawei,Huawei Meta 30
+5a536135-ae21-45f2-890b-3c236a9a46ed,Android,Huawei,Huawei Meta 40 5G
+b030f078-0415-4e26-8a10-5b8a1d66c675,Android,Huawei,Huawei Meta 40
+a0850e9d-11fa-4b94-a0d1-3170d3ccbbd6,Android,Xiaomi,Xiaomi 3
+2d0d26f9-443c-4c62-8961-f57086e5a17f,Android,Xiaomi,Xiaomi 5
+b0bd2a67-292b-42fa-8910-b8288924de41,Android,Xiaomi,Xiaomi 6 Pro
+2b2cab8d-c5dd-40a6-89a1-d85c70ebe3a5,Android,Xiaomi,Xiaomi 5
+324fb4ff-7037-4cee-9cb8-be9dc6d1d7f9,Android,Xiaomi,Xiaomi 5
+b1b25e82-2fcd-47a2-a5fa-bccf802dc1d5,WindowsPhone,Lumia,Lumia 1+
+65b8d549-9967-4c88-8975-f37815a2f198,WindowsPhone,Lumia,Lumia 2
+13247dff-6537-4bea-8943-72363c7f5916,Android,Huawei,Huawei Meta 40
+dfc0a3e0-6b2e-4fef-abaf-df4125e5efd8,Android,Huawei,Huawei Meta 20
+eeef9e99-22ae-4fb5-8817-fa1bc8ff6e6f,Android,Huawei,Huawei Meta 40 5G
+a5f1f35b-1f7a-4bb2-9103-28d437e2e892,WindowsPhone,Lumia,Lumia 1+
+0e16d453-885b-49f7-942b-70a0265055bb,WindowsPhone,Lumia,Lumia 1+
+e924f453-af5c-4d34-b946-bc6e79e373dc,Android,Xiaomi,Xiaomi 6 Pro
+999e7156-f783-4f22-b6e0-cf9de005addd,Android,Huawei,Huawei Meta 40 5G
+270b2272-d029-4d0e-abd9-f95cd4bd2901,Android,Xiaomi,Xiaomi 3
+6145d9f7-1f39-46a9-b506-74dbf57e12f0,Android,Xiaomi,Xiaomi 4
+2afb82c5-b440-47c4-a1d6-3f8300519dd6,Android,Huawei,Huawei Meta 40
+51b8efc6-da66-4050-a962-fd186eb406c9,Android,Xiaomi,Xiaomi 3
+42c14979-bfc4-4eb9-be63-34c8c31fba33,Android,Huawei,Huawei Meta 30
+3a578aaa-fc26-4b7b-9b91-8f2dc18990b9,Android,Xiaomi,Xiaomi 4
+2e430dbf-045b-4da0-ada9-ba89177137e0,WindowsPhone,Lumia,Lumia 2
+18b9696e-7309-4165-8fde-70d6b8dfb8f5,Android,Xiaomi,Xiaomi 6 Pro
+3645724e-627c-4399-aaa5-93287692c48c,Android,Huawei,Huawei Meta 40
+1ffc1d40-1cfe-4998-87af-d777b868b642,IOS,iphone,iphone 5
+78e65ac3-5bb7-4620-83a1-7493738c5c52,Android,Xiaomi,Xiaomi 5
+8a4e53e7-3d3c-413a-9942-eb2221624e36,Android,Huawei,Huawei Meta 40
+42c2aa95-7b72-40a9-9f5b-b9b3eef22972,Android,荣耀,荣耀 10
+dfb3e056-c5cd-4527-83a9-bc71cd2d7037,WindowsPhone,Lumia,Lumia 2
+cc6ab294-3102-4c61-8602-b5705afedd52,IOS,iphone,iphone 9
+febc783b-548d-4f4f-99f6-cdc13fa1c079,Android,荣耀,荣耀 10
+c3d83124-7f59-4da3-8b64-8a64643332bc,Android,Huawei,Huawei Meta 30
+054636f9-a7b8-4888-b08d-84a671ffd634,Android,Huawei,Huawei Meta 30
+a272c235-a7aa-4689-9bd2-d65337042288,Android,Xiaomi,Xiaomi 6 Pro
+567aa024-7968-477b-886b-56adc2196745,Android,Xiaomi,Xiaomi 4
+9f132a57-2e9d-4d59-bf52-fc0b7fb18ef6,Android,Huawei,Huawei Meta 40 5G
+7af31fa3-e1c1-4250-bd65-1fdbb45d7c67,Android,Xiaomi,Xiaomi 6 Pro
+22c0d100-c39f-46de-a279-0b307b1e59fa,WindowsPhone,Lumia,Lumia 1+
+036ebd4b-cba1-4ac8-8feb-fa83b18b1cd5,Android,Xiaomi,Xiaomi 6 Pro
+b81fcdcb-36db-4d60-b8e7-a310b7f9ebbe,Android,Huawei,Huawei Meta 40
+2329eb7a-91d6-454d-a2ae-393442c6b341,Android,Huawei,Huawei Meta 40
+3f6a55b2-edad-4824-a200-be8276b59ac8,Android,Xiaomi,Xiaomi 3
+7d51230e-3fa2-400c-96cc-fe3c05815382,WindowsPhone,Lumia,Lumia 1+
+ef1a4730-d4e2-4d81-8345-de213b6b46b8,Android,Xiaomi,Xiaomi 5
+876fa3a0-7b63-47c8-87ab-20bf014de07c,Android,Xiaomi,Xiaomi 3
+512f8e7c-b2fc-4278-9b88-a568f7b4f5c3,Android,Huawei,Huawei Meta 30
+c9f5f607-5592-4f8f-a929-18927bd4dd94,Android,Xiaomi,Xiaomi 5
+de26a607-41b3-42c5-96a4-bc3a08c258c9,Android,Xiaomi,Xiaomi 5
+8144c8ed-a4f6-43d5-a4e7-f5469c1f5a13,WindowsPhone,Lumia,Lumia 2
+09179c41-6f35-491c-91ca-dc3d7b14aead,WindowsPhone,Lumia,Lumia 2
+bed799c1-aecd-41b2-a568-1a7b0fbc9c63,WindowsPhone,Lumia,Lumia 2
+153009f7-ff9e-497f-9fab-290c75eb1d65,Android,Xiaomi,Xiaomi 6 Pro
+e5af34be-8a06-4914-913c-d8e104f64d63,Android,Huawei,Huawei Meta 30
+e7e63b03-b437-4367-9b80-de7cce1a2a52,Android,Xiaomi,Xiaomi 3
+39e9ce02-eea6-4b2a-b3da-1df6250437af,Android,Huawei,Huawei Meta 30
+51577922-a8f9-4da9-a207-0960ee8b1136,Android,Huawei,Huawei Meta 40 5G
+e1aa1efa-79b8-41f4-852e-9f766e72386a,Android,Huawei,Huawei Meta 40
+c6bbf3b4-2206-4cd8-8ad6-52870e434658,Android,Xiaomi,Xiaomi 4
+a6f5c4ce-e24f-4f75-9645-b386ba5b0dc0,Android,Xiaomi,Xiaomi 6 Pro
+c5542fb6-9ac7-441a-b1d1-b79d5f74fb85,Android,Xiaomi,Xiaomi 4
+0ba5ec78-840f-4d73-ad72-a6f154d6396a,Android,Huawei,Huawei Meta 20
+d4b04547-ac10-4643-9f7c-aac08c9623f3,WindowsPhone,Lumia,Lumia 2
+4510e44e-4bf5-4dfe-b65e-f814045c57b1,Android,Huawei,Huawei Meta 40
+72d6d4a5-bf72-40e7-ad71-9b2a0a4a1127,IOS,iphone,iphone 7
+bbcf7b10-9a1c-42af-a963-89624f40f150,Android,Xiaomi,Xiaomi 6 Pro
+7ccc0543-f812-48e6-b497-6b034251ec5c,Android,荣耀,荣耀 10
+8cfa6e6d-4693-4363-93e3-4ebf2d03b121,Android,Huawei,Huawei Meta 30
+b157d1d2-eb7b-4a6d-834e-959d5114d89c,Android,Huawei,Huawei Meta 40
+84356f8a-b4eb-4af3-8f51-17480debb58a,Android,Huawei,Huawei Meta 40
+0872cc48-c4f0-498a-b502-edb656f2dde8,Android,Xiaomi,Xiaomi 3
+e91b261d-7164-443f-a180-751aeac47f27,Android,Huawei,Huawei Meta 30
+a70344fb-ada9-48ef-bc5e-4e7c29494de1,Android,Xiaomi,Xiaomi 3
+125f73ea-1215-44ed-a3a3-f45cae386185,Android,Xiaomi,Xiaomi 3
+bb5fe1b6-daa0-4228-b36d-da25ebbd4768,Android,Xiaomi,Xiaomi 3
+4991344e-1a94-4312-a123-a7623039e29a,WindowsPhone,Lumia,Lumia 1+
+b34767d3-570e-4deb-919d-7c0e55c48bfc,WindowsPhone,Lumia,Lumia 1+
+451dd94c-5efb-4456-9c6f-792a34e46383,Android,荣耀,荣耀 10
+d5c13ec2-061e-4175-8629-357e6ed9ffae,Android,Huawei,Huawei Meta 20
+ef237ea8-a33b-442c-bd5f-5317e5f0ee89,WindowsPhone,Lumia,Lumia 1+
+922aa78f-636e-4083-b4d7-757573e052a7,WindowsPhone,Lumia,Lumia 1+
+c0046af4-98d8-40b3-b0cc-71136c588bac,WindowsPhone,Lumia,Lumia 2
+043c09de-866e-4106-80ea-a9e99fbc715d,Android,荣耀,荣耀 10
+298f420d-90b3-45f7-98ab-cca5d81d7cf2,WindowsPhone,Lumia,Lumia 1+
+d74ddae9-fbbd-4046-b921-6300556782a1,Android,Xiaomi,Xiaomi 5
+058745ac-6b6c-478a-b3b0-1f68d4076d46,Android,Huawei,Huawei Meta 20
+937c6919-26a7-4acc-b1ca-34013330a663,Android,Xiaomi,Xiaomi 6 Pro
+c0f28792-fbfc-41c2-83c2-dc7d9438175c,Android,Xiaomi,Xiaomi 5
+5219c5ce-0625-45b7-a62c-f13f46412964,Android,Huawei,Huawei Meta 30
+4fc7334a-015e-4ce1-9a1c-7d38309a0046,Android,Huawei,Huawei Meta 30
+b5bdc05c-043e-4084-8786-c33d36fd36fc,Android,Huawei,Huawei Meta 30
+077a140d-bc56-4456-bca8-8a2f8e6758bd,IOS,iphone,iphone 6
+66926133-4cab-4612-9c50-3cae2114e11a,WindowsPhone,Lumia,Lumia 2
+86d0de23-16f0-4b9b-b950-8a1055c9bd9e,WindowsPhone,Lumia,Lumia 1+
+feb4bca2-5d29-45f7-8200-cb8204ad50e0,WindowsPhone,Lumia,Lumia 2
+9f23acee-4132-4ad7-b234-a478118637bf,Android,Xiaomi,Xiaomi 4
+4913e363-1116-4c75-ae4f-558f384b4786,Android,荣耀,荣耀 10
+d4941a08-d409-47a3-8a11-93130dc22ae4,Android,Huawei,Huawei Meta 20
+7dbda3d6-5fe4-43fb-b0a1-6899a5532f95,Android,荣耀,荣耀 10
+6dfddfcd-498d-4d36-b9f2-84611b8c912e,Android,Huawei,Huawei Meta 40 5G
+8ddd85ac-5338-4a47-a674-f1260f6d7860,WindowsPhone,Lumia,Lumia 1+
+2fa9552a-81d6-4f73-89d5-4cde658bbf10,Android,Xiaomi,Xiaomi 5
+92800cad-8ecd-4763-be79-527c9ceb2686,Android,Huawei,Huawei Meta 30
+4656ce9f-d82f-47a7-9b49-a29301d42000,Android,Huawei,Huawei Meta 30
+a04d6719-3fe4-41af-bca0-5771dd4a8821,WindowsPhone,Lumia,Lumia 2
+4408e355-8f03-48e3-a774-812a804cf40c,Android,Xiaomi,Xiaomi 5
+9e51b022-7655-488c-91fc-ddc0e536b6e5,WindowsPhone,Lumia,Lumia 1+
+13e0e8b3-6c2d-4630-8592-b7f10c9b3d39,WindowsPhone,Lumia,Lumia 2
+d6efaecd-db2d-4182-ab16-51b7e4a7998a,Android,Huawei,Huawei Meta 30
+5284e7bf-8156-4c85-9646-9decd5f6e1a3,Android,Xiaomi,Xiaomi 4
+8048c108-0646-46bb-ace4-2f921e214678,WindowsPhone,Lumia,Lumia 1+
+7ba01992-6d95-4674-bdd7-8bd59164d7cb,Android,Xiaomi,Xiaomi 3
+b53b9b6f-1caa-419d-9606-6ff58825c68a,Android,Huawei,Huawei Meta 40
+feff3973-2f13-4190-8c9c-e467c52f81e0,Android,Huawei,Huawei Meta 40 5G
+3d9ccbfa-1aa5-4eec-ac2c-9ef046a4ee25,Android,荣耀,荣耀 10
+54ac86c6-3b71-4aff-be7c-cfb093e0f85d,Android,Xiaomi,Xiaomi 5
+98542cbb-2340-44b6-aa21-16e5eaefb5d2,Android,Xiaomi,Xiaomi 3
+21ec23d9-8096-4725-98b5-13059d757985,Android,Huawei,Huawei Meta 20
+09213acd-9276-4ad9-8303-ad5d01f371c1,Android,Xiaomi,Xiaomi 3
+79009693-97a3-4adc-a654-74d61024c7b4,Android,Xiaomi,Xiaomi 6 Pro
+a6397c60-0355-4237-8c82-72f8c5cb5b5b,WindowsPhone,Lumia,Lumia 1+
+8cff7765-28db-4a3f-a62e-62e09a8b27bd,Android,Xiaomi,Xiaomi 3
+333d7be3-256d-4e6d-b8a1-d1fad0250673,Android,Xiaomi,Xiaomi 3
+377575ef-6ef3-4de7-86f3-e63eb9a71c01,Android,Xiaomi,Xiaomi 5
+1910c898-93a6-4f37-b94a-0779c899f1db,WindowsPhone,Lumia,Lumia 1+
+7469bbfc-d97c-4f28-982b-879892765e4d,Android,Xiaomi,Xiaomi 6 Pro
+b4d0233d-5b65-4e18-8c0e-7fa7c8688d51,Android,Xiaomi,Xiaomi 4
+599c01b8-d9ec-4340-9262-8a1a5187f2c7,Android,Xiaomi,Xiaomi 3
+955c3016-fb04-49d3-9ec4-a2b422f467c3,Android,Huawei,Huawei Meta 40
+fe6f322c-d040-40ee-aeee-e18bba499f74,Android,Huawei,Huawei Meta 40 5G
+854cd989-3f99-46da-ac32-342b3a2d2c79,Android,Huawei,Huawei Meta 40
+f5b6c3f1-0f8c-4657-a104-b194381596ca,Android,Huawei,Huawei Meta 20
+586d7a79-46e9-4126-9cb1-a07da71c2af9,Android,Huawei,Huawei Meta 40
+b8fc2414-1ca9-4c8a-9fd6-8f45aa998439,Android,Xiaomi,Xiaomi 6 Pro
+c8dc59c9-b65a-48e0-90f2-37acf705d005,IOS,iphone,iphone 4s
+17b09676-1a94-4981-909b-61258fc43189,WindowsPhone,Lumia,Lumia 1+
+adfc630b-58e0-41a3-b470-c73c1a0771be,Android,Xiaomi,Xiaomi 6 Pro
+a1dd917d-6efc-487a-ac0a-3776e94b5286,Android,荣耀,荣耀 10
+ba88f6f4-4df5-47e1-888f-b2778cb7be94,WindowsPhone,Lumia,Lumia 1+
+3620aa2a-07ca-4988-a32b-c865ecb595ea,WindowsPhone,Lumia,Lumia 2
+8c971507-f0bf-4faa-a7ee-bf611b80d870,Android,Xiaomi,Xiaomi 4
+0e4cfbaa-f890-4813-a97f-9c09819dbf93,Android,Huawei,Huawei Meta 40 5G
+117d9567-cb76-4f40-81aa-e62fdfe67d28,Android,Xiaomi,Xiaomi 6 Pro
+59cac4ac-2938-4109-86a8-e7a037e2fea8,Android,Xiaomi,Xiaomi 3
+9773a5e0-af82-493c-94db-62a3372d754f,Android,Huawei,Huawei Meta 40
+7981ee6a-1ac9-4d28-b331-b14e307bfd3f,Android,Huawei,Huawei Meta 40 5G
+c390fe24-3e81-4f64-98f4-b0d33651065c,Android,Xiaomi,Xiaomi 3
+da0c7e68-03d5-4de8-a976-c38b79affd4e,Android,荣耀,荣耀 10
+a016e5b1-65b4-40f4-9759-f63758c6dfd9,Android,Huawei,Huawei Meta 40 5G
+fe76aa60-23b8-4f12-a967-1f3cb9b90573,WindowsPhone,Lumia,Lumia 1+
+12bdf352-e33c-4c3d-8f77-b3bb57652bd9,Android,Xiaomi,Xiaomi 3
+7aad9c74-050a-4ba1-a2a9-7ebd2d748731,Android,Huawei,Huawei Meta 40 5G
+0b3a4340-979c-400e-9545-2fa8fda7e281,Android,Huawei,Huawei Meta 20
+e3657bb6-4e54-4b88-954d-58a9f8663ddd,Android,Huawei,Huawei Meta 40
+f0be33c4-4b42-4dfe-b651-0ad39103571c,Android,荣耀,荣耀 10
+fc270da2-7a54-4835-bc82-565d0e4d43c8,Android,荣耀,荣耀 10
+6d3f6197-8d0e-4526-b734-d0186f95af62,Android,Huawei,Huawei Meta 20
+1b9d9c5e-5b06-4d6d-b630-be75615a4fac,Android,Huawei,Huawei Meta 40 5G
+870c9e72-16b3-425e-b603-86d6e1fe8526,Android,荣耀,荣耀 10
+fd071316-6e19-4d3a-945b-231f13f83c67,WindowsPhone,Lumia,Lumia 2
+2bc36c6b-6086-4060-a673-1877a2e0fe37,Android,Huawei,Huawei Meta 40 5G
+269a5887-0339-44ac-8767-fe931e497978,Android,Xiaomi,Xiaomi 3
+9ea77631-e86f-4b0e-b7b9-bf544fb40acb,WindowsPhone,Lumia,Lumia 1+
+f5cc29fd-4009-4af8-9a3c-0fe9163c514d,WindowsPhone,Lumia,Lumia 2
+94348c4e-9b9a-4955-8fad-c60557d52164,Android,Xiaomi,Xiaomi 4
+089f015f-fdda-4c4c-aa5f-dcae90b15461,Android,Huawei,Huawei Meta 30
+5cbfb461-45a2-48e0-a607-3c255907eb04,WindowsPhone,Lumia,Lumia 1+
+e8010e41-5ad1-4a86-a812-b87008b61016,Android,Huawei,Huawei Meta 40 5G
+334180a1-50b2-41e7-bd91-90e7611acf3c,Android,Xiaomi,Xiaomi 4
+453b0412-798e-41ad-a493-f9d878a0fa70,Android,Huawei,Huawei Meta 40
+5708999c-6611-41ee-887b-1e1746584050,Android,荣耀,荣耀 10
+e05b4c0c-a50e-4192-ba2b-c07bcfa98733,WindowsPhone,Lumia,Lumia 2
+074c528a-a26e-4702-b4fa-20de68c9f9b4,Android,Xiaomi,Xiaomi 3
+ba37ca74-3670-4b53-8afa-ad9c973a8e04,Android,Xiaomi,Xiaomi 4
+cfc06ace-8509-4108-9a87-ada331d0332a,Android,Xiaomi,Xiaomi 5
+ccb5e5d2-ffef-4d3e-82ad-09d638d043df,Android,Huawei,Huawei Meta 20
+1dc97298-fa1a-4b2d-b70c-366272cb545d,Android,Xiaomi,Xiaomi 6 Pro
+b2ac675b-798a-40eb-8817-1a63cb86e0d4,Android,Huawei,Huawei Meta 40
+69aa284e-e986-42b0-ae9f-bf151bc73917,WindowsPhone,Lumia,Lumia 2
+97c2e790-ff3e-443c-ba76-c0a2155e57de,Android,Huawei,Huawei Meta 20
+9fd0f9b6-4ebc-4450-8d72-6a5903162089,Android,Huawei,Huawei Meta 30
+6998522d-83a3-45ed-a57c-52d1982672c9,WindowsPhone,Lumia,Lumia 2
+8fbdfd75-e8ba-4f54-abaa-eea00ab5dd64,Android,Huawei,Huawei Meta 20
+3a5876fe-ae74-48a8-83fc-680e5cd89ec0,Android,荣耀,荣耀 10
+95b597fe-1dfa-46de-ad68-c6328ce0878c,IOS,iphone,iphone 9
+d4290c24-4926-4488-afd1-8173e5c1b13f,WindowsPhone,Lumia,Lumia 2
+0ed4f1b5-43a0-49b0-a0ca-97a3856cc8cf,Android,Xiaomi,Xiaomi 6 Pro
+5b353b63-5182-44f1-af39-7eb8b59b134b,Android,Xiaomi,Xiaomi 5
+ed8e28d3-d8c3-4b3b-8a25-e7d979be5346,Android,Huawei,Huawei Meta 20
+a7911d36-0fad-4530-9f21-3eba1cccc4ee,Android,荣耀,荣耀 10
+870b820e-d6b2-4b02-82dc-dcf77ae769a6,WindowsPhone,Lumia,Lumia 2
+c3400418-02f9-42f3-942e-5dccf758e72d,IOS,iphone,iphone 11
+160be301-048f-47d5-86fc-6bd3a9a733ce,Android,Xiaomi,Xiaomi 5
+ac85ce10-67b2-41c3-9ac9-8b2e8594e4a0,WindowsPhone,Lumia,Lumia 2
+4fb57c12-1840-4671-8e6d-fa0d95bbce78,Android,Huawei,Huawei Meta 40 5G
+f4b714d8-3ff3-4d1c-a8cd-db8e76c3c97e,WindowsPhone,Lumia,Lumia 1+
+4504fa73-492c-4340-9df5-11ffab456369,IOS,iphone,iphone 11
+2e55dc7f-03f1-40dc-a6da-b4db0f24ff1f,WindowsPhone,Lumia,Lumia 2
+c0c53e37-72b9-403d-9fdf-42972f9fa581,Android,Xiaomi,Xiaomi 4
+9428c2e2-a9c3-42c0-aad7-3a675ab70027,WindowsPhone,Lumia,Lumia 2
+6496623e-0c14-49d3-b293-832f4b96a94d,Android,Xiaomi,Xiaomi 6 Pro
+89341ea1-4fb4-413e-a759-0521a10d83e2,Android,Xiaomi,Xiaomi 6 Pro
+281540f0-04df-4cd1-a4a2-ba6de73a8567,Android,Xiaomi,Xiaomi 5
+666842c4-5c96-4b53-b578-f8c0363bfbe6,WindowsPhone,Lumia,Lumia 2
+713a39cc-fa61-49ad-9a2e-f21374db63f8,WindowsPhone,Lumia,Lumia 1+
+d73c3207-2503-431f-8ddf-3c62bb132844,Android,Xiaomi,Xiaomi 5
+17c3aa78-aa36-4d18-872e-007fc5f8ee4a,Android,Xiaomi,Xiaomi 5
+db1779ff-8830-42c9-81b4-cbfc8eb1cdf3,Android,Xiaomi,Xiaomi 6 Pro
+87a2e107-3a0e-4980-aa80-fc072f27b71d,Android,荣耀,荣耀 10
+78d06d08-04ec-4411-a2b0-0b1ca3ea59bc,Android,Huawei,Huawei Meta 40 5G
+22b79d6c-fff3-4a55-9eb8-38aeed417024,Android,Huawei,Huawei Meta 40 5G
+4f2b78e7-d5ed-41e0-bbfc-801721344d9b,Android,荣耀,荣耀 10
+44d191cf-07e7-4a49-86f7-7b2a450eac88,Android,Xiaomi,Xiaomi 6 Pro
+9dfd9c4f-2831-424e-94a8-2ad3a459767d,WindowsPhone,Lumia,Lumia 1+
+d155ceda-becf-4ed2-944e-37ccfede3668,Android,荣耀,荣耀 10
+d2fa0a8e-0a43-492d-9f3f-463686558ff1,IOS,iphone,iphone 4s
+e34528c8-60aa-4533-a7da-39209fb03786,Android,Huawei,Huawei Meta 40 5G
+5f10ed6a-4ccf-4a1b-a829-179c33f7c6d3,Android,Xiaomi,Xiaomi 4
+50585ba1-3c46-4a0e-8fdc-170409734bd0,Android,荣耀,荣耀 10
+e123ac2c-804b-4d0e-b738-e0ae6575467b,Android,荣耀,荣耀 10
+f2ccc57b-3edf-4414-80ea-2a23435ec54d,Android,Huawei,Huawei Meta 40 5G
+64e1bc6f-7822-473d-8ae4-cca35fd4350c,Android,Xiaomi,Xiaomi 4
+1fb56151-3039-4e34-a6ba-3765497e2688,Android,Huawei,Huawei Meta 30
+316ea53b-f1be-408a-8af7-0ba0ced0dc52,WindowsPhone,Lumia,Lumia 2
+ae058125-c990-4598-8d21-2c8fd7ff226a,Android,荣耀,荣耀 10
+c799fe6d-e217-41a1-b6eb-9655d8acf512,WindowsPhone,Lumia,Lumia 2
+9afc4403-0fcb-4805-a6f7-15d48c3138c2,Android,Huawei,Huawei Meta 40
+616e15df-82bf-4c6e-95f5-a4965f569a46,Android,Xiaomi,Xiaomi 4
+4afa4170-f328-4671-98c4-f6f831a3a695,Android,Xiaomi,Xiaomi 5
+b122e04a-5082-46c3-aa44-6e45bbbb9508,Android,荣耀,荣耀 10
+e027b0dc-5dbb-413f-a90b-8046131cf266,Android,Xiaomi,Xiaomi 4
+738e8cdf-a6f9-4a12-8808-9849c28ecfa2,Android,Xiaomi,Xiaomi 5
+bc45c3c4-49c9-4fd9-9e0f-44697533d182,WindowsPhone,Lumia,Lumia 2
+eaf92a00-5126-4d49-ae85-723ba9bc3954,Android,荣耀,荣耀 10
+945abd2d-79c3-4285-884d-2729ae6fead6,Android,Huawei,Huawei Meta 30
+41615023-2357-42b4-a05a-9237280e16ba,WindowsPhone,Lumia,Lumia 1+
+f6284eb3-00df-468b-b353-4c916bfceb9e,Android,Xiaomi,Xiaomi 3
+180b1723-1b0f-4f84-97c6-3809e2f6897b,Android,Huawei,Huawei Meta 40 5G
+af459f52-1c85-44cd-9aad-a0fdd1563a5a,WindowsPhone,Lumia,Lumia 1+
+a5c6e71b-9b70-432d-88df-8889d9ea7732,Android,Xiaomi,Xiaomi 6 Pro
+7924c082-899d-4316-a73f-877c6f015ef9,Android,荣耀,荣耀 10
+e5c123d1-8596-42e8-a548-b2f120656f45,Android,Huawei,Huawei Meta 40
+a264d7ee-810c-4f42-a671-ab2cec69c408,WindowsPhone,Lumia,Lumia 1+
+61e3846e-c769-4cdf-ae3e-6e0079e0eb7a,IOS,iphone,iphone 5
+3dfbfb0d-391f-47ab-9917-12be1625ddbc,Android,Xiaomi,Xiaomi 3
+96569574-961b-4621-8a2b-cd1c840d928d,Android,Huawei,Huawei Meta 30
+8d0d4ff8-1fbb-4955-a70e-b7a574d8291c,WindowsPhone,Lumia,Lumia 1+
+88fbdc50-23d6-4896-beec-a75c13b42278,WindowsPhone,Lumia,Lumia 1+
+ce05c1cd-e15f-4320-b956-3c7676c3dd20,WindowsPhone,Lumia,Lumia 1+
+76e581dc-230a-4e97-9746-3c41ee6891f8,Android,Xiaomi,Xiaomi 4
+adaffcb7-b569-46e2-b20f-d599dc9fdc75,Android,Huawei,Huawei Meta 20
+4acf1318-b659-4014-887b-a2df415cff67,Android,Xiaomi,Xiaomi 5
+cbedd112-8007-4a70-99a6-e8ba1e5dc9e6,Android,Huawei,Huawei Meta 20
+f15395a0-a42c-46ef-8c85-5d4005813f22,Android,Huawei,Huawei Meta 40 5G
+38630d17-8cfc-45f7-aa92-5e87b2b125cf,Android,Xiaomi,Xiaomi 5
+2d125a65-7632-4975-93cf-aab54b1dc613,Android,Xiaomi,Xiaomi 6 Pro
+85a7446d-250b-4bf3-9f5d-f31f00d7b4c6,IOS,iphone,iphone 5
+44affaf4-7b06-45ba-b9b0-b6a13d0ca543,Android,Xiaomi,Xiaomi 4
+35a294c7-c0a5-4b7e-b883-9d85ddd81c2c,Android,Xiaomi,Xiaomi 3
+00be65f9-7a30-4bab-9a0f-42089a28275c,Android,Huawei,Huawei Meta 30
+444902ce-63d4-437e-a198-887520ace307,Android,Xiaomi,Xiaomi 5
+ec696efc-942a-4594-81b1-35d807e8ac66,Android,Huawei,Huawei Meta 20
+d1806d73-d824-4240-bffe-3f53dbf7a768,WindowsPhone,Lumia,Lumia 2
+4f71136a-c10e-4569-ab9d-986bba73530a,Android,Huawei,Huawei Meta 30
+8e5cc395-72a7-4011-9a56-573e19c4f329,Android,Xiaomi,Xiaomi 5
+777ad220-0d53-4d8a-af4f-84e25e9a6708,Android,Xiaomi,Xiaomi 6 Pro
+8511c24b-8e0d-4df5-9994-c2b86bc2ca33,Android,Huawei,Huawei Meta 20
+be7da62b-bd57-4089-a691-222d9c837bd0,Android,Xiaomi,Xiaomi 4
+25fd6762-3c5e-42ca-a863-4c80b86651d9,Android,Xiaomi,Xiaomi 6 Pro
+74982e44-89d0-4503-b6b2-9587d093d8ab,Android,Huawei,Huawei Meta 30
+7a110f1c-6894-45c0-90ed-33a239f6fa78,Android,Xiaomi,Xiaomi 5
+a8d297be-8375-41c6-bb22-d3d9648e5837,Android,Huawei,Huawei Meta 30
+a938bd55-e736-4bb5-b269-949e163697b7,Android,Huawei,Huawei Meta 40
+3eeab249-42f0-469a-a164-9ac35e364ce2,IOS,iphone,iphone 9
+c86fe110-ead3-45b1-91a6-622e5853dbc9,Android,Xiaomi,Xiaomi 6 Pro
+8187a3b1-eed0-4c90-a2ec-7396d3ca6add,WindowsPhone,Lumia,Lumia 2
+0a96c8f4-ce2c-45d5-bc00-61157d867429,Android,Xiaomi,Xiaomi 6 Pro
+9af53e4c-e980-47d4-990b-bf9343e6077a,Android,Huawei,Huawei Meta 40
+f399a848-90db-4919-9aeb-db4d763d6899,Android,Xiaomi,Xiaomi 3
+0e5ffb13-c214-44ae-85df-e8082cf8ed1b,WindowsPhone,Lumia,Lumia 1+
+fff84190-30d3-4511-98d0-e7015a1f5c60,Android,荣耀,荣耀 10
+ce039484-b3fb-46d0-8717-9f1a09d8e18b,Android,Xiaomi,Xiaomi 6 Pro
+e4f4782b-fb69-42aa-a12f-a7a84c44f637,WindowsPhone,Lumia,Lumia 2
+c748ac26-50d8-41ba-be50-d9b44e2200a3,WindowsPhone,Lumia,Lumia 1+
+fc348dd0-119a-46a4-ad9c-1f60466e915e,Android,Huawei,Huawei Meta 20
+b88ee4fc-f156-497f-afdb-9417710ce342,Android,Huawei,Huawei Meta 20
+1b433b3f-a640-4957-b3f3-ae85061f080a,Android,Xiaomi,Xiaomi 6 Pro
+9f9f25f0-4ace-4b83-bce6-0e3c06dc7a38,WindowsPhone,Lumia,Lumia 2
+5a01a8f0-6f4b-46ac-9bea-14c81136cfd8,Android,Xiaomi,Xiaomi 5
+76f46f69-b290-403a-ad36-6492657041e4,Android,Xiaomi,Xiaomi 5
+ea5ad479-766d-471d-a053-f4b4e5b4b4a5,Android,Xiaomi,Xiaomi 5
+10964ad9-70c6-46da-9ac9-76b3f4d10d68,Android,Xiaomi,Xiaomi 5
+96c4089d-160e-45d5-8098-32b7ba01f55e,Android,Huawei,Huawei Meta 40 5G
+8a5e9751-5789-4b6b-ade6-9502b90f4638,Android,Xiaomi,Xiaomi 3
+5f375f88-316e-4d74-8c9e-bdd62d10d56c,Android,Xiaomi,Xiaomi 6 Pro
+4fa3a51d-db08-40c4-98bf-1113b0e29869,WindowsPhone,Lumia,Lumia 2
+426f4d8a-b96d-46ad-ab9a-bfa9e8b86c21,Android,Xiaomi,Xiaomi 3
+6f2041d0-85c8-4a12-bffa-9ed4857a10fa,Android,Xiaomi,Xiaomi 3
+52179ea0-0076-4664-9bf7-7d38ea6e3c9b,Android,Xiaomi,Xiaomi 6 Pro
+7dc581b4-8793-4e56-9c70-39d280be7d8a,Android,Xiaomi,Xiaomi 3
+e85edfb1-1e56-456f-b30d-037b095f943a,Android,Huawei,Huawei Meta 40
+e0b2a789-4927-4a89-9628-acc6c62405ce,Android,Huawei,Huawei Meta 30
+68529fd5-1d04-49e6-9318-155890d4ed87,WindowsPhone,Lumia,Lumia 2
+b535a2db-51e0-4d28-ac55-bc6c9ec24dc9,Android,Huawei,Huawei Meta 40 5G
+bdda6f1f-f0b7-4d0c-9c4f-52d3f69704df,Android,Xiaomi,Xiaomi 5
+3300fc76-d974-4146-bbce-7bc70749ad64,Android,Xiaomi,Xiaomi 3
+964f3288-76ec-4fda-a11a-93d2051cb3f6,Android,Xiaomi,Xiaomi 5
+697474fc-71a2-46c8-b024-73ebb0ba1842,Android,Huawei,Huawei Meta 40
+be24fa64-2fcd-4479-ae2a-d807e75251bb,Android,荣耀,荣耀 10
+f8f611dd-da38-403a-b363-cb5bc9a81b89,Android,Huawei,Huawei Meta 20
+8dcb3ffc-f4c3-48d1-89d7-38b6a626684c,WindowsPhone,Lumia,Lumia 1+
+4e78ff94-dc7c-4234-8079-4540bbfd26b1,WindowsPhone,Lumia,Lumia 2
+a82e05c3-5b90-43d2-9861-77c9e7e714ae,IOS,iphone,iphone 11
+089cca46-5003-49b0-ba84-e240f4d83d87,Android,Xiaomi,Xiaomi 3
+a39af489-70be-4d6e-8396-7688f3de5492,Android,Xiaomi,Xiaomi 4
+23d6a21a-51ad-40e4-b422-10bcd79f7130,Android,Huawei,Huawei Meta 40 5G
+9ff8cf6e-1562-4138-9814-5a7eaae5838e,Android,Huawei,Huawei Meta 20
+953e3b96-bb83-4017-ba59-b844044a96a6,Android,Huawei,Huawei Meta 40
+2de63fd4-72d9-46ee-b044-1f7270e05f7e,Android,Xiaomi,Xiaomi 6 Pro
+0494f8ed-354d-4f28-9eeb-3d6a1e95a623,Android,Xiaomi,Xiaomi 3
+dbe3a85b-38c7-4956-8152-8e553b079bc1,Android,Huawei,Huawei Meta 40
+66561b79-8ed0-47a3-9aff-dbbf030778d6,Android,Huawei,Huawei Meta 20
+3766d23e-934e-42bf-8fe4-afad9ee78e7f,Android,Xiaomi,Xiaomi 5
+08bf8f32-d3a9-4930-8da6-4e49480cbebc,Android,荣耀,荣耀 10
+11c1d3f8-b2e8-475d-8f93-693d410ac6a0,Android,Xiaomi,Xiaomi 4
+ed4b5b43-df46-419e-8a5f-5517e88a4f50,WindowsPhone,Lumia,Lumia 1+
+462d44b5-89e9-4873-8d09-347c5cc82f44,Android,Xiaomi,Xiaomi 4
+04a66c09-a30a-4918-bc91-76cb3a980ced,Android,Huawei,Huawei Meta 40 5G
+48796edb-2e86-4a8b-82b1-575265cdf992,WindowsPhone,Lumia,Lumia 1+
+4d8f14f9-7786-4ae3-bc4a-5c68b7154a8e,Android,Xiaomi,Xiaomi 5
+37fc518f-3264-4d4c-9cb2-3d4102029b6b,Android,Huawei,Huawei Meta 30
+bbe89a1d-14bc-450d-8236-8f90799e76ba,Android,Xiaomi,Xiaomi 5
+9d6ab2a4-825b-4b17-b213-4088f103bc64,Android,荣耀,荣耀 10
+cad887a2-5cdc-4ec3-95fd-f50352e491d4,Android,荣耀,荣耀 10
+ece4674b-ae7d-4bbd-9756-ddde67b74bb0,WindowsPhone,Lumia,Lumia 1+
+eaf87e19-267f-44ac-a778-6ef6ebe63636,Android,Xiaomi,Xiaomi 5
+d7a80d32-4446-4f31-a385-660bb7cc6b58,Android,Huawei,Huawei Meta 20
+43d67b80-d8f4-42c4-ae48-576ed4ba0692,WindowsPhone,Lumia,Lumia 2
+fb464aa6-20d8-42a1-b4b6-e8249f53bc41,Android,Xiaomi,Xiaomi 6 Pro
+3ec3cb4a-f0bf-4151-a22d-2245ed5a5719,WindowsPhone,Lumia,Lumia 1+
+5881a590-0942-4ea3-a92b-ff1035d41373,Android,Huawei,Huawei Meta 40 5G
+be18eef9-fb9a-4d30-843d-6d589b091df6,Android,Huawei,Huawei Meta 30
+23878c70-010d-4285-8d6f-a0bab2bb16b3,Android,Xiaomi,Xiaomi 6 Pro
+0c778280-a24a-44b4-acd9-d923725b0b44,Android,Xiaomi,Xiaomi 4
+3b6f379b-91c5-413c-87a0-99b3eab76aa0,Android,Huawei,Huawei Meta 40
+6f1749bc-4814-4266-94df-08bd212af1e5,Android,Huawei,Huawei Meta 20
+beb30068-3a83-434a-a777-5826649463dd,Android,Xiaomi,Xiaomi 6 Pro
+6a83a3f4-affe-464a-bc4b-e42d43928382,Android,Huawei,Huawei Meta 30
+c0f9b442-b1ee-4150-a00b-6e107c7196c6,Android,荣耀,荣耀 10
+09701b17-b12d-4d43-a262-77c9193fa8d3,Android,Huawei,Huawei Meta 40
+d8f66b2e-2ba6-4300-9cb9-c8cd7e01f5b4,Android,Xiaomi,Xiaomi 3
+97072864-b35a-4cba-bd69-3701e3bd7b26,WindowsPhone,Lumia,Lumia 1+
+7cfc9058-35d7-4de5-a1d1-ce3983a37747,Android,Xiaomi,Xiaomi 6 Pro
+01a4b859-33cb-42f6-941f-f475d9a38635,IOS,iphone,iphone x
+b65edb52-eef2-4bf8-a1e8-3b3ec9f7e5ff,Android,Xiaomi,Xiaomi 3
+fc1799d9-bf68-4499-9160-811c04973871,Android,Xiaomi,Xiaomi 5
+44667e29-f185-48b6-b660-90a463bf90fe,Android,Huawei,Huawei Meta 40
+4474c96d-0c8e-474e-8650-869a4e5ea283,Android,荣耀,荣耀 10
+199b57f9-c5df-4d17-ae6a-8fe204dc7b70,WindowsPhone,Lumia,Lumia 2
+7e31445b-b2b5-43b4-8643-a4bdb46474ca,Android,Xiaomi,Xiaomi 4
+492309d2-ccec-4296-a684-2383b9b258ab,WindowsPhone,Lumia,Lumia 2
+ba1e0d4c-a0cf-4b02-878e-7ed06d81992f,Android,Xiaomi,Xiaomi 5
+fd1770b6-ee9c-4d13-8256-50e84b09f8e5,WindowsPhone,Lumia,Lumia 2
+303129a2-558d-4c21-984e-a29e92636342,Android,Xiaomi,Xiaomi 5
+d42957bd-d0be-4a2a-a8d9-35dae2abb46d,Android,Huawei,Huawei Meta 40 5G
+375861e2-a235-4e1c-96db-7f2d5938a1ff,Android,Huawei,Huawei Meta 30
+d31d4860-5e84-4aa0-b7c4-d4d49239c26f,Android,Xiaomi,Xiaomi 4
+3a8edfb1-ec89-49c2-88a8-6322031393df,Android,Xiaomi,Xiaomi 6 Pro
+2e3f92f8-1d9f-425f-a13f-de95406d433e,Android,Huawei,Huawei Meta 30
+fd087ae3-d1c2-437e-a46c-87d465f3ad91,Android,Xiaomi,Xiaomi 6 Pro
+e906ee92-e591-4f25-b6d0-20913cea430d,Android,Xiaomi,Xiaomi 6 Pro
+b9f81a4e-893c-4385-bc5e-c15e2c648028,Android,Xiaomi,Xiaomi 5
+338d7035-4ed8-43c5-a005-962de8bdce76,Android,Xiaomi,Xiaomi 3
+ea70803a-9221-4d60-aaa7-668eba53a4ba,Android,Huawei,Huawei Meta 40 5G
+55c6a378-1602-4ad8-a715-69fea3f4d581,Android,Xiaomi,Xiaomi 3
+e654520d-8141-4463-a863-33a255bdc4ea,Android,Xiaomi,Xiaomi 4
+7a6af3c3-30f5-4395-8a7f-9b2e53085879,Android,Xiaomi,Xiaomi 3
+9d1b419c-e311-432e-bc1b-2337c74122f1,Android,Xiaomi,Xiaomi 4
+f6a004bc-beed-4e79-82d7-d0705e462ecd,Android,荣耀,荣耀 10
+f066a59b-f2af-434c-a29e-260f5c92d310,Android,Huawei,Huawei Meta 40
+8a7aff65-063f-443e-baf4-26c914be3588,Android,Huawei,Huawei Meta 40
+3e2fccdf-822c-4c40-9251-3d5a037a10af,Android,Xiaomi,Xiaomi 6 Pro
+640920c8-4dea-44a4-b4a6-1be552300d98,Android,Huawei,Huawei Meta 30
+71e11709-733c-4947-9587-994ea2487d83,Android,Xiaomi,Xiaomi 6 Pro
+1f03ae10-1a81-4387-a65e-0b9399dc0268,WindowsPhone,Lumia,Lumia 1+
+58547c01-f751-4d09-b037-c9882cb39637,Android,Huawei,Huawei Meta 40
+0632e1e1-781c-4473-8d7f-174316bdd2e0,Android,Huawei,Huawei Meta 30
+000c03c2-a6c1-4953-92c8-1676f7336960,Android,荣耀,荣耀 10
+f200ab12-7607-43ac-9a69-810a8739676c,Android,Huawei,Huawei Meta 30
+03fbcf27-7295-4c82-b9cd-272c52771657,IOS,iphone,iphone 9
+9e551e8a-826a-4a7d-b9ef-f48f18a15df3,IOS,iphone,iphone 5
+7fbf08c3-a3ea-4d5f-8136-dd5c05600176,Android,Xiaomi,Xiaomi 4
+e52599a3-e147-4f31-90ea-470612baaf75,WindowsPhone,Lumia,Lumia 1+
+2f8dfdac-714a-4bce-9971-99b7b0c3d108,Android,Xiaomi,Xiaomi 3
+459d9e9d-7e18-45fc-83b1-0c31dece18ee,Android,Xiaomi,Xiaomi 5
+8107be56-4fc8-4d9b-ba82-3ee4905c9b52,Android,Xiaomi,Xiaomi 6 Pro
+99a657c8-0c2c-486a-a111-93baec9d73de,Android,Xiaomi,Xiaomi 3
+d682eeca-0ec7-4310-9059-9bb4718a982c,Android,Xiaomi,Xiaomi 4
+1d84fd24-62bd-4d25-8c71-487b91f27d1d,Android,Xiaomi,Xiaomi 5
+182d887b-768c-4c14-ab5f-218196bbb6b6,Android,Huawei,Huawei Meta 40
+50887acb-793c-4b0b-b31f-a9397e0e89dd,WindowsPhone,Lumia,Lumia 1+
+0543f89c-4f9b-4a4f-b202-59a8760ae391,WindowsPhone,Lumia,Lumia 1+
+b069b325-eb00-4c69-8f8d-e410a15eeaf8,WindowsPhone,Lumia,Lumia 2
+92694b9a-be0c-461e-aea5-38d24809e92e,WindowsPhone,Lumia,Lumia 1+
+feb58f3b-0014-4bdb-a11c-5c97434ab6ac,WindowsPhone,Lumia,Lumia 1+
+7aa3407c-957e-4e04-9a11-49110c3a65a1,Android,Xiaomi,Xiaomi 3
+149e6b89-d8e9-484c-9a86-f96b4c38734f,Android,Xiaomi,Xiaomi 5
+4007aa31-f0c0-4154-a45c-234197e3ab7b,Android,荣耀,荣耀 10
+2ea48fc9-f3c2-4077-977b-ac2c86fd260d,Android,Huawei,Huawei Meta 20
+96b86e10-69ed-4712-9fde-a80ce2f24a95,WindowsPhone,Lumia,Lumia 2
+30f017a3-256e-45cf-879c-73cadb65b9c3,Android,Huawei,Huawei Meta 30
+7d0b6af8-51ad-4ce8-b5b5-7af06203ddf4,Android,Xiaomi,Xiaomi 5
+3bb88f5f-d2c9-4908-a34d-5d5393f7ef1a,Android,Huawei,Huawei Meta 30
+3337131a-fa67-4971-a232-8f2c4688fe10,Android,Xiaomi,Xiaomi 6 Pro
+5d4427c3-79cf-4377-b770-bce93f7dd617,Android,Xiaomi,Xiaomi 5
+0a59eb23-27d2-49f6-b89c-298552704e83,Android,Xiaomi,Xiaomi 4
+52ac2079-710b-438b-a060-a2491ede7d86,Android,Huawei,Huawei Meta 40
+7c7d55a4-58bf-4019-8c1f-80171a0d52b0,Android,Xiaomi,Xiaomi 6 Pro
+d4f0ee92-24ee-49e7-8184-ea90b1a4e8d4,Android,Xiaomi,Xiaomi 4
+a434c2c9-5af5-45b9-9578-f7abed23da15,Android,Xiaomi,Xiaomi 5
+9897813e-e7ca-4b8b-bb8a-c1a5bb42da0d,Android,荣耀,荣耀 10
+47da4618-0873-4e23-a232-3f2d17527f6c,WindowsPhone,Lumia,Lumia 2
+e591ce29-e2f0-4b85-919f-13915ba569b1,Android,Huawei,Huawei Meta 30
+58fce772-2b5c-4e66-ab1d-1bd417f1843e,Android,荣耀,荣耀 10
+e21fbc36-d581-47d3-b9cd-f8e38fe10924,Android,Huawei,Huawei Meta 40 5G
+3b9c5096-d34d-4784-9f04-231f113563ea,Android,荣耀,荣耀 10
+5c2131f1-145e-46a2-9fb7-47eedc41bb55,WindowsPhone,Lumia,Lumia 2
+01e2ba2e-3a0b-4408-878e-55ea1d197f20,Android,Huawei,Huawei Meta 20
+8af42100-e7fc-4082-8f94-5a41d17732ca,IOS,iphone,iphone 7
+889eec6b-2a07-48e4-b48c-12548ffd163c,Android,Huawei,Huawei Meta 40
+1bee477c-b71e-46be-9fbd-50d74aeaa4d1,Android,Huawei,Huawei Meta 20
+514ae4aa-817a-4c12-9ded-b112a5fd2b6b,Android,Huawei,Huawei Meta 40
+a2921f05-d4f7-4164-a1af-9ac26c78431f,Android,Xiaomi,Xiaomi 4
+9e5aade0-32c4-4232-995a-43847404c866,Android,Huawei,Huawei Meta 20
+0b822198-c690-40c5-b52f-55ff12471b22,WindowsPhone,Lumia,Lumia 2
+a88fe513-aa7b-4f4b-b8ad-10b17c7b2306,Android,荣耀,荣耀 10
+34ec593f-84d4-4484-894f-f64f8ac0e2c4,Android,荣耀,荣耀 10
+063fc603-393f-4c4e-bae9-dc77545a0104,Android,Xiaomi,Xiaomi 4
+cc09b6fb-ad88-4bc9-a155-3ff31987ed39,Android,Xiaomi,Xiaomi 5
+9b347ffe-befe-45e0-ae4b-0afd8fa07ff3,Android,Huawei,Huawei Meta 40
+c082ac5d-96f3-48f1-b9ff-8c2404c7f64e,Android,荣耀,荣耀 10
+2fcd3e29-2863-45d0-9a48-baa84d7d7861,WindowsPhone,Lumia,Lumia 2
+469eb137-49fd-41b8-b8b8-87824bc86a48,WindowsPhone,Lumia,Lumia 1+
+46b79e24-15b5-414c-80e2-9308d22162da,WindowsPhone,Lumia,Lumia 2
+34bec78c-4fad-4682-aae0-667b3586b729,WindowsPhone,Lumia,Lumia 1+
+5ff58fe1-026c-40b9-b955-f588b5c97759,Android,荣耀,荣耀 10
+97fa2469-9f78-4d6b-8cf8-a008e66dc44f,Android,Xiaomi,Xiaomi 4
+3f098521-151a-414c-8253-2a13d1ce398d,Android,荣耀,荣耀 10
+cb842a98-bd64-4f63-bfb0-8722fa106165,Android,Xiaomi,Xiaomi 3
+ba18da3e-3f7d-49fb-9f41-d5232dd2115a,Android,Huawei,Huawei Meta 40 5G
+18e7c38f-3284-4480-824b-71dd1edbee02,Android,Xiaomi,Xiaomi 3
+eaa882d2-c9e0-4802-9dd0-f17b112a9638,Android,Huawei,Huawei Meta 30
+ddbbde97-b54a-40c8-89bc-e8952b58048e,WindowsPhone,Lumia,Lumia 2
+3715cac2-81ab-48ab-aac8-92417d6a07ab,Android,Huawei,Huawei Meta 40
+c911d02f-215f-47b6-8aa9-81802749e2aa,WindowsPhone,Lumia,Lumia 2
+48f1967e-7717-47fe-9aa0-53850df804c2,Android,Huawei,Huawei Meta 40
+7147ddcb-09d3-46ab-8e73-125b5f1abcf8,WindowsPhone,Lumia,Lumia 2
+5b1fdd94-39b1-4241-ac54-87d31236b4c8,Android,荣耀,荣耀 10
+75547f16-72cb-4251-b942-1d21b6c66b4c,Android,Huawei,Huawei Meta 30
+0379e9b2-b285-4aaa-a472-68434bd02a1b,Android,Xiaomi,Xiaomi 3
+50423da2-191e-4a78-8ef6-7dffa6c49c89,Android,Xiaomi,Xiaomi 5
+873dfbda-77fa-472a-a507-3f5213bf02fb,IOS,iphone,iphone 6
+fbb72cfb-383b-41fe-add6-7fa5837dabbf,Android,Xiaomi,Xiaomi 4
+c135b088-1f22-4c7b-987c-5c33bd51260d,Android,Huawei,Huawei Meta 20
+c19d0cff-468c-4475-99c7-b59e447c6928,Android,Huawei,Huawei Meta 20
+fc6047ab-1d19-467e-9d45-cf15e8d67248,Android,Xiaomi,Xiaomi 4
+e7d53916-62e1-4e16-8af0-3a32fc880ddd,Android,Xiaomi,Xiaomi 4
+ea31fc75-a49c-4b13-a9af-928982c18529,WindowsPhone,Lumia,Lumia 1+
+328190e5-59bf-4195-b556-0afd2c6f6266,Android,Huawei,Huawei Meta 30
+e4c55de8-d6fb-45f6-b91c-ca2c4fe04aac,IOS,iphone,iphone 7
+eacadecc-255b-4cf7-9c3d-d05a9150468c,Android,Xiaomi,Xiaomi 6 Pro
+b040a301-0f05-45fd-9f7f-b5cf876c3686,WindowsPhone,Lumia,Lumia 1+
+57a9a9b6-6fd9-4a58-bcb8-66d40dcc3486,Android,Xiaomi,Xiaomi 4
+294ecaa7-a846-42d1-ad07-a645ed4c0987,Android,荣耀,荣耀 10
+8697717f-fc0f-498e-9ac1-a15bd5dc4a9a,IOS,iphone,iphone 5
+e2d02c81-45c2-43da-b6f7-f2e7217953bb,Android,Xiaomi,Xiaomi 4
+928253af-272e-4c9f-8e73-39ddbfed0b82,Android,Huawei,Huawei Meta 30
+10b7f01e-c9dc-4141-b0b1-8bfe2f5b7ff3,IOS,iphone,iphone x
+751a2222-12bd-4d84-b9ea-3db341d59254,Android,Huawei,Huawei Meta 40 5G
+acd67b7f-8fd2-447c-8642-da6b32a7b004,Android,Huawei,Huawei Meta 30
+3e35b1ca-1385-4853-82e3-86bd86fe7951,Android,Xiaomi,Xiaomi 6 Pro
+4fd57258-6253-445f-8c6c-defcc7d0b18d,IOS,iphone,iphone 11
+bebcb6e2-4f3f-4444-b0bc-bdeaba4f1cdf,Android,荣耀,荣耀 10
+150f6acf-dff8-4123-931f-9d45c857fc02,Android,Huawei,Huawei Meta 40
+7b2ccaa8-9525-4e13-b2f2-a5b6bde32011,Android,Xiaomi,Xiaomi 4
+b5417f8b-06ed-4a0e-a515-3f33db4c8b2a,Android,荣耀,荣耀 10
+26c22d6e-62bd-4a98-b008-abbe4738d121,Android,Xiaomi,Xiaomi 3
+9b201283-0243-43a2-a2b9-04db3e0a13ec,Android,Xiaomi,Xiaomi 3
+9a11437b-3ace-41b7-9393-d8df0fa97c9a,WindowsPhone,Lumia,Lumia 1+
+db8f886b-0c12-4ba4-a542-7d746caa72fe,Android,Huawei,Huawei Meta 20
+7fc7daa4-642a-4a7a-9504-63975a8b88b1,WindowsPhone,Lumia,Lumia 2
+b9562ffd-0542-45d5-b298-ff5b1931604d,Android,Xiaomi,Xiaomi 6 Pro
+d1a87916-6654-4876-a489-73ebdc231590,Android,Xiaomi,Xiaomi 3
+76bda512-9c6e-4c67-9872-4beda634b9d7,WindowsPhone,Lumia,Lumia 2
+4dd496a5-79e7-483f-b8b3-1edb29732d50,Android,Huawei,Huawei Meta 20
+8ccf2810-8849-4751-921b-175c60638db2,IOS,iphone,iphone 8
+692a1523-2c67-4171-864e-a6a67e639ab7,Android,Huawei,Huawei Meta 40
+80d9680b-4ce4-4f7a-afb9-a0d18e421387,WindowsPhone,Lumia,Lumia 1+
+a398cb1b-7844-4e32-ac4b-4255db81beea,WindowsPhone,Lumia,Lumia 1+
+aeedb74e-4074-4ca7-80d5-ee33f89a14f5,Android,Huawei,Huawei Meta 40
+4d12f921-3b89-4d50-87d6-95038e1dcb9f,Android,Xiaomi,Xiaomi 5
+e023485c-3d52-4ae2-9a90-098f0de3b268,Android,Huawei,Huawei Meta 20
+b786788c-473c-4234-b20c-0cc755f78c42,Android,Huawei,Huawei Meta 20
+4d845862-fe61-4387-a633-e2a8d73a84d6,Android,Huawei,Huawei Meta 40
+8c6d5d0b-5fc4-4fec-a2ed-67850300bcc4,Android,荣耀,荣耀 10
+4be273df-0783-4224-950a-3ffad0355b35,WindowsPhone,Lumia,Lumia 2
+a92cb426-fe3b-4168-b706-58afb937778f,WindowsPhone,Lumia,Lumia 2
+db39e9e5-aaed-4247-a798-aeac88ad14c1,WindowsPhone,Lumia,Lumia 2
+243f840f-f1ed-4514-9671-9b21cb2dd42a,Android,Huawei,Huawei Meta 20
+ec3f7e7a-a44a-40cb-a7b5-d927ec18da6b,IOS,iphone,iphone 4s
+be97eacb-63b4-4197-87ad-5a511ba76a02,Android,Huawei,Huawei Meta 30
+5bd200b2-eafc-427d-bc71-c99b2c7e6f5c,WindowsPhone,Lumia,Lumia 2
+86bbbd38-d1d4-424b-aeaa-dc962c70b2ef,WindowsPhone,Lumia,Lumia 1+
+b1e6e93d-b91b-4b38-b065-7c88437ab9a1,Android,Huawei,Huawei Meta 40 5G
+3f7055f6-6c33-4f4c-baf6-4b6b53d4796a,Android,Huawei,Huawei Meta 40
+acb27c2d-c813-47aa-b3a1-806bce092dc1,Android,Huawei,Huawei Meta 20
+a67499ef-de81-486e-8a81-1a3552e5e9a5,Android,荣耀,荣耀 10
+a353c5ab-2016-4a2d-8e0e-9bea049e25da,WindowsPhone,Lumia,Lumia 1+
+2a4b4f34-36ef-4eed-9692-56bc0c4f7381,WindowsPhone,Lumia,Lumia 2
+97057c43-0ce8-4771-97f7-15740f9b4dc2,Android,Xiaomi,Xiaomi 3
+42544c1e-c16e-4d38-87bf-21b5857c6581,Android,Huawei,Huawei Meta 40 5G
+f6896d68-a7c4-4826-a006-1b56066b863a,Android,Xiaomi,Xiaomi 6 Pro
+4af7bdd8-d12e-4e8b-b44a-af829fc86d85,Android,Huawei,Huawei Meta 20
+6b11ab44-ed2d-4d38-a676-8248a65d1bf5,Android,Huawei,Huawei Meta 40
+9f092655-20c7-459d-9fec-adb946173e3d,Android,荣耀,荣耀 10
+c3c5a9ec-eb41-48b0-b467-733bb397f1de,Android,Xiaomi,Xiaomi 5
+9b8c7a51-1f48-4635-bfa6-acc5f891e1fa,Android,Huawei,Huawei Meta 40
+21bf2c90-872e-4678-9f29-d4edac483285,Android,Xiaomi,Xiaomi 5
+292db4c6-a129-4441-93a9-26a93bd08c04,WindowsPhone,Lumia,Lumia 2
+a6ac69e9-8162-4914-ae97-c4e6ad0308a5,WindowsPhone,Lumia,Lumia 1+
+128b51de-e849-47ce-aaca-b4144a987841,Android,荣耀,荣耀 10
+01ef385e-e7b1-4c0e-814a-d1663d27e71a,WindowsPhone,Lumia,Lumia 2
+31f050d2-dd78-40a4-98f7-40450d66791e,Android,Huawei,Huawei Meta 40 5G
+99e5a95b-2552-41bb-8ab3-7feb87cd2cb6,WindowsPhone,Lumia,Lumia 2
+ba6afed6-455e-41f3-a0c7-9150044a0f26,Android,Huawei,Huawei Meta 40
+657d23cf-7d74-4703-82f2-12091231fc5d,Android,Huawei,Huawei Meta 30
+271ffdc2-51cd-4dda-a3da-c6590c854c32,Android,Xiaomi,Xiaomi 6 Pro
+61fd0a4b-fd4d-40c7-a642-1bf112d478fe,WindowsPhone,Lumia,Lumia 2
+f8ef32b5-917a-4f60-9a6a-9184cffb3afa,Android,Xiaomi,Xiaomi 4
+91b4bcae-1f2e-44ff-aea9-7cd69b596254,Android,Xiaomi,Xiaomi 5
+73d14b77-76cc-4ee6-be3f-5687fb014c5e,Android,Huawei,Huawei Meta 30
+5c4f8ac8-074f-4986-bcf5-7973650d5248,Android,Xiaomi,Xiaomi 3
+2f28c5b4-a817-4854-87f6-8e2f90a99da5,Android,Huawei,Huawei Meta 40 5G
+7067a9b6-d3c9-4aca-96c7-cd0e15cd3dd0,Android,Xiaomi,Xiaomi 4
+6438780a-fef7-4769-bea4-0d9615a04ed0,WindowsPhone,Lumia,Lumia 1+
+2b122818-218f-4550-ae38-390eb1a0fa23,Android,Huawei,Huawei Meta 40
+f757c13e-28df-4cf7-bea8-0b1bed61419d,IOS,iphone,iphone 4s
+9f8aa1bc-6ffc-432f-91b6-e2b0087729c6,Android,Huawei,Huawei Meta 30
+7be9fcab-c717-4483-9617-549887c5f185,Android,Xiaomi,Xiaomi 4
+315d71d0-addd-49a6-87c1-966471444c78,Android,Xiaomi,Xiaomi 6 Pro
+20fa5f18-145b-4145-bd37-1a2afe4c2aaa,Android,Xiaomi,Xiaomi 5
+bd63f599-f887-43c6-8f7d-56dccc749116,Android,荣耀,荣耀 10
+2210487b-762b-4861-9ff9-fdd7ec3533ee,Android,Huawei,Huawei Meta 40
+fcc8ba6b-3426-4da3-8f2e-758268f3864d,Android,Xiaomi,Xiaomi 6 Pro
+a3082476-cff5-488a-9cdf-13f53fbe3bb4,Android,Huawei,Huawei Meta 30
+cd14164c-7f29-40f0-9b6a-a649e1b63894,IOS,iphone,iphone 4s
+08ba81ac-ebb1-48f4-89db-654b46bf82eb,WindowsPhone,Lumia,Lumia 1+
+f4d4e892-fb29-4d39-97d9-0bb075bba67b,Android,Xiaomi,Xiaomi 5
+d37f84c6-4373-43c4-9e88-6ea03f8bb438,Android,Huawei,Huawei Meta 40 5G
+0056a819-b12c-44d2-a610-b766ed4d6fbf,IOS,iphone,iphone 7
+78614ab0-e8a1-444f-a6ee-ccd4ee0caeb9,Android,Xiaomi,Xiaomi 4
+9ee92a6c-c364-43da-8499-ee21a7bbbaab,Android,Huawei,Huawei Meta 30
+f15dc1b5-3d11-40e0-acd0-5b306b81e6a0,Android,荣耀,荣耀 10
+e5596920-e18a-4ffb-a1c6-f6f323c2f3ca,Android,Xiaomi,Xiaomi 5
+0eef9086-ce74-41c8-aa79-8a8a78754837,Android,Xiaomi,Xiaomi 4
+baca37f7-115a-4761-98c4-17d908bb6910,Android,Xiaomi,Xiaomi 6 Pro
+8051097e-1934-4f9a-8cf1-a508423ed537,Android,Xiaomi,Xiaomi 4
+56e4edac-1fce-4074-b80a-44e67b203518,Android,Huawei,Huawei Meta 30
+09b9e839-314a-4ba2-8475-f7f16fcac565,WindowsPhone,Lumia,Lumia 2
+986fd70c-770e-42f5-b042-250104a8fd91,Android,Xiaomi,Xiaomi 6 Pro
+08d384ec-9441-4cd5-a305-2c838b24130a,Android,Xiaomi,Xiaomi 4
+49abf9fd-572b-4123-b717-6422265aed8a,Android,Huawei,Huawei Meta 20
+13523915-feee-459b-a16a-6e237c62cda3,Android,Huawei,Huawei Meta 20
+464d5cd4-669a-4ab5-aa49-be6f65afe54e,WindowsPhone,Lumia,Lumia 2
+46bc826d-8e29-4b6d-8204-f6bb2a58c0d5,Android,Huawei,Huawei Meta 30
+1a9671da-4efd-4e63-b079-db77c91ea627,Android,Huawei,Huawei Meta 20
+daa209dd-f213-4df6-8b69-e5098c81d697,Android,Huawei,Huawei Meta 20
+0f5b7db7-f381-4826-b1d1-c67366b3c5f3,Android,Xiaomi,Xiaomi 4
+13bb57f0-8103-4e39-9a3b-1b44fb3266e8,WindowsPhone,Lumia,Lumia 1+
+09b4dd7c-0e2b-422f-bf7e-9d0a16a13070,WindowsPhone,Lumia,Lumia 1+
+69ef7132-5f44-44ba-8156-c4ffe5284632,Android,Xiaomi,Xiaomi 3
+6d1d3e30-c6c2-4d31-a403-0cba7ca3ec79,Android,Xiaomi,Xiaomi 3
+b3a0c40c-c07a-4571-b623-0369b09f0068,Android,荣耀,荣耀 10
+ded1d320-8620-420b-9963-f1698373c09f,WindowsPhone,Lumia,Lumia 1+
+60391696-b72b-4475-9c24-d4ce0f5ca78b,WindowsPhone,Lumia,Lumia 2
+620980c5-c8c1-4bdf-814f-4588b947618e,Android,Huawei,Huawei Meta 20
+b6dace20-feb7-4a56-8168-2ae35b42e48d,Android,荣耀,荣耀 10
+2c1b0657-7780-4b17-863a-e08b6229cac2,Android,Huawei,Huawei Meta 30
+1ba71a80-c640-4962-b6a2-b55035d92a9b,Android,Huawei,Huawei Meta 40 5G
+08ba1ebc-238d-4246-85fc-41e9485ba678,WindowsPhone,Lumia,Lumia 2
+ec4461b2-c1fd-4229-90f4-10cf03d64508,Android,Xiaomi,Xiaomi 3
+39b396d3-be1c-4b9e-81e9-8628c6728b11,Android,Huawei,Huawei Meta 40
+27f45efd-c77c-42a8-b475-c26fef37f5d5,Android,Xiaomi,Xiaomi 6 Pro
+08af82e6-f19f-4383-b3c4-3bb9820080a2,WindowsPhone,Lumia,Lumia 1+
+6671538f-b388-4ce5-bbc5-f19da13cb54f,Android,Xiaomi,Xiaomi 4
+296fca66-9db0-49b1-8f4d-00f1f9d08395,Android,Xiaomi,Xiaomi 5
+4c50e01d-8b9c-4c38-a9b5-ba39a4ff88b9,WindowsPhone,Lumia,Lumia 2
+7348f395-6f32-4503-af33-52d672a32926,Android,Xiaomi,Xiaomi 3
+1503c74e-a93b-4938-8db0-84c32e28e416,Android,Huawei,Huawei Meta 30
+1259fa80-c13c-4515-84fb-1c7774fd676e,Android,荣耀,荣耀 10
+25b324d4-61ca-4332-97c9-894abbe6147d,WindowsPhone,Lumia,Lumia 2
+1af59f55-36f5-4cbe-a65f-d4d9fde4fb4b,WindowsPhone,Lumia,Lumia 1+
+dd537e4a-104e-4870-adee-600b4ff079c0,Android,Huawei,Huawei Meta 40
+b6d70dfd-6f79-46aa-b36b-ee0752bdd9f2,Android,Huawei,Huawei Meta 20
+43194241-6d47-4c52-a5d5-883e5b4939bc,Android,Xiaomi,Xiaomi 5
+d3c0ccc8-7eae-40c0-8495-425786db4531,Android,Huawei,Huawei Meta 40
+9917d1e3-3d1b-4960-9351-760f3c4c9532,IOS,iphone,iphone 4s
+4ed7bf46-0d71-4573-adea-00218deb7d30,Android,Xiaomi,Xiaomi 4
+9dd7bbaa-3d44-45d9-98f1-ed156eca485b,Android,Huawei,Huawei Meta 40
+9f3e1344-b1eb-4322-9e46-a77e520f92e4,Android,Xiaomi,Xiaomi 4
+13ecc541-44ed-40f8-b97d-c9cf422e92f6,Android,Huawei,Huawei Meta 40
+ab4ddf7c-4f65-4131-9795-9463bbc18f4d,WindowsPhone,Lumia,Lumia 2
+128edc6c-a34d-4a18-8d56-eeb102aa5226,Android,Xiaomi,Xiaomi 6 Pro
+eace7e03-cec8-48ba-92f2-2ef159484b41,Android,荣耀,荣耀 10
+16acf4c8-d69c-438f-8433-1ba9bb7d146b,WindowsPhone,Lumia,Lumia 1+
+43f0acc1-8329-4614-b054-43af24dc2754,Android,Xiaomi,Xiaomi 4
+8284b2c8-1e59-4239-8afe-10351920b6e4,Android,荣耀,荣耀 10
+cd240afc-e3b6-4b7f-88c0-e977dbabd7ad,Android,Huawei,Huawei Meta 30
+50c3f8a6-ac51-4c91-914e-fffd4cf7a9fa,Android,荣耀,荣耀 10
+72bd6b89-e108-438a-b720-ad23f6410868,IOS,iphone,iphone 6
+4ba8b835-876a-4741-b5cf-ee97b4b0d6ad,Android,Huawei,Huawei Meta 30
+e86528f9-798c-48cb-a1ea-852a2a327208,Android,Xiaomi,Xiaomi 3
+8ee3ef62-aae6-4253-a996-44833c65c628,Android,Huawei,Huawei Meta 30
+50df4244-6c1b-4dcc-9e80-8e9d847419c6,Android,Huawei,Huawei Meta 20
+8dd3cc46-b67a-4e5a-8ecb-663278808bea,Android,Huawei,Huawei Meta 40 5G
+a673bcfb-0232-4e58-8fbe-83c8f5095efa,Android,Xiaomi,Xiaomi 3
+8deb2fc7-d6ce-4b3b-b78d-b3ab8e754d0a,Android,荣耀,荣耀 10
+c104de94-7076-4cce-80b5-adf69e3de59c,Android,Xiaomi,Xiaomi 3
+7145a728-c199-4c40-9798-f92abda5e15c,IOS,iphone,iphone 12
+8233ba8c-a6e2-4fe5-906f-a91be1de6cc9,WindowsPhone,Lumia,Lumia 1+
+275eea16-4668-47ea-aaed-9635e42aeafe,Android,Xiaomi,Xiaomi 6 Pro
+1f552351-23da-4e4a-b866-d2b985a2a4ac,WindowsPhone,Lumia,Lumia 2
+8f52db72-c2ca-49c4-a37f-f6733f16f0ce,Android,Xiaomi,Xiaomi 3
+5d8f3004-f4d0-4d95-9203-1a959e7cc65d,Android,Huawei,Huawei Meta 40
+2e0b828d-a55a-4070-b733-12fe8f15b704,WindowsPhone,Lumia,Lumia 1+
+91ff4d4f-5b4f-445e-b9c0-8ea20c339b1f,Android,荣耀,荣耀 10
+09057ae5-3a89-43e2-b2cd-e6205955be52,Android,Huawei,Huawei Meta 40 5G
+971b5c5b-c14a-45cd-90f3-65b296eaddad,Android,荣耀,荣耀 10
+f0dc5a7c-9c99-422e-b55e-0fa2e39bdf19,Android,荣耀,荣耀 10
+2a662550-44a2-43c3-b7c2-6b0c2af2cab8,Android,荣耀,荣耀 10
+14ec54ef-e914-4cf4-9ec0-076980f55921,Android,Xiaomi,Xiaomi 3
+9431a4a4-c62a-4e06-8ca2-78f15657bb80,Android,荣耀,荣耀 10
+62e7e7ad-efcf-4b59-8853-1e030d5e280c,WindowsPhone,Lumia,Lumia 2
+7fded7b1-7181-49b8-836e-716cdfafac4c,Android,荣耀,荣耀 10
+e0c8d682-7711-443b-83f7-ca8b52283f6b,Android,Huawei,Huawei Meta 40 5G
+09a87f44-ca39-458b-bcbb-e88f2315aa19,Android,Huawei,Huawei Meta 40
+66b78a81-f463-4bc2-af71-79dcc4307885,Android,Xiaomi,Xiaomi 5
+0886b18b-97e7-4dee-aab1-1ebdddb0ff58,Android,Huawei,Huawei Meta 40
+65d4576c-31be-43ee-94cc-817a60dd5c92,WindowsPhone,Lumia,Lumia 2
+103304e2-ee1e-4626-a677-307a43b86f50,IOS,iphone,iphone 12
+28e0b9e4-08ad-4d42-8721-24942e68e4e3,WindowsPhone,Lumia,Lumia 2
+744164b3-e9a2-4fb4-91e4-2facc9b73541,Android,荣耀,荣耀 10
+7dc21a07-1117-4ef8-9e64-f12f1401db4c,WindowsPhone,Lumia,Lumia 1+
+418bf9c8-5c6b-4c27-ae38-41bd27bd3a43,Android,Xiaomi,Xiaomi 3
+9ba16292-0ff8-4854-87d8-a911c1e6cad7,Android,Xiaomi,Xiaomi 6 Pro
+48c1d598-37ed-44b6-b7ec-cfa5a8e0e8aa,Android,Xiaomi,Xiaomi 4
+bd7d5121-5dc2-4414-a90d-c4fcc5389056,Android,Huawei,Huawei Meta 40
+078a936e-8429-4a66-8810-29edd5e55551,WindowsPhone,Lumia,Lumia 1+
+93ac36fe-18bb-454c-8863-467c69dbc04b,IOS,iphone,iphone 11
+1ae1deed-d4f9-481f-8042-54a6178958c5,Android,荣耀,荣耀 10
+9bbc4b61-f515-4846-a562-da3107059a48,Android,Huawei,Huawei Meta 20
+3c0f6955-fd3a-43c1-9bde-d5ad9698a830,WindowsPhone,Lumia,Lumia 2
+c25e5f86-3793-4ee0-9abf-662bcfe54383,Android,荣耀,荣耀 10
+e9163e3c-2716-4614-9db9-dd858ee0c211,WindowsPhone,Lumia,Lumia 1+
+6333b92d-9337-4b7c-acea-09dcf2d7cf08,WindowsPhone,Lumia,Lumia 1+
+f3648376-713e-4b48-9c89-567fcdb74a2f,Android,荣耀,荣耀 10
+e90ee932-4f5f-4d63-a107-54b4b06cb673,Android,荣耀,荣耀 10
+c13f5f42-ff1d-4edc-a312-2ea030e90b20,Android,Huawei,Huawei Meta 20
+fb41f3f9-9586-4ff9-936d-81ac6c824662,WindowsPhone,Lumia,Lumia 2
+7b6b0cd5-56b3-42d5-ad02-f8d0bae2b911,Android,Xiaomi,Xiaomi 5
+59514ae9-3654-45f5-a2e7-120daf825b12,Android,Xiaomi,Xiaomi 3
+9845dea7-da38-464a-a3ef-dda8f0152959,Android,Huawei,Huawei Meta 20
+5bb9a49f-11bb-4738-8053-7491d7ee7727,Android,Xiaomi,Xiaomi 5
+7a1dc570-f022-4394-b50a-bfa96395ddfc,Android,Huawei,Huawei Meta 30
+da6c14a6-f53c-4533-94fc-4f482f848ece,Android,Huawei,Huawei Meta 40 5G
+5f893603-d17f-4e1c-b2ad-a8686af9ef2f,Android,Xiaomi,Xiaomi 3
+27e36fc9-8139-4b0b-af66-3fff823c8a33,Android,Huawei,Huawei Meta 40 5G
+d0a6e764-bc52-41b0-a547-251613fb5531,Android,Xiaomi,Xiaomi 3
+249690a2-8147-4b00-9ddc-13a9b10e77b0,Android,Xiaomi,Xiaomi 6 Pro
+97fbe4af-175a-417b-b1ac-2ed87f36b0f9,Android,Huawei,Huawei Meta 40 5G
+aeb9fb68-b045-4ceb-b566-1b63896a8acc,WindowsPhone,Lumia,Lumia 1+
+71dd7fd2-2c6b-4820-8ac6-8c18a0e3c96e,Android,荣耀,荣耀 10
+24d61fea-dd26-40db-adcc-3247c4f12db0,Android,Huawei,Huawei Meta 30
+19af87ce-7631-4223-a17d-ea07a265a3fa,Android,Xiaomi,Xiaomi 4
+c7518767-8b49-4d81-8453-0b39430f8a20,WindowsPhone,Lumia,Lumia 1+
+54757440-ec92-4c39-8194-018a616fc7a9,Android,Xiaomi,Xiaomi 6 Pro
+1975b907-9553-490d-aff5-f3afa1d04d83,WindowsPhone,Lumia,Lumia 2
+068b4f5f-dbb9-4ded-a274-89ea6cd363ba,Android,Huawei,Huawei Meta 30
+248e1c0d-673c-4652-b333-7c5fde26de00,Android,Xiaomi,Xiaomi 5
+5d55e5d7-60ba-4dad-ae0d-566e0bf3da6a,Android,Huawei,Huawei Meta 30
+a5f39142-e947-43ed-b7f5-07c04db79fac,Android,荣耀,荣耀 10
+faab7427-242a-4cd2-8508-c26697146e89,Android,Huawei,Huawei Meta 20
+314638c2-9787-4610-91e3-e5cda8b51e1b,WindowsPhone,Lumia,Lumia 1+
+87a48b5e-ff0f-42df-8c06-eabf82d6cb8b,WindowsPhone,Lumia,Lumia 1+
+b6bdff92-885d-4e9a-a7e9-d6f59c67eed5,Android,Huawei,Huawei Meta 40
+fda122bf-022f-4a80-99d9-d7324227523f,WindowsPhone,Lumia,Lumia 1+
+817be055-5194-4dca-aba2-e8102b371d9d,Android,荣耀,荣耀 10
+79da22ca-54c5-46c1-b751-7122635c287f,Android,Xiaomi,Xiaomi 5
+111b626a-369d-47bc-9635-bf9a26d78818,Android,Huawei,Huawei Meta 20
+2427c794-c1e7-421a-ba93-52692d516ac2,Android,Xiaomi,Xiaomi 6 Pro
+16fc272a-ad7f-4885-90da-d1d7b76539c7,Android,Xiaomi,Xiaomi 5
+796555b8-f656-48d3-9603-89191411fd44,Android,Huawei,Huawei Meta 40
+df187c4b-d484-462f-aec2-0e3c3f7e9fa2,WindowsPhone,Lumia,Lumia 2
+fd91de45-23bc-4303-8ef0-48c1d17d7b4c,WindowsPhone,Lumia,Lumia 1+
+d2140840-0fdb-4bac-af35-d161781b801f,IOS,iphone,iphone 9
+a4137c58-ecf2-44c4-9232-8faead6f3e61,Android,Xiaomi,Xiaomi 3
+108defc0-a411-4ddb-8816-89e42cca9773,Android,Huawei,Huawei Meta 40
+6b34e326-a99b-435e-8d00-91df751de37a,Android,Xiaomi,Xiaomi 4
+c2ee80cd-a001-4532-b98b-6698288a9403,Android,Xiaomi,Xiaomi 3
+1b8cc700-6043-4ff0-8891-0d313f9964f2,Android,Huawei,Huawei Meta 40
+774bfd78-ca5f-4977-ab58-d780fc97340e,IOS,iphone,iphone x
+d5da5b4e-02a7-40fc-ba93-0d06997924bb,Android,Huawei,Huawei Meta 40
+4f2f2286-1697-4eb8-8f1b-1eca0c387787,WindowsPhone,Lumia,Lumia 1+
+6c69e612-0fa3-4e8d-b26d-d82761c78f08,Android,Huawei,Huawei Meta 40 5G
+4893f2e1-5d05-4df2-8501-b86725f9d00d,WindowsPhone,Lumia,Lumia 2
+7581e958-3c89-4138-865b-0c9722ecf6e7,IOS,iphone,iphone 9
+8a99b992-81ce-4529-9b01-d95a257f5426,WindowsPhone,Lumia,Lumia 1+
+9b1763e5-17f8-4493-9991-de8b7b4da508,Android,Xiaomi,Xiaomi 5
+b3e56b11-e50c-45e7-af6d-a4c38b4d5984,Android,Huawei,Huawei Meta 40 5G
+948800f0-eaf2-4f30-8019-f597795b58ae,IOS,iphone,iphone 7
+3b0a9b40-7375-42be-817e-f5f120a62bcf,Android,Xiaomi,Xiaomi 6 Pro
+d7e7b1a9-ddae-46d5-a5de-36db82af272b,Android,Xiaomi,Xiaomi 6 Pro
+63f28c3d-fcc7-401b-826a-9ddeede13e8d,Android,Xiaomi,Xiaomi 3
+9117b473-5597-4d0a-ae42-91f3c1087e10,Android,Xiaomi,Xiaomi 4
+8781bb6e-5870-432e-983c-497706218f40,Android,Xiaomi,Xiaomi 5
+d270cd71-d4af-45a4-bd24-ed2a7810ebc9,Android,Xiaomi,Xiaomi 5
+b67cf751-ef55-4dc2-8979-067e0683848e,Android,Xiaomi,Xiaomi 4
+ff384249-2764-49b3-89f4-8f7f6cffabbe,Android,Xiaomi,Xiaomi 5
+512fbab1-5706-4c9c-8789-f46ab8d42416,Android,Xiaomi,Xiaomi 3
+db7d8251-6476-466b-a2f3-4426c48bb523,Android,荣耀,荣耀 10
+837ad4c0-4ee0-42cc-a704-bdd52308fd48,Android,Huawei,Huawei Meta 30
+79cdf476-f07c-41c3-9b42-91571994a0f6,Android,Xiaomi,Xiaomi 4
+b70ded13-c939-4e2b-9d5a-f26770d2c431,Android,Huawei,Huawei Meta 30
+51d9c37a-ac09-40e8-a464-cc78ceb19785,WindowsPhone,Lumia,Lumia 1+
+342bafd7-f2c8-4522-aac5-9799ce39df94,Android,Xiaomi,Xiaomi 5
+b0df1d9f-a62b-4038-8125-3f641a055e02,Android,Huawei,Huawei Meta 30
+d4c02093-36d6-4cad-9c88-b0f1d82a0dfa,Android,Huawei,Huawei Meta 20
+1950a0a6-0c09-4ff5-b18e-5e264d766689,Android,Huawei,Huawei Meta 40
+71f25366-71ed-49f5-ad63-2bb6e456c502,IOS,iphone,iphone 7
+3894c219-4800-476a-abb5-bcc978184856,Android,Huawei,Huawei Meta 40
+f1b528d0-40de-433d-b912-0990249e38e3,IOS,iphone,iphone 12
+8db89d21-0720-48c0-a2af-6b6f13c3a7c4,Android,Xiaomi,Xiaomi 4
+59b08a9e-0ab9-42c7-9d22-221ba9775a89,Android,Huawei,Huawei Meta 40
+b0403015-76c4-4849-8f65-895073832104,Android,Xiaomi,Xiaomi 4
+3e90133b-2d75-4a4f-ab65-47c11e5e6525,Android,Xiaomi,Xiaomi 5
+6ad9741b-c40e-4ad0-833f-2cc61e060918,Android,荣耀,荣耀 10
+6cbea06a-fdde-46c7-88cf-0b3459fe8282,Android,Huawei,Huawei Meta 40 5G
+8b442593-18d1-470c-87ca-2dde887aed4c,Android,Xiaomi,Xiaomi 3
+b10898a0-4f88-4fa8-8dfb-f5b67293d591,Android,Xiaomi,Xiaomi 3
+ad2be5f4-0a50-42ce-a39e-5fc60f53b929,Android,Huawei,Huawei Meta 40
+89e5e774-7a44-4121-8fb2-5b2a4a7500a7,Android,Xiaomi,Xiaomi 3
+630a7ca2-4fa7-4590-ab72-8328cd58f592,Android,Xiaomi,Xiaomi 5
+a55897a7-7565-4d94-b53a-fbf03d9e911a,Android,Huawei,Huawei Meta 30
+077f5502-75e6-45d0-a6cc-68eb2d229bbc,IOS,iphone,iphone 4s
+d44ccc08-c5f7-4b84-9bfa-7de4e67e2312,Android,Xiaomi,Xiaomi 6 Pro
+0d06b61b-3fbc-4ee4-838d-b325366046f4,Android,Xiaomi,Xiaomi 5
+458b7617-c5a0-49e0-96b1-4efc69ff77e4,IOS,iphone,iphone 7
+4b9fa2a0-8980-4a3a-bb24-e4dbc7601dae,Android,Huawei,Huawei Meta 20
+3aa8e5c4-e956-49df-8399-68f9d4035ce4,Android,Huawei,Huawei Meta 20
+814a1b3f-0342-4f4b-8ee3-3c7ce85dd02f,Android,荣耀,荣耀 10
+7cd6cf83-185b-4f0c-a628-9facb7dd7c8b,Android,荣耀,荣耀 10
+9f3f403e-9379-464c-80f9-6408184126e4,Android,Xiaomi,Xiaomi 4
+3c810243-9246-42bb-96f7-28188fedbe8b,Android,Huawei,Huawei Meta 30
+e48624a1-374b-48ea-b584-14790fb5a4a3,Android,Xiaomi,Xiaomi 4
+f955e87c-659f-4672-baf0-912ca7c47846,WindowsPhone,Lumia,Lumia 2
+9b870e50-8f38-4914-abd2-bab1b543ec41,Android,荣耀,荣耀 10
+f7910923-8457-43ac-ad1f-a426875f933e,Android,Xiaomi,Xiaomi 4
+ce74af3b-e6c5-4d91-92d3-308af2325a97,IOS,iphone,iphone 7
+ddfda01a-7024-49fe-89d2-e4a225573cb7,Android,Huawei,Huawei Meta 30
+3f1c85dc-ca15-4c76-b509-85e622e02453,Android,Huawei,Huawei Meta 40 5G
+ad0e0c21-23b1-44ac-a23c-47cbccdebb9a,Android,Xiaomi,Xiaomi 4
+0fa1c4b7-018b-456d-b7f3-898b727c0cfd,Android,Xiaomi,Xiaomi 3
+554ec6c9-8aa5-48a1-be35-a4e30dd29ac5,Android,Xiaomi,Xiaomi 4
+26f38979-bedd-463a-8c0d-8cfcbd0c38b1,WindowsPhone,Lumia,Lumia 1+
+a1d8232c-c011-476a-a7fd-21fad8083d40,Android,Huawei,Huawei Meta 30
+37471504-5535-4981-8c22-5f2103b8cef3,WindowsPhone,Lumia,Lumia 2
+67e62d0b-eec9-47b4-81fb-36286157d413,Android,Xiaomi,Xiaomi 3
+97d6cbe2-7898-4742-bcde-a55655b88182,WindowsPhone,Lumia,Lumia 2
+d1a0c39c-9449-4ac4-9452-13fa93580e98,Android,Xiaomi,Xiaomi 6 Pro
+62b797ba-f4b6-4252-b216-79805143e269,Android,荣耀,荣耀 10
+6e94ebdf-77c4-424e-abd0-ffbf193a6d5a,Android,荣耀,荣耀 10
+b75d3be8-c686-47e8-a7aa-c68b88c7e133,Android,Huawei,Huawei Meta 20
+377fd37b-da9a-4edf-b751-0ed3cdcb935b,Android,Huawei,Huawei Meta 40
+e5f4ea47-a513-45af-9d25-014857ece854,Android,荣耀,荣耀 10
+ee852faf-a8fa-41fc-946f-174004987b3d,WindowsPhone,Lumia,Lumia 1+
+ecf11172-5a5b-413f-a569-bbdfefa469f3,Android,Xiaomi,Xiaomi 5
+e963ece4-b138-4a44-9a7b-1ca3cf55ff4d,Android,Huawei,Huawei Meta 30
+ec0e67a6-4db2-4174-a743-ad38212e74d5,WindowsPhone,Lumia,Lumia 2
+f90277e3-1efe-41c6-ab69-3f5ec6ea4885,Android,Huawei,Huawei Meta 20
+735ffdb9-b534-4653-91d4-d83cd537fe54,Android,Xiaomi,Xiaomi 3
+0de89a31-6f78-41b2-ac43-60bf58bbc062,Android,Xiaomi,Xiaomi 4
+5fa238e8-4c08-4c48-802b-7f84b7885f3d,Android,荣耀,荣耀 10
+f064c17c-4f32-4356-a8a4-a3c8ebd9c5b4,Android,Huawei,Huawei Meta 40
+1cd214ac-8ae6-4e5a-89e1-589eb8b8dd87,Android,Xiaomi,Xiaomi 5
+2a81da7f-48ff-4b94-9a54-c58065998add,Android,Huawei,Huawei Meta 40 5G
+6fb9bbe7-47a3-43d8-9149-55f5c1e2f00b,Android,Huawei,Huawei Meta 40
+ed86fa10-38e4-4a55-8907-b91c4d3d7ed6,WindowsPhone,Lumia,Lumia 1+
+32282f9a-d5d2-4f06-9434-aef7aa669876,Android,Huawei,Huawei Meta 30
+a1d05228-e2d7-4a92-950d-4913bd076090,WindowsPhone,Lumia,Lumia 2
+bbf40a60-0fa9-466f-8268-dfc6741f4017,Android,Xiaomi,Xiaomi 3
+3ea5043c-bde0-4aa8-87b2-40cd24b45239,WindowsPhone,Lumia,Lumia 1+
+f7dc32c7-6781-44e1-af9d-835d6ff4162f,WindowsPhone,Lumia,Lumia 1+
+043f9eec-9e08-46db-b572-4567979a4535,Android,Xiaomi,Xiaomi 5
+b9716d4f-266f-4cfd-919a-90e60de5afee,Android,Huawei,Huawei Meta 40
+2b0776a7-b4ff-4968-9669-771cb45f1336,Android,Xiaomi,Xiaomi 3
+82b90645-6016-489d-a2fe-642d0657357d,Android,Huawei,Huawei Meta 40 5G
+ae6b2b15-f9b9-404f-bea3-82d8735bc8be,WindowsPhone,Lumia,Lumia 2
+c6975bd5-c2fa-4ec7-ade2-cfc82d674e34,Android,Xiaomi,Xiaomi 6 Pro
+70ae307b-0e4c-4bcb-b4cc-1fd4cc7bffd5,IOS,iphone,iphone 7
+5f30e1b0-6a09-4aab-a8a9-7154030c6070,Android,Huawei,Huawei Meta 30
+b50ceb74-087a-45ae-b38d-95bd0acec6ed,WindowsPhone,Lumia,Lumia 1+
+893bdcb4-a19e-4305-978f-cbeea748de65,Android,Xiaomi,Xiaomi 4
+585ad167-52d6-4b26-8136-9af77f61346e,Android,Huawei,Huawei Meta 20
+1893dd08-4b35-4ebe-9164-4cf25caac6cd,Android,Huawei,Huawei Meta 30
+efd54e0b-0384-4525-86de-d72290863643,Android,Huawei,Huawei Meta 40
+179ed963-5a1e-4935-8755-43224dce6690,Android,Huawei,Huawei Meta 30
+30c74f1c-8ad0-4ddf-89d3-195742607207,WindowsPhone,Lumia,Lumia 2
+9407d88e-1480-4ef5-a997-5700e3cd06fd,Android,荣耀,荣耀 10
+76e9fbe6-5450-458b-a87f-dca1b7887280,WindowsPhone,Lumia,Lumia 2
+7e3cedba-5e2b-4d96-a731-0ee560cece91,Android,Xiaomi,Xiaomi 4
+28a61ba9-ca2d-44aa-851e-b38e0eb44626,Android,Xiaomi,Xiaomi 5
+98587b34-6419-450b-9de5-744989e77b50,Android,Huawei,Huawei Meta 20
+f3eeffc1-55ab-41ab-93e3-456c4afd7267,Android,荣耀,荣耀 10
+0934b83c-7f66-4a0d-afc4-cf77f748dc7c,WindowsPhone,Lumia,Lumia 1+
+8c61e702-84cd-4103-8042-fa93cd88e184,Android,Huawei,Huawei Meta 30
+1e1d2f34-d518-4124-9401-243cd21847ee,Android,Xiaomi,Xiaomi 3
+de3fd9bc-8fed-4387-b913-b6db61549c0a,Android,Huawei,Huawei Meta 20
+2be13b39-b6cd-4007-8e32-863baed91b7b,Android,Huawei,Huawei Meta 30
+c640eb8f-75c7-4cfb-895d-3d10f44222e8,WindowsPhone,Lumia,Lumia 2
+35af16da-9090-4735-9cb3-15b452ec512e,Android,Xiaomi,Xiaomi 6 Pro
+857d1f15-a23e-4338-bfa9-b49c8e19cb44,Android,Huawei,Huawei Meta 20
+418a9cc5-f5bc-41a8-b372-5ff6e71ea24d,WindowsPhone,Lumia,Lumia 1+
+974b3e03-f1b0-4158-a7dd-90f74b999504,Android,Xiaomi,Xiaomi 5
+42eba638-5515-456b-8fea-f6d1ee150800,Android,Xiaomi,Xiaomi 5
+a9a49385-6f1a-4ed3-ac6f-59a1129187f0,Android,Xiaomi,Xiaomi 3
+f608248f-326c-4b37-bca1-5a3c642f6ebb,WindowsPhone,Lumia,Lumia 1+
+06136823-6f8f-49c1-8fa3-4647fd93ed23,WindowsPhone,Lumia,Lumia 2
+ec54f713-4773-43bf-beb1-2a7a57c6f11f,WindowsPhone,Lumia,Lumia 1+
+62379fdb-8129-4cf6-85bd-759f988c1282,Android,Xiaomi,Xiaomi 4
+51b6e45d-2355-4df5-9b7d-552fa473128c,IOS,iphone,iphone x
+1a15ac3d-b7df-4350-bc9f-a8c9a19b3935,Android,Xiaomi,Xiaomi 3
+bcad6906-57e7-42a2-8ee7-9c92461b89e0,Android,Xiaomi,Xiaomi 4
+50cd760f-3324-4448-988e-97d469f0e5ed,Android,荣耀,荣耀 10
+37700ec3-6ea7-4e16-af11-823f3ebb6f7b,Android,Xiaomi,Xiaomi 6 Pro
+080241bb-4973-4272-a7cc-8ad3d32918a7,Android,Huawei,Huawei Meta 20
+009da653-cb77-464f-b29b-5773f1e46135,Android,Huawei,Huawei Meta 20
+22f58e36-879f-403e-9488-5cb9e2294640,WindowsPhone,Lumia,Lumia 1+
+1adac24b-f3a7-4bb2-ac63-8f9f71375f9b,Android,Xiaomi,Xiaomi 4
+feb5cfd0-8fb6-4505-8199-bb5f9b7c602b,IOS,iphone,iphone 11
+de045b3a-652d-4aac-8e41-30900ca4b9c4,WindowsPhone,Lumia,Lumia 1+
+0b9fb259-9080-46ca-a38f-fe54809058f4,Android,Xiaomi,Xiaomi 5
+b43a44c7-fa20-45b7-9e83-8d4585eba889,Android,荣耀,荣耀 10
+685bddff-509d-437e-8479-35fddfd2c0a7,Android,荣耀,荣耀 10
+6b191ae1-3ed8-4e87-8cfa-edcd7f66affd,Android,Xiaomi,Xiaomi 3
+cc668a4c-1f58-4f49-b4ef-a4067b66e9ff,Android,Huawei,Huawei Meta 40
+447979e5-df8b-4b1c-baeb-92df120cc571,WindowsPhone,Lumia,Lumia 2
+5a13169a-64c8-4add-be73-127d9af2cac8,Android,Xiaomi,Xiaomi 5
+2e724217-747b-41b5-b02c-f33a0b149371,Android,荣耀,荣耀 10
+e559dab9-1fbc-4b87-9b05-3834214157d8,Android,Huawei,Huawei Meta 40 5G
+b4c94308-591f-4b4e-b30c-7a8120bbd712,Android,Xiaomi,Xiaomi 3
+9899d7b7-00d8-44cb-ab0d-d2882e0db2c8,Android,Huawei,Huawei Meta 20
+6f61a644-2ddc-4433-a1ed-ce5139c5d03b,Android,Xiaomi,Xiaomi 6 Pro
+11e87536-907c-444e-bc42-007cbf2bccc2,IOS,iphone,iphone 4s
+8916c3ed-85f3-4698-827b-c5498396c234,Android,Xiaomi,Xiaomi 4
+e152a7bc-3739-4375-b7b0-3cef8983c0ee,Android,Huawei,Huawei Meta 20
+916337c7-4cd9-48de-9c0f-f7509295eda8,Android,Xiaomi,Xiaomi 6 Pro
+3146b7d1-ee9b-448a-aede-ce5e987d103b,Android,Huawei,Huawei Meta 30
+7cc2283e-571a-49b8-91a7-0e96faf9c0f8,Android,Huawei,Huawei Meta 30
+35b7552c-dbb0-4c71-83ea-7caaabd08f8f,WindowsPhone,Lumia,Lumia 1+
+cbe4b083-540a-4b60-9ce8-9d085a249074,Android,Huawei,Huawei Meta 40 5G
+f85034e5-2459-4f60-87e6-1029f506a85a,IOS,iphone,iphone x
+af382462-3b8c-4750-8251-af9cbc1494bb,WindowsPhone,Lumia,Lumia 1+
+bfbc3b4a-c667-46be-b1fa-5cb08335705b,WindowsPhone,Lumia,Lumia 2
+9a31a2b4-ca32-4a50-b573-10d2f8c2e07a,WindowsPhone,Lumia,Lumia 2
+156e6172-48d8-4e90-b7d5-9cecc9e47aec,Android,Huawei,Huawei Meta 20
+a13cb11d-51e6-43ec-a781-0d7c014cb4f6,WindowsPhone,Lumia,Lumia 1+
+2fc5eddf-23cf-48e4-a96a-661a2c21bfdc,Android,荣耀,荣耀 10
+d69132dd-de6b-4326-9c91-2b1ec7b61ce7,Android,Huawei,Huawei Meta 20
+12ba881e-708b-436b-be3a-65ecd94d726e,Android,Huawei,Huawei Meta 30
+25e752a8-b300-4876-b051-6a1ca53c2df6,Android,Huawei,Huawei Meta 30
+38a57b8f-73ce-4c2d-82c1-ff481892448a,IOS,iphone,iphone 8
+559df34f-946e-4a66-a86d-302ebc329ce5,Android,荣耀,荣耀 10
+3c68c5df-1bab-47aa-8352-f8aa64eb7c19,Android,Huawei,Huawei Meta 40 5G
+0d7d7062-bd67-4eac-91fe-db699f8c3329,WindowsPhone,Lumia,Lumia 2
+eec1d4fd-25a8-41fa-a96b-bae684a23a11,Android,Xiaomi,Xiaomi 4
+cd8c5bdb-73d9-42fe-9193-9d60d7e6c479,Android,Huawei,Huawei Meta 40 5G
+9e7ccf68-3152-4e7a-9fd0-6847c870970d,Android,Xiaomi,Xiaomi 6 Pro
+57abcb1a-c6df-4c14-9a37-38872d4df615,Android,Huawei,Huawei Meta 20
+40ca31f6-1f56-4fde-ae74-ca896ccc0726,Android,Xiaomi,Xiaomi 6 Pro
+93e4b9db-ca84-456d-aa7c-c7297c30cfd0,WindowsPhone,Lumia,Lumia 1+
+4326e87d-f7f8-496b-822f-1ea3ffc622aa,Android,Huawei,Huawei Meta 40
+9864742d-9613-4f80-85a4-f715b3efd9bf,WindowsPhone,Lumia,Lumia 1+
+613829c0-c4f4-4af8-b5d4-5435ce9cfb91,Android,Huawei,Huawei Meta 30
+9b27c212-df27-49bd-b0c4-98a4377a6ae9,Android,Xiaomi,Xiaomi 6 Pro
+20a46a08-a32b-4fec-b702-84b94596da69,Android,Huawei,Huawei Meta 40 5G
+85f3f877-5682-42ea-b2ea-92ca1cf3b4a4,WindowsPhone,Lumia,Lumia 2
+0a3621f4-2ab5-4e0f-914c-fb3f58b83e66,Android,Huawei,Huawei Meta 30
+aea3606a-b379-4f8d-b928-c60d8c19d052,Android,Xiaomi,Xiaomi 3
+ed6180fc-03f7-4d05-9c6b-56767e9ad05b,Android,荣耀,荣耀 10
+cc75e1a7-bf7f-498a-bcfb-6104b5613074,Android,Huawei,Huawei Meta 40
+c783e9e2-e6ef-42c7-b470-ca360c6e1aff,Android,荣耀,荣耀 10
+55e4e0cd-d099-49bd-afca-60cace5fd57c,Android,Huawei,Huawei Meta 20
+5ab13245-b4b0-49e2-a201-08ec2457d34f,Android,Xiaomi,Xiaomi 3
+476d1a2b-1ba6-490f-8af4-4d02f20e7538,Android,Huawei,Huawei Meta 40
+13e1a5d3-bf4a-40e7-8d43-4b07d79f7a77,IOS,iphone,iphone 11
+75da0f66-505e-40a4-8418-e94e9d744672,Android,Huawei,Huawei Meta 40
+4fa63415-07ab-438f-9411-8d6575789a70,Android,荣耀,荣耀 10
+7e5deed1-3bf2-4649-b1f8-b40b2386e7a4,Android,Xiaomi,Xiaomi 5
+6b5b5517-f8a1-4633-a1ee-fa8ff2b429d5,Android,Xiaomi,Xiaomi 3
+4faceeaf-15a8-495d-83d3-6e4e6993277c,Android,Xiaomi,Xiaomi 3
+4e020f8b-496d-4b94-b098-45965fe8c35e,Android,Xiaomi,Xiaomi 4
+40ee2885-77ff-45fa-b06d-2e6d49df3853,WindowsPhone,Lumia,Lumia 2
+8a87aa81-0deb-4dc1-b721-ef47c5153a8e,Android,Huawei,Huawei Meta 40 5G
+ae68c832-a723-4954-a7da-a55612aab007,Android,荣耀,荣耀 10
+9255253f-f166-4672-92ab-f6cc30eb2a5f,Android,荣耀,荣耀 10
+906c4dc3-e351-4c13-84ff-70f7c623e8a9,WindowsPhone,Lumia,Lumia 1+
+92ce7ccd-64e8-476d-9f3d-763bc9102b72,WindowsPhone,Lumia,Lumia 2
+81d9b76f-feea-4b20-8373-9812f40def84,Android,Huawei,Huawei Meta 40 5G
+9a0ec805-b5a8-4f2b-94f6-27d562898fd1,Android,Xiaomi,Xiaomi 5
+119e293b-2f39-4961-a56c-c9cac213558a,Android,Huawei,Huawei Meta 30
+95d311b1-a3ed-4642-ae02-a764a8ee6032,Android,Huawei,Huawei Meta 40 5G
+7c078c6c-4d0b-4756-ba1f-137b9184ba65,Android,Xiaomi,Xiaomi 3
+9a6617ff-c7df-4fa4-b073-9fb670954f57,Android,Huawei,Huawei Meta 20
+35b5a3e0-8bde-45d3-92cf-07e087cd96fc,Android,Xiaomi,Xiaomi 6 Pro
+0a6b9d33-9a33-446a-86d1-e2bf1ea06a9e,Android,Xiaomi,Xiaomi 6 Pro
+24ee1581-ff7e-4a39-8761-ca37a9c2d0c8,WindowsPhone,Lumia,Lumia 2
+a7d379a8-19e0-41ed-899c-7dc4a369fc46,IOS,iphone,iphone 9
+10e8585b-2f9b-4105-adb0-409df5249a75,Android,荣耀,荣耀 10
+ed756a23-124c-49e5-ad57-4e17c08a6ec7,Android,Huawei,Huawei Meta 40
+2f4f076b-0460-4fe1-83f3-00b5aa8cecd3,Android,荣耀,荣耀 10
+5b1fbf1b-e787-4486-bb38-30e9a313c980,Android,Huawei,Huawei Meta 40
+62b491e5-ac9f-4598-9d0c-81e9e9e8bf1b,WindowsPhone,Lumia,Lumia 1+
+41941bad-201a-4bba-a27a-1d403500cd1e,Android,Xiaomi,Xiaomi 3
+2e4e9bde-d3cf-475a-a5f5-452899445660,Android,荣耀,荣耀 10
+5a3af758-29d1-4fc5-b981-126526c684b9,Android,Huawei,Huawei Meta 20
+d1582b7c-7c04-4e46-b38c-12a59f3ca991,Android,Xiaomi,Xiaomi 4
+9df5925e-d3a7-4b23-a7ba-c78906501c9b,Android,Huawei,Huawei Meta 30
+d2fc59dd-4c8c-4aa4-9ce7-65fcfe7546ae,Android,Xiaomi,Xiaomi 4
+db0944b2-10de-499a-95e8-2fb2c051c668,Android,Huawei,Huawei Meta 40 5G
+103f0550-7b8d-4942-a0da-8c33f1c926a6,WindowsPhone,Lumia,Lumia 2
+5821f31e-28d8-4f41-8e7f-045866de53f7,Android,Huawei,Huawei Meta 40 5G
+bf1a29b1-8a43-416c-a94f-4bcd925c9cb0,Android,Xiaomi,Xiaomi 6 Pro
+833361ed-b8dc-4fa8-b768-3d388bf8fc58,Android,Xiaomi,Xiaomi 3
+1b9f7b0f-c9db-41c4-ad6b-9d64faedc550,Android,Huawei,Huawei Meta 30
+fc172cec-9bce-4280-afc4-9f9112412579,Android,Xiaomi,Xiaomi 5
+74327b9c-c6d7-43d7-8e86-7ef7b7c540c0,Android,Huawei,Huawei Meta 20
+0be87cb1-8254-49e8-8302-6531535d9ed6,IOS,iphone,iphone 7
+e66b78c5-f6f6-4f7c-b7b1-76e484b15582,WindowsPhone,Lumia,Lumia 1+
+dcbe5f20-dc2d-47e6-ac82-1523cbe2627c,Android,Xiaomi,Xiaomi 3
+d2fdf1db-7fba-4795-913b-b5001576099b,Android,Huawei,Huawei Meta 30
+397cc009-3f7a-4843-afa4-a52a4dbd40ab,Android,Xiaomi,Xiaomi 5
+1568bd43-a605-42a2-a19a-785fe93845fb,Android,Huawei,Huawei Meta 40
+a006bb24-d283-42d9-b983-91e6679474fe,Android,荣耀,荣耀 10
+d31da372-eedc-4358-9999-e7b5d23d1a6c,Android,Huawei,Huawei Meta 30
+46723bc2-b5c4-41f2-8cc0-7c33696da9da,Android,Huawei,Huawei Meta 40 5G
+05538255-a62a-40e8-b37a-036874362842,Android,Xiaomi,Xiaomi 4
+eb68672f-1536-458d-9242-c791bc5c490d,Android,Xiaomi,Xiaomi 3
+51f6e468-58ab-41a3-b427-56418fdca305,Android,Huawei,Huawei Meta 20
+45a91bae-7d0d-41bf-8be2-20ac6d840b71,Android,Huawei,Huawei Meta 20
+5dfc92fd-457b-498a-baf8-0065c9e0914a,Android,Huawei,Huawei Meta 40
+a77cb0ca-876a-4d1f-ad32-9e9ca084a1fb,WindowsPhone,Lumia,Lumia 1+
+1263a118-7b1a-44a1-9240-415b543b2f69,Android,Huawei,Huawei Meta 20
+050bed9b-da8b-4456-af98-f21fbe900618,Android,Huawei,Huawei Meta 40 5G
+ad6df079-1a38-420c-8ce6-73d362c4401c,Android,Huawei,Huawei Meta 40 5G
+5ce68b1b-ffb1-475a-8a6f-ea73c99fabc7,Android,Huawei,Huawei Meta 40
+5925c869-26de-421a-8f76-d2bb0a6cb76c,Android,Xiaomi,Xiaomi 3
+a618ec3c-20a6-4408-a7c3-a83241edefe7,Android,荣耀,荣耀 10
+64455fdd-683b-4506-a6df-954daed88d13,Android,Xiaomi,Xiaomi 6 Pro
+da3d8263-a9de-4fcd-9527-e4bca5e6ab68,Android,Huawei,Huawei Meta 40 5G
+15e9aaf0-0c1e-42d7-b6f7-6bea72a51db8,Android,Xiaomi,Xiaomi 4
+fe70bd77-383a-4357-8e5d-5f776c793c30,Android,Xiaomi,Xiaomi 6 Pro
+c2bdd884-1d63-4ce6-8566-8abc97cc2f7a,WindowsPhone,Lumia,Lumia 2
+4b669d95-f0e6-49b2-91a1-49cc0ece60e7,WindowsPhone,Lumia,Lumia 2
+8be248bf-eac3-4fcb-b0ac-7ab43363fe54,Android,Huawei,Huawei Meta 40 5G
+15889fef-8090-47f5-acbc-a09e6f476b95,Android,Huawei,Huawei Meta 40 5G
+8869293b-b0c3-437f-9a05-aae8519afb8d,Android,Huawei,Huawei Meta 20
+37f253cf-bfb0-4904-bb0c-d29b8858c18f,Android,荣耀,荣耀 10
+23bd74cf-700f-4206-8cce-c3afa228a434,Android,Huawei,Huawei Meta 40
+21b204b2-1b9c-4152-bf75-6ea1fa3f5e69,Android,Huawei,Huawei Meta 30
+d7fd9d22-b1d7-40d4-817f-1722665480d0,WindowsPhone,Lumia,Lumia 1+
+242786e1-dea6-49d1-86ee-55499e68e3da,Android,Huawei,Huawei Meta 20
+e7a7469e-15a8-478b-8f32-4bc1f899183d,Android,Huawei,Huawei Meta 40
+1805a720-bd84-4650-b988-7aee7062c2ce,Android,荣耀,荣耀 10
+0fec3ebd-615d-41b5-9d6c-8ee2f8e89877,Android,Xiaomi,Xiaomi 6 Pro
+6f9608d0-1e56-4270-a6b4-139b9debffda,WindowsPhone,Lumia,Lumia 2
+64939627-0f72-4f2d-9783-99e75234fc31,Android,Xiaomi,Xiaomi 6 Pro
+47310e77-0826-425b-bcf9-6a672316572a,Android,荣耀,荣耀 10
+c1f5d180-f113-4c77-a2ea-13b026c5b219,Android,荣耀,荣耀 10
+628b59a3-f249-42ae-8b91-4adc9ead8b00,IOS,iphone,iphone x
+0264423e-7aea-4d77-a3ad-46713ed769a4,Android,Xiaomi,Xiaomi 5
+7008fe80-11c2-42d6-9386-6051d8d6d41e,WindowsPhone,Lumia,Lumia 2
+10d67bd5-e11e-4469-8994-ecce90712e1c,Android,Xiaomi,Xiaomi 3
+b3a1c4f7-8740-493b-b3d6-bb2a09b0ec9b,Android,Huawei,Huawei Meta 40 5G
+e45e8dac-542f-4338-980f-8f6fb5a20814,WindowsPhone,Lumia,Lumia 2
+af67faac-0fb7-43e5-9cc1-74d6ac8f9fcb,Android,Xiaomi,Xiaomi 4
+473be1da-8d1d-4d40-acd2-50462541d1c4,Android,Xiaomi,Xiaomi 4
+5e81be3a-1397-470c-8620-93fcd371cefe,WindowsPhone,Lumia,Lumia 2
+cddfb171-9216-43e5-8afb-c6a1e2e19b79,Android,Huawei,Huawei Meta 40 5G
+02fb1dde-259f-4ff0-9dec-206eee804608,Android,Huawei,Huawei Meta 40 5G
+a068cc5d-e583-4ad7-9d8b-27e86a3e8ece,IOS,iphone,iphone 9
+d673acf7-2aea-4f9c-bf38-97276d67c703,WindowsPhone,Lumia,Lumia 2
+15dc7a3a-6530-4a3a-aa26-23204cf9372c,Android,荣耀,荣耀 10
+eb8a126c-20a7-4b72-ac2f-791698e1757e,Android,Huawei,Huawei Meta 20
+116a54f8-fa97-47e1-a5c5-0a25967ff931,WindowsPhone,Lumia,Lumia 1+
+7ae4b844-f9e6-4f85-a3a5-5b936c866b8e,Android,荣耀,荣耀 10
+060febf4-a22b-45c3-a06f-a15c9085dbc8,Android,Xiaomi,Xiaomi 5
+66b7c174-f7bf-41ef-8ef3-b1a906fdbc8f,WindowsPhone,Lumia,Lumia 2
+e008beee-9d02-46de-9c0b-1da55044505c,IOS,iphone,iphone 12
+88c8daa1-d6c0-4cb9-8ff1-9dbd6aa3cf5b,Android,Xiaomi,Xiaomi 5
+5e4b00f7-daf5-4328-bc7b-def35b885a35,WindowsPhone,Lumia,Lumia 2
+dc600847-a4b2-4efa-9cd9-b904ec90f278,Android,Xiaomi,Xiaomi 3
+4517cf4b-9b2e-408e-8e27-393abefc5550,Android,Xiaomi,Xiaomi 5
+062bb9a0-a3c4-4407-9070-62a09430ad6a,Android,Xiaomi,Xiaomi 3
+27b2de08-9853-4b5c-9724-76372dc13c47,WindowsPhone,Lumia,Lumia 1+
+1159cad8-3381-4dcb-bb4b-84ba4b558eed,Android,Xiaomi,Xiaomi 6 Pro
+1b7a6c0b-f249-4164-a4ad-9ab1ed444fcf,Android,Xiaomi,Xiaomi 6 Pro
+49119146-a412-4d96-b2ee-c93777727257,Android,Huawei,Huawei Meta 20
+2379d6a1-7c66-4c0e-9c0a-4574f91a394a,Android,Huawei,Huawei Meta 30
+cf6693b1-f0c2-4300-9ad2-c8de6b682965,Android,Huawei,Huawei Meta 40
+0e150a8d-38a6-4f9c-9ff2-28cd16c3c3ac,IOS,iphone,iphone 11
+d9c83c2b-394e-433d-99ba-ea8e99e1cf87,Android,Huawei,Huawei Meta 40 5G
+88f6d595-7a77-4d2e-b116-e900c452df66,Android,荣耀,荣耀 10
+bed97d57-4c2b-4668-9afc-10029c724c36,WindowsPhone,Lumia,Lumia 1+
+5646b702-96ee-4b84-b111-ab22db43c241,Android,Xiaomi,Xiaomi 5
+0f223424-99a9-4d32-95e1-dd3fd3559083,Android,Huawei,Huawei Meta 20
+d17453f9-67e1-402b-8e0b-813787043bf1,Android,Huawei,Huawei Meta 20
+d50bc7d1-42bb-484f-88c1-2811bdb7f610,Android,Xiaomi,Xiaomi 4
+c5f2a11e-419b-4390-88f7-adabfc5e5428,Android,Xiaomi,Xiaomi 3
+51b2f330-4f0a-43ab-8923-bfe9489979f8,Android,Xiaomi,Xiaomi 4
+d72ade42-9584-4311-a013-6e70ddca1201,Android,Huawei,Huawei Meta 40
+69745ef7-737c-45c5-835a-71d9477ee3c6,Android,Xiaomi,Xiaomi 4
+d6c9b83e-5c71-495e-9a4a-64fd1513d3dd,WindowsPhone,Lumia,Lumia 1+
+de1048bc-4010-4933-b682-3aa9d43446b4,WindowsPhone,Lumia,Lumia 2
+69b35a63-f4c6-4cb3-9446-865571ce5f19,WindowsPhone,Lumia,Lumia 2
+61a33148-aca1-4931-9f8e-1416c4f9d8e5,Android,Huawei,Huawei Meta 30
+1b7883a7-454d-419e-838c-0c13a3267f4a,WindowsPhone,Lumia,Lumia 2
+d83dd70e-68ab-46f9-ae66-26afeee7477f,Android,Xiaomi,Xiaomi 3
+7cc51500-5f1d-4755-8b4e-caac35148e58,WindowsPhone,Lumia,Lumia 1+
+f8718dd8-72cc-4376-8419-cec9c7d094df,Android,Xiaomi,Xiaomi 5
+cda24ea0-9c37-4bae-a1f1-b0032f752dc7,WindowsPhone,Lumia,Lumia 2
+36992f99-1e14-4113-abe0-7be8e302bb62,Android,Xiaomi,Xiaomi 3
+918e30b7-5009-4db9-9948-155e3501faeb,Android,荣耀,荣耀 10
+0ec52ec3-4662-4e88-94a7-005ae54813a3,IOS,iphone,iphone 4s
+a556929d-ee18-4e9f-95ec-242e84ed7726,Android,Huawei,Huawei Meta 30
+b3228c5e-0db1-4a80-8a75-eaaa8d0f2d43,Android,荣耀,荣耀 10
+2c63423d-0732-43db-bd59-cd4cf57c5673,Android,Xiaomi,Xiaomi 5
+72787cfe-50d6-420f-9bfc-cb4a559d947f,WindowsPhone,Lumia,Lumia 1+
+6fedecf2-ecd6-4568-ae5e-72cf1b0fbd6e,Android,Huawei,Huawei Meta 30
+d270af87-a320-47bc-81d2-843cd153054a,WindowsPhone,Lumia,Lumia 2
+ab966893-bd48-4d7a-be5e-e18b11193dea,WindowsPhone,Lumia,Lumia 1+
+b8cfb535-cd72-4834-ba54-b5b6aa482513,Android,Xiaomi,Xiaomi 3
+2612938f-eb91-4f9e-8abb-af912bd61168,WindowsPhone,Lumia,Lumia 1+
+ff34013e-e3fe-4ea3-848c-5143e7477a9c,WindowsPhone,Lumia,Lumia 2
+16f18c7f-4191-4fc9-8ffd-de624a64f7a5,Android,荣耀,荣耀 10
+d554812a-509c-4433-86a0-8a36d7d968ae,Android,Huawei,Huawei Meta 40
+565b3019-a459-4775-8ff3-2eecc2ceeb6e,WindowsPhone,Lumia,Lumia 1+
+56e691cf-06d9-4a6b-b4c8-5e35b0628f11,Android,Xiaomi,Xiaomi 5
+72f359ba-8bdb-448c-a84a-8f94bd26f3fe,Android,Huawei,Huawei Meta 40
+673928bc-b6a6-476e-a9ed-f7776eafbc76,Android,Xiaomi,Xiaomi 5
+580f0c63-b6b1-4918-8cc7-1673db53f79d,Android,Huawei,Huawei Meta 20
+65b33453-603c-4a4a-9ecc-6c3dda63f2d1,Android,Huawei,Huawei Meta 40 5G
+f191a462-6c7e-471d-bc02-7502b2c4ffdc,Android,Huawei,Huawei Meta 40 5G
+d4fa278b-ef29-43f9-81ae-d334cdbffe62,Android,Xiaomi,Xiaomi 6 Pro
+396e51c0-fd89-4564-8360-87bbbf76188f,Android,荣耀,荣耀 10
+181ed616-4895-4d8f-8e04-ca11c8612f62,Android,Huawei,Huawei Meta 40 5G
+60865614-ac44-401b-9d0b-5df264e8671e,Android,Xiaomi,Xiaomi 5
+d3b101e3-88ab-4e98-990e-c3f703d6fc85,Android,Huawei,Huawei Meta 30
+ee174f19-13c4-4a73-9068-9fa019624dd8,WindowsPhone,Lumia,Lumia 1+
+e2f162e1-89b2-4114-96a3-1744d4acbe4b,WindowsPhone,Lumia,Lumia 1+
+c61b57b6-0a9c-4ded-a39d-7a14f791a85f,WindowsPhone,Lumia,Lumia 2
+b0d24b88-b344-43b7-bc32-4c74355f268d,Android,Huawei,Huawei Meta 40
+a4d1fdbd-df28-4085-a1a0-fbaa04fe5480,WindowsPhone,Lumia,Lumia 1+
+edb93d6d-0fe3-4d5a-90b9-6ecd93779158,Android,Xiaomi,Xiaomi 6 Pro
+23017540-ccef-4dcd-baff-2d7b92eccf95,Android,Xiaomi,Xiaomi 6 Pro
+e16b88ee-cf45-4849-8e1e-c33b34043a6d,IOS,iphone,iphone 12
+16c263d5-7be9-46bc-b140-0a68d043c18c,Android,Xiaomi,Xiaomi 5
+45e7e276-90f1-4f02-85f3-e665f6ed01e3,WindowsPhone,Lumia,Lumia 1+
+013634d9-bf71-4849-9645-e59a162a8aea,Android,Xiaomi,Xiaomi 4
+d4a244d7-7568-4d9a-9e9c-2371f9b639dc,WindowsPhone,Lumia,Lumia 1+
+73377c75-1483-4da2-9115-963e175e87b8,Android,Xiaomi,Xiaomi 6 Pro
+4d575987-3203-499d-a245-8a7154b1b2ab,Android,Huawei,Huawei Meta 40
+54f526bb-0c79-4e5a-a775-257fd75e2084,Android,Huawei,Huawei Meta 40
+82808be3-fb0d-49a4-91c2-1368a896ec45,IOS,iphone,iphone 8
+ec7b566b-5fcb-4714-a339-eee7388c5d1d,Android,Xiaomi,Xiaomi 5
+83a534fb-ea0f-4b18-9ac9-cd761cc17440,WindowsPhone,Lumia,Lumia 2
+f6f5a0aa-23f3-44f2-9592-9e7b06946d93,Android,Xiaomi,Xiaomi 3
+756f2632-fac3-49fb-99af-15a3f5dc9e27,Android,Huawei,Huawei Meta 40 5G
+92a4dad9-65e7-47bd-8f59-d7d88722d5be,Android,Huawei,Huawei Meta 40 5G
+a14180bf-9446-41da-9358-54e1bf3c9ef2,Android,Huawei,Huawei Meta 20
+22a8145e-b089-4c3c-9962-eae281773f52,Android,Huawei,Huawei Meta 40
+2f49edb6-cbd8-4bf0-a31e-991bdf3e23a5,WindowsPhone,Lumia,Lumia 1+
+9f22e55d-2de5-4ce9-bf17-c0c42472d2c4,Android,Huawei,Huawei Meta 40 5G
+06cb2b03-a5df-44b4-aadf-f20bcac79d24,Android,Huawei,Huawei Meta 30
+f59ad677-d722-4c5f-b44e-c21378048125,Android,荣耀,荣耀 10
+e4ecae17-2b22-439a-8c06-99619a9c22f8,Android,Xiaomi,Xiaomi 5
+91325a95-3c4a-4c22-84a0-a26d8425a3a7,Android,Huawei,Huawei Meta 40
+1e12c687-0edc-46d1-bf68-723fc2a52500,Android,Xiaomi,Xiaomi 3
+b2d8d865-560d-4620-b5c7-3c6e469e0f47,WindowsPhone,Lumia,Lumia 1+
+67c7047a-3c48-46c3-bc4a-1769a30f4835,Android,荣耀,荣耀 10
+3bafaec4-d89b-44f0-8cb6-1006fbd0c582,Android,Huawei,Huawei Meta 40
+406d15a3-7fff-492f-8743-bb0990e9791c,Android,荣耀,荣耀 10
+a93a6a8b-f4c1-4e67-95af-9435e3c8bece,WindowsPhone,Lumia,Lumia 2
+d16e20dc-83dd-456a-a406-a79fc2366da9,Android,Xiaomi,Xiaomi 6 Pro
+f52800cf-70ff-4801-acdf-23df000216ba,Android,Huawei,Huawei Meta 30
+f30af14b-793b-47f7-a07e-46389ffe5023,Android,荣耀,荣耀 10
+db7abb43-9d5f-447a-bc7a-482e06b6072c,Android,Xiaomi,Xiaomi 6 Pro
+7cfdd094-3c1a-43dd-af84-c29d65e97972,Android,Xiaomi,Xiaomi 4
+52ebf926-2791-4cc5-be19-0838e577e2a9,Android,Huawei,Huawei Meta 20
+8e592c8e-ebe1-4b2e-a71f-93b74d19fdca,WindowsPhone,Lumia,Lumia 1+
+2de0207e-02e9-4404-9b5c-58b1e66336bf,Android,Huawei,Huawei Meta 30
+3fc1a6bf-3234-4333-8e13-e3c912383595,Android,Huawei,Huawei Meta 20
+9392045f-4dfc-47ef-95f3-880374d135f5,WindowsPhone,Lumia,Lumia 1+
+b411b19a-d7e3-4e44-b79e-bd8ff6d61e90,Android,Xiaomi,Xiaomi 6 Pro
+6f5b57aa-b80a-4d8b-9b8e-af78983ba677,Android,Huawei,Huawei Meta 20
+0ee5b4de-dd15-45b2-986f-5b4a38cc0cf0,Android,Xiaomi,Xiaomi 5
+0b008e7c-f6cc-4239-8e97-11e1c7c6140b,WindowsPhone,Lumia,Lumia 2
+9d03dcd7-8a7b-4ca7-bd50-f32096e81f9d,Android,Xiaomi,Xiaomi 5
+18add041-c5b3-4c59-a15e-7d6c7b13dae7,Android,Xiaomi,Xiaomi 6 Pro
+7dd6f9b6-2e28-4df9-aff3-ec9a4138414d,Android,Xiaomi,Xiaomi 6 Pro
+ee91d35b-ab1d-45ab-8c5b-d3eab11ca5d4,Android,Huawei,Huawei Meta 20
+ee36b92d-daa7-4816-90e2-1bfe92f24f3f,WindowsPhone,Lumia,Lumia 1+
+f39fd312-6d4d-4afc-9711-be57cb1a87ab,WindowsPhone,Lumia,Lumia 1+
+4fdb470a-7751-4109-b4bb-a5ca3c66dac9,Android,Huawei,Huawei Meta 20
+3bb45a00-ae15-4f63-b376-97301a4e3648,Android,Huawei,Huawei Meta 30
+7ad75835-0eb5-4bbc-bfbf-18cb5e0e239a,Android,Huawei,Huawei Meta 40
+5ffb9689-ce28-443f-894d-8d5105b79d9c,Android,Xiaomi,Xiaomi 3
+411c038c-4d10-4b2d-9c16-89c216e3465b,Android,Xiaomi,Xiaomi 5
+cdc2d7ab-0fa3-4542-a7d0-a6b06886a312,Android,Xiaomi,Xiaomi 6 Pro
+7fba202b-ac14-4f6d-99d6-8186723b824c,Android,荣耀,荣耀 10
+6b2f21f9-5ef9-4c49-9c24-a2b573a94cc0,WindowsPhone,Lumia,Lumia 1+
+0a12618c-175a-4e86-a777-cfe44463c030,Android,Huawei,Huawei Meta 40 5G
+8111fa4f-88b8-4ae2-9c38-9540f55acb63,IOS,iphone,iphone 5
+350fedfe-ee30-46ea-ba1c-166400839e62,Android,Xiaomi,Xiaomi 5
+50c47ea4-4049-4f84-842b-4bb867757549,Android,荣耀,荣耀 10
+ecc09825-a027-460e-a896-b6c464bca854,Android,Xiaomi,Xiaomi 6 Pro
+36524e6b-de3f-4765-b005-5f461a113a3d,Android,Xiaomi,Xiaomi 4
+6c379cde-f377-4760-ae40-8228da65db07,Android,Xiaomi,Xiaomi 6 Pro
+a051e378-a976-4d52-9a6c-c14dab98561c,WindowsPhone,Lumia,Lumia 1+
+765a3362-a508-44a7-8bb7-bc7c0ccedbee,Android,Huawei,Huawei Meta 40 5G
+16b453ee-d7c3-4e8b-b27e-b1cd2b45777f,Android,Huawei,Huawei Meta 30
+1bc88549-5e8a-4de3-9ecb-eac90bcc9d87,WindowsPhone,Lumia,Lumia 2
+b951376a-430a-4803-bc44-f730bb2b6298,WindowsPhone,Lumia,Lumia 2
+23969549-5f3c-4668-8c51-16e98db212c1,Android,Xiaomi,Xiaomi 5
+2e96a5c0-3bcb-4ddf-a27d-ef325b02c97f,Android,Huawei,Huawei Meta 40 5G
+b63b4b78-d4b2-41d4-95d6-9c007305e2d1,Android,Huawei,Huawei Meta 40 5G
+0d5d8f07-290d-487a-b69f-8c96d9d78c01,Android,Xiaomi,Xiaomi 5
+c48a599f-cff0-4336-bf80-42591521352b,WindowsPhone,Lumia,Lumia 1+
+d51b8cde-b135-47df-a669-f6dafe094114,Android,Xiaomi,Xiaomi 4
+d96b2c09-968b-43e6-bb30-ad190550c445,Android,Xiaomi,Xiaomi 3
+ef201816-6fd4-4960-b0a8-13073bbf3f94,Android,Huawei,Huawei Meta 30
+b2550d7a-9274-4a7e-a7cf-3f6e193da191,Android,Huawei,Huawei Meta 40 5G
+7f471548-b4c3-49af-a852-10a1ce41c8bf,Android,Huawei,Huawei Meta 40 5G
+bd176eb3-57fa-4969-ba1d-40a9b06a7526,Android,Huawei,Huawei Meta 20
+ad336f5e-0fdc-45c8-bd95-c29e9cf32191,Android,Huawei,Huawei Meta 30
+67ccc617-c22e-4437-b457-1d831643ff43,Android,Xiaomi,Xiaomi 4
+b50bcc98-8401-42df-9d10-fa31e422c14e,WindowsPhone,Lumia,Lumia 1+
+573e5fb5-4c8b-4e03-b9ae-968125d34fb1,Android,Huawei,Huawei Meta 40
+f1527bea-c3c7-49b6-a6e2-6a9b8c5472de,Android,Huawei,Huawei Meta 20
+8977fba1-54aa-4a88-8cbc-48746e8834d0,Android,Xiaomi,Xiaomi 5
+be37f057-c5cb-4e2f-a481-2cc78a447455,Android,Xiaomi,Xiaomi 3
+fe30675d-8aec-436e-8941-16afff0d0e96,Android,Huawei,Huawei Meta 40 5G
+6b5d5dfb-2b02-4e67-80db-7d5656d14219,Android,Huawei,Huawei Meta 40
+5193f0dc-1324-4e2e-9f5e-c4586d5bad1c,Android,荣耀,荣耀 10
+74c1b8aa-73f1-4d4e-a8fd-7a1421f0f592,Android,Xiaomi,Xiaomi 5
+b4eebf00-9ea8-4620-bfe7-d317ac0678a9,Android,Xiaomi,Xiaomi 4
+d11d1674-874f-4490-9f84-0f8739d04d26,WindowsPhone,Lumia,Lumia 1+
+0b1b77d8-b121-4e19-a7ad-9299236c014c,WindowsPhone,Lumia,Lumia 1+
+64c35b7b-77d3-4e05-9f37-ac453be97698,WindowsPhone,Lumia,Lumia 2
+bc95bcc2-f036-4857-8678-9e3b4a0bac01,Android,Huawei,Huawei Meta 20
+7afd85f1-a918-489f-9d04-9f1411892e0e,Android,Huawei,Huawei Meta 20
+e75156f8-24ed-48a3-98c4-1ebeec0d0d9b,Android,Huawei,Huawei Meta 40
+f2d891e6-5313-4ab2-b7d9-5b3dc7c66405,Android,Xiaomi,Xiaomi 5
+139f430a-1449-4feb-b0f3-2da9027d05a4,Android,Huawei,Huawei Meta 40 5G
+b3de367e-2ee7-4db1-9521-4b21ac2b8b26,Android,Huawei,Huawei Meta 40
+9d295506-7997-4bf3-94b9-ee8db1a1a94b,WindowsPhone,Lumia,Lumia 1+
+64a9b6e4-8ece-471f-adc9-7a97b20d8ee6,Android,Huawei,Huawei Meta 40
+466e829e-10be-42c5-bf40-266bd17dafe6,IOS,iphone,iphone x
+dea69d37-45fd-4fbd-bdf9-44923f5f148e,Android,Huawei,Huawei Meta 40 5G
+74277ba4-0b30-4e47-ad6f-7c0b4f4acce7,Android,Xiaomi,Xiaomi 3
+b90b5a14-b98e-4abc-8aa8-3d945d5eddee,Android,Huawei,Huawei Meta 20
+ae9c0245-6561-4b95-b8e3-6adff87d3015,Android,Huawei,Huawei Meta 40 5G
+d4dc48f5-439d-4797-b1b2-2a680451f4ac,WindowsPhone,Lumia,Lumia 2
+71c67e0d-ae25-4fab-8c5b-4c5d9b428ae1,Android,Huawei,Huawei Meta 20
+53b3f743-d2d8-41b2-922c-0be86ebf483b,Android,Xiaomi,Xiaomi 5
+a487f62a-f309-44b1-8e09-4299efe74c2a,Android,Huawei,Huawei Meta 30
+bf5a76c3-e976-476d-b781-96031d92ef3d,WindowsPhone,Lumia,Lumia 2
+c82f5528-a227-4b24-a945-d08138046e4e,Android,Xiaomi,Xiaomi 6 Pro
+f4e33c0a-5aaa-49c2-aeee-9488407c9943,WindowsPhone,Lumia,Lumia 2
+33302fb5-0679-47e8-8450-570309051691,Android,Xiaomi,Xiaomi 6 Pro
+2f75194d-7f4b-44bd-84d6-76151ae32aab,WindowsPhone,Lumia,Lumia 1+
+2bb3ff14-0ff6-4e8e-9254-0d03502812da,Android,荣耀,荣耀 10
+9cdc6c60-9946-48ae-942c-a1b9b62dc737,Android,Huawei,Huawei Meta 40 5G
+dd289110-b14e-4dbf-a1c3-95ad9aaf645d,Android,Xiaomi,Xiaomi 3
+4689d875-5840-495c-9c75-6e4af89abdbb,Android,Huawei,Huawei Meta 30
+c538cab5-74af-4f74-850d-ab465613b8be,Android,Xiaomi,Xiaomi 5
+067520c3-d632-4db2-8856-50c85f5baab3,Android,Huawei,Huawei Meta 20
+26111527-6255-4c91-abad-85f6eb3d0c55,Android,Huawei,Huawei Meta 20
+722be0c1-6c17-438a-ad30-a55eba584850,WindowsPhone,Lumia,Lumia 2
+1d39265a-d78f-4847-9ca9-757583b7e396,WindowsPhone,Lumia,Lumia 2
+cf44fd28-124d-4339-bfc3-5839d756f491,WindowsPhone,Lumia,Lumia 1+
+ee64ed65-efd0-4e6c-9b9c-f0a6fd0ab08d,Android,Xiaomi,Xiaomi 3
+d9b04cd1-007a-485b-bb21-56ccdc0abafa,WindowsPhone,Lumia,Lumia 2
+c6db8adb-2a4f-4e15-9b09-a6006b62e519,WindowsPhone,Lumia,Lumia 1+
+c7ed41af-484b-4d9c-8af6-5694b1a57232,Android,荣耀,荣耀 10
+7e05feea-4348-43d0-aba6-c4cbe7f90d87,IOS,iphone,iphone 6
+7c1700a8-7a7f-405f-91e1-c1b7277db0b7,IOS,iphone,iphone 9
+39ee22e2-8f01-4f1d-9864-70b7c512788f,Android,荣耀,荣耀 10
+2c2917f0-db7d-40b1-9ab8-f3fa214f0a43,Android,Xiaomi,Xiaomi 5
+64c2442a-4547-4f5e-a5e9-0d059e048e35,WindowsPhone,Lumia,Lumia 1+
+7f746fad-4a00-4443-955b-65d357310638,Android,Huawei,Huawei Meta 20
+f409b764-ddee-4f12-91cc-755bc0acc093,Android,Xiaomi,Xiaomi 5
+1ee5a79d-f987-43e8-ab7d-756a9f0ecf22,Android,Xiaomi,Xiaomi 5
+283b0762-3902-4328-aba5-437677f3086b,Android,Xiaomi,Xiaomi 3
+7aa02b7e-41ec-412f-bbbd-44dc5c7ca8b8,Android,Xiaomi,Xiaomi 3
+0edef44c-6fe4-4613-a558-33901c6e99d9,Android,Huawei,Huawei Meta 40 5G
+17837d8a-d823-4dd6-a487-03fe49323962,Android,荣耀,荣耀 10
+68532328-9fa2-435b-8709-4e6c983ed32c,Android,Huawei,Huawei Meta 40
+1dc3fe7a-ba9f-4444-be54-782b7267caf3,WindowsPhone,Lumia,Lumia 2
+495ec4b1-430e-4566-b125-382b29cbac33,Android,Huawei,Huawei Meta 40
+f3ca3280-638b-4bfa-8862-b937be95dbfc,Android,Huawei,Huawei Meta 30
+d1b327c6-dbaa-455d-899e-87731a2b9f14,Android,Xiaomi,Xiaomi 5
+0a97c676-0ad1-4f1e-b58b-91e25152a48f,Android,Huawei,Huawei Meta 20
+7327025d-6f82-441b-876c-206d42f6aafd,Android,荣耀,荣耀 10
+c379b383-38bb-4efb-bbac-20bc20321dc3,Android,Xiaomi,Xiaomi 5
+3934c0c2-f5ed-4419-99ef-114c558eafcf,WindowsPhone,Lumia,Lumia 1+
+433e6a98-87a0-4cbe-b961-0a88c7335d22,Android,Huawei,Huawei Meta 20
+e1b37a45-29d2-419d-8564-ffcdd98f66c6,Android,Xiaomi,Xiaomi 4
+c436ad15-dc1d-41bc-9cf6-e75bc3d9a035,Android,荣耀,荣耀 10
+f6aeeadb-7ce2-4cb0-9886-d48e0800e8c7,Android,Huawei,Huawei Meta 40
+39fb7de7-ef53-41a8-81d9-08f5d39704aa,Android,Huawei,Huawei Meta 30
+d7b6899a-8ad6-44c6-8ce4-9d284665f4e5,WindowsPhone,Lumia,Lumia 2
+98e7ab0c-7b34-4461-aeef-d5e9c3262077,Android,Huawei,Huawei Meta 20
+c16a96fd-9ea2-4af3-87fe-579b7b000043,WindowsPhone,Lumia,Lumia 2
+8242e03f-74b6-40bb-ac1a-7cefaf783ddc,Android,Xiaomi,Xiaomi 3
+9959b54b-8e44-440a-8ebc-a0b3c4dc4855,Android,Xiaomi,Xiaomi 4
+1c9ec93d-1c78-47e9-a8f8-3b280e2d2652,Android,Xiaomi,Xiaomi 6 Pro
+777951d8-ea77-4ef3-9055-1abfa0bdeb72,Android,Huawei,Huawei Meta 40 5G
+e308f143-c423-4e96-905d-89b161daa360,WindowsPhone,Lumia,Lumia 2
+ff05e9cf-4edf-4de8-b82c-1269329dbf4c,IOS,iphone,iphone 9
+cce3bda2-e268-43e5-b18e-e65a0c839033,Android,Huawei,Huawei Meta 20
+634dcbf6-9313-4ae1-988c-afe02455ff0a,WindowsPhone,Lumia,Lumia 2
+93999e42-17b3-433a-8934-5e246d127e3c,Android,Xiaomi,Xiaomi 4
+2594c386-cb8a-4066-9c6f-3806419d351c,Android,Xiaomi,Xiaomi 5
+70d5e522-ac25-49db-83ab-37d88e23e3e8,Android,Xiaomi,Xiaomi 3
+cf8c4563-bcfa-460c-8075-dcdb7c92359e,WindowsPhone,Lumia,Lumia 2
+1de315f2-1df4-4804-91ba-441a76b874e8,Android,Xiaomi,Xiaomi 6 Pro
+5c5b4c16-ca1d-4773-b994-c59094f710d9,Android,Huawei,Huawei Meta 20
+62b93483-8770-498c-9335-45afa00f40d8,Android,Xiaomi,Xiaomi 4
+3af82ec8-cf4d-4d01-bb45-b44c019e46d1,Android,Xiaomi,Xiaomi 6 Pro
+26c23922-0407-44b6-adfe-f2e04fe32472,Android,Huawei,Huawei Meta 40 5G
+30308382-4013-4353-bce3-696e7ca0b5b2,Android,Huawei,Huawei Meta 40
+91cd07e7-aea9-437a-9304-39c7f29dfd49,Android,荣耀,荣耀 10
+c4beb76a-c78a-4f70-ad69-5c6b2b4362ed,Android,Huawei,Huawei Meta 30
+eb627933-eea3-47a9-b0ef-61bcb3322d60,Android,Xiaomi,Xiaomi 3
+560bcec5-1fd2-4e4f-92e8-215423c17c21,IOS,iphone,iphone 12
+751bf643-4ee7-45ed-ad8d-dec94ab80b34,Android,Huawei,Huawei Meta 30
+0b2339c9-3db7-4201-ae07-a9b8bb4e8caf,WindowsPhone,Lumia,Lumia 1+
+6046ef7f-744d-423c-b6ce-1326a4dde381,Android,Huawei,Huawei Meta 20
+1e692df3-61ff-4e7a-a7a8-2093bebaba6b,IOS,iphone,iphone 4s
+3bbc5cae-aeb2-4110-94aa-b800bc748f3d,Android,Xiaomi,Xiaomi 3
+f383f388-e78a-48c8-96d5-7b430b14ce74,Android,Huawei,Huawei Meta 40
+54287f17-5540-424e-8dbb-646ec44f3bb8,Android,Huawei,Huawei Meta 40
+4897c1a7-581f-4b30-b843-b050f42231b0,WindowsPhone,Lumia,Lumia 2
+c72cef90-406e-4d08-9a07-b1d3d7c984ef,IOS,iphone,iphone 6
+35c2712f-f579-4f25-a210-5d4bd3f78802,WindowsPhone,Lumia,Lumia 1+
+cb54a004-403f-41e4-b234-f6f0aca3ef61,Android,Xiaomi,Xiaomi 3
+be9498f9-d000-4b37-9869-56ada3496c14,WindowsPhone,Lumia,Lumia 2
+fdd4abc4-c985-4178-bbbf-bc61944204e1,Android,Huawei,Huawei Meta 20
+b5163f86-717b-48ba-bfc3-2a3f886c3f01,Android,Huawei,Huawei Meta 40
+1acca128-ab7d-4160-88be-b0d86f15c873,IOS,iphone,iphone 7
+2230a637-2658-4e3a-a9ea-c55700290357,WindowsPhone,Lumia,Lumia 2
+3970a7fd-9c5d-4cd3-9caf-f598a1a5afe8,WindowsPhone,Lumia,Lumia 2
+5e26b86b-ff4d-49c4-bc74-30bec59e4928,Android,Xiaomi,Xiaomi 6 Pro
+37c03ec2-3e73-48a8-aaef-e0017e2338c8,Android,荣耀,荣耀 10
+0a437b2f-ac0b-4f77-a810-7ff5641f69e4,Android,Xiaomi,Xiaomi 4
+cb4cc530-bbb0-4d1f-ae55-da4a28d69a91,Android,Xiaomi,Xiaomi 5
+d716b8cf-1081-4b84-a9df-0441a08ed41b,WindowsPhone,Lumia,Lumia 1+
+0696dce0-2aec-451a-9915-8441a97d44e5,IOS,iphone,iphone 6
+d67fde79-bf17-42f3-af6f-c12810f42ddc,Android,Huawei,Huawei Meta 40
+1fe6a070-e0bd-49f2-b54f-581943380ebf,Android,Xiaomi,Xiaomi 6 Pro
+91baa247-a504-4c8a-8dec-c3fddc80df46,Android,Huawei,Huawei Meta 30
+f444ef3a-1aee-4a29-9071-a468338e0e01,Android,Huawei,Huawei Meta 30
+b46bbfb1-db2c-4c99-b887-26e60f85bc60,Android,Xiaomi,Xiaomi 5
+08b47adf-5f06-4697-86f9-449ed306103b,Android,Huawei,Huawei Meta 30
+99a0f549-6dd4-4835-b0f0-8f365b1cfebc,Android,荣耀,荣耀 10
+3145314d-827a-49d7-9013-18baedfe5118,Android,Xiaomi,Xiaomi 6 Pro
+e7376819-2f8c-4928-a607-3445363bfdd7,Android,Huawei,Huawei Meta 30
+b2065247-dfd1-47e7-be20-28fd316073e5,WindowsPhone,Lumia,Lumia 2
+94fd6505-4ca0-4d62-a898-5d2559b98ab6,WindowsPhone,Lumia,Lumia 2
+4aedd202-e457-40c3-9bea-badd83429b10,Android,Huawei,Huawei Meta 30
+40d08701-dd30-48b0-bf9c-fa5b5f2e56a9,Android,Huawei,Huawei Meta 40
+4e86cf59-05b8-4f84-a787-7a592007fb6b,IOS,iphone,iphone 4s
+73f5eec4-ae6f-466b-a20c-2a3d2b8b68fc,Android,Xiaomi,Xiaomi 6 Pro
+3ba2a2e0-c005-41c7-9afa-af84e4929675,Android,Xiaomi,Xiaomi 4
+be92939b-588a-46b8-8867-2488b05e1d5f,WindowsPhone,Lumia,Lumia 2
+aea4e05a-1024-48a4-88a7-8d4d552830c6,IOS,iphone,iphone 11
+8af0e431-efe0-4fab-8f46-05770d048b81,WindowsPhone,Lumia,Lumia 2
+b16f2e8e-3a8d-4a25-9ede-29512e9824c8,WindowsPhone,Lumia,Lumia 1+
+e95465f3-10ad-4fcd-8d2b-80251d42ee65,Android,Xiaomi,Xiaomi 5
+3d73314d-c1b6-4355-a831-a4a8a76eedad,WindowsPhone,Lumia,Lumia 2
+a791bd57-ab97-4ee5-8f0f-8295a3f46159,Android,Xiaomi,Xiaomi 5
+656e4088-084b-43ac-8cef-33750eb7f2e1,WindowsPhone,Lumia,Lumia 2
+e51d5cb1-cbbd-47c7-9af5-e104c21588f6,Android,Huawei,Huawei Meta 40 5G
+044920e5-88c2-434d-aca2-12c4fa316a2e,Android,Xiaomi,Xiaomi 5
+6efe8ccf-dcc1-470c-a042-65309701c6b4,Android,Xiaomi,Xiaomi 3
+6676e02e-7541-480a-8a3f-d1517a792d5c,WindowsPhone,Lumia,Lumia 2
+073fae16-fa23-43b9-bea2-8d5e804f9204,Android,荣耀,荣耀 10
+9e8a4a3e-3610-48db-8658-5a1a8e717b34,Android,荣耀,荣耀 10
+ee918967-514e-4d98-b778-67e024675777,Android,Huawei,Huawei Meta 20
+eccd73e5-a8d9-45ed-be7c-863427850dc0,WindowsPhone,Lumia,Lumia 1+
+5a6b962b-6141-45e4-bc73-bbd2bd94959f,Android,Huawei,Huawei Meta 20
+834a1206-c1c4-4f5e-a3c3-67610dffaad0,Android,Xiaomi,Xiaomi 5
+006580e5-07b2-4c81-a868-608e293b43ca,Android,Huawei,Huawei Meta 40 5G
+7cd6283b-ad02-44bd-9378-66444487e2b4,Android,Huawei,Huawei Meta 40
+3200739b-b139-4b14-8433-49cbf2bb69a4,Android,Huawei,Huawei Meta 30
+db450fbe-f636-4db4-957c-de3f3a7e5919,WindowsPhone,Lumia,Lumia 2
+1b57e0e7-c1ed-4a49-aa07-10b9282a9ebb,Android,Huawei,Huawei Meta 30
+b9302c5a-72da-4048-9bb1-1f879c95d460,Android,Xiaomi,Xiaomi 4
+ed11ea57-c4aa-4bd1-b003-20a7dd7c11e0,Android,Huawei,Huawei Meta 20
+a67ae472-d382-4f7d-b2eb-60f24890ea49,Android,荣耀,荣耀 10
+18c38510-2854-44e0-982a-9d3493e932a7,Android,Xiaomi,Xiaomi 6 Pro
+489c27d6-75c1-4181-a3f0-9fa5f2bcab74,Android,Xiaomi,Xiaomi 5
+db4d26ce-b107-49e9-8ce8-29162ef171ab,Android,Xiaomi,Xiaomi 6 Pro
+ab047282-5c0d-40c1-9181-ab9aaba6ca1d,Android,Huawei,Huawei Meta 20
+4a1265cf-ada6-441a-a95e-dffcbbb0e234,Android,Huawei,Huawei Meta 30
+7d373134-27fd-4656-85af-cf702ef03870,Android,Xiaomi,Xiaomi 4
+ea3b3e4c-50a7-4511-a348-c5d41639103e,WindowsPhone,Lumia,Lumia 2
+758b100a-f419-4db4-ae05-b93ff11fd17b,Android,Xiaomi,Xiaomi 3
+d9c04601-17cf-4ccb-a9e5-29d3b579a66c,IOS,iphone,iphone 9
+9d00bc91-026c-4711-ae8c-4a27dcbce54f,WindowsPhone,Lumia,Lumia 2
+f4b473d1-32ae-4860-afa1-594d27ed69f6,WindowsPhone,Lumia,Lumia 2
+760e6237-d5eb-47d1-b2fc-53e79cd7a9ed,IOS,iphone,iphone 12
+ae727986-b416-48d6-b9f1-36e09f8595e9,Android,Huawei,Huawei Meta 40
+e7494793-ef03-480f-abdc-46b91b954a31,WindowsPhone,Lumia,Lumia 2
+a1407dac-7902-45a9-90d5-ade6695011af,Android,Xiaomi,Xiaomi 4
+5f1cf7fb-9523-425e-bb74-d22ea577693a,Android,Xiaomi,Xiaomi 5
+21f6c5ac-d393-4612-9c86-6afdb9c858c1,Android,Xiaomi,Xiaomi 5
+2c037b9b-b242-4e71-a97f-f5ef6e8947bd,Android,Huawei,Huawei Meta 30
+a1ffff43-0aa2-447d-b59e-2ce0225607cb,Android,Xiaomi,Xiaomi 3
+086360d0-5f31-44d1-8c6f-00ab984f3ce0,WindowsPhone,Lumia,Lumia 1+
+8a2eea39-08d9-4aca-87c8-81b9b81a1382,Android,Huawei,Huawei Meta 40 5G
+6a75ae7c-34cb-4dcc-a48d-14399ee00006,Android,荣耀,荣耀 10
+7ea8e0e1-175c-4da5-bcb4-d0ba2fb4660f,Android,Xiaomi,Xiaomi 5
+0e1f09e2-a12e-4870-9b96-fd5541b22f3d,Android,Xiaomi,Xiaomi 3
+27514a58-cec9-4e1f-bb81-cba41c13fd60,WindowsPhone,Lumia,Lumia 1+
+99021a44-3484-4f6d-83bd-c5776f69f881,WindowsPhone,Lumia,Lumia 2
+6aa80384-3eee-4f70-b855-960c5b66dc9b,Android,Huawei,Huawei Meta 40
+78dde201-8b7a-4652-824b-22867e6923ed,Android,荣耀,荣耀 10
+db710441-200a-44c3-b8c9-638018fe5df2,Android,Xiaomi,Xiaomi 5
+25603dc9-ac71-454f-bd1b-68bdb0577e4c,Android,Huawei,Huawei Meta 20
+110ef985-c475-4cd9-9e01-856669bfbed3,Android,Xiaomi,Xiaomi 6 Pro
+d0b5fb4c-5245-4edc-b151-33dccd9f5ef3,IOS,iphone,iphone 9
+d39109e1-03c4-4db8-a8e0-73debf07bf2f,WindowsPhone,Lumia,Lumia 1+
+9939ba82-190e-4f0a-a90e-bf3468df5c64,Android,Huawei,Huawei Meta 40 5G
+ae4ddc95-520a-459e-ab9e-48bb3d6b9d77,Android,Huawei,Huawei Meta 20
+5349108a-ecab-4462-9e3f-b0f486eeaf14,Android,Xiaomi,Xiaomi 6 Pro
+a07a4bc1-8bf8-4681-9a07-6be8154a4dfc,Android,Huawei,Huawei Meta 30
+dedc9340-fc2d-4680-a743-101baaf3ad5f,Android,Xiaomi,Xiaomi 6 Pro
+d59a45ad-209b-4e91-8de3-f6140f5562bb,Android,Huawei,Huawei Meta 40 5G
+9b98de9d-1291-4520-8f97-ef934be84cee,WindowsPhone,Lumia,Lumia 2
+4fde4da4-3f09-4bbf-9463-130eb2055aa3,Android,Xiaomi,Xiaomi 5
+6d4a14e2-b07f-4eb6-ac78-5e6894fb00fe,Android,Huawei,Huawei Meta 40
+8a3e0e9a-3f83-428e-b93b-dc75c4420862,Android,Huawei,Huawei Meta 40 5G
+3f12e934-8294-4ec5-a01e-6a5463c7513e,Android,Xiaomi,Xiaomi 5
+200580ea-f646-4168-83ab-fdae1bdae30f,Android,Huawei,Huawei Meta 20
+c86112d2-bfb2-4f0b-a30b-4bd352eae82a,Android,Huawei,Huawei Meta 40
+8249aa22-c193-4858-ae9f-ce9c29c39ca7,Android,Xiaomi,Xiaomi 6 Pro
+09f0336a-d3bf-4c5f-9f05-ed8e340bad84,Android,Xiaomi,Xiaomi 5
+5aaf2227-d4c7-42c9-b610-941d0f3f3526,WindowsPhone,Lumia,Lumia 2
+35e10d48-3fe3-443a-b89a-7285a0d713ae,Android,Xiaomi,Xiaomi 3
+90508e3a-da2d-4635-963d-6e91e38732d6,Android,Xiaomi,Xiaomi 4
+80e3c024-f538-4cb1-8aa0-57cde13df1bb,Android,Huawei,Huawei Meta 20
+56f66d80-79f9-40e7-b617-151aaf5b1a7e,Android,Xiaomi,Xiaomi 4
+ecaf640e-6afc-4c4f-a780-92f1ce3eefe3,Android,Xiaomi,Xiaomi 4
+1acd8eab-eab5-45e3-8b97-dd4d64bbbc61,Android,Xiaomi,Xiaomi 3
+3868a173-f12a-4a8a-8226-6b90835025b0,Android,Huawei,Huawei Meta 30
+1cf804c9-7d3d-49e1-ac3a-4e4d8fda6ba0,Android,Huawei,Huawei Meta 40 5G
+9a347738-03ff-44b4-bbc2-253075c8212b,Android,Xiaomi,Xiaomi 3
+cc74906e-1eae-4eaa-ae20-fa1b9a3099d8,Android,Huawei,Huawei Meta 40 5G

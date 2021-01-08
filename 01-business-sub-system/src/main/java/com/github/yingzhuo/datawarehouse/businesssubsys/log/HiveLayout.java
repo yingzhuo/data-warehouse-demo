@@ -9,23 +9,21 @@
  * https://github.com/yingzhuo/data-warehouse-demo
  * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
  */
-package com.github.yingzhuo.datawarehouse.businesssubsys.log
+package com.github.yingzhuo.datawarehouse.businesssubsys.log;
 
-import org.slf4j.LoggerFactory
+import ch.qos.logback.classic.spi.ILoggingEvent;
+import ch.qos.logback.core.LayoutBase;
+import org.apache.commons.lang3.time.DateFormatUtils;
 
-object UserBehavior {
+public final class HiveLayout extends LayoutBase<ILoggingEvent> {
 
-  private val Delimiter: Char = '\u0001' // hive delimiter
-  private val LoggerLogin = LoggerFactory.getLogger("UB_LOGIN")
-
-  /**
-   * 登录行为
-   *
-   * @param userId 用户ID
-   * @param result "OK" | "NG"
-   */
-  def login(userId: String, result: String): Unit = {
-    LoggerLogin.info(s"{}$Delimiter{}", userId, result)
-  }
+    @Override
+    public String doLayout(ILoggingEvent event) {
+        return new StringBuilder()
+                .append(DateFormatUtils.format(event.getTimeStamp(), "yyyy-MM-dd HH:mm:ss"))
+                .append('\u0001')
+                .append(event.getMessage())
+                .toString();
+    }
 
 }

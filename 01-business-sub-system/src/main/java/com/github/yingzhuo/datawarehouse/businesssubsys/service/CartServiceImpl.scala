@@ -95,20 +95,6 @@ protected class CartServiceImpl(cartDao: CartDao,
   }
 
   @Transactional(propagation = Propagation.REQUIRED)
-  override def emptyCartForUser(userId: String): Cart = {
-    val cart = findCartByForUser(userId)
-    cart.setTotalCount(0)
-    cart.setTotalAmount(0L)
-    cartDao.save(cart)
-
-    val items = cartItemDao.findByUserId(userId)
-    if (items != null && !items.isEmpty) {
-      cartItemDao.deleteAll(items)
-    }
-    cart
-  }
-
-  @Transactional(propagation = Propagation.REQUIRED)
   override def findCartByForUser(userId: String): Cart = createCartIfNecessary(userId)
 
   private def createCartIfNecessary(userId: String): Cart = {
@@ -128,6 +114,20 @@ protected class CartServiceImpl(cartDao: CartDao,
     newCart.totalAmount = 0L
     cartDao.saveAndFlush(newCart)
     newCart
+  }
+
+  @Transactional(propagation = Propagation.REQUIRED)
+  override def emptyCartForUser(userId: String): Cart = {
+    val cart = findCartByForUser(userId)
+    cart.setTotalCount(0)
+    cart.setTotalAmount(0L)
+    cartDao.save(cart)
+
+    val items = cartItemDao.findByUserId(userId)
+    if (items != null && !items.isEmpty) {
+      cartItemDao.deleteAll(items)
+    }
+    cart
   }
 
 }
