@@ -8,7 +8,6 @@ spring:
     active:
       - prod
     include:
-      - default
   aop:
     auto: true
   main:

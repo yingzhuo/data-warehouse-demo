@@ -13,12 +13,14 @@ package com.github.yingzhuo.datawarehouse.businesssubsys.robot
 
 import com.github.yingzhuo.datawarehouse.businesssubsys.service.{CartService, OrderService}
 import javax.persistence.EntityManager
+import org.springframework.context.annotation.Profile
 import org.springframework.scheduling.annotation.Scheduled
 import org.springframework.stereotype.Component
 
 import scala.util.Random
 
 @Component
+@Profile(Array("!norobot"))
 private[robot] class OrderCreatingRobot(em: EntityManager,
                                         cartService: CartService,
                                         orderService: OrderService

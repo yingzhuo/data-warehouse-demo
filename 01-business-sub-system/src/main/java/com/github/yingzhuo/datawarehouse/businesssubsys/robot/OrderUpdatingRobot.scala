@@ -14,10 +14,12 @@ package com.github.yingzhuo.datawarehouse.businesssubsys.robot
 import com.github.yingzhuo.datawarehouse.businesssubsys.domain.OrderStatus
 import com.github.yingzhuo.datawarehouse.businesssubsys.service.{EvaluationService, OrderService}
 import javax.persistence.EntityManager
+import org.springframework.context.annotation.Profile
 import org.springframework.scheduling.annotation.Scheduled
 import org.springframework.stereotype.Component
 
 @Component
+@Profile(Array("!norobot"))
 private[robot] class OrderUpdatingRobot(em: EntityManager,
                                         orderService: OrderService,
                                         evaluationService: EvaluationService) extends AbstractRobot(em) {

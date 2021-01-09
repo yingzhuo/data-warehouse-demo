@@ -15,6 +15,7 @@ import java.nio.charset.StandardCharsets
 
 import com.github.yingzhuo.datawarehouse.businesssubsys.log.LoggerWrapper
 import org.apache.commons.io.IOUtils
+import org.springframework.context.annotation.Profile
 import org.springframework.core.io.ClassPathResource
 import org.springframework.scheduling.annotation.Scheduled
 import org.springframework.stereotype.Component
@@ -23,6 +24,7 @@ import scala.jdk.CollectionConverters._
 import scala.util.Random
 
 @Component
+@Profile(Array("!norobot"))
 private[robot] class DeviceStartupLoggingRobot extends AnyRef {
 
   private val DeviceInfoPool = {

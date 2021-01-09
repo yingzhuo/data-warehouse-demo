@@ -13,6 +13,7 @@ package com.github.yingzhuo.datawarehouse.businesssubsys.robot
 
 import com.github.yingzhuo.datawarehouse.businesssubsys.service.UserService
 import javax.persistence.EntityManager
+import org.springframework.context.annotation.Profile
 import org.springframework.scheduling.annotation.Scheduled
 import org.springframework.stereotype.Component
 
@@ -20,6 +21,7 @@ import scala.collection.mutable.ListBuffer
 import scala.util.Random
 
 @Component
+@Profile(Array("!norobot"))
 private[robot] class UserLoginPasswordChangingRobot(em: EntityManager, userService: UserService) extends AbstractRobot(em) {
 
   private val passwordPool: List[String] = {
