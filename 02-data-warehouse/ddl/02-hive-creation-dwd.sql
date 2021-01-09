@@ -63,20 +63,23 @@ from dwd_dim_date_tmp;
 drop table if exists dwd_dim_date_tmp;
 
 ---
--- 用户登录行为日志
+-- 设备启动日志
 ---
-drop table if exists dwd_login_log;
-create external table dwd_login_log
+drop table if exists dwd_fact_device_startup_log;
+create external table dwd_fact_device_startup_log
 (
-    `user_id` string comment '用户ID',
-    `result`  string comment '登录结果'
+    `ts`        string comment '时间戳',
+    `device_id` string comment '设备ID',
+    `os_type`   string comment '操作系统类型',
+    `brand`     string comment '品牌',
+    `model`     string comment '型号'
 )
-    comment '登录日志数据'
+    comment '设备启动日志'
     partitioned by (`dt` string comment '日期分区')
     row format delimited
         fields terminated by '\001'
     stored as parquet
-    location '/hive/data-warehouse-demo/dwd/dwd_login_log'
+    location '/hive/data-warehouse-demo/dwd/dwd_fact_device_startup_log'
     tblproperties ('parquet.compression' = 'lzo');
 
 ---
