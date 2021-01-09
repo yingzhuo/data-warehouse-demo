@@ -7,7 +7,6 @@ spring:
   profiles:
     active:
       - prod
-    include:
   aop:
     auto: true
   main:
@@ -19,7 +18,7 @@ spring:
     location: banner
   jackson:
     locale: "zh_CN"
-    time-zone: "${APP_TIMEZONE:Asia/Shanghai}"
+    time-zone: "Asia/Shanghai"
     date-format: "yyyy-MM-dd HH:mm:ss.SSS"
     default-property-inclusion: always
     serialization:

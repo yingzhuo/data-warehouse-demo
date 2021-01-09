@@ -277,6 +277,26 @@ create external table dwd_dim_user_db
     tblproperties ('parquet.compression' = 'lzo');
 
 ---
+-- 收藏信息
+---
+drop table if exists dwd_fact_favor_info_db;
+create external table dwd_fact_favor_info_db
+(
+    `id`                string comment 'ID',
+    `user_id`           string comment '用户ID',
+    `commodity_id`      string comment '商品ID',
+    `created_date`      string comment '记录创建时间',
+    `last_updated_date` string comment '记录最后更新时间'
+)
+    comment '收藏信息'
+    partitioned by (`dt` string comment '日期分区')
+    row format delimited
+        fields terminated by '\001'
+    stored as parquet
+    location '/hive/data-warehouse-demo/dwd/dwd_fact_favor_info_db'
+    tblproperties ('parquet.compression' = 'lzo');
+
+---
 -- 密码更新日志
 ---
 drop table if exists dwd_pwd_changed_db;
