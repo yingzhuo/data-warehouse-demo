@@ -19,15 +19,13 @@ object LoggerWrapper {
   private val LoggerDeviceStartup = LoggerFactory.getLogger("DEVICE_STARTUP")
 
   def deviceStartup(deviceId: String, osType: String, brand: String, phoneModel: String): Unit = {
-    val template =
-      s"""
-         |{}$Delimiter
-         |{}$Delimiter
-         |{}$Delimiter
-         |{}$Delimiter
-         |""".stripMargin
-
-    LoggerDeviceStartup.info(template.replaceAll("\n", ""), deviceId, osType, brand, phoneModel)
+    val msg = new StringBuilder()
+      .append(deviceId).append(Delimiter)
+      .append(osType).append(Delimiter)
+      .append(brand).append(Delimiter)
+      .append(phoneModel)
+      .toString()
+    LoggerDeviceStartup.info(msg)
   }
 
 }
