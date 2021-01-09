@@ -12,6 +12,7 @@ set hive.input.format=org.apache.hadoop.hive.ql.io.HiveInputFormat;
 insert overwrite table dwd_fact_device_startup_log partition (dt = '$CUR_DATE')
 select ts,
        device_id,
+       user_id,
        os_type,
        brand,
        model

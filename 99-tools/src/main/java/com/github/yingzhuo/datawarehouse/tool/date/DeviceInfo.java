@@ -21,6 +21,7 @@ public class DeviceInfo {
 
         for (int i = 0; i < 1000; i++) {
             String deviceId = UUID.randomUUID().toString();
+            String userId = randomUserId();
             String osType = randomOSType();
             String model = randomModel(osType);
             String brand = model.split(" ")[0];
@@ -28,11 +29,40 @@ public class DeviceInfo {
             System.out.println(
                     new StringBuilder()
                             .append(deviceId).append(",")
+                            .append(userId).append(",")
                             .append(osType).append(",")
                             .append(brand).append(",")
                             .append(model)
             );
         }
+    }
+
+    private static String randomUserId() {
+        String[] pool = new String[]{
+                "-1",
+                "-1",
+                "-1",
+                "-1",
+                "-1",
+                "-1",
+                "-1",
+                "-1",
+                "-1",
+                "-1",
+                "-1",
+                "-1",
+                "-1",
+                "-1",
+                "-1",
+                "1",
+                "2",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7",
+        };
+        return pool[RandomUtils.nextInt(0, pool.length)];
     }
 
     private static String randomOSType() {

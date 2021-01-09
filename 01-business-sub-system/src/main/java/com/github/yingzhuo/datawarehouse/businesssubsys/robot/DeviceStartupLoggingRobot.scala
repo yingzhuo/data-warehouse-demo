@@ -32,13 +32,13 @@ private[robot] class DeviceStartupLoggingRobot extends AnyRef {
 
   @Scheduled(fixedRate = 2500L)
   def execute(): Unit = {
-    val (deviceId, os, brand, model) = randomDeviceInfo()
-    LoggerWrapper.deviceStartup(deviceId, os, brand, model)
+    val (deviceId, userId, os, brand, model) = randomDeviceInfo()
+    LoggerWrapper.deviceStartup(deviceId, userId, os, brand, model)
   }
 
-  private def randomDeviceInfo(): (String, String, String, String) = {
+  private def randomDeviceInfo(): (String, String, String, String, String) = {
     val parts = DeviceInfoPool(Random.between(0, DeviceInfoPool.size)).split(",")
-    (parts(0), parts(1), parts(2), parts(3))
+    (parts(0), parts(1), parts(2), parts(3), parts(3))
   }
 
 }

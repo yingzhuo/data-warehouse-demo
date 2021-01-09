@@ -70,6 +70,7 @@ create external table dwd_fact_device_startup_log
 (
     `ts`        string comment '时间戳',
     `device_id` string comment '设备ID',
+    `user_id`   string comment '用户ID',
     `os_type`   string comment '操作系统类型',
     `brand`     string comment '品牌',
     `model`     string comment '型号'

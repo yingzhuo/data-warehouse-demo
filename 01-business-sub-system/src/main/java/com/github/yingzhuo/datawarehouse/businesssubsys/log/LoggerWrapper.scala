@@ -18,9 +18,10 @@ object LoggerWrapper {
   private val Delimiter: Char = '\u0001' // hive default delimiter
   private val LoggerDeviceStartup = LoggerFactory.getLogger("DEVICE_STARTUP")
 
-  def deviceStartup(deviceId: String, osType: String, brand: String, phoneModel: String): Unit = {
+  def deviceStartup(deviceId: String, userId: String, osType: String, brand: String, phoneModel: String): Unit = {
     val msg = new StringBuilder()
       .append(deviceId).append(Delimiter)
+      .append(userId).append(Delimiter)
       .append(osType).append(Delimiter)
       .append(brand).append(Delimiter)
       .append(phoneModel)
