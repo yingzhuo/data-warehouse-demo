@@ -337,4 +337,5 @@ function import_pwd_changed_ods() {
 #ods_to_dwd_order_db
 #ods_to_dwd_order_item_db
 #ods_to_dwd_user_db
+#ods_to_dwd_favor_info_db
 #ods_to_dwd_pwd_changed

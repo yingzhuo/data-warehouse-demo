@@ -290,3 +290,21 @@ where dt = '$CUR_DATE';
 
   "$HIVE_HOME"/bin/hive -e "$hiveQl"
 }
+
+function ods_to_dwd_favor_info_db() {
+    hiveQl="
+use data_warehouse_demo;
+set mapreduce.job.queuename=hive;
+set hive.input.format=org.apache.hadoop.hive.ql.io.HiveInputFormat;
+
+insert overwrite table dwd_fact_favor_info_db partition (dt = '$CUR_DATE')
+select id,
+       user_id,
+       commodity_id,
+       created_date,
+       last_updated_date
+from ods_favor_info_db where dt = '$CUR_DATE';
+  "
+
+  "$HIVE_HOME"/bin/hive -e "$hiveQl"
+}
