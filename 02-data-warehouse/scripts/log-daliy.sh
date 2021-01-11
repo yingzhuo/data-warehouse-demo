@@ -7,6 +7,8 @@ export NOT_PARTITION_TABLE="not-partition-table"
 pwd=$(dirname "$0")
 source "$pwd"/common/include.sh
 source "$pwd"/common/log_ods_to_dwd.sh
+source "$pwd"/common/log_dwd_to_dws.sh
+source "$pwd"/common/log_dws_to_dwt.sh
 
 if [ "x$1" != "x" ]; then
     CUR_DATE=$1
@@ -34,4 +36,6 @@ function import_device_startup_log_ods() {
 }
 
 import_device_startup_log_ods
-ods_to_dwd_device_startup_db
+ods_to_dwd_device_startup_log
+dwd_to_dws_device_startup_log
+dws_to_dwt_device_startup_topic_log

@@ -8,10 +8,28 @@ set mapreduce.job.queuename=hive;
 use data_warehouse_demo;
 
 ---
+-- 设备主题宽表
+---
+drop table if exists dwt_device_startup_topic;
+create external table dwt_device_startup_topic
+(
+    `device_id`        string comment '设备ID',
+    `login_date_first` string comment '首次活跃时间',
+    `login_date_last`  string comment '末次活跃时间',
+    `login_count` bigint comment '累计活跃天数'
+)
+    comment '设备主题宽表'
+    row format delimited
+        fields terminated by '\001'
+    stored as parquet
+    location '/hive/data-warehouse-demo/dwt/dwt_device_startup_topic'
+    tblproperties ('parquet.compression' = 'lzo');
+
+---
 -- 用户主题宽表
 ---
 drop table if exists dwt_user_topic;
-create table dwt_user_topic
+create external table dwt_user_topic
 (
     `user_id`                 string comment '用户ID',
     `login_date_first`        string comment '首次登录日期',

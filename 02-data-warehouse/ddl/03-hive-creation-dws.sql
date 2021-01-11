@@ -8,6 +8,26 @@ set mapreduce.job.queuename=hive;
 use data_warehouse_demo;
 
 ---
+-- 每日设备行为汇总
+---
+drop table if exists dws_device_startup_daycount;
+create external table dws_device_startup_daycount
+(
+    device_id string comment '设备ID',
+    user_id   string comment '用户ID',
+    os_type   string comment '操作系统类型',
+    brand     string comment '品牌',
+    model     string comment '设备型号'
+)
+    comment '每日设备行为汇总'
+    partitioned by (`dt` string comment '日期分区')
+    row format delimited
+        fields terminated by '\001'
+    stored as parquet
+    location '/hive/data-warehouse-demo/dws/dws_device_startup_daycount'
+    tblproperties ('parquet.compression' = 'lzo');
+
+---
 -- 每日用户行为汇总
 ---
 drop table if exists dws_user_action_daycount;
