@@ -1,6 +1,6 @@
 insert overwrite table dwt_user_topic
 select nvl(new.user_id, old.user_id),
-       if(old.login_date_first is null and new.login_count > 0, '2021-01-01', old.login_date_first), -- ???
+       if(old.login_date_first is null and new.login_count > 0, '2021-01-01', old.login_date_first),
        if(new.login_count > 0, '2021-01-01', old.login_date_last),
        nvl(old.login_count, 0) + nvl(new.login_count, 0),
        nvl(new.login_last_7d_count, 0),
@@ -19,7 +19,7 @@ select nvl(new.user_id, old.user_id),
        nvl(new.payment_last_7d_amount, 0),
        nvl(new.payment_last_30d_amount, 0)
 from dwt_user_topic as old
-    full outer join
+         full outer join
      (
          select user_id,
                 sum(if(dt = '2021-01-01', login_count, 0))                   login_count,
@@ -38,4 +38,4 @@ from dwt_user_topic as old
          where dt >= date_add('2021-01-01', -29)
          group by user_id
      ) as new
-on new.user_id = old.user_id;
+     on new.user_id = old.user_id;

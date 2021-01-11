@@ -8,6 +8,8 @@ export NOT_PARTITION_TABLE="not-partition-table"
 pwd=$(dirname "$0")
 source "$pwd"/common/include.sh
 source "$pwd"/common/db_ods_to_dwd.sh
+source "$pwd"/common/db_dwd_to_dws.sh
+source "$pwd"/common/db_dws_to_dwt.sh
 
 function import_province_to_ods() {
   import_db_to_hdfs \
@@ -339,3 +341,7 @@ function import_pwd_changed_ods() {
 #ods_to_dwd_user_db
 #ods_to_dwd_favor_info_db
 #ods_to_dwd_pwd_changed
+
+#dwd_to_dws_user_daycount_db
+
+#dwd_to_dws_user_topic_db
