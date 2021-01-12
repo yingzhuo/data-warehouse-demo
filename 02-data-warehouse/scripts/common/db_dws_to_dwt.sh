@@ -31,26 +31,26 @@ select nvl(new.user_id, old.user_id),
        nvl(new.payment_last_7d_amount, 0),
        nvl(new.payment_last_30d_amount, 0)
 from dwt_user_topic as old
-    full outer join
+         full outer join
      (
          select user_id,
                 sum(if(dt = '$CUR_DATE', login_count, 0))                   login_count,
                 sum(if(dt >= date_add('$CUR_DATE', -6), 1, 0))              login_last_7d_count,
-                sum(if(login_count > 0, 1, 0))                               login_last_30d_count,
+                sum(if(login_count > 0, 1, 0))                              login_last_30d_count,
                 sum(if(dt = '$CUR_DATE', order_count, 0))                   order_count,
                 sum(if(dt >= date_add('$CUR_DATE', -6), order_count, 0))    order_last_7d_count,
-                sum(order_count)                                             order_last_30d_count,
+                sum(order_count)                                            order_last_30d_count,
                 sum(if(dt = '$CUR_DATE', payment_count, 0))                 payment_count,
                 sum(if(dt >= date_add('$CUR_DATE', -6), payment_count, 0))  payment_last_7d_count,
-                sum(payment_count)                                           payment_last_30d_count,
+                sum(payment_count)                                          payment_last_30d_count,
                 sum(if(dt = '$CUR_DATE', payment_amount, 0))                payment_amount,
                 sum(if(dt >= date_add('$CUR_DATE', -6), payment_amount, 0)) payment_last_7d_amount,
-                sum(payment_amount)                                          payment_last_30d_amount
+                sum(payment_amount)                                         payment_last_30d_amount
          from dws_user_action_daycount
          where dt >= date_add('$CUR_DATE', -29)
          group by user_id
      ) as new
-on new.user_id = old.user_id;
+     on new.user_id = old.user_id;
   "
 
   "$HIVE_HOME"/bin/hive -e "$hiveQl"
