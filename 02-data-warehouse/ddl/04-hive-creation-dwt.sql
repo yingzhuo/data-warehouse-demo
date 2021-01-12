@@ -1,5 +1,5 @@
 --======================================================================================================================
--- 数据仓库ODS层
+-- 数据仓库DWT层
 -- DB type      : hive 3.1.2
 -- DB           : data_warehouse_demo
 -- author       : 应卓
@@ -16,7 +16,7 @@ create external table dwt_device_startup_topic
     `device_id`        string comment '设备ID',
     `login_date_first` string comment '首次活跃时间',
     `login_date_last`  string comment '末次活跃时间',
-    `login_count` bigint comment '累计活跃天数'
+    `login_count`      bigint comment '累计活跃天数'
 )
     comment '设备主题宽表'
     row format delimited
