@@ -35,7 +35,7 @@ with temp_login as (
            and date_format(created_date, 'yyyy-MM-dd') = '$CUR_DATE'
          group by user_id
      ),
-     temp_paymen as (
+     temp_payment as (
          select user_id,
                 count(*)          as c,
                 sum(total_amount) as a
@@ -80,7 +80,7 @@ insert overwrite table dws_user_action_daycount partition(dt = '$CUR_DATE')
 select coalesce(temp_login.user_id,
                 temp_cart.user_id,
                 temp_order.user_id,
-                temp_paymen.user_id,
+                temp_payment.user_id,
                 temp_evaluation_1.user_id,
                 temp_evaluation_2.user_id,
                 temp_evaluation_3.user_id,
@@ -89,8 +89,8 @@ select coalesce(temp_login.user_id,
        nvl(temp_login.c, 0),
        nvl(temp_cart.c, 0),
        nvl(temp_order.c, 0),
-       nvl(temp_paymen.c, 0),
-       nvl(temp_paymen.a, 0),
+       nvl(temp_payment.c, 0),
+       nvl(temp_payment.a, 0),
        nvl(temp_evaluation_1.c, 0),
        nvl(temp_evaluation_2.c, 0),
        nvl(temp_evaluation_3.c, 0),
@@ -98,7 +98,7 @@ select coalesce(temp_login.user_id,
 from temp_login
          full outer join temp_cart on temp_login.user_id = temp_cart.user_id
          full outer join temp_order on temp_login.user_id = temp_order.user_id
-         full outer join temp_paymen on temp_login.user_id = temp_paymen.user_id
+         full outer join temp_payment on temp_login.user_id = temp_payment.user_id
          full outer join temp_evaluation_1 on temp_login.user_id = temp_evaluation_1.user_id
          full outer join temp_evaluation_2 on temp_login.user_id = temp_evaluation_2.user_id
          full outer join temp_evaluation_3 on temp_login.user_id = temp_evaluation_3.user_id
