@@ -383,6 +383,11 @@
                 <artifactId>carnival-spring-boot-starter-mvc</artifactId>
                 <version>${carnival.version}</version>
             </dependency>
+            <dependency>
+                <groupId>com.github.yingzhuo</groupId>
+                <artifactId>carnival-spring-boot-starter-id</artifactId>
+                <version>${carnival.version}</version>
+            </dependency>
 
             <!-- logback-appender-for-flume -->
             <dependency>

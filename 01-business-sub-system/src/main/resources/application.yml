@@ -7,6 +7,9 @@ spring:
   profiles:
     active:
       - prod
+      - norobot
+    include:
+      - snowflake
   aop:
     auto: true
   main:

@@ -11,12 +11,8 @@
  */
 package com.github.yingzhuo.datawarehouse.businesssubsys.util
 
-import java.util.UUID
+import com.github.yingzhuo.carnival.id.util.IdGeneratorUtils
 
 object ID {
-
-  def apply(): String = {
-    UUID.randomUUID().toString.replaceAll("-", "")
-  }
-
+  def apply(): String = IdGeneratorUtils.nextId[String]()
 }

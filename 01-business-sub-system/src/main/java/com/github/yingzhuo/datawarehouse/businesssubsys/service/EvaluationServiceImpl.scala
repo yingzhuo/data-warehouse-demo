@@ -13,24 +13,27 @@ package com.github.yingzhuo.datawarehouse.businesssubsys.service
 
 import java.util.Date
 
-import com.github.yingzhuo.datawarehouse.businesssubsys.dao.{EvaluationDao, OrderDao, OrderStatusTransitionDao}
+import com.github.yingzhuo.datawarehouse.businesssubsys.dao.{EvaluationDao, OrderDao, OrderItemDao, OrderStatusTransitionDao}
 import com.github.yingzhuo.datawarehouse.businesssubsys.domain.{Evaluation, EvaluationLevel, OrderStatus, OrderStatusTransition}
 import com.github.yingzhuo.datawarehouse.businesssubsys.util.ID
 import org.springframework.stereotype.Service
 import org.springframework.transaction.annotation.{Propagation, Transactional}
 
+import scala.jdk.CollectionConverters._
+
 @Service
 protected class EvaluationServiceImpl(evaluationDao: EvaluationDao,
                                       orderDao: OrderDao,
+                                      orderItemDao: OrderItemDao,
                                       transitionDao: OrderStatusTransitionDao
                                      ) extends AnyRef with EvaluationService {
 
   @Transactional(propagation = Propagation.REQUIRED)
-  override def evaluate(userId: String, orderId: String, level: EvaluationLevel, text: String): Evaluation = {
+  override def evaluate(userId: String, orderId: String, level: EvaluationLevel, text: String): Unit = {
 
     val exists = evaluationDao.findByUserIdAndOrderId(userId, orderId)
     if (exists != null) {
-      return exists
+      return
     }
 
     val order = orderDao.findById(orderId).orElse(null)
@@ -43,13 +46,17 @@ protected class EvaluationServiceImpl(evaluationDao: EvaluationDao,
     val t = OrderStatusTransition(orderId, OrderStatus.已评价)
     transitionDao.save(t)
 
-    val ev = new Evaluation
-    ev.id = ID()
-    ev.userId = userId
-    ev.level = level
-    ev.text = text
-    ev.orderId = orderId
-    evaluationDao.saveAndFlush(ev)
+    for (orderItem <- orderItemDao.findByOrderId(orderId).asScala) {
+      val ev = new Evaluation
+      ev.id = ID()
+      ev.userId = userId
+      ev.level = level
+      ev.text = text
+      ev.orderId = orderId
+      ev.commodityId = orderItem.commodityId
+      evaluationDao.saveAndFlush(ev)
+    }
+
   }
 
 }

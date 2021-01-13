@@ -15,6 +15,11 @@ import com.github.yingzhuo.datawarehouse.businesssubsys.domain.OrderItem;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
+import java.util.List;
+
 @Repository
 public interface OrderItemDao extends JpaRepository<OrderItem, String> {
+
+    public List<OrderItem> findByOrderId(String orderId);
+
 }

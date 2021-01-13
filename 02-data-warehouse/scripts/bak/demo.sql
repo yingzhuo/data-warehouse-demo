@@ -33,26 +33,22 @@ where dt = '2020-12-31'
 group by commodity_id;
 
 
-select
-    oi.commodity_id as commodity_id,
-    sum(if(e.level = '好评', 1, 0)) as evaluation_count_1,
-    sum(if(e.level = '中评', 1, 0)) as evaluation_count_2,
-    sum(if(e.level = '差评', 1, 0)) as evaluation_count_3
+select oi.commodity_id               as commodity_id,
+       sum(if(e.level = '好评', 1, 0)) as evaluation_count_1,
+       sum(if(e.level = '中评', 1, 0)) as evaluation_count_2,
+       sum(if(e.level = '差评', 1, 0)) as evaluation_count_3
 from dwd_fact_order_item_db oi
          left join dwd_fact_evaluation_db e
                    on oi.order_id = e.order_id
-where
-    oi.dt = '2020-12-31' and e.dt = '2020-12-31'
-group by
-    oi.commodity_id;
+where oi.dt = '2020-12-31'
+  and e.dt = '2020-12-31'
+group by oi.commodity_id;
 
-select
-    oi.commodity_id as commodity_id,
-    sum(if(e.level = '好评', 1, 0)) as evaluation_count_1,
-    sum(if(e.level = '中评', 1, 0)) as evaluation_count_2,
-    sum(if(e.level = '差评', 1, 0)) as evaluation_count_3
+select oi.commodity_id               as commodity_id,
+       sum(if(e.level = '好评', 1, 0)) as evaluation_count_1,
+       sum(if(e.level = '中评', 1, 0)) as evaluation_count_2,
+       sum(if(e.level = '差评', 1, 0)) as evaluation_count_3
 from dwd_fact_order_item_db oi
          left join dwd_fact_evaluation_db e
                    on oi.order_id = e.order_id
-group by
-    oi.commodity_id
+group by oi.commodity_id

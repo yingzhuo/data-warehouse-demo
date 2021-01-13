@@ -11,10 +11,10 @@
  */
 package com.github.yingzhuo.datawarehouse.businesssubsys.service
 
-import com.github.yingzhuo.datawarehouse.businesssubsys.domain.{Evaluation, EvaluationLevel}
+import com.github.yingzhuo.datawarehouse.businesssubsys.domain.EvaluationLevel
 
 trait EvaluationService {
 
-  def evaluate(userId: String, orderId: String, level: EvaluationLevel, text: String): Evaluation
+  def evaluate(userId: String, orderId: String, level: EvaluationLevel, text: String): Unit
 
 }

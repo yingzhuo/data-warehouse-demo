@@ -20,6 +20,9 @@ import org.springframework.data.jpa.domain.support.AuditingEntityListener
 
 import scala.beans.BeanProperty
 
+/**
+ * 评价
+ */
 @Entity
 @Table(name = "t_evaluation")
 @EntityListeners(Array(classOf[AuditingEntityListener]))
@@ -40,6 +43,13 @@ class Evaluation extends AnyRef with Serializable {
   @Column(name = "user_id", length = 36)
   @BeanProperty
   var userId: String = _
+
+  /**
+   * 商品ID
+   */
+  @Column(name = "commodity_id", length = 36)
+  @BeanProperty
+  var commodityId: String = _
 
   /**
    * 订单ID
