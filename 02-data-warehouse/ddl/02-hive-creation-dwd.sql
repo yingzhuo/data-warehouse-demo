@@ -161,6 +161,7 @@ create external table dwd_fact_evaluation_db
 (
     `id`           string comment 'ID',
     `user_id`      string comment '用户ID',
+    `commodity_id` string comment '商品ID',
     `order_id`     string comment '订单ID',
     `level`        string comment '评价级别',
     `text`         string comment '评价信息',

@@ -212,6 +212,7 @@ function import_evaluation_to_ods() {
     SELECT
       id,
       user_id,
+      commodity_id,
       order_id,
       level,
       text,

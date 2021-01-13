@@ -98,6 +98,7 @@ set hive.input.format=org.apache.hadoop.hive.ql.io.HiveInputFormat;
 insert overwrite table dwd_fact_evaluation_db partition (dt = '$CUR_DATE')
 select ev.id,
        ev.user_id,
+       ev.commodity_id,
        ev.order_id,
        ev.level,
        ev.text,
