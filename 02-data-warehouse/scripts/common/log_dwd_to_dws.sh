@@ -3,13 +3,13 @@
 # 作者: 应卓
 #------------------------------------------------------------------------------------------------------------
 
-function dwd_to_dws_device_startup_log() {
+function dwd_to_dws_uv_details_daycount() {
   hiveQl="
 use data_warehouse_demo;
 set mapreduce.job.queuename=hive;
 set hive.input.format=org.apache.hadoop.hive.ql.io.HiveInputFormat;
 
-insert overwrite table dws_device_startup_daycount partition (dt = '$CUR_DATE')
+insert overwrite table dws_uv_details_daycount partition (dt = '$CUR_DATE')
 select device_id,
        concat_ws(' @@ ', collect_set(user_id)),
        concat_ws(' @@ ', collect_set(os_type)),

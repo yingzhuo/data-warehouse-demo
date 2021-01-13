@@ -10,8 +10,8 @@ use data_warehouse_demo;
 ---
 -- 每日设备行为汇总
 ---
-drop table if exists dws_device_startup_daycount;
-create external table dws_device_startup_daycount
+drop table if exists dws_uv_details_daycount;
+create external table dws_uv_details_daycount
 (
     device_id string comment '设备ID',
     user_id   string comment '用户ID',
@@ -24,7 +24,7 @@ create external table dws_device_startup_daycount
     row format delimited
         fields terminated by '\001'
     stored as parquet
-    location '/hive/data-warehouse-demo/dws/dws_device_startup_daycount'
+    location '/hive/data-warehouse-demo/dws/dws_uv_details_daycount'
     tblproperties ('parquet.compression' = 'lzo');
 
 ---

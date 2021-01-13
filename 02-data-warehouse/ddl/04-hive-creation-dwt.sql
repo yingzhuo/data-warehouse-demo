@@ -10,8 +10,8 @@ use data_warehouse_demo;
 ---
 -- 设备主题宽表
 ---
-drop table if exists dwt_device_startup_topic;
-create external table dwt_device_startup_topic
+drop table if exists dwt_uv_topic;
+create external table dwt_uv_topic
 (
     `device_id`        string comment '设备ID',
     `login_date_first` string comment '首次活跃时间',
@@ -22,7 +22,7 @@ create external table dwt_device_startup_topic
     row format delimited
         fields terminated by '\001'
     stored as parquet
-    location '/hive/data-warehouse-demo/dwt/dwt_device_startup_topic'
+    location '/hive/data-warehouse-demo/dwt/dwt_uv_topic'
     tblproperties ('parquet.compression' = 'lzo');
 
 ---

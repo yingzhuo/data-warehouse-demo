@@ -36,8 +36,7 @@ function import_device_startup_log_ods() {
   create_lzo_index "/hive/data-warehouse-demo/ods/ods_device_startup_log/dt=$CUR_DATE"
 }
 
-import_device_startup_log_ods
-ods_to_dwd_device_startup_log
-dwd_to_dws_device_startup_log
-dws_to_dwt_device_startup_topic_log
-dwt_to_ads_uv_count
+#import_device_startup_log_ods
+#ods_to_dwd_device_startup_log
+#dwd_to_dws_uv_details_daycount
+dws_to_dwt_uv_topic
