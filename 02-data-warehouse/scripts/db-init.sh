@@ -344,5 +344,6 @@ function import_pwd_changed_ods() {
 #ods_to_dwd_pwd_changed
 
 #dwd_to_dws_user_daycount_db
+#dwd_to_dws_commodity_action_daycount
 
 #dwd_to_dws_user_topic_db

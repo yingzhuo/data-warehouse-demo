@@ -22,13 +22,6 @@ export HDFS_TEMP_DIR="/data-warehouse-demo"
 export HIVE_USING_QUEUE_NAME="hive"
 export HIVE_DB_NAME="data_warehouse_demo"
 
-# 打印调试信息
-echo "JAVA_HOME=$JAVA_HOME"
-echo "SQOOP_HOME=$SQOOP_HOME"
-echo "HADOOP_HOME=$HADOOP_HOME"
-echo "HADOOP_MAPRED_HOME=$HADOOP_MAPRED_HOME"
-echo "HIVE_HOME=$HIVE_HOME"
-
 ########################################################################################################################
 # 为HDFS上的文件或目录生成lzo索引
 #

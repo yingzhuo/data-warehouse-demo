@@ -4,4 +4,5 @@
 -- DB           : data_warehouse_demo
 -- author       : 应卓
 --======================================================================================================================
+drop database data_warehouse_demo cascade;
 create database if not exists data_warehouse_demo;
